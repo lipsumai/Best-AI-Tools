@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.name "lipsumai"
-          git config --local user.email "github-actions@github.com"
+          git config --local user.name "Dev Hau"
+          git config --local user.email "nguyenvanhau.soft@gmail.com"
           git add .
           git commit -m "Run update AI" || echo "No changes to commit"
           git push
