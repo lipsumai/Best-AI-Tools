@@ -27,6 +27,10 @@ We welcome contributions! If you would like to add a new tool or suggest improve
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+### Additional Resources
+
+For more information on generating placeholder text, visit [Lipsum AI - Lorem Ipsum With AI Generator](https://lipsumai.com/).
+
 ---
 
 Feel free to explore, use, and contribute to **The Best AI Tools**! Together, we can build a valuable resource for the AI community.
