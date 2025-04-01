@@ -13,8 +13,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          persist-credentials: false  
-          token: ${{ secrets.USER_TOKEN }}  
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
       - name: Set up Bun
         uses: oven-sh/setup-bun@v2
 
@@ -27,6 +27,8 @@ jobs:
           git config --local user.email "nguyenvanhau.soft@gmail.com"
           git add .
           git commit -m "Run update AI" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
