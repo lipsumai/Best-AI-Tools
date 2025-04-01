@@ -45,7 +45,7 @@ function updateAI() {
           ", "
         )}\nslug: ${handle}\ncreated_at: ${now.format(
           "HH:mm:ss MM/DD/YYYY"
-        )}\n---\n`;
+        )}\n---\n\n\n`;
         // in folder data
         const wireFilePath = `data/${handle}.mdx`;
         fs.writeFile(wireFilePath, wireFile, (err: any) => {
