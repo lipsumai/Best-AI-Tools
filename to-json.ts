@@ -34,4 +34,15 @@ fs.readdir(path.join(process.cwd(), "data"), (err, files) => {
       console.log("JSON file created successfully!");
     }
   );
+  fs.writeFile(
+    path.join(process.cwd(), "count-ai.txt"),
+    `${mdxFiles.length}`,
+    (err) => {
+      if (err) {
+        console.error(err);
+        return;
+      }
+      console.log("Count file created successfully!");
+    }
+  );
 });

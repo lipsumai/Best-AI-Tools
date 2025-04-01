@@ -15,8 +15,8 @@ const skipArray = [
   "www.twitter.com",
 ];
 const args = process.argv.slice(2);
-function updateAI() {
-  return fetch(args[0])
+async function updateAI() {
+  return await fetch(args[0])
     .then((response) => response.json())
     .then((data) => {
       const tools = data.data.data;
@@ -30,6 +30,11 @@ function updateAI() {
           handle,
           website_name,
         } = tool;
+        const wireFilePath = `data/${handle}.mdx`;
+        if(fs.existsSync(wireFilePath)) {
+          console.log(`File ${wireFilePath} already exists!`);
+          return;
+        }
         const categoryNames = categories.map((category: any) => category.name);
         const now = moment();
         const websiteName = website
@@ -47,7 +52,6 @@ function updateAI() {
           "HH:mm:ss MM/DD/YYYY"
         )}\n---\n\n\n`;
         // in folder data
-        const wireFilePath = `data/${handle}.mdx`;
         fs.writeFile(wireFilePath, wireFile, (err: any) => {
           if (err) {
             console.error(err);
