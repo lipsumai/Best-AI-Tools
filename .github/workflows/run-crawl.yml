@@ -1,9 +1,12 @@
 name: Run Crawl Script
 
 on:
-  push:
-    branches:
-      - main  # Chạy khi có thay đổi trên nhánh main
+  # push:
+  #   branches:
+  #     - main  # Chạy khi có thay đổi trên nhánh main
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '0 1/13 * * *'
 
 jobs:
   run-crawl:
