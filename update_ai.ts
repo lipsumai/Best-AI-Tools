@@ -47,7 +47,7 @@ function updateAI() {
           "HH:mm:ss MM/DD/YYYY"
         )}\n---\n`;
         // in folder data
-        const wireFilePath = `Best-AI-Tools/data/${handle}.mdx`;
+        const wireFilePath = `data/${handle}.mdx`;
         fs.writeFile(wireFilePath, wireFile, (err: any) => {
           if (err) {
             console.error(err);
@@ -57,7 +57,7 @@ function updateAI() {
         });
         //download image with name handle
         const imageUrl = image;
-        const imagePath = `Best-AI-Tools/data/images/${handle}.jpg`;
+        const imagePath = `data/images/${handle}.jpg`;
 
         fetch(imageUrl)
           .then((response) => response.blob())
