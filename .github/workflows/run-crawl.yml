@@ -17,9 +17,7 @@ jobs:
         uses: oven-sh/setup-bun@v2
 
       - name: Run crawl script
-        run: bun update_ai.ts
-        env:
-          AI_LINK_LAST: ${{ secrets.AI_LINK_LAST }}
+        run: bun update_ai.ts ${{ secrets.AI_LINK_LAST }}
 
       - name: Commit and push changes
         run: |

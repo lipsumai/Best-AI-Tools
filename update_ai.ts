@@ -14,8 +14,9 @@ const skipArray = [
   "www.instagram.com",
   "www.twitter.com",
 ];
+const args = process.argv.slice(2);
 function updateAI() {
-  return fetch(AI_LINK_LAST)
+  return fetch(args[0])
     .then((response) => response.json())
     .then((data) => {
       const tools = data.data.data;
