@@ -24,6 +24,8 @@ jobs:
       - name: Run crawl script
         run: |
           bun update_ai.ts ${{ secrets.AI_LINK_LAST }}
+      - name: Run To JSON
+        run: |
           bun to-json.ts
 
       - name: Commit and push changes
