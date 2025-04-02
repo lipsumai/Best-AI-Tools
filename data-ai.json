@@ -117,6 +117,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Chargeblast AI",
+    "name": "Chargeblast AI",
+    "description": "A platform to reduce chargeback rates for startups.",
+    "website": "https://www.chargeblast.com",
+    "categories": "AI Customer Service Assistant, E-commerce Assistant, Sales Assistant",
+    "slug": "chargeblast-ai",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Scriptu",
     "name": "Scriptu",
     "description": "AI-powered LinkedIn content and engagement platform",
@@ -196,6 +205,15 @@
     "categories": "Other",
     "slug": "freeaikit-org",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SMAAS Platform",
+    "name": "SMAAS",
+    "description": "AI marketing tool for managing content and sales funnels.",
+    "website": "https://smmaas.com",
+    "categories": "AI Landing Page Builder, AI Website Builder, AI Video Editor, Photo & Image Editor, No-Code&Low-Code, AI Social Media Assistant, AI Chatbot, AI Website Designer, AI Project Management, AI CRM Assistant, AI Team Collaboration, AI Task Management, AI Workflow Management, AI Customer Service Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Productivity Tools, AI Lead Generation",
+    "slug": "smaas",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "AiDog",
@@ -1044,6 +1062,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MiniMax Audio",
+    "name": "MiniMax Audio",
+    "description": "AI voice synthesis for realistic speech in multiple languages",
+    "website": "https://www.minimax.io",
+    "categories": "AI Voice Cloning, Text-to-Speech, AI Speech Synthesis, AI Podcast Assistant",
+    "slug": "minimax-audio",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "GrapixAi",
     "name": "GrapixAI",
     "description": "GPU rental and service",
@@ -1305,6 +1332,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "BloomNote",
+    "name": "BloomNote",
+    "description": "An AI tool for efficient and personalized learning.",
+    "website": "https://www.bloomnote.me",
+    "categories": "AI Tutorial, AI Course, AI Education Assistant, AI Notes Assistant, Research Tool, Homework Helper, Summarizer, Writing Assistants",
+    "slug": "bloomnote",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Numberly",
     "name": "Numberly",
     "description": "Numberly is a free math assistant that solves equations and conversions in real-time.",
@@ -1384,6 +1420,15 @@
     "categories": "AI Gift Ideas",
     "slug": "present-wizard",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ghibli Style Image Transformer",
+    "name": "Ghibli Style Image Transformer",
+    "description": "AI tool for transforming images into Ghibli-style art",
+    "website": "https://ghiblistyle.net",
+    "categories": "AI Art Generator, AI Photo & Image Generator, AI Illustration Generator, Image to Image, AI Anime & Cartoon Generator",
+    "slug": "ghibli-style-image-transformer",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "Dreamland - Create Kids Stories",
@@ -2232,6 +2277,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Neuron AI",
+    "name": "Neuron AI",
+    "description": "AI chat and productivity tool prioritizing privacy and on-device processing.",
+    "website": "https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114",
+    "categories": "AI Chatbot, AI Productivity Tools, Summarizer, Transcription, Transcriber, Speech-to-Text, AI Speech Recognition",
+    "slug": "neuron-ai",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Deal Protectors",
     "name": "Deal Protectors",
     "description": "AI service for transparent car deal evaluations.",
@@ -2870,6 +2924,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Canny",
+    "name": "Canny Autopilot",
+    "description": "All-in-one customer feedback management platform.",
+    "website": "https://canny.io",
+    "categories": "Speech-to-Text, Research Tool, Translate, Summarizer, AI Roadmap Generator, AI Knowledge Base, AI Productivity Tools, AI Task Management, AI Project Management, AI Customer Service Assistant, AI Reply Assistant, AI Team Collaboration",
+    "slug": "canny-autopilot",
+    "created_at": "02:22:59 04/02/2025"
+  },
+  {
     "title": "Autron",
     "name": "Autron.AI",
     "description": "Automate Amazon Advertising with AI",
@@ -3473,6 +3536,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Verlynk",
+    "name": "Verlynk",
+    "description": "AI-powered platform for social media management and analytics.",
+    "website": "https://verlynk.com",
+    "categories": "AI Analytics Assistant, AI Reply Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Response Generator, AI Team Collaboration, AI Workflow Management, AI Scheduling, Writing Assistants, AI Content Generator",
+    "slug": "verlynk",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Prisms",
     "name": "Prisms AI",
     "description": "No-code platform Prisms helps users build AI-powered apps by connecting data, user inputs, and building blocks.",
@@ -3723,6 +3795,15 @@
     "categories": "AI Art Generator, AI Photo & Image Generator, AI Design Generator, Large Language Models (LLMs), Prompt, AI Graphic Design, Design Assistant",
     "slug": "imgage-ai-social-site",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Image Text Removal For Ecom Image",
+    "name": "AI Image Text Removal For Ecom Image",
+    "description": "An AI tool for removing text from images effortlessly.",
+    "website": "https://www.pipiads.com",
+    "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, E-commerce Assistant, AI Background Remover, Photo & Image Editor, AI Product Description Generator",
+    "slug": "ai-image-text-removal-for-ecom-image",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "No Code Hero",
@@ -4128,6 +4209,15 @@
     "categories": "AI Trip Planner",
     "slug": "momo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "OpenAI Academy",
+    "name": "OpenAI Academy",
+    "description": "Free AI resource hub with workshops and videos for all levels.",
+    "website": "https://academy.openai.com",
+    "categories": "AI Knowledge Graph",
+    "slug": "openai-academy",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "Brandrly",
@@ -4742,6 +4832,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GIF Face Swap",
+    "name": "GIF Face Swap",
+    "description": "Free tool for easy GIF face swapping and sharing.",
+    "website": "https://giffaceswap.io",
+    "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, Fun Tools, AI GIF Generator, AI Face Swap Generator",
+    "slug": "gif-face-swap",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Spatial Media Toolkit",
     "name": "Spatial Media Toolkit",
     "description": "Convert 2D photos to Spatial using AI on device",
@@ -5021,6 +5120,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ReviewForge",
+    "name": "ReviewForge",
+    "description": "Automates code reviews with AI insights for better quality.",
+    "website": "https://reviewforge.cloud",
+    "categories": "AI Code Assistant, AI Developer Tools",
+    "slug": "reviewforge",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Chat with Page",
     "name": "Chat with your Pages - AI Post Assistant",
     "description": "Enhance user engagement with interactive chat.",
@@ -5046,6 +5154,15 @@
     "categories": "AI Advertising Assistant",
     "slug": "hand",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "iFable",
+    "name": "iFable",
+    "description": "Your Personal Anime Universe Generated by AI",
+    "website": "https://www.ifable.ai",
+    "categories": "AI Story Writing, AI Illustration Generator, AI Avatar Generator, AI Manga & Comic, AI Anime & Cartoon Generator, AI Chatbot, AI Character, AI Anime Art, Game",
+    "slug": "ifable",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "Asistee",
@@ -5534,6 +5651,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ghibli Art Generator",
+    "name": "Ghibli Art Generator",
+    "description": "Transform your photos into Ghibli-style art using AI.",
+    "website": "https://ghibliart.co",
+    "categories": "AI Art Generator, AI Anime Art, AI Photo & Image Generator, AI Illustration Generator",
+    "slug": "ghibli-art-generator",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "ChatBlu",
     "name": "ChatBlu",
     "description": "AI chatbot for customer support and increasing Shopify conversions.",
@@ -5921,6 +6047,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ElevinAI",
+    "name": "Elevin AI",
+    "description": "AI platform for building high-performing teams through feedback and insights",
+    "website": "https://www.elevin.ai",
+    "categories": "AI Analytics Assistant, AI Productivity Tools, AI Team Collaboration, AI Project Management, AI Recruiting, AI Task Management, AI Forms & Surveys",
+    "slug": "elevin-ai",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Resume Rizzler",
     "name": "resume rizzler",
     "description": "Resume enhancement tool using rizzification technology for job seekers.",
@@ -6173,6 +6308,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Olivia AI",
+    "name": "Olivia AI",
+    "description": "A multi-model AI assistant for personalized interactions.",
+    "website": "https://play.google.com/store/apps/details",
+    "categories": "AI Chatbot, AI Voice Assistants, AI PDF, AI Content Generator, Writing Assistants, General Writing, AI Creative Writing, Essay Writer, AI Rewriter, AI Story Writing, Copywriting, Summarizer, AI Blog Writer, AI Photo & Image Generator, Paraphraser, AI Illustration Generator, Report Writing, Text to Image, Papers, AI Product Description Generator, Image to Image, AI Book Writing, AI Script Writing, AI Email Writer, Novel, Captions or Subtitle, Quotes Generator, AI Image Recognition, Letter Writer, AI Image Enhancer, Photo & Image Editor, AI Photo Enhancer, AI Profile Picture Generator, AI Avatar Generator, AI Video Editor, AI Bio Generator",
+    "slug": "olivia-ai",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "AI Powered Interview Preparation",
     "name": "Intvu.ai",
     "description": "AI tool for practicing and improving interview skills.",
@@ -6288,6 +6432,15 @@
     "categories": "AI Content Generator, AI SEO Assistant",
     "slug": "writy-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ainfographic",
+    "name": "Ainfographic",
+    "description": "AI-driven tool for creating infographics from content easily.",
+    "website": "https://ainfographic.com",
+    "categories": "AI Social Media Assistant, AI Design Generator, AI Graphic Design, Design Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Repurpose Assistant, AI Content Generator, AI Charting, AI Blog Writer, Writing Assistants",
+    "slug": "ainfographic",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "brainwashd",
@@ -6794,6 +6947,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "WUI.AI",
+    "name": "WUI.AI",
+    "description": "AI tool for turning long videos into short clips.",
+    "website": "https://www.wui.ai",
+    "categories": "AI Repurpose Assistant, AI Short Clips Generator, AI Podcast Assistant, AI Tiktok Assistant, Captions or Subtitle, Writing Assistants, AI Content Generator, AI UGC Video Generator, AI Video Editor, AI Video Generator, AI Social Media Assistant",
+    "slug": "wui-ai",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "XBuddy",
     "name": "XBuddy",
     "description": "Customize your virtual friend with XBuddy, your dream buddy by your side.",
@@ -7163,6 +7325,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SalesAPE AI",
+    "name": "SalesAPE AI",
+    "description": "SalesAPE is your AI inbound sales rep - qualifying leads, booking meetings, and growing your revenue 24/7. Built for small businesses. No code, no software setup, no hassle.",
+    "website": "https://www.salesape.ai",
+    "categories": "AI API Design, Sales Assistant, AI Analytics Assistant, AI Reply Assistant, AI CRM Assistant, AI Email Assistant, AI Email Generator, AI Response Generator, AI Lead Generation, AI Chatbot, AI Meeting Assistant, AI Workflow Management, AI Scheduling",
+    "slug": "salesape-ai",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Proust",
     "name": "Proust",
     "description": "Proust is a transcription tool for YouTube videos that enhances accessibility.",
@@ -7503,6 +7674,15 @@
     "categories": "Other",
     "slug": "adversea-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TheAnalystAI",
+    "name": "TheAnalystAI",
+    "description": "AI-driven investment research platform for swift insights.",
+    "website": "https://theanalystai.com",
+    "categories": "Investing Assistant, Research Tool, Report Writing, AI Analytics Assistant",
+    "slug": "theanalystai",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "Jobspot",
@@ -8279,6 +8459,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image Upscaler",
+    "name": "Image Upscaler - Upscale Your Photo for Free with AI",
+    "description": "Image Upscaler provides a wide range of online AI tools for photo and video editing. Beginning as a deep learning convolutional neural network for image upscaling, it since evolved into an AI based multi-tool in image processing, while still providing one of the best image upscaler services.",
+    "website": "https://imageupscaler.com",
+    "categories": "AI Photo & Image Generator, AI Image Enhancer, Photo & Image Editor",
+    "slug": "image-upscaler-upscale-your-photo-for-free-with-ai",
+    "created_at": "14:11:45 04/02/2025"
+  },
+  {
     "title": "Hyresynth",
     "name": "Hyresynth",
     "description": "AI recruitment platform with an AI interviewing agent",
@@ -8430,6 +8619,15 @@
     "categories": "AI Story Writing, AI Creative Writing, Text to Image, AI Illustration Generator, AI Education Assistant, Parenting, AI Art Generator, AI Social Media Assistant",
     "slug": "imagine-tales",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AUTO PR",
+    "name": "AUTO PR",
+    "description": "AI tool for generating GitHub pull request descriptions.",
+    "website": "https://pr.m3labs.in",
+    "categories": "AI Content Generator, AI Developer Tools",
+    "slug": "auto-pr",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "CuriosityXR",
@@ -8727,6 +8925,15 @@
     "categories": "Prompt, AI Art Generator",
     "slug": "promptify",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Webfuse",
+    "name": "Webfuse",
+    "description": "A platform for modifying web apps without coding.",
+    "website": "https://www.webfuse.com",
+    "categories": "No-Code&Low-Code, AI Customer Service Assistant, AI Team Collaboration",
+    "slug": "webfuse",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "Pollox.ai",
@@ -9204,6 +9411,15 @@
     "categories": "AI Creative Writing, AI Story Writing, Text to Image, AI Photo & Image Generator, AI Character, AI Art Generator, Prompt, Large Language Models (LLMs), AI Design Generator, AI Illustration Generator, Photo & Image Editor, AI Photo Enhancer",
     "slug": "story-diffusion-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Image Translator For Ecom Image",
+    "name": "AI Image Translator For Ecom Image",
+    "description": "AI-powered image translation with style preservation.",
+    "website": "https://www.pipiads.com",
+    "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, Translate, E-commerce Assistant, Photo & Image Editor, AI Product Description Generator, Copywriting, Writing Assistants, Captions or Subtitle, AI Content Generator",
+    "slug": "ai-image-translator-for-ecom-image",
+    "created_at": "14:11:45 04/02/2025"
   },
   {
     "title": "Shh Silence",
