@@ -135,6 +135,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Flowpost.io",
+    "name": "Flowpost.io",
+    "description": "Generate Linkedin Carousels and Posts in seconds",
+    "website": "https://flowpost.io",
+    "categories": "AI Content Generator, AI Social Media Assistant, AI Notes Assistant",
+    "slug": "flowpost-io",
+    "created_at": "02:21:40 04/03/2025"
+  },
+  {
     "title": "Voltmailer",
     "name": "Voltmailer",
     "description": "Automates personalized cold email outreach for businesses.",
@@ -4085,6 +4094,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ledger",
+    "name": "Ledger",
+    "description": "Meet the all-in-one project management tool that helps teams get more work done, without tedious check-ins, file searching or app-switching.",
+    "website": "https://www.ledgerteams.com",
+    "categories": "AI Team Collaboration, AI Project Management, AI Task Management, AI Productivity Tools, AI Document Extraction, AI Documents Assistant, AI Files Assistant",
+    "slug": "ledger",
+    "created_at": "02:21:40 04/03/2025"
+  },
+  {
     "title": "Emblify",
     "name": "Emblify AI",
     "description": "Emblify offers AI-generated Google Doodles for all, using advanced AI technology.",
@@ -5073,6 +5091,15 @@
     "categories": "AI CRM Assistant, AI Lead Generation, Sales Assistant, AI Chatbot, AI Analytics Assistant, AI Reply Assistant, AI Email Assistant, AI Response Generator, Copywriting, Writing Assistants, AI Content Generator, AI Voice Assistants",
     "slug": "qrev-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ghiblio Art",
+    "name": "Ghiblio Art",
+    "description": "Free Ghibli Style Image Generator",
+    "website": "https://ghiblio.art",
+    "categories": "Text to Image, AI Photo & Image Generator, AI Illustration Generator",
+    "slug": "ghiblio-art",
+    "created_at": "02:21:40 04/03/2025"
   },
   {
     "title": "Bizchaty",
