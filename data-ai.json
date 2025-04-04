@@ -126,6 +126,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "CHAI APP",
+    "name": "CHAI APP",
+    "description": "Leading AI platform for conversational generative AI research.",
+    "website": "https://chai-research.com",
+    "categories": "AI Chatbot, AI Character",
+    "slug": "chai-app",
+    "created_at": "14:11:16 04/04/2025"
+  },
+  {
     "title": "Scriptu",
     "name": "Scriptu",
     "description": "AI-powered LinkedIn content and engagement platform",
@@ -6803,6 +6812,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "xoul ai",
+    "name": "xoul ai",
+    "description": "Platform for creating human-like AI social agents.",
+    "website": "https://xoul.ai",
+    "categories": "AI Chatbot",
+    "slug": "xoul-ai",
+    "created_at": "14:11:16 04/04/2025"
+  },
+  {
     "title": "Dreamik AI",
     "name": "Media generation using GenerativeAI",
     "description": "Dreamik AI transforms your text into professional videos using generative AI and a virtual human narrator.",
@@ -7521,6 +7539,15 @@
     "categories": "AI Content Generator, AI Advertising Assistant, AI Product Description Generator, AI Blog Writer",
     "slug": "promptext",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VidMage AI",
+    "name": "VidMage AI",
+    "description": "AI tool for easy face swapping in media.",
+    "website": "https://vidmage.ai",
+    "categories": "Fun Tools, AI Video Recording, AI GIF Generator, AI Face Swap Generator, AI Video Editor",
+    "slug": "vidmage-ai",
+    "created_at": "14:11:16 04/04/2025"
   },
   {
     "title": "PrediktAI",
@@ -8603,6 +8630,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Thomson Reuters",
+    "name": "Thomson Reuters",
+    "description": "Global leader in information and technology solutions for professionals.",
+    "website": "https://www.thomsonreuters.com",
+    "categories": "Legal Assistant, Tax Assistant, AI Contract Management, Summarizer, Writing Assistants, AI Content Generator",
+    "slug": "thomson-reuters",
+    "created_at": "14:11:16 04/04/2025"
+  },
+  {
     "title": "Chatof.AI",
     "name": "ChatofAI",
     "description": "Create and customize AI chatbots effortlessly.",
@@ -9107,6 +9143,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Kagi Search",
+    "name": "Kagi Search",
+    "description": "A premium search engine focused on privacy and user experience.",
+    "website": "https://kagi.com",
+    "categories": "AI Chatbot, Large Language Models (LLMs), Research Tool, Translate, Summarizer, AI Search Engine",
+    "slug": "kagi-search",
+    "created_at": "14:11:16 04/04/2025"
+  },
+  {
     "title": "MemoHugs",
     "name": "MemoHugs",
     "description": "AI chatbot avatar created with memories",
@@ -9447,6 +9492,15 @@
     "categories": "AI Chatbot, AI Team Collaboration",
     "slug": "coot-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ghibli AI Generator",
+    "name": "Ghibli AI Generator",
+    "description": "Transform photos into Studio Ghibli-style artwork with AI.",
+    "website": "https://ghibliaigenerator.app",
+    "categories": "AI Art Generator, AI Anime Art, AI Photo & Image Generator, AI Illustration Generator, AI Wallpaper Generator, AI Anime & Cartoon Generator",
+    "slug": "ghibli-ai-generator",
+    "created_at": "14:11:16 04/04/2025"
   },
   {
     "title": "fantaclaus",
