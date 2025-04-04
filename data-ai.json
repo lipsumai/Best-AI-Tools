@@ -3968,6 +3968,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Preemedia - AI UGC Ads",
+    "name": "Preemedia - AI UGC Ads",
+    "description": "Create Winning Ads with AI Actors",
+    "website": "https://preemedia.com",
+    "categories": "AI UGC Video Generator",
+    "slug": "preemedia-ai-ugc-ads",
+    "created_at": "02:21:21 04/04/2025"
+  },
+  {
     "title": "InstaSnippet",
     "name": "InstaSnippet",
     "description": "Create and share interactive React snippets within chats.",
@@ -4326,6 +4335,15 @@
     "categories": "AI Product Description Generator, Game",
     "slug": "smallvill",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Deepsite",
+    "name": "Deepsite",
+    "description": "AI website generator for code-free web development.",
+    "website": "https://deepsite.site",
+    "categories": "AI SEO Assistant, AI Website Designer, E-commerce Assistant, AI Website Builder, No-Code&Low-Code, AI Landing Page Builder",
+    "slug": "deepsite",
+    "created_at": "02:21:21 04/04/2025"
   },
   {
     "title": "TraceMail",
