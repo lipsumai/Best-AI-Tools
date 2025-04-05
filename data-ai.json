@@ -585,6 +585,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Maestra",
+    "name": "Maestra AI",
+    "description": "AI-powered transcription and translation in 125+ languages.",
+    "website": "https://maestra.ai",
+    "categories": "AI Podcast Assistant, AI SEO Assistant, AI Social Media Assistant, AI YouTube Assistant, AI Tiktok Assistant, AI Repurpose Assistant, AI Font, AI Interview Assistant, AI Team Collaboration, AI Meeting Assistant, Translate, Captions or Subtitle, Transcription, Transcriber, Speech-to-Text, AI Voice Cloning, AI Speech Recognition, AI Speech Synthesis, Text-to-Speech, Summarizer",
+    "slug": "maestra-ai",
+    "created_at": "14:09:23 04/05/2025"
+  },
+  {
     "title": "ProbeAI",
     "name": "ProbeAI",
     "description": "ProbeAI is an AI Copilot for data analysts, offering support in SQL coding and error fixing.",
@@ -718,6 +727,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot",
     "slug": "lina-chat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "OpenPhone",
+    "name": "OpenPhone",
+    "description": "Collaborative phone system for teams and startups.",
+    "website": "https://www.openphone.com",
+    "categories": "AI Customer Service Assistant, AI CRM Assistant, AI Recruiting, AI Team Collaboration, Transcription, Transcriber, AI Content Generator",
+    "slug": "openphone",
+    "created_at": "14:09:23 04/05/2025"
   },
   {
     "title": "Onri AI",
@@ -997,6 +1015,15 @@
     "categories": "AI Education Assistant",
     "slug": "yourwai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Aha",
+    "name": "Aha INC",
+    "description": "AI platform for influencer marketing with 24/7 support.",
+    "website": "https://www.aha.inc",
+    "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, Game, AI Tutorial, AI Team Collaboration, AI Analytics Assistant, AI Email Writer, AI Content Generator, Copywriting, Writing Assistants",
+    "slug": "aha-inc",
+    "created_at": "14:09:23 04/05/2025"
   },
   {
     "title": "Swift Reply",
@@ -2879,6 +2906,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Brilliant",
+    "name": "Brilliant",
+    "description": "Interactive learning platform for math, science, and programming.",
+    "website": "https://brilliant.org",
+    "categories": "AI Course",
+    "slug": "brilliant",
+    "created_at": "14:09:23 04/05/2025"
+  },
+  {
     "title": "JoyPix.ai",
     "name": "JoyPix.ai",
     "description": "No-Camera Video Magic with JoyPix.ai! Turn yourself into an anime avatar and make perfect lip-sync videos - no filming required!",
@@ -3201,6 +3237,15 @@
     "categories": "AI PDF, AI Image Scanning",
     "slug": "scanlt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "CharacterHub",
+    "name": "CharacterHub",
+    "description": "Community platform for sharing and developing original characters.",
+    "website": "https://characterhub.com",
+    "categories": "AI Character, AI Story Writing, AI Creative Writing",
+    "slug": "characterhub",
+    "created_at": "14:09:23 04/05/2025"
   },
   {
     "title": "HypeWize",
@@ -3660,6 +3705,15 @@
     "categories": "Resume Builder, Writing Assistants",
     "slug": "chapter-one-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Windsurf",
+    "name": "Windsurf",
+    "description": "AI-powered code editor enhancing developer productivity through proactive assistance.",
+    "website": "https://windsurf.com",
+    "categories": "AI Productivity Tools, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Testing & QA, AI Developer Tools",
+    "slug": "windsurf",
+    "created_at": "14:09:23 04/05/2025"
   },
   {
     "title": "Gather",
@@ -6479,6 +6533,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Agnaistic",
+    "name": "Agnaistic-agnai chat",
+    "description": "Platform for character management and chat interactions.",
+    "website": "https://agnai.chat",
+    "categories": "AI Chatbot, AI Character",
+    "slug": "agnaistic-agnai-chat",
+    "created_at": "14:09:23 04/05/2025"
+  },
+  {
     "title": "Birthday Reminder Widget",
     "name": "Birthday Reminder Widget",
     "description": "App to track birthdays and find gift ideas.",
@@ -7973,6 +8036,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "IconScout",
+    "name": "IconScout",
+    "description": "A marketplace for millions of design assets and resources.",
+    "website": "https://iconscout.com",
+    "categories": "AI 3D Model Generator, AI Illustration Generator, AI Background Remover, AI Animated Video",
+    "slug": "iconscout",
+    "created_at": "14:09:23 04/05/2025"
+  },
+  {
     "title": "Meet Mine AI",
     "name": "Meetmine Ai",
     "description": "AI Characters with expressions and feelings in multiple languages",
@@ -8792,6 +8864,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "BoldVoice",
+    "name": "BoldVoice",
+    "description": "Accent training app for non-native English speakers.",
+    "website": "https://www.boldvoice.com",
+    "categories": "AI Reviews Assistant, AI Coaching, AI Tutorial, AI Course, AI Education Assistant",
+    "slug": "boldvoice",
+    "created_at": "14:09:23 04/05/2025"
+  },
+  {
     "title": "renu.",
     "name": "renu. Weight Loss Assistant",
     "description": "Transparent weight loss tracking made easy.",
@@ -8826,6 +8907,15 @@
     "categories": "Other",
     "slug": "datanuts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Unstuck AI",
+    "name": "Unstuck AI",
+    "description": "AI tool for chatting with course materials and gaining insights.",
+    "website": "https://unstuckstudy.com",
+    "categories": "AI YouTube Assistant, Homework Helper, AI Course, AI Education Assistant, AI PDF, AI Charting",
+    "slug": "unstuck-ai",
+    "created_at": "14:09:23 04/05/2025"
   },
   {
     "title": "9raya AI",
@@ -9251,6 +9341,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Max Studio AI",
+    "name": "Max Studio AI",
+    "description": "AI tools for creativity and image enhancement in one platform.",
+    "website": "https://www.maxstudio.ai",
+    "categories": "AI Art Generator, Fun Tools, AI Tools Directory, AI Anime Art, Prompt, AI Photo & Image Generator, AI Image Enhancer, AI Background Remover, AI Face Swap Generator, AI Anime & Cartoon Generator",
+    "slug": "max-studio-ai",
+    "created_at": "14:09:23 04/05/2025"
+  },
+  {
     "title": "Quantum Trading Research",
     "name": "Quantum Trading Research",
     "description": "AI-powered stock prediction bot",
@@ -9303,6 +9402,15 @@
     "categories": "AI Productivity Tools",
     "slug": "backlsh-time-tracking",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Gorgias",
+    "name": "Gorgias",
+    "description": "Conversational AI platform for ecommerce sales and support automation.",
+    "website": "https://www.gorgias.com",
+    "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, E-commerce Assistant, AI Product Description Generator, Writing Assistants, AI Content Generator, AI Email Writer, Copywriting, General Writing",
+    "slug": "gorgias",
+    "created_at": "14:09:23 04/05/2025"
   },
   {
     "title": "Metamorph Labs",
