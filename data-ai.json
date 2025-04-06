@@ -693,6 +693,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Respond.io",
+    "name": "Respond.io",
+    "description": "AI Customer conversation management software for capturing and converting leads.",
+    "website": "https://respond.io",
+    "categories": "AI Advertising Assistant, AI Customer Service Assistant, AI Reply Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI CRM Assistant, AI Reviews Assistant, AI Ad Creative Assistant, AI Response Generator, AI Lead Generation, AI Chatbot, AI Forms & Surveys, Sales Assistant",
+    "slug": "respond-io",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "Voyage AI - ChatGPT powered AI Travel Planner",
     "name": "Travel Bug AI",
     "description": "Voyage AI",
@@ -1602,6 +1611,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Contentful",
+    "name": "Contentful",
+    "description": "Digital experience platform for managing personalized content at scale.",
+    "website": "https://www.contentful.com",
+    "categories": "AI Knowledge Base, General Writing, Writing Assistants, AI Website Builder, No-Code&Low-Code, AI Blog Writer, Copywriting, AI SEO Assistant, AI Product Description Generator",
+    "slug": "contentful",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "Journee",
     "name": "MyJournee",
     "description": "Journee is an online journal that helps users gain clarity and achieve their goals through daily emails.",
@@ -1773,6 +1791,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "T3 Chat",
+    "name": "T3 Chat",
+    "description": "All-in-one AI chat platform with top models.",
+    "website": "https://t3.chat",
+    "categories": "AI Chatbot, AI Content Generator",
+    "slug": "t3-chat",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "Melodisco - AI Music Player",
     "name": "Melodisco AI Music Player",
     "description": "Discover AI Songs in Melodisco",
@@ -1897,6 +1924,15 @@
     "categories": "AI Social Media Assistant, AI Lead Generation, AI Content Generator",
     "slug": "postsmrt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Dooray!",
+    "name": "Dooray!",
+    "description": "All-in-one collaboration tool for project management and communication.",
+    "website": "https://gov-dooray.com",
+    "categories": "AI Task Management, AI Team Collaboration, AI Project Management, AI Forms & Surveys, AI Workflow Management, AI Email Writer",
+    "slug": "dooray",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "Trade Foresight",
@@ -3500,6 +3536,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Builder.io",
+    "name": "Builder IO",
+    "description": "AI-driven platform for visual development and content management.",
+    "website": "https://www.builder.io",
+    "categories": "AI Graphic Design, Design Assistant, AI Website Designer, AI Knowledge Base, AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Code Assistant, AI Code Generator, AI App Builder",
+    "slug": "builder-io",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "SimplyFi",
     "name": "SimplyFi",
     "description": "AI platform for 10x faster content generation.",
@@ -3705,6 +3750,15 @@
     "categories": "Resume Builder, Writing Assistants",
     "slug": "chapter-one-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ultralytics",
+    "name": "Ultralytics",
+    "description": "AI platform for creating and deploying vision models without coding.",
+    "website": "https://www.ultralytics.com",
+    "categories": "Healthcare, AI Image Segmentation, AI Image Recognition, No-Code&Low-Code",
+    "slug": "ultralytics",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "Windsurf",
@@ -4229,6 +4283,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "LightX",
+    "name": "LightX",
+    "description": "AI tools for photo and video editing with templates.",
+    "website": "https://www.lightxeditor.com",
+    "categories": "AI Anime & Cartoon Generator, AI Video Editor, Image to Image, AI Selfie & Portrait, AI Background Remover, AI Profile Picture Generator, Photo & Image Editor, AI Avatar Generator, AI Photo & Image Generator, AI Graphic Design, AI Art Generator, AI Ad Creative Assistant, AI Advertising Assistant, AI Design Generator, AI Photo Enhancer, AI Image Enhancer, Design Assistant, AI Social Media Assistant, AI Ad Generator, AI Instagram Assistant, Digital Marketing Generator, Marketing Plan Generator",
+    "slug": "lightx",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "StarSense",
     "name": "StarSense",
     "description": "Analyzes GitHub stars to generate developer personality profiles.",
@@ -4616,6 +4679,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Websim",
+    "name": "Websim",
+    "description": "Create and share interactive games and web pages easily.",
+    "website": "https://websim.ai",
+    "categories": "AI Landing Page Builder, AI Website Builder",
+    "slug": "websim",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "Udemy Quiz Generator",
     "name": "Flashlearn.ai",
     "description": "AI tool for creating study aids from Udemy courses",
@@ -4821,6 +4893,24 @@
     "categories": "AI Logo Generator",
     "slug": "owl-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "xMode.ai",
+    "name": "xMode.ai",
+    "description": "xMode.ai is an advanced AI platform tailored towards adult content creators. Offering an array of AI-powered tools, its main function is to transform the content creation process.",
+    "website": "https://xmode.ai",
+    "categories": "NSFW, Image to Video, AI Animated Video, Text to Image, AI Photo & Image Generator, AI Avatar Generator, AI Photography, AI Selfie & Portrait",
+    "slug": "xmode-ai",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Mathos | AI Math Solver & Calculator",
+    "name": "Mathos | AI Math Solver & Calculator",
+    "description": "Free AI math solver for students solving complex math problems.",
+    "website": "https://www.mathgptpro.com",
+    "categories": "Homework Helper, AI Education Assistant",
+    "slug": "mathos-ai-math-solver-calculator",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "RiteBite",
@@ -5082,6 +5172,15 @@
     "categories": "AI Chatbot, AI Product Description Generator, AI Website Builder, AI Customer Service Assistant",
     "slug": "brain-behind",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Maqnet AI",
+    "name": "Maqnet AI",
+    "description": "AI platform for generating creative content and strategies",
+    "website": "https://maqnet.ai",
+    "categories": "AI Content Generator, Captions or Subtitle, AI Creative Writing, Writing Assistants, General Writing, Copywriting, AI Social Media Assistant, Design Assistant, AI Graphic Design, AI Ad Creative Assistant, AI Instagram Assistant, AI Advertising Assistant, AI Product Description Generator, AI Design Generator, AI Story Writing, AI Ad Generator, Digital Marketing Generator, Marketing Plan Generator, AI Hashtag Assistant",
+    "slug": "maqnet-ai",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "Lensa",
@@ -6254,6 +6353,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "miniapps.ai",
+    "name": "miniapps ai",
+    "description": "Create and explore free AI-powered mini apps and chatbots.",
+    "website": "https://miniapps.ai",
+    "categories": "AI Chatbot, AI Girlfriend, Mental Health, AI Character, AI Art Generator, Game",
+    "slug": "miniapps-ai",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "Bigly Pages",
     "name": "BiglyPages",
     "description": "Fast AI Builder for landing pages.",
@@ -6875,6 +6983,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Triple Whale",
+    "name": "Triple Whale",
+    "description": "AI platform providing unified data and insights for ecommerce.",
+    "website": "https://www.triplewhale.com",
+    "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Ad Creative Assistant, E-commerce Assistant",
+    "slug": "triple-whale",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "StoryTimeApp",
     "name": "Story Time App",
     "description": "Create personalized children's stories with AI.",
@@ -6891,6 +7008,15 @@
     "categories": "AI Chatbot",
     "slug": "xoul-ai",
     "created_at": "14:11:16 04/04/2025"
+  },
+  {
+    "title": "Prismic",
+    "name": "Prismic",
+    "description": "Headless page builder for fast website content management.",
+    "website": "https://prismic.io",
+    "categories": "AI Website Designer, AI Website Builder, AI Landing Page Builder, No-Code&Low-Code",
+    "slug": "prismic",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "Dreamik AI",
@@ -7233,6 +7359,15 @@
     "categories": "Text to Image, AI Photo & Image Generator, AI Avatar Generator, AI Background Generator, AI Banner Generator, AI Cover Generator, AI Icon Generator, AI Wallpaper Generator, AI Art Generator, AI Character",
     "slug": "artifactory-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lilys AI",
+    "name": "Lilys AI",
+    "description": "AI tool for summarizing videos, audio, PDFs, and websites.",
+    "website": "https://lilys.ai",
+    "categories": "Summarizer, AI PDF, AI Video Recording",
+    "slug": "lilys-ai",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "BafCloud",
@@ -8117,6 +8252,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Law Insider",
+    "name": "Law Insider",
+    "description": "AI tools for contract drafting, review, and redlining.",
+    "website": "https://www.lawinsider.com",
+    "categories": "Legal Assistant, AI WORD, AI Contract Management, Summarizer, Writing Assistants",
+    "slug": "law-insider",
+    "created_at": "14:09:38 04/06/2025"
+  },
+  {
     "title": "ChatGPT for Shop",
     "name": "ChatGPT for Shop",
     "description": "ChatGPT for Shop is a browser extension that analyzes user reviews, aiding in product selection.",
@@ -8124,6 +8268,15 @@
     "categories": "AI Chatbot, AI Reviews Assistant, E-commerce Assistant, AI Product Description Generator",
     "slug": "chatgpt-for-shop",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Jungle",
+    "name": "Jungle AI",
+    "description": "AI flashcards & questions generator for effective studying",
+    "website": "https://jungleai.com",
+    "categories": "AI YouTube Assistant, AI Quizzes, AI Education Assistant, AI Content Generator",
+    "slug": "jungle-ai",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "Chat Answer",
@@ -8835,6 +8988,15 @@
     "categories": "AI Story Writing, AI Creative Writing, Text to Image, AI Illustration Generator, AI Education Assistant, Parenting, AI Art Generator, AI Social Media Assistant",
     "slug": "imagine-tales",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "DeepSeek AI",
+    "name": "DeepSeek-AI",
+    "description": "Provider of advanced AI language models and enterprise solutions.",
+    "website": "https://deepseek.ai",
+    "categories": "Large Language Models (LLMs), AI Content Generator, AI Code Assistant, AI Developer Tools",
+    "slug": "deepseek-ai-1",
+    "created_at": "14:09:38 04/06/2025"
   },
   {
     "title": "AUTO PR",
