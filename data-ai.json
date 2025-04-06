@@ -8477,6 +8477,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Simplify",
+    "name": "Simplify",
+    "description": "All-in-one job search platform providing personalized job matches and applications tracking.",
+    "website": "https://simplify.jobs",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator",
+    "slug": "simplify",
+    "created_at": "02:26:00 04/06/2025"
+  },
+  {
     "title": "DocMonster.ai",
     "name": "Docmonster",
     "description": "Revolutionize API documentation engagement with AI chatbot.",
