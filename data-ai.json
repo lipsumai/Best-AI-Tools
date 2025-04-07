@@ -2079,6 +2079,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "JustCall",
+    "name": "JustCall",
+    "description": "AI-powered communication platform for businesses.",
+    "website": "https://justcall.io",
+    "categories": "AI Customer Service Assistant, AI Lead Generation, AI Recruiting, Healthcare, Sales Assistant, Transcription, AI CRM Assistant, AI Analytics Assistant, AI Coaching, AI Knowledge Base, AI Education Assistant, AI Scheduling, AI Podcast Assistant, AI Reviews Assistant",
+    "slug": "justcall",
+    "created_at": "02:25:29 04/07/2025"
+  },
+  {
     "title": "PDFToMP3",
     "name": "PDF to MP3",
     "description": "Transform PDFs into MP3s for easy listening.",
@@ -7404,6 +7413,15 @@
     "categories": "Other",
     "slug": "aicreditrepair",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SuperAI",
+    "name": "SuperAI",
+    "description": "All-in-one AI platform for enhanced productivity and efficiency.",
+    "website": "https://www.superai.id",
+    "categories": "AI Art Generator, Text to Image, Research Tool, AI WORD, AI PDF, AI Mind Mapping, Transcription, Writing Assistants, Transcriber, AI Education Assistant, AI Content Generator, AI Photo & Image Generator, AI Charting, Text-to-Speech, Speech-to-Text, AI Speech Recognition, AI Speech Synthesis, AI Voice Assistants, AI Code Assistant, Code Explanation, AI Code Generator, Captions or Subtitle, General Writing, Summarizer, Papers, Report Writing",
+    "slug": "superai",
+    "created_at": "02:25:29 04/07/2025"
   },
   {
     "title": "OpenChit",
