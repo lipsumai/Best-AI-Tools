@@ -1,5 +1,14 @@
 [
   {
+    "title": "LLMule",
+    "name": "LLMule",
+    "description": "Decentralized AI ecosystem for local and P2P model running.",
+    "website": "https://llmule.xyz",
+    "categories": "Large Language Models (LLMs)",
+    "slug": "llmule",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "Thumbnail.BOT",
     "name": "Thumbnail.bot",
     "description": "Transform videos with engaging thumbnails",
@@ -207,6 +216,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Relevance AI",
+    "name": "Relevance AI",
+    "description": "Platform for creating and managing an AI workforce.",
+    "website": "https://relevanceai.com",
+    "categories": "AI Customer Service Assistant, AI SEO Assistant, AI CRM Assistant, AI Lead Generation, Large Language Models (LLMs), Research Tool, Sales Assistant, No-Code&Low-Code, AI Content Generator",
+    "slug": "relevance-ai",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "Yetvos - AI-Powered Branding Suite",
     "name": "Yetvos",
     "description": "AI-Powered branding suite helps businesses enhance brand identity with AI technology.",
@@ -232,6 +250,15 @@
     "categories": "AI Landing Page Builder, AI Website Builder, AI Video Editor, Photo & Image Editor, No-Code&Low-Code, AI Social Media Assistant, AI Chatbot, AI Website Designer, AI Project Management, AI CRM Assistant, AI Team Collaboration, AI Task Management, AI Workflow Management, AI Customer Service Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Productivity Tools, AI Lead Generation",
     "slug": "smaas",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "G-mate",
+    "name": "Echo Memo",
+    "description": "AI platform for brand promotion and social media management.",
+    "website": "https://www.echomemo.vip",
+    "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Social Media Assistant, AI Ad Creative Assistant, AI Ad Generator, Digital Marketing Generator, AI Content Generator, AI Product Description Generator",
+    "slug": "echo-memo",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "AiDog",
@@ -666,6 +693,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ogilvy",
+    "name": "Ogilvy",
+    "description": "AI text editor for enhanced writing and analytics",
+    "website": "https://ogilvyapp.com",
+    "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Ad Creative Assistant, Copywriting, AI Rewriter, Writing Assistants, AI Content Generator",
+    "slug": "ogilvy",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "CmdKay",
     "name": "CmdKay",
     "description": "Get quick webpage responses with CmdKay.",
@@ -981,6 +1017,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Qaprix Intelligence",
+    "name": "Qaprix Intelligence",
+    "description": "AI chatbot solutions for improving business communication and customer support.",
+    "website": "https://qaprix.com",
+    "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, E-commerce Assistant",
+    "slug": "qaprix-intelligence",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "Legal Assist AI",
     "name": "Legal Assist AI 2.0",
     "description": "Revolutionize legal workflows with AI",
@@ -1033,6 +1078,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, Game, AI Tutorial, AI Team Collaboration, AI Analytics Assistant, AI Email Writer, AI Content Generator, Copywriting, Writing Assistants",
     "slug": "aha-inc",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "Buildzero",
+    "name": "Buildzero",
+    "description": "AI-powered startup idea validation through voice calls.",
+    "website": "https://buildzero.club",
+    "categories": "AI Recruiting, AI Business Ideas Generator, Transcription, Transcriber",
+    "slug": "buildzero",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "Swift Reply",
@@ -1366,6 +1420,15 @@
     "categories": "AI Clothing Generator, AI Advertising Assistant",
     "slug": "beautiai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Mathpix",
+    "name": "Mathpix",
+    "description": "AI-driven converter for images and PDFs to various formats",
+    "website": "https://mathpix.com",
+    "categories": "AI PDF, AI Document Extraction, AI Image Recognition, Papers, AI Image Scanning, Speech-to-Text, AI Speech Recognition, Handwriting",
+    "slug": "mathpix",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "DenoLyrics",
@@ -3212,6 +3275,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Newt",
+    "name": "Newt",
+    "description": "A comprehensive platform for reading, writing, and listening to stories.",
+    "website": "https://newt.ar",
+    "categories": "AI Story Writing, AI Book Writing, Summarizer, General Writing, Writing Assistants, AI Creative Writing, Novel, AI Cover Generator",
+    "slug": "newt",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "Astronov",
     "name": "Astronov",
     "description": "Discover astrology secrets with Astronov",
@@ -3399,6 +3471,15 @@
     "categories": "Other",
     "slug": "pressmatchai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PDF Converter",
+    "name": "PDF Converter",
+    "description": "Online tool for converting and editing PDF files.",
+    "website": "https://pdf-converter.ai",
+    "categories": "AI PDF, AI Presentation Generator, AI Spreadsheet, AI WORD",
+    "slug": "pdf-converter",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "Sora AI Video Generator",
@@ -3642,6 +3723,15 @@
     "categories": "AI Advertising Assistant, AI Recruiting, AI Scheduling",
     "slug": "waldo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Greetigo",
+    "name": "Greetigo",
+    "description": "AI reminders for important dates with personalized greetings.",
+    "website": "https://greetigo.com",
+    "categories": "AI Productivity Tools, AI Scheduling, AI Content Generator",
+    "slug": "greetigo",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "Insula",
@@ -3959,6 +4049,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Nim",
+    "name": "nim video",
+    "description": "All-in-one app for AI video production and generation.",
+    "website": "https://nim.video",
+    "categories": "AI Art Generator, AI Video Recording, Text to Video, AI Video Generator, Text to Image, AI Photo & Image Generator, AI Lip Sync Generator, AI Video Editor, Image to Video",
+    "slug": "nim-video",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "No Code Hero",
     "name": "No Code Hero",
     "description": "Launch your startup in days",
@@ -4056,6 +4155,15 @@
     "categories": "Healthcare",
     "slug": "vitaler-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "LLM API Costs Widget",
+    "name": "LLM API Costs Widget",
+    "description": "App for managing OpenAI API expenses effectively.",
+    "website": "https://apps.apple.com/es/app/llm-api-costs-widget/id6743623133",
+    "categories": "Large Language Models (LLMs), AI Content Generator, AI Developer Tools, AI API Design",
+    "slug": "llm-api-costs-widget",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "Sticker Maker",
@@ -4344,6 +4452,15 @@
     "categories": "Other",
     "slug": "gemini-pro-vs-chat-gpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Snap&Sort",
+    "name": "AI Snap&Sort",
+    "description": "An app that helps identify right waste disposal methods.",
+    "website": "https://apps.apple.com/ca/app/ai-snap-sort/id6744167034",
+    "categories": "AI Image Scanning, AI Image Recognition",
+    "slug": "ai-snap-sort",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "isitPossible.ai",
@@ -4958,6 +5075,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Itzam",
+    "name": "Itzam",
+    "description": "AI integration tool for seamless application enhancements.",
+    "website": "https://itz.am",
+    "categories": "Prompt, AI Workflow Management, Large Language Models (LLMs), AI Content Generator",
+    "slug": "itzam",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "RecetasIA",
     "name": "RecetasIA",
     "description": "AI-generated personalized recipes",
@@ -5291,6 +5417,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Miro",
+    "name": "Miro",
+    "description": "Summary",
+    "website": "https://miro.com",
+    "categories": "AI Team Collaboration, AI Product Description Generator, AI Workflow Management, AI Project Management, AI Productivity Tools, AI Task Management",
+    "slug": "miro",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "AIlice",
     "name": "AIlice",
     "description": "AIlice is a lightweight AI Agent.",
@@ -5415,6 +5550,15 @@
     "categories": "AI Art Generator, AI PDF, AI Illustration Generator, Image to Image",
     "slug": "ai-coloring-pages-generator-free-online",
     "created_at": "14:11:40 04/03/2025"
+  },
+  {
+    "title": "Vidbyte",
+    "name": "Vidbyte",
+    "description": "AI-generated video explanations for learning complex topics.",
+    "website": "https://vidbyte.pro",
+    "categories": "Homework Helper, AI Tutorial, AI Course, AI Education Assistant, AI Video Recording, Text to Video, AI Animated Video, AI Personalized Video Generator, AI Video Generator",
+    "slug": "vidbyte",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "iFable",
@@ -5642,6 +5786,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hivescout",
+    "name": "Hivescout - Community Engagement Tool",
+    "description": "AI tool for community engagement and audience connection.",
+    "website": "https://hivescout.ai",
+    "categories": "AI Response Generator, AI Lead Generation, AI Content Generator, AI Reply Assistant, AI Social Media Assistant, AI Analytics Assistant, Writing Assistants",
+    "slug": "hivescout-community-engagement-tool",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "A.I Framewerks",
     "name": "A.I Framewerks",
     "description": "Summary",
@@ -5793,6 +5946,15 @@
     "categories": "AI Art Generator",
     "slug": "monart",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Equalizer",
+    "name": "AI Equalizer",
+    "description": "Ultimate audio control and sound enhancement app for Android.",
+    "website": "https://play.google.com/store/apps/details",
+    "categories": "AI Image Enhancer, AI Photo Enhancer, AI Audio Enhancer, AI Music Generator, AI Lyrics Generator, AI Poem & Poetry Generator",
+    "slug": "ai-equalizer",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "SOREAL.AI",
@@ -5975,6 +6137,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Stack Studio",
+    "name": "Stack Studio AI",
+    "description": "AI tool for generating software architecture and technical documentation.",
+    "website": "https://stackstudio.io",
+    "categories": "AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI API Design, AI Developer Docs, AI Team Collaboration, AI Diagram Generator, AI Developer Tools",
+    "slug": "stack-studio-ai",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "Breef",
     "name": "Breef.in",
     "description": "\"Breef delivers daily email summaries to Slack, helping users stay organized and focused.\"",
@@ -6054,6 +6225,15 @@
     "categories": "AI Photo & Image Generator, AI Product Description Generator, Image to Image, Photo & Image Editor",
     "slug": "ager-fun",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Glitch",
+    "name": "Glitch",
+    "description": "A community platform for building and sharing web apps.",
+    "website": "https://glitch.com",
+    "categories": "AI Website Designer, Fun Tools",
+    "slug": "glitch",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "Jorpex",
@@ -7298,6 +7478,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TwainGPT",
+    "name": "TwainGPT",
+    "description": "AI humanizer that creates engaging, human-like content.",
+    "website": "https://www.twaingpt.com",
+    "categories": "AI Detector, AI Content Generator, Writing Assistants, AI Rewriter, AI Social Media Assistant, Paraphraser, AI Blog Writer, General Writing, Copywriting, AI Creative Writing, AI Story Writing, AI Book Writing, Papers, Essay Writer, Novel, Report Writing, AI Email Writer",
+    "slug": "twaingpt",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "Seamless Studio",
     "name": "Seamless Studio (Beta)",
     "description": "Seamless Studio is an AI-powered mockup generator for creating premium original mockups.",
@@ -8414,6 +8603,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Raena AI",
+    "name": "Raena AI",
+    "description": "Transform study notes into interactive and engaging learning tools.",
+    "website": "https://raena.ai",
+    "categories": "AI Podcast Assistant, AI YouTube Assistant, Homework Helper, AI Quizzes, AI PDF, AI Notes Assistant, AI Mind Mapping, AI Education Assistant, Summarizer",
+    "slug": "raena-ai",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "Echeta",
     "name": "Echeta",
     "description": "A platform for sharing stories and experiences with AI podcasts.",
@@ -8439,6 +8637,15 @@
     "categories": "AI Ad Generator, AI Advertising Assistant, AI Banner Generator",
     "slug": "slaitor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI-Powered TailwindCSS Code Generator",
+    "name": "TailwindGenAI",
+    "description": "AI tool for generating TailwindCSS code from text prompts.",
+    "website": "https://tailwindgenai.com",
+    "categories": "Prompt, AI Content Generator, AI Code Generator, AI Code Assistant, Design Assistant, AI Website Designer",
+    "slug": "tailwindgenai",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "Resumago",
@@ -9242,6 +9449,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "saasLink",
+    "name": "SaasLink",
+    "description": "AI tool for generating LinkedIn posts for SaaS companies",
+    "website": "https://saaslink.pro",
+    "categories": "AI Social Media Assistant, AI Lead Generation, Copywriting, AI Content Generator, AI Product Description Generator",
+    "slug": "saaslink",
+    "created_at": "14:12:15 04/07/2025"
+  },
+  {
     "title": "aigirlfriend",
     "name": "aigirlfriend",
     "description": "The newest and best AI girlfriend on the market, you can have an exciting date with your beloved girl and generate an unforgettable photo for each exciting scene.",
@@ -9285,6 +9501,15 @@
     "categories": "AI YouTube Assistant, AI Chatbot, AI Content Generator, AI Podcast Assistant",
     "slug": "podulateai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Welle",
+    "name": "Welle.ai",
+    "description": "AI investment agent offering personalized insights and real-time data.",
+    "website": "https://welle.ai",
+    "categories": "Investing Assistant",
+    "slug": "welle-ai",
+    "created_at": "14:12:15 04/07/2025"
   },
   {
     "title": "CodableAI - Your AI-Powered Programming Assistant for Developers",
