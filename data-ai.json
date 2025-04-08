@@ -117,6 +117,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Attio",
+    "name": "Attio",
+    "description": "AI-native CRM for building and managing customer relationships.",
+    "website": "https://attio.com",
+    "categories": "AI CRM Assistant, AI Lead Generation, Sales Assistant, AI Email Writer",
+    "slug": "attio",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "EasyToDo",
     "name": "EasyToDo",
     "description": "AI-powered daily task assistant",
@@ -414,6 +423,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Cleaner Guru",
+    "name": "AI Cleaner Guru",
+    "description": "AI tool for cleaning unnecessary files and optimizing performance.",
+    "website": "https://apps.apple.com/us/app/ai-cleaner-guru-clean-storage/id6743733851",
+    "categories": "Other",
+    "slug": "ai-cleaner-guru-clean-storage",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "X-Me - x-me.world | AI Video Generator",
     "name": "X-Me：AI Video Generator",
     "description": "Unlock boundless creativity with X-Me.",
@@ -693,6 +711,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Autonomy AI",
+    "name": "AutonomyAI",
+    "description": "AI tool for fast frontend development and clean code.",
+    "website": "https://autonomyai.io",
+    "categories": "AI Productivity Tools, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring",
+    "slug": "autonomyai",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "Ogilvy",
     "name": "Ogilvy",
     "description": "AI text editor for enhanced writing and analytics",
@@ -790,6 +817,15 @@
     "categories": "AI Project Management, AI Search Engine, AI Workflow Management, AI Task Management, AI Tools Directory",
     "slug": "onri-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Omnichat AI",
+    "name": "Omnichat AI",
+    "description": "An omnichannel platform for chat commerce and customer interaction.",
+    "website": "https://www.omnichat.ai",
+    "categories": "AI Customer Service Assistant, AI Chatbot, Sales Assistant, E-commerce Assistant, AI Social Media Assistant, AI CRM Assistant, AI Instagram Assistant, AI Facebook Assistant, Digital Marketing Generator, AI Advertising Assistant, AI Lead Generation, AI Tiktok Assistant",
+    "slug": "omnichat-ai",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "TMRA - The Most Ridiculous Adventure ever told",
@@ -1404,6 +1440,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ClawCloud Run",
+    "name": "ClawCloud Run",
+    "description": "Free to launch your projects with an all-in-one dev & deploy platform. Enjoy your first month free — no credit card required. Lifetime $5 credits/month for GitHub users (180+ days) — deploy any of 100+ apps, free . Save up to 505.98% compared to AWS for popular GitHub repos.",
+    "website": "https://run.claw.cloud",
+    "categories": "AI Developer Tools, AI Productivity Tools",
+    "slug": "clawcloud-run",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "Magika",
     "name": "Artificial Intelligence Tools",
     "description": "AI tools for content creation",
@@ -1528,6 +1573,15 @@
     "categories": "Fitness, AI Coaching, Writing Assistants",
     "slug": "calorica",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Blue Bagels",
+    "name": "Blue Bagels",
+    "description": "AI-powered e-commerce conversion rate optimization services.",
+    "website": "https://bluebagels.com",
+    "categories": "Copywriting, E-commerce Assistant, AI Product Description Generator, AI Lead Generation",
+    "slug": "blue-bagels",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "DataExtraction",
@@ -1737,6 +1791,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Scout AI",
+    "name": "Scout AI",
+    "description": "AI-powered task matching platform for automation.",
+    "website": "https://scoutnow.ai",
+    "categories": "AI Lead Generation, AI Graphic Design, Research Tool, Summarizer, AI Code Generator, Web Scraping",
+    "slug": "scout-ai",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "GPTChat",
     "name": "GPTChat",
     "description": "AI chatbot assistant for daily tasks and questions.",
@@ -1861,6 +1924,15 @@
     "categories": "AI Analytics Assistant, AI Image Recognition",
     "slug": "pipeless-agents",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Viva Labs",
+    "name": "Viva Labs",
+    "description": "AI platform to create and optimize video ads.",
+    "website": "https://vivalabs.ai",
+    "categories": "AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator, AI Script Writing, AI Avatar Generator, AI Video Editor, Text to Video, AI UGC Video Generator, AI Video Generator, AI Short Clips Generator, AI Lip Sync Generator, AI Animated Video, AI Personalized Video Generator, Text-to-Speech, AI Content Generator",
+    "slug": "viva-labs",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "MailHero",
@@ -3572,6 +3644,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Singify",
+    "name": "Singify",
+    "description": "🎵 Singify –  AI Music & Song Generator🎵",
+    "website": "https://singify.fineshare.com",
+    "categories": "AI Music Generator, AI Voice Changer, Text-to-Music, AI Singing Generator",
+    "slug": "singify",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "Cartfuls",
     "name": "Cartfuls",
     "description": "The future of e-commerce, turning conversations into conversions.",
@@ -3579,6 +3660,15 @@
     "categories": "E-commerce Assistant, AI Email Marketing, AI Chatbot",
     "slug": "cartfuls",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Layla AI",
+    "name": "Layla AI",
+    "description": "AI travel planning with tailored itineraries and bookings.",
+    "website": "https://layla.ai",
+    "categories": "AI Chatbot, AI Trip Planner",
+    "slug": "layla-ai",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "Mc2 - Redact Like Pro",
@@ -3786,6 +3876,15 @@
     "categories": "AI Education Assistant, AI Course, AI Tutorial",
     "slug": "iterlearn-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vylo",
+    "name": "Vylo",
+    "description": "AI study platform for learning and productivity management.",
+    "website": "https://vylo.app",
+    "categories": "AI Quizzes, AI Education Assistant, AI PDF, AI Productivity Tools, AI Task Management, AI Project Management",
+    "slug": "vylo",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "Rewind",
@@ -5228,6 +5327,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Sharkwriter.ai",
+    "name": "Sharkwriter.ai",
+    "description": "AI writing tool for quick blog and content creation.",
+    "website": "https://sharkwriter.ai",
+    "categories": "AI Detector, AI Checker Essay, AI Plagiarism Checker, AI Content Detector, Research Tool, Essay Writer, Papers, AI Content Generator, Summarizer, Writing Assistants",
+    "slug": "sharkwriter-ai",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "AI Art Generator",
     "name": "Currentmood.app",
     "description": "Create stunning art from photos in iMessage.",
@@ -5397,6 +5505,15 @@
     "categories": "AI Background Remover, Photo & Image Editor",
     "slug": "removepanda",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "DGi",
+    "name": "DGi",
+    "description": "AI agent for data workflows and automation through visual interfaces.",
+    "website": "https://www.dgintelligence.ai",
+    "categories": "AI Analytics Assistant, AI Chatbot, AI Workflow Management, AI Scheduling, No-Code&Low-Code, AI Code Assistant, Code Explanation, AI Code Generator, AI Monitor & Report Builder, AI Data Mining, AI SQL Query Builder, AI App Builder",
+    "slug": "dgi",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "CreateEasily",
@@ -6020,6 +6137,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "White Swan",
+    "name": "White Swan",
+    "description": "AI-powered platform for launching life insurance funnels.",
+    "website": "https://whiteswan.io",
+    "categories": "AI Lead Generation, AI Knowledge Base, Sales Assistant, No-Code&Low-Code",
+    "slug": "white-swan",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "Promptdle",
     "name": "Promptdle",
     "description": "Guess prompts for unique images using AI-generated images on the interactive website.",
@@ -6054,6 +6180,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant",
     "slug": "clout-check-by-hacksocial-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SkyReels",
+    "name": "SkyReels",
+    "description": "AI video creation platform for transforming ideas into videos.",
+    "website": "https://www.skyreels.ai",
+    "categories": "AI Art Generator, Prompt, AI Video Recording, AI Script Writing, AI Story Writing, Text to Video, AI Personalized Video Generator, AI Video Generator, AI Lip Sync Generator, AI Creative Writing",
+    "slug": "skyreels",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "Geniee AI",
@@ -6099,6 +6234,15 @@
     "categories": "AI API Design",
     "slug": "dataendpoint-co",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Helpjuice",
+    "name": "Helpjuice",
+    "description": "Knowledge base software for improving customer support and documentation.",
+    "website": "https://helpjuice.com",
+    "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, AI Knowledge Management, AI Productivity Tools, AI Tutorial, AI SOP, AI Analytics Assistant, AI SEO Assistant",
+    "slug": "helpjuice",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "Receipts",
@@ -6432,6 +6576,15 @@
     "categories": "AI Chatbot",
     "slug": "ai-chatmentor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Backflip AI",
+    "name": "Backflip AI",
+    "description": "AI tools for transforming 3D scans into CAD models.",
+    "website": "https://backflip.ai",
+    "categories": "AI 3D Model Generator, Text to 3D, Image to 3D Model, AI Image Scanning",
+    "slug": "backflip-ai",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "Sincerely Karen | Complaint Email Generator",
@@ -7145,6 +7298,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Pipedream",
+    "name": "Pipedream",
+    "description": "Connect APIs and automate processes with ease.",
+    "website": "https://pipedream.com",
+    "categories": "No-Code&Low-Code, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI API Design, AI App Builder",
+    "slug": "pipedream",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "TripZi",
     "name": "TripZi",
     "description": "Effortlessly extract and save locations from webpages with TripZi.",
@@ -7161,6 +7323,15 @@
     "categories": "Other",
     "slug": "gptionary",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Jadebook",
+    "name": "Jadebook",
+    "description": "A free encrypted journaling platform for personal growth and mental health.",
+    "website": "https://jadebook.app",
+    "categories": "Mental Health, AI Productivity Tools, AI Task Management, AI Notes Assistant, Prompt, AI Chatbot",
+    "slug": "jadebook",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "Organelle",
@@ -7854,6 +8025,15 @@
     "categories": "AI Gift Ideas",
     "slug": "wishlistmate-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Dabble",
+    "name": "Dabble Book Writing Software",
+    "description": "Online writing tool for novelists with efficient features.",
+    "website": "https://www.dabblewriter.com",
+    "categories": "AI Grammar Checker, AI Productivity Tools, AI Story Writing, AI Book Writing, Novel, AI Creative Writing",
+    "slug": "dabble-book-writing-software",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "Resilient",
@@ -8648,6 +8828,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Postify AI",
+    "name": "Postify AI",
+    "description": "AI tool for creating social media content effortlessly.",
+    "website": "https://postifyai.io",
+    "categories": "AI Social Media Assistant, AI Facebook Assistant, AI Hashtag Assistant, Captions or Subtitle, AI Content Generator, Writing Assistants, Copywriting, AI Instagram Assistant, AI Twitter Assistant, AI Product Description Generator, General Writing",
+    "slug": "postify-ai",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "NilgAI",
     "name": "NilgAI Travel",
     "description": "Crafting personalized AI itineraries.",
@@ -8934,6 +9123,15 @@
     "categories": "AI Developer Docs, AI Chatbot",
     "slug": "docmonster",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Monitor",
+    "name": "AI Monitor",
+    "description": "Real-time brand visibility and GEO optimization tools for businesses.",
+    "website": "https://getaimonitor.com",
+    "categories": "Large Language Models (LLMs), AI Blog Writer, Copywriting, Writing Assistants, AI Content Generator, General Writing",
+    "slug": "ai-monitor",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "RoastMyLinked.In",
@@ -9314,6 +9512,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Supaboard",
+    "name": "Supaboard AI",
+    "description": "AI-driven BI tool for creating dashboards and insights from data.",
+    "website": "https://supaboard.ai",
+    "categories": "AI Analytics Assistant, AI Team Collaboration, AI Charting, Report Writing, Writing Assistants, AI Content Generator, AI Monitor & Report Builder, AI Blog Writer, General Writing",
+    "slug": "supaboard-ai",
+    "created_at": "14:12:27 04/08/2025"
+  },
+  {
     "title": "Recipeasy",
     "name": "Recipeasy",
     "description": "AI-powered recipe generator for quick and easy meal creation.",
@@ -9447,6 +9654,15 @@
     "categories": "AI Chatbot",
     "slug": "langmob",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MagiCan",
+    "name": "MagiCan",
+    "description": "AI-powered infinite canvas for creative collaboration and storytelling.",
+    "website": "https://magican.lovable.app",
+    "categories": "AI Presentation Generator, AI Team Collaboration, AI Project Management, AI Mind Mapping, AI Art Generator, AI Story Writing, AI Creative Writing, AI Content Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator",
+    "slug": "magican",
+    "created_at": "14:12:27 04/08/2025"
   },
   {
     "title": "CartBuddyGPT",
