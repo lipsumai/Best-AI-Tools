@@ -819,6 +819,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Gumloop",
+    "name": "Gumloop",
+    "description": "No-code platform for building AI-powered business automations.",
+    "website": "https://www.gumloop.com",
+    "categories": "AI SEO Assistant, AI Social Media Assistant, AI Document Extraction, Research Tool, No-Code&Low-Code, Web Scraping",
+    "slug": "gumloop",
+    "created_at": "02:22:12 04/08/2025"
+  },
+  {
     "title": "Movie Role-Play Video Generator",
     "name": "AI SWAPPER",
     "description": "Advanced AI face changing for movie role-play videos.",
@@ -1546,6 +1555,24 @@
     "categories": "AI Art Generator, AI Photo & Image Generator, AI Illustration Generator, Image to Image, AI Anime & Cartoon Generator",
     "slug": "ghibli-style-image-transformer",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Jupid - AI Accountant",
+    "name": "Jupid - AI Accountant",
+    "description": "AI accountant for LLC formation, auto-bookkeeping, and stress-free tax filing",
+    "website": "https://jupid.com",
+    "categories": "AI Accounting Assistant, Tax Assistant",
+    "slug": "jupid-ai-accountant",
+    "created_at": "02:22:12 04/08/2025"
+  },
+  {
+    "title": "Deep Infra",
+    "name": "Deep Infra",
+    "description": "Scalable platform for deploying machine learning models and APIs.",
+    "website": "https://deepinfra.com",
+    "categories": "Large Language Models (LLMs), AI Speech Recognition, Text-to-Speech, AI Speech Synthesis",
+    "slug": "deep-infra",
+    "created_at": "02:22:12 04/08/2025"
   },
   {
     "title": "Dreamland - Create Kids Stories",
@@ -3266,6 +3293,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "WayStars AI- Your Unified AI Platform",
+    "name": "WayStars AI- Your Unified AI Platform",
+    "description": "WayStars AI is an all-in-one AI supertool suite that empowers users with cutting-edge AI models, productivity tools, and creative capabilities—all in one unified platform. In short WayStars AI is a powerful AI aggregator.",
+    "website": "https://waystars.ai",
+    "categories": "AI Blog Writer, Speech-to-Text, AI Poster Generator, No-Code&Low-Code, AI Code Assistant, AI Code Generator, AI Developer Tools, AI Search Engine, Web Scraping, AI App Builder, Text-to-Speech, AI Voice Cloning, AI Tattoo Generator, AI Celebrity Voice Generator, AI Speech Synthesis, AI Voice Assistants, AI Noise Cancellation, AI Chatbot, AI Character, Life Assistant, Fitness, Legal Assistant, Prompt, AI Landscape Generator, AI Logo Generator, Copywriting, Transcription, Captions or Subtitle, Essay Writer, Letter Writer, Report Writing, AI Script Writing, AI Story Writing, AI Book Writing, AI Poem & Poetry Generator, Summarizer, Pick-up Lines Generator, Writing Assistants, AI Banner Generator, AI Creative Writing, Transcriber, AI Content Generator, AI Email Writer, Quotes Generator, AI Product Description Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator, AI Background Generator, Large Language Models (LLMs)",
+    "slug": "waystars-ai-your-unified-ai-platform",
+    "created_at": "02:22:12 04/08/2025"
+  },
+  {
     "title": "edu720",
     "name": "edu720",
     "description": "Revolutionize workforce learning",
@@ -3768,6 +3804,15 @@
     "categories": "AI Analytics Assistant, AI Reply Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Response Generator, AI Team Collaboration, AI Workflow Management, AI Scheduling, Writing Assistants, AI Content Generator",
     "slug": "verlynk",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "1Template",
+    "name": "1Template",
+    "description": "Build your resume in 60 seconds using the most advanced AI-powered builder",
+    "website": "https://www.1template.io",
+    "categories": "AI Rewriter, Writing Assistants, AI Content Generator, AI Recruiting, Resume Builder",
+    "slug": "1template",
+    "created_at": "02:22:12 04/08/2025"
   },
   {
     "title": "Prisms",
@@ -6542,6 +6587,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Alpha Vision",
+    "name": "Alpha Vision",
+    "description": "AI-powered security solution for enhanced surveillance and operational visibility",
+    "website": "https://www.alphavision.ai",
+    "categories": "Other",
+    "slug": "alpha-vision",
+    "created_at": "02:22:12 04/08/2025"
+  },
+  {
     "title": "miniapps.ai",
     "name": "miniapps ai",
     "description": "Create and explore free AI-powered mini apps and chatbots.",
@@ -7602,6 +7656,15 @@
     "categories": "Other",
     "slug": "aicreditrepair",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Callbell",
+    "name": "Callbell",
+    "description": "Centralized communication for customer support across messaging apps.",
+    "website": "https://callbell.eu",
+    "categories": "AI Customer Service Assistant, AI Team Collaboration, AI Social Media Assistant, AI Instagram Assistant, AI Facebook Assistant, AI CRM Assistant, AI Chatbot",
+    "slug": "callbell",
+    "created_at": "02:22:12 04/08/2025"
   },
   {
     "title": "SuperAI",
