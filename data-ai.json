@@ -162,6 +162,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "NuxtSaaS",
+    "name": "NuxtSaaS",
+    "description": "SaaS starter kit for rapid Nuxt.js product development",
+    "website": "https://nuxt-starterkit.live",
+    "categories": "AI Landing Page Builder, AI Website Builder, AI Analytics Assistant, AI Email Assistant, AI Email Marketing",
+    "slug": "nuxtsaas",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "Flowpost.io",
     "name": "Flowpost.io",
     "description": "Generate Linkedin Carousels and Posts in seconds",
@@ -241,6 +250,15 @@
     "categories": "AI Logo Generator",
     "slug": "yetvos",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Travlo",
+    "name": "Travlo",
+    "description": "AI-driven travel planning and booking platform.",
+    "website": "https://travlo.io",
+    "categories": "AI Chatbot, AI Trip Planner, AI Maps Generator, AI Content Generator",
+    "slug": "travlo",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "Generative AI",
@@ -457,6 +475,15 @@
     "categories": "AI Advertising Assistant, AI Content Generator, AI Product Description Generator, Digital Marketing Generator, Marketing Plan Generator, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "localbot-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ChillMail",
+    "name": "ChillMail",
+    "description": "Comprehensive email outreach tool for sales and marketing.",
+    "website": "https://chillmail.io",
+    "categories": "AI Analytics Assistant, AI Email Generator, AI Email Marketing, AI Lead Generation, AI Email Writer, AI Content Generator",
+    "slug": "chillmail",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "VSona",
@@ -1116,6 +1143,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Documentation.new",
+    "name": "documentation.new",
+    "description": "AI-driven platform for quick product documentation generation.",
+    "website": "https://documentation.new",
+    "categories": "Other",
+    "slug": "documentation-new",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "yourwAI",
     "name": "yourwAI",
     "description": "Discover your ideal career path with yourwAI.",
@@ -1312,6 +1348,15 @@
     "categories": "AI Product Description Generator, AI Book Writing, AI Creative Writing",
     "slug": "what-is-a-book",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Go Agent SDK",
+    "name": "Go Agent SDK",
+    "description": "Toolkit for developing intelligent agents using Go programming language.",
+    "website": "https://go-agent.org",
+    "categories": "No-Code&Low-Code, Writing Assistants, AI Customer Service Assistant, AI Code Assistant",
+    "slug": "go-agent-sdk",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "Rubii AI",
@@ -1530,6 +1575,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "AI App Finder",
+    "name": "AI App Finder | Explore AI",
+    "description": "Discover and explore AI apps easily and quickly.",
+    "website": "https://apps.apple.com/us/app/ai-app-finder-explore-ai/id6742847796",
+    "categories": "AI Chatbot, AI Art Generator, Homework Helper, AI Education Assistant, AI Tools Directory",
+    "slug": "ai-app-finder-explore-ai",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "Numberly",
     "name": "Numberly",
     "description": "Numberly is a free math assistant that solves equations and conversions in real-time.",
@@ -1591,6 +1645,15 @@
     "categories": "Fitness, AI Coaching, Writing Assistants",
     "slug": "calorica",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Metabees AI Labs",
+    "name": "Redstone AI – Ship What Customers Want",
+    "description": "Enterprise AI solutions for business transformation and digital innovation.",
+    "website": "https://www.metabees.org",
+    "categories": "AI Consulting Assistant, AI Content Generator",
+    "slug": "redstone-ai-ship-what-customers-want",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "Blue Bagels",
@@ -1771,6 +1834,15 @@
     "categories": "AI Website Designer, AI Knowledge Base, AI Document Extraction, AI Content Generator, Web Scraping",
     "slug": "website2gpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ParseMania.com",
+    "name": "ParseMania.com",
+    "description": "AI tool for automated document data extraction and processing.",
+    "website": "https://parsemania.com",
+    "categories": "AI CRM Assistant, Resume Builder, AI PDF, AI Document Extraction, AI Documents Assistant, AI Image Scanning, Web Scraping",
+    "slug": "parsemania-com",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "Contentful",
@@ -2403,6 +2475,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Outlier AI",
+    "name": "Outlier AI",
+    "description": "Connecting experts to advance Generative AI models.",
+    "website": "https://outlier.ai",
+    "categories": "Large Language Models (LLMs)",
+    "slug": "outlier-ai",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "Clipboard TTS",
     "name": "Clipboard TTS",
     "description": "Streamlined reading for dyslexics.",
@@ -2688,6 +2769,15 @@
     "website": "https://play.google.com/store/apps/details",
     "slug": "veyld-anonymous-messages-with-photos",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tivra",
+    "name": "Tivra (Your AI Tutor)",
+    "description": "AI-driven personal teaching platform for effective learning.",
+    "website": "https://tivra.io",
+    "categories": "AI Chatbot, Homework Helper, AI Course, AI Education Assistant, AI Tutorial, Writing Assistants",
+    "slug": "tivra-your-ai-tutor",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "AskEdith",
@@ -3039,6 +3129,15 @@
     "categories": "Other",
     "slug": "bugpilot-io",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Get Smarter About ChatGPT",
+    "name": "Get Smarter About ChatGPT",
+    "description": "Educational platform for ChatGPT updates and insights.",
+    "website": "https://promptadvance.club",
+    "categories": "Newsletter",
+    "slug": "get-smarter-about-chatgpt",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "GiveawayAI",
@@ -3581,6 +3680,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Listify Music AI",
+    "name": "Listify Music AI",
+    "description": "AI app for creating personalized playlists instantly.",
+    "website": "https://apps.apple.com/es/app/listify-music-ai/id6743167312",
+    "categories": "Fitness, AI Music Generator",
+    "slug": "listify-music-ai",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "AdFreeMusic.online",
     "name": "AdFreeMusic",
     "description": "Spotify playlists from radio stations without interruptions",
@@ -3761,6 +3869,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Scribbr",
+    "name": "Scribbr",
+    "description": "Academic service for proofreading and citation assistance.",
+    "website": "https://www.scribbr.com",
+    "categories": "AI Detector, AI Checker Essay, AI Plagiarism Checker, AI Grammar Checker, AI Content Detector, AI Knowledge Base, Research Tool, Essay Writer, Papers, Report Writing, Paraphraser, Summarizer, Writing Assistants",
+    "slug": "scribbr",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "Haikuist | AI-Generated Poetry Powered by GPT-3",
     "name": "haikuist",
     "description": "GPT-3 powered website generates traditional haiku poems in 5/7/5 syllable pattern.",
@@ -3822,6 +3939,15 @@
     "categories": "Other",
     "slug": "knoiz",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Agno",
+    "name": "Agno",
+    "description": "Open-source library for building multimodal AI agents.",
+    "website": "https://www.agno.com",
+    "categories": "Large Language Models (LLMs)",
+    "slug": "agno",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "Prompt Overflow",
@@ -4724,6 +4850,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Rephrase",
+    "name": "Rephrase",
+    "description": "AI writing assistant for macOS that enhances text quality.",
+    "website": "https://www.rephrase.space",
+    "categories": "AI Email Assistant, AI Grammar Checker, Translate, General Writing, Writing Assistants, AI Email Writer, AI Story Writing, AI Creative Writing, Letter Writer",
+    "slug": "rephrase",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "No Prompt GPT",
     "name": "No Prompt GPT",
     "description": "NoPromptGPT is a simplified version of ChatGPT, tailored for frequent users, by offering pre-prompted conversations for easy interactions.",
@@ -5397,6 +5532,15 @@
     "categories": "AI Photo & Image Generator, AI Content Generator, Image to Image, AI Art Generator",
     "slug": "currentmood-app",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ProjectAI",
+    "name": "ProjectAI",
+    "description": "Learn programming through real projects with step-by-step guidance.",
+    "website": "https://projectai.in",
+    "categories": "AI Tutorial, Blockchain, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI App Builder, AI Developer Tools",
+    "slug": "projectai",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "GIF Face Swap",
@@ -7037,6 +7181,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Picsart",
+    "name": "Picsart",
+    "description": "Comprehensive tool for photo editing and graphic design.",
+    "website": "https://picsart.com",
+    "categories": "Text to Image, AI Photo & Image Generator, AI Illustration Generator, AI Avatar Generator, AI Background Generator, AI Banner Generator, AI Cover Generator, AI Emoji Generator, AI GIF Generator, AI Image Enhancer, AI Logo Generator, Photo & Image Editor, AI Photo Enhancer, AI Photo Restoration, AI Profile Picture Generator, AI Wallpaper Generator, AI Background Remover, AI Pattern Generator, Image to Image, AI Poster Generator, AI Face Swap Generator, AI Icon Generator, AI Photography, AI Selfie & Portrait, AI Landscape Generator",
+    "slug": "picsart",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "Olivia AI",
     "name": "Olivia AI",
     "description": "A multi-model AI assistant for personalized interactions.",
@@ -7883,6 +8036,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Porsia",
+    "name": "Porsia",
+    "description": "AI website builder for professionals to attract clients and generate leads.",
+    "website": "https://myporsia.com",
+    "categories": "AI Lead Generation, AI Website Designer, AI Coaching, AI Consulting Assistant, AI Website Builder, AI Landing Page Builder, AI Content Generator",
+    "slug": "porsia",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "Lanta AI",
     "name": "Lanta AI",
     "description": "Create high-quality AI videos from text, images, or existing videos.",
@@ -7971,6 +8133,15 @@
     "categories": "Large Language Models (LLMs), AI Workflow Management, AI Task Management",
     "slug": "workorb-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Simply Skills",
+    "name": "Simply Skills",
+    "description": "AI matchmaking for content creators and video editors.",
+    "website": "https://simplyskills.in",
+    "categories": "Photo & Image Editor, AI Video Recording, AI Video Editor, AI YouTube Assistant",
+    "slug": "simply-skills",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "Fast Domain",
@@ -8612,6 +8783,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Cua",
+    "name": "Cua",
+    "description": "Virtualization for macOS/Linux on Apple Silicon with AI automation.",
+    "website": "https://www.trycua.com",
+    "categories": "AI Productivity Tools",
+    "slug": "cua",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "Inboxly",
     "name": "Inboxly AI",
     "description": "AI-powered public mailbox",
@@ -8988,6 +9168,15 @@
     "categories": "AI Content Generator, AI Cooking Assistant, AI Recipe Assistant, AI Creative Writing",
     "slug": "ai-recipe-writer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Superify",
+    "name": "Superify",
+    "description": "AI business assistant simplifying management for entrepreneurs.",
+    "website": "https://www.superify.ai",
+    "categories": "AI Email Assistant, AI Productivity Tools, AI Task Management, AI Project Management, AI Scheduling, AI Contract Management, AI Email Writer, Writing Assistants",
+    "slug": "superify",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "slAItor",
@@ -9510,6 +9699,15 @@
     "categories": "Text to Image",
     "slug": "stickerit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Gromaply",
+    "name": "Gromaply",
+    "description": "Tool for designing project architectures and managing roadmaps.",
+    "website": "https://gromaply.app",
+    "categories": "AI Roadmap Generator, AI Team Collaboration, AI Notes Assistant, AI Project Management, AI Diagram Generator, AI Content Generator, AI Code Assistant, AI Code Generator, AI API Design",
+    "slug": "gromaply",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "Application Traffic Control",
@@ -10223,6 +10421,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Bitbucket",
+    "name": "Bitbucket",
+    "description": "Git solution for teams using Jira to enhance collaboration.",
+    "website": "https://bitbucket.org",
+    "categories": "AI DevOps Assistant",
+    "slug": "bitbucket",
+    "created_at": "14:12:35 04/09/2025"
+  },
+  {
     "title": "WPSummarize",
     "name": "WPSummarize",
     "description": "Automates AI summaries for WordPress blogs to enhance engagement.",
@@ -10347,6 +10554,15 @@
     "categories": "Prompt",
     "slug": "prompt-masters",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BestFaceSwap AI",
+    "name": "BestFaceSwap AI",
+    "description": "AI face swap platform for videos and photos.",
+    "website": "https://www.bestfaceswap.net",
+    "categories": "AI Video Recording, AI GIF Generator, AI Face Swap Generator, AI Video Editor, Photo & Image Editor",
+    "slug": "bestfaceswap-ai",
+    "created_at": "14:12:35 04/09/2025"
   },
   {
     "title": "mpilo",
