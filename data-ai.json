@@ -873,6 +873,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "UX Pilot",
+    "name": "UX Pilot",
+    "description": "AI platform for rapid wireframing and UI design.",
+    "website": "https://uxpilot.ai",
+    "categories": "AI Design Generator, AI Graphic Design, Design Assistant, AI Website Designer",
+    "slug": "ux-pilot",
+    "created_at": "02:23:05 04/09/2025"
+  },
+  {
     "title": "Olle",
     "name": "Olle - AI Powered Toolbar Assistant",
     "description": "Your AI-powered toolbar assistant for seamless website and application usage.",
@@ -1204,6 +1213,15 @@
     "categories": "Other",
     "slug": "mergeml",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lebenslauf.de",
+    "name": "Lebenslauf.de",
+    "description": "Online resume and cover letter creator with templates.",
+    "website": "https://www.lebenslauf.de",
+    "categories": "Resume Builder, Cover Letter Generator, AI PDF, AI Advertising Assistant",
+    "slug": "lebenslauf-de",
+    "created_at": "02:23:05 04/09/2025"
   },
   {
     "title": "MatchBox",
@@ -2340,6 +2358,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "GPT Workspace",
+    "name": "GPT-Workspace",
+    "description": "AI integration for productivity in Google Workspace tools.",
+    "website": "https://gpt.space",
+    "categories": "Essay Writer, Copywriting, Summarizer, General Writing, Writing Assistants, AI Content Generator, AI Email Writer, AI Email Assistant, AI Presentation Generator, AI Spreadsheet, AI Productivity Tools, AI Reply Assistant, AI Product Description Generator, AI Rewriter, Paraphraser",
+    "slug": "gpt-workspace-1",
+    "created_at": "02:23:05 04/09/2025"
+  },
+  {
     "title": "Awesome Repositories",
     "name": "Awesome Repositories",
     "description": "AI-powered search engine for finding cool repositories",
@@ -3464,6 +3491,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Coursology",
+    "name": "Coursology",
+    "description": "AI tool for efficient homework assistance and learning.",
+    "website": "https://coursology.com",
+    "categories": "AI Chatbot, Homework Helper, AI Course, AI Quizzes, AI Education Assistant, Writing Assistants, AI Content Generator, Transcription",
+    "slug": "coursology",
+    "created_at": "02:23:05 04/09/2025"
+  },
+  {
     "title": "CharacterHub",
     "name": "CharacterHub",
     "description": "Community platform for sharing and developing original characters.",
@@ -4011,6 +4047,15 @@
     "categories": "AI Productivity Tools, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Testing & QA, AI Developer Tools",
     "slug": "windsurf",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "SleekFlow",
+    "name": "SleekFlow",
+    "description": "AI platform for automating customer interactions across messaging channels.",
+    "website": "https://sleekflow.io",
+    "categories": "AI Content Generator, AI Customer Service Assistant, AI Chatbot, AI Workflow Management, AI CRM Assistant, AI Lead Generation, Sales Assistant, AI Reply Assistant, AI Response Generator",
+    "slug": "sleekflow",
+    "created_at": "02:23:05 04/09/2025"
   },
   {
     "title": "Gather",
@@ -5325,6 +5370,15 @@
     "categories": "AI Content Generator",
     "slug": "marketing-co-pilot-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tempo",
+    "name": "Tempo new",
+    "description": "AI platform for building and managing React applications effortlessly.",
+    "website": "https://www.tempo.new",
+    "categories": "AI Design Generator, AI Graphic Design, Design Assistant, AI Website Designer, Prompt, AI Team Collaboration, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Developer Tools",
+    "slug": "tempo-new",
+    "created_at": "02:23:05 04/09/2025"
   },
   {
     "title": "Sharkwriter.ai",
@@ -6866,6 +6920,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Victoria AI",
+    "name": "Victoria AI",
+    "description": "AI agent automating workflows through chat requests.",
+    "website": "https://www.versionseven.ai",
+    "categories": "AI Customer Service Assistant, AI Workflow Management, AI Project Management, AI Scheduling, AI Productivity Tools",
+    "slug": "victoria-ai",
+    "created_at": "02:23:05 04/09/2025"
+  },
+  {
     "title": "ContentHubAI",
     "name": "ContentHubAI.com",
     "description": "Revolutionize Content Creation with AI.",
@@ -7197,6 +7260,15 @@
     "categories": "Other",
     "slug": "namique",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Workik",
+    "name": "Workik",
+    "description": "AI-powered coding assistant for developers' efficiency.",
+    "website": "https://workik.com",
+    "categories": "AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI SQL Query Builder, AI API Design, AI Developer Docs, AI Developer Tools, AI Productivity Tools, AI Team Collaboration, AI Tutorial, AI Project Management",
+    "slug": "workik",
+    "created_at": "02:23:05 04/09/2025"
   },
   {
     "title": "UpGrow",
@@ -7757,6 +7829,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Deep Nostalgia AI",
+    "name": "Deep Nostalgia AI COM",
+    "description": "AI tool for animating old photos into lifelike videos.",
+    "website": "https://deep-nostalgia-ai.com",
+    "categories": "AI Social Media Assistant, AI Photo Restoration, Image to Video, Text to Video, AI Animated Video",
+    "slug": "deep-nostalgia-ai-com",
+    "created_at": "02:23:05 04/09/2025"
+  },
+  {
     "title": "Lazy Cards",
     "name": "We Write Cards",
     "description": "Send personalized cards worldwide easily with Lazy Cards.",
@@ -7836,6 +7917,15 @@
     "categories": "AI Customer Service Assistant, AI Team Collaboration, AI Social Media Assistant, AI Instagram Assistant, AI Facebook Assistant, AI CRM Assistant, AI Chatbot",
     "slug": "callbell",
     "created_at": "02:22:12 04/08/2025"
+  },
+  {
+    "title": "a0.dev",
+    "name": "a0.dev",
+    "description": "AI platform to create native mobile apps quickly.",
+    "website": "https://a0.dev",
+    "categories": "AI App Builder, AI Content Generator",
+    "slug": "a0-dev",
+    "created_at": "02:23:05 04/09/2025"
   },
   {
     "title": "SuperAI",
@@ -8232,6 +8322,15 @@
     "categories": "AI Advertising Assistant, AI Chatbot, AI Product Description Generator, AI Short Clips Generator, AI Video Generator, Summarizer",
     "slug": "vidcatter",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Spike",
+    "name": "Spike",
+    "description": "A unified platform for chat, email, and collaboration tools.",
+    "website": "https://www.spikenow.com",
+    "categories": "AI Email Assistant, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Workflow Management, AI Project Management, Writing Assistants, AI Content Generator, AI Email Writer, AI Customer Service Assistant, AI Reply Assistant, AI Email Marketing, AI Meeting Assistant, AI Response Generator",
+    "slug": "spike",
+    "created_at": "02:23:05 04/09/2025"
   },
   {
     "title": "Zavimo",
@@ -8871,6 +8970,15 @@
     "categories": "AI Podcast Assistant, Letter Writer, AI Story Writing",
     "slug": "echeta",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Not Diamond",
+    "name": "Not Diamond",
+    "description": "AI model router for optimized performance and cost-efficiency.",
+    "website": "https://www.notdiamond.ai",
+    "categories": "AI Trip Planner, Prompt, Large Language Models (LLMs), Essay Writer, Summarizer, Report Writing, Papers, AI Blog Writer",
+    "slug": "not-diamond",
+    "created_at": "02:23:05 04/09/2025"
   },
   {
     "title": "AI Recipe Writer",
