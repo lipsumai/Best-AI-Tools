@@ -477,6 +477,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Mockitude",
+    "name": "Mockitude",
+    "description": "AI-powered platform for customized mock tests and feedback.",
+    "website": "https://mockitude.com",
+    "categories": "AI Quizzes, AI Education Assistant",
+    "slug": "mockitude",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "LocalBot.ai",
     "name": "LocalBot AI",
     "description": "AI-driven platform LocalBot.ai offers content automation tools to small businesses, saving time and money.",
@@ -594,6 +603,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Prepostseo",
+    "name": "Prepostseo",
+    "description": "Free online SEO tools and AI writing assistants.",
+    "website": "https://www.prepostseo.com",
+    "categories": "AI SEO Assistant, AI Plagiarism Checker, AI Grammar Checker, AI Rewriter, Paraphraser, Essay Writer, Papers, Writing Assistants, Summarizer, AI Content Generator, AI Email Writer",
+    "slug": "prepostseo",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "Builco",
     "name": "Builco",
     "description": "AI-powered MVP builder with Next.js",
@@ -655,6 +673,15 @@
     "categories": "Other",
     "slug": "gistreader",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Rev",
+    "name": "Rev",
+    "description": "Transcription and captioning service for audio and video.",
+    "website": "https://www.rev.com",
+    "categories": "Healthcare, Legal Assistant, AI Productivity Tools, AI Meeting Assistant, AI Video Recording, Research Tool, AI Education Assistant, Captions or Subtitle, Summarizer, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition",
+    "slug": "rev",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "IntervuPro AI",
@@ -808,6 +835,15 @@
     "categories": "AI Trip Planner",
     "slug": "travel-bug-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Creative Score",
+    "name": "Creative Score",
+    "description": "Optimizes marketing assets using behavioral science and research insights.",
+    "website": "https://creativescore.ai",
+    "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Reviews Assistant, AI Ad Creative Assistant, AI Knowledge Base, Copywriting, AI Email Writer, Writing Assistants, AI Creative Writing, General Writing",
+    "slug": "creative-score",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "AIResumeBuilder.me",
@@ -1746,6 +1782,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Text2Meme",
+    "name": "Text2Meme.io",
+    "description": "AI meme generator that turns text into viral memes quickly.",
+    "website": "https://www.text2meme.io",
+    "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Team Collaboration, AI Content Generator",
+    "slug": "text2meme-io",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "AI Typing Assistant",
     "name": "AI Typing Assistant",
     "description": "AI Typing Assistant is a helpful tool for improving typing skills and productivity.",
@@ -1852,6 +1897,15 @@
     "categories": "AI CRM Assistant, Resume Builder, AI PDF, AI Document Extraction, AI Documents Assistant, AI Image Scanning, Web Scraping",
     "slug": "parsemania-com",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "web2llm",
+    "name": "web2llm",
+    "description": "Tool for updating AI agents with latest documents.",
+    "website": "https://web2llm.dev",
+    "categories": "Large Language Models (LLMs), AI Tools Directory, AI Content Generator, Web Scraping",
+    "slug": "web2llm",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "Contentful",
@@ -2142,6 +2196,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "The Swarm",
+    "name": "The Swarm",
+    "description": "A platform for consolidating networks and enhancing business relationships.",
+    "website": "https://www.theswarm.com",
+    "categories": "AI Lead Generation, AI Recruiting, Sales Assistant, AI Email Writer",
+    "slug": "the-swarm",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "Tethered AI",
     "name": "Tethered AI",
     "description": "Tethered AI combines web searches and note-taking for an improved user experience.",
@@ -2266,6 +2329,15 @@
     "categories": "AI Developer Docs, AI API Design, AI Developer Tools, AI SQL Query Builder, AI App Builder",
     "slug": "nokori",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MetaMonster SEO Crawler",
+    "name": "MetaMonster SEO Crawler",
+    "description": "SEO crawler for generating and optimizing metadata quickly.",
+    "website": "https://metamonster.ai",
+    "categories": "AI SEO Assistant, AI Content Generator, Writing Assistants, Copywriting, AI Product Description Generator",
+    "slug": "metamonster-seo-crawler",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "Debaters.ai",
@@ -3570,6 +3642,15 @@
     "categories": "AI Creative Writing, Writing Assistants, AI Content Generator, Copywriting",
     "slug": "wonders",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sohri",
+    "name": "Sohri Studio",
+    "description": "AI platform for effortless audiobook creation and sharing.",
+    "website": "https://sohri.ai",
+    "categories": "AI Story Writing, AI Book Writing, AI Creative Writing, AI Content Generator, Novel, Text-to-Speech, AI Speech Synthesis",
+    "slug": "sohri-studio",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "AI Bypass",
@@ -5885,6 +5966,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "扣子",
+    "name": "扣子",
+    "description": "A platform for developing AI smart agents quickly.",
+    "website": "https://www.coze.cn",
+    "categories": "Large Language Models (LLMs), No-Code&Low-Code",
+    "slug": "扣子",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "Style.ai",
     "name": "style.ai - Outfit Analysis",
     "description": "AI-driven personal styling app offering outfit analysis.",
@@ -7082,6 +7172,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "bartleby",
+    "name": "bartleby",
+    "description": "Online homework help and textbook solutions platform.",
+    "website": "https://www.bartleby.com",
+    "categories": "AI Grammar Checker, Homework Helper, Writing Assistants, AI Content Generator",
+    "slug": "bartleby",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "GPTTurkey.net",
     "name": "ChatGPT Türkçe",
     "description": "Yapay zeka destekli ChatGPT Türkçe, dönüştürücü yeteneklere sahip bir sohbet AI'dir.",
@@ -7595,6 +7694,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "FaceSwapper",
+    "name": "FaceSwapper",
+    "description": "AI tool for swapping faces in photos and videos.",
+    "website": "https://faceswapper.ai",
+    "categories": "Fun Tools, AI Avatar Generator, AI Face Swap Generator",
+    "slug": "faceswapper",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "Jadebook",
     "name": "Jadebook",
     "description": "A free encrypted journaling platform for personal growth and mental health.",
@@ -7712,6 +7820,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hachi",
+    "name": "Hachi™",
+    "description": "AI for kids fostering curiosity and parent engagement.",
+    "website": "https://hachi.bot",
+    "categories": "AI Chatbot, Parenting, Homework Helper, AI Education Assistant",
+    "slug": "hachi",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "SmartChef",
     "name": "SmartChef",
     "description": "AI-powered recipe generation from images and text.",
@@ -7818,6 +7935,15 @@
     "categories": "Translate, AI Voice Assistants, AI Speech Recognition, AI Speech Synthesis, Speech-to-Text, Text-to-Speech, AI Advertising Assistant",
     "slug": "speakshift-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Eubrics",
+    "name": "Eubrics",
+    "description": "AI platform for workforce upskilling and sales coaching.",
+    "website": "https://www.eubrics.com",
+    "categories": "AI CRM Assistant, AI Coaching, Sales Assistant, AI Analytics Assistant",
+    "slug": "eubrics",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "Watermelon",
@@ -8315,6 +8441,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dialpad",
+    "name": "Dialpad",
+    "description": "AI-powered platform for customer communication and team coaching.",
+    "website": "https://www.dialpad.com",
+    "categories": "AI Customer Service Assistant, Sales Assistant, AI Recruiting, Healthcare, AI Notes Assistant",
+    "slug": "dialpad",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "Compar.ai",
     "name": "Compar",
     "description": "Compar.ai is an AI platform that analyzes website content for better engagement and conversion rates.",
@@ -8727,6 +8862,15 @@
     "categories": "AI Art Generator, AI Background Generator, AI Photo & Image Generator, AI Wallpaper Generator",
     "slug": "ultrawallpapers-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tripo 3D",
+    "name": "Tripo AI",
+    "description": "Generate 3D Model Powered by Al in ONE CLICK, within Seconds",
+    "website": "https://www.tripo3d.ai",
+    "categories": "AI Art Generator, AI Interior & Room Design, AI 3D Model Generator, Text to 3D, Image to 3D Model, AI WORD, AI Anime Art, Game, AI Profile Picture Generator, AI Clothing Generator, AI Design Generator",
+    "slug": "tripo-ai",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "RESUme upGRADE",
@@ -9746,6 +9890,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image to Text Converter",
+    "name": "Image to Text Converter IO",
+    "description": "An online tool for extracting text from images using OCR technology.",
+    "website": "https://www.imagetotext.io",
+    "categories": "AI Document Extraction, Transcriber, AI Image Scanning, Transcription",
+    "slug": "image-to-text-converter-io",
+    "created_at": "14:12:22 04/10/2025"
+  },
+  {
     "title": "aiWritely",
     "name": "aiWritely",
     "description": "AI writing tools for seamless content creation, editing, and downloading.",
@@ -9897,6 +10050,15 @@
     "categories": "AI Recipe Assistant, AI Cooking Assistant, AI Content Generator",
     "slug": "recipeasy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "reqmatch_",
+    "name": "reqmatch_",
+    "description": "AI platform for CV refinement and job match analysis.",
+    "website": "https://reqmatch.com",
+    "categories": "Writing Assistants, Resume Builder",
+    "slug": "reqmatch",
+    "created_at": "14:12:22 04/10/2025"
   },
   {
     "title": "BoldVoice",
