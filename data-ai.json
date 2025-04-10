@@ -144,6 +144,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Wan 2 AI",
+    "name": "Wan 2 AI",
+    "description": "Transform text into stunning AI-generated videos.",
+    "website": "https://wan2.ai",
+    "categories": "AI Art Generator, Prompt, AI Video Recording, Text to Video, AI Animated Video, AI Video Generator, Image to Video, AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator",
+    "slug": "wan-2-ai",
+    "created_at": "02:22:19 04/10/2025"
+  },
+  {
     "title": "CHAI APP",
     "name": "CHAI APP",
     "description": "Leading AI platform for conversational generative AI research.",
@@ -2500,6 +2509,15 @@
     "categories": "Mental Health, AI Chatbot, Healthcare",
     "slug": "tudle",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "iMyFone",
+    "name": "iMyFone",
+    "description": "Software for data recovery and device management solutions.",
+    "website": "https://www.imyfone.com",
+    "categories": "AI Chatbot, AI Art Generator",
+    "slug": "imyfone",
+    "created_at": "02:22:19 04/10/2025"
   },
   {
     "title": "UniqMail",
@@ -5246,6 +5264,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VideoIdeas.ai",
+    "name": "VideoIdeasAI",
+    "description": "AI assistant for generating YouTube video scripts and ideas.",
+    "website": "https://www.videoideas.ai",
+    "categories": "AI YouTube Assistant, AI Script Writing, AI Content Generator, AI Video Editor, AI Advertising Assistant, AI Ad Creative Assistant, AI Analytics Assistant",
+    "slug": "videoideasai",
+    "created_at": "02:22:19 04/10/2025"
+  },
+  {
     "title": "Trivia AI - Guess The Words",
     "name": "Trivia AI - Guess The Words",
     "description": "Photo quiz game using AI-generated images to test trivia skills.",
@@ -5687,6 +5714,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Syft",
+    "name": "Syft AI",
+    "description": "AI-driven sales application connecting sellers and buyers.",
+    "website": "https://www.syftai.com",
+    "categories": "AI Lead Generation, AI Presentation Generator, Sales Assistant, Summarizer, Web Scraping",
+    "slug": "syft-ai",
+    "created_at": "02:22:19 04/10/2025"
+  },
+  {
     "title": "AI Docs by Ag1 Labs",
     "name": "AI Docs by Ag1",
     "description": "AI Docs",
@@ -5865,6 +5901,15 @@
     "categories": "Research Tool, AI Advertising Assistant, AI Interview Assistant, Large Language Models (LLMs)",
     "slug": "ask-by-validly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Online Audio Converter",
+    "name": "Online Audio Converter",
+    "description": "A web tool for converting audio files to various formats.",
+    "website": "https://online-audio-converter.com",
+    "categories": "AI PDF, AI Video Editor, AI Music Generator, Recording",
+    "slug": "online-audio-converter",
+    "created_at": "02:22:19 04/10/2025"
   },
   {
     "title": "ReviewForge",
@@ -9233,6 +9278,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image to Text Converter",
+    "name": "Image to Text Converter",
+    "description": "Online OCR tool for extracting text from images quickly and accurately.",
+    "website": "https://www.imagetotext.info",
+    "categories": "Handwriting, AI Document Extraction, AI Image Scanning, Speech-to-Text, AI PDF",
+    "slug": "image-to-text-converter",
+    "created_at": "02:22:19 04/10/2025"
+  },
+  {
     "title": "ExamCram",
     "name": "ExamCram",
     "description": "Efficiently convert any media into personalized study materials.",
@@ -9339,6 +9393,15 @@
     "categories": "AI Chatbot, AI Product Description Generator",
     "slug": "bothatch",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Studocu Global",
+    "name": "Studocu Global",
+    "description": "A platform for accessing shared study materials globally.",
+    "website": "https://www.studocu.com",
+    "categories": "AI Course, AI Quizzes, AI Notes Assistant, AI Education Assistant, Summarizer",
+    "slug": "studocu-global",
+    "created_at": "02:22:19 04/10/2025"
   },
   {
     "title": "Buzzr Tech",
