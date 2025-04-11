@@ -1314,6 +1314,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Balbee",
+    "name": "Balbee",
+    "description": "AI-powered journaling app for mood tracking and personalization.",
+    "website": "https://balbee.app",
+    "categories": "AI Font, Mental Health, Writing Assistants",
+    "slug": "balbee",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "MatchBox",
     "name": "MatchBox",
     "description": "AI-powered recommendations for connecting clients and freelancers.",
@@ -1681,6 +1690,15 @@
     "categories": "AI Content Generator, AI SEO Assistant, AI Website Designer, AI Blog Writer",
     "slug": "dub-io",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MIOSN",
+    "name": "MIOSN",
+    "description": "AI model matching for tasks efficiently and cost-effectively.",
+    "website": "https://miosn.com",
+    "categories": "Prompt, AI Contract Management, AI Document Extraction, Large Language Models (LLMs), Summarizer",
+    "slug": "miosn",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Stellr",
@@ -2574,6 +2592,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Lopus AI",
+    "name": "Lopus AI",
+    "description": "AI-driven lead discovery from social media posts.",
+    "website": "https://lopus.ai",
+    "categories": "AI Reply Assistant, AI Social Media Assistant, AI CRM Assistant, AI Response Generator, AI Lead Generation",
+    "slug": "lopus-ai",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "Clipboard TTS",
     "name": "Clipboard TTS",
     "description": "Streamlined reading for dyslexics.",
@@ -3185,6 +3212,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Firebase Studio",
+    "name": "Firebase Studio",
+    "description": "Web-based workspace for full-stack app development with AI support.",
+    "website": "https://firebase.studio",
+    "categories": "Large Language Models (LLMs), Writing Assistants, AI Code Assistant, Code Explanation, AI Code Refactoring, AI Testing & QA",
+    "slug": "firebase-studio",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "Brekky",
     "name": "Brekky AI",
     "description": "AI tools transforming restaurant operations and enhancing dining experiences.",
@@ -3309,6 +3345,15 @@
     "categories": "AI Developer Tools, AI Design Generator",
     "slug": "motifalign",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lecturio",
+    "name": "Lecturio",
+    "description": "An all-in-one health education platform for medical and nursing students.",
+    "website": "https://www.lecturio.com",
+    "categories": "Healthcare, AI Course, AI Quizzes, AI Education Assistant",
+    "slug": "lecturio",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Bookshelf",
@@ -4571,6 +4616,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Cheaprr",
+    "name": "Cheaprr",
+    "description": "Hire AI freelancers without subscriptions using Volts.",
+    "website": "https://cheaprr.com",
+    "categories": "AI YouTube Assistant, Novel, Prompt, AI Book Writing",
+    "slug": "cheaprr",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "SimplifiTech",
     "name": "SimplifiTech",
     "description": "AI platform for quick resolution of technical issues.",
@@ -4803,6 +4857,15 @@
     "categories": "AI Team Collaboration, AI Project Management, AI Task Management, AI Productivity Tools, AI Document Extraction, AI Documents Assistant, AI Files Assistant",
     "slug": "ledger",
     "created_at": "02:21:40 04/03/2025"
+  },
+  {
+    "title": "Regrow AI",
+    "name": "Regrow AI",
+    "description": "AI platform for tracking and regrowing hair with custom diagnostics.",
+    "website": "https://regrowaiapp.com",
+    "categories": "Other",
+    "slug": "regrow-ai-ai-hairloss-app",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Emblify",
@@ -5523,6 +5586,15 @@
     "categories": "Prompt, AI Photo & Image Generator, AI Art Generator, AI Colorize, Large Language Models (LLMs)",
     "slug": "aicoloringpagespro-coloring-pages-bulk",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Paraphraser.io",
+    "name": "Paraphraser.io",
+    "description": "Free AI tool for rephrasing text and avoiding plagiarism.",
+    "website": "https://www.paraphraser.io",
+    "categories": "AI Plagiarism Checker, AI Grammar Checker, AI Rewriter, Paraphraser, Essay Writer, Writing Assistants, Papers, General Writing, Copywriting, Report Writing, Summarizer, AI Content Generator, AI Product Description Generator",
+    "slug": "paraphraser-io",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "MovieUncover",
@@ -6261,6 +6333,15 @@
     "categories": "AI SEO Assistant, AI Lead Generation, AI Advertising Assistant, AI Website Designer",
     "slug": "low-difficulty-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Powtoon",
+    "name": "Powtoon",
+    "description": "Create animated videos and presentations easily online.",
+    "website": "https://www.powtoon.com",
+    "categories": "AI Script Writing, AI Video Generator, AI Personalized Video Generator, AI Animated Video, Text to Video, AI Video Editor, AI Presentation Generator, AI Social Media Assistant, AI Facebook Assistant, AI YouTube Assistant, AI Video Recording, AI Advertising Assistant, AI Ad Creative Assistant, AI Twitter Assistant, AI Instagram Assistant, Marketing Plan Generator, AI Ad Generator, Digital Marketing Generator",
+    "slug": "powtoon",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Memrise",
@@ -7253,6 +7334,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Business Card Scanner",
+    "name": "Business Card Scanner",
+    "description": "Digitizes physical business cards into digital formats.",
+    "website": "https://www.cardscanner.co",
+    "categories": "AI Document Extraction, AI Image Scanning",
+    "slug": "business-card-scanner",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "Single Prompt AI",
     "name": "Single Prompt AI",
     "description": "Loading provides information and services on a specific topic.",
@@ -7964,6 +8054,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Helpedby AI",
+    "name": "Helpedby AI",
+    "description": "Omni LLM chat platform for team productivity and customization.",
+    "website": "https://chat.helpedby.ai",
+    "categories": "AI Chatbot, AI Knowledge Base, AI Productivity Tools, AI Team Collaboration, AI Document Extraction, Large Language Models (LLMs)",
+    "slug": "helpedby-ai",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "Eubrics",
     "name": "Eubrics",
     "description": "AI platform for workforce upskilling and sales coaching.",
@@ -8043,6 +8142,15 @@
     "categories": "Bio Link, Game",
     "slug": "validator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Bowl Smart Recipe Manager",
+    "name": "Bowl Smart Recipe Manager",
+    "description": "App for organizing recipes and managing grocery lists using AI.",
+    "website": "https://apps.apple.com/ph/app/bowl-smart-recipe-manager/id6743498143",
+    "categories": "AI Cooking Assistant, AI Recipe Assistant, AI Content Generator",
+    "slug": "bowl-smart-recipe-manager",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Zenth AI",
@@ -8268,6 +8376,15 @@
     "categories": "Other",
     "slug": "aicreditrepair",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Twilight AI",
+    "name": "Twilight",
+    "description": "AI app for goals, journaling, and daily motivation.",
+    "website": "https://twilightai.app",
+    "categories": "Life Assistant, Mental Health, AI Coaching, AI Productivity Tools",
+    "slug": "twilight",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Callbell",
@@ -9134,6 +9251,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Airtable Assistant",
+    "name": "Airtable AI Assistant",
+    "description": "AI tool for app building and data analysis without coding.",
+    "website": "https://airtable.com",
+    "categories": "AI Project Management, AI Analytics Assistant, AI Customer Service Assistant, AI CRM Assistant, AI Recruiting, Resume Builder, AI Document Extraction, Large Language Models (LLMs), Research Tool, Writing Assistants, AI Content Generator, No-Code&Low-Code, AI App Builder, AI Productivity Tools, General Writing",
+    "slug": "airtable-ai-assistant",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "RepoNotes",
     "name": "RepoNotes",
     "description": "Stay updated with AI-written code summaries.",
@@ -9186,6 +9312,15 @@
     "categories": "AI Story Writing, AI Content Generator",
     "slug": "popstory",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Instalog",
+    "name": "Instalog",
+    "description": "AI tool for log management and analytics for developers.",
+    "website": "https://instalog.dev",
+    "categories": "AI Analytics Assistant, AI Team Collaboration, AI Project Management, AI Monitor & Report Builder, AI Log Management, AI Developer Tools, AI Code Assistant",
+    "slug": "instalog",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Youfitness",
@@ -9485,6 +9620,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SyncSketch",
+    "name": "SyncSketch",
+    "description": "Cloud-based tool for real-time media collaboration and annotation.",
+    "website": "https://syncsketch.com",
+    "categories": "Game, AI 3D Model Generator, AI Presentation Generator, AI PDF, AI Team Collaboration, AI Video Recording, AI Video Editor",
+    "slug": "syncsketch",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "Witty QR Art",
     "name": "QR Art Code",
     "description": "Create artistic QR codes with Witty QR Art, expressing creativity and integrating into projects.",
@@ -9753,6 +9897,15 @@
     "categories": "Summarizer",
     "slug": "quickvid",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Blaze Feeds",
+    "name": "Blaze Feeds",
+    "description": "AI RSS reader for streamlined news consumption and privacy.",
+    "website": "https://blazefeeds.nikpatil.com",
+    "categories": "Summarizer, Newsletter",
+    "slug": "blaze-feeds",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "onedollarai.lol",
@@ -10088,6 +10241,15 @@
     "created_at": "02:22:49 04/11/2025"
   },
   {
+    "title": "TweetPeek AI",
+    "name": "TweetPeek",
+    "description": "Automated tool for gaining real Twitter followers effectively.",
+    "website": "https://tweetpeek.ai",
+    "categories": "AI Twitter Assistant, AI Social Media Assistant, AI Reply Assistant, AI Analytics Assistant",
+    "slug": "tweetpeek",
+    "created_at": "14:11:46 04/11/2025"
+  },
+  {
     "title": "reqmatch_",
     "name": "reqmatch_",
     "description": "AI platform for CV refinement and job match analysis.",
@@ -10131,6 +10293,15 @@
     "categories": "Large Language Models (LLMs), AI Product Description Generator",
     "slug": "googlegemini-co",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Civitai green",
+    "name": "Civitai green",
+    "description": "A hub for sharing and discovering generative AI art and models.",
+    "website": "https://civitai.green",
+    "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator, Image to Image",
+    "slug": "civitai-green",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Data Nuts",
@@ -10671,6 +10842,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, E-commerce Assistant, AI Product Description Generator, Writing Assistants, AI Content Generator, AI Email Writer, Copywriting, General Writing",
     "slug": "gorgias",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "LoveChat",
+    "name": "LoveChat",
+    "description": "Highest Quality AI Chat, Stunning Visuals, All-in-One Platform",
+    "website": "https://lovech.at",
+    "categories": "AI Chatbot, AI Girlfriend, AI Character, AI Art Generator",
+    "slug": "lovechat",
+    "created_at": "14:11:46 04/11/2025"
   },
   {
     "title": "Metamorph Labs",
