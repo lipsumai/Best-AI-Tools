@@ -1629,6 +1629,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Image to Text Converter",
+    "name": "JPG to Text",
+    "description": "Online OCR tool for extracting text from images.",
+    "website": "https://www.jpgtotext.com",
+    "categories": "AI Document Extraction, AI Image Scanning, AI Image Recognition, Speech-to-Text, AI Speech Recognition, AI Education Assistant",
+    "slug": "jpg-to-text",
+    "created_at": "02:19:38 04/12/2025"
+  },
+  {
     "title": "BloomNote",
     "name": "BloomNote",
     "description": "An AI tool for efficient and personalized learning.",
@@ -3842,6 +3851,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Good Tape",
+    "name": "Good Tape",
+    "description": "Automatic transcription service for audio to text conversion.",
+    "website": "https://goodtape.io",
+    "categories": "Transcription, Transcriber, AI Interview Assistant, AI Podcast Assistant",
+    "slug": "good-tape",
+    "created_at": "02:19:38 04/12/2025"
+  },
+  {
     "title": "AdFreeMusic.online",
     "name": "AdFreeMusic",
     "description": "Spotify playlists from radio stations without interruptions",
@@ -5867,6 +5885,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Phrase (Frm. Memsource)",
+    "name": "Phrase",
+    "description": "Powerful localization platform for translation management and automation.",
+    "website": "https://phrase.com",
+    "categories": "Translate, AI Content Generator, AI Email Writer, No-Code&Low-Code, AI Email Assistant, AI Project Management, AI Analytics Assistant, AI Email Marketing, AI Productivity Tools, AI Customer Service Assistant, AI Task Management, AI Team Collaboration",
+    "slug": "phrase",
+    "created_at": "02:19:38 04/12/2025"
+  },
+  {
     "title": "Maqnet AI",
     "name": "Maqnet AI",
     "description": "AI platform for generating creative content and strategies",
@@ -6081,6 +6108,15 @@
     "categories": "Other",
     "slug": "style-ai-outfit-analysis",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vbee AIVoice",
+    "name": "Vbee AI Voice",
+    "description": "AI voice solution for content creation and integration.",
+    "website": "https://vbee.vn",
+    "categories": "AI Content Generator, Text-to-Speech, AI Voice Cloning, AI Speech Recognition, AI Speech Synthesis, AI Podcast Assistant, AI Education Assistant",
+    "slug": "vbee-ai-voice",
+    "created_at": "02:19:38 04/12/2025"
   },
   {
     "title": "Validly",
@@ -8457,6 +8493,15 @@
     "categories": "Photo & Image Editor, AI Video Recording, AI Video Editor, AI YouTube Assistant",
     "slug": "simply-skills",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "CallHippo",
+    "name": "CallHippo",
+    "description": "Virtual phone system offering global communication solutions for businesses.",
+    "website": "https://callhippo.com",
+    "categories": "AI Customer Service Assistant, AI CRM Assistant, AI Lead Generation, AI Team Collaboration, AI Content Generator, Sales Assistant, Writing Assistants, AI Voice Assistants, AI Productivity Tools, AI Recruiting",
+    "slug": "callhippo",
+    "created_at": "02:19:38 04/12/2025"
   },
   {
     "title": "Fast Domain",
@@ -11166,6 +11211,15 @@
     "categories": "Other",
     "slug": "ghostmeet",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AiSensy",
+    "name": "AiSensy",
+    "description": "WhatsApp marketing and engagement platform powered by official APIs.",
+    "website": "https://aisensy.com",
+    "categories": "AI Advertising Assistant, AI Customer Service Assistant, AI Social Media Assistant, AI Facebook Assistant, AI CRM Assistant, AI Ad Creative Assistant, AI Lead Generation, AI Chatbot, Healthcare, AI Forms & Surveys, Sales Assistant, E-commerce Assistant, AI Education Assistant, AI Analytics Assistant",
+    "slug": "aisensy",
+    "created_at": "02:19:38 04/12/2025"
   },
   {
     "title": "Leaves - Life Stories",
