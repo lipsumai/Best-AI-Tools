@@ -1782,6 +1782,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Storydoc",
+    "name": "Storydoc",
+    "description": "Interactive presentation tool for engaging slide decks.",
+    "website": "https://www.storydoc.com",
+    "categories": "AI CRM Assistant, AI Recruiting, AI Presentation Generator, Sales Assistant, AI Charting, Report Writing",
+    "slug": "storydoc",
+    "created_at": "03:40:18 04/13/2025"
+  },
+  {
     "title": "DataExtraction",
     "name": "Data Extraction",
     "description": "Convert the chaos of images and documents into organized, usable information.",
@@ -1816,6 +1825,15 @@
     "categories": "AI Accounting Assistant, Tax Assistant",
     "slug": "jupid-ai-accountant",
     "created_at": "02:22:12 04/08/2025"
+  },
+  {
+    "title": "AI Barbie",
+    "name": "AI Barbie",
+    "description": "Create personalized AI Barbie dolls from photos or text descriptions.",
+    "website": "https://aibarbie.ai",
+    "categories": "AI Anime & Cartoon Generator, AI Avatar Generator, Image to Image, Text to Image, AI Photo & Image Generator",
+    "slug": "ai-barbie",
+    "created_at": "03:40:18 04/13/2025"
   },
   {
     "title": "Deep Infra",
@@ -4416,6 +4434,15 @@
     "categories": "Healthcare, AI Image Segmentation, AI Image Recognition, No-Code&Low-Code",
     "slug": "ultralytics",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "LimeChat",
+    "name": "LimeChat",
+    "description": "AI-driven platform for e-commerce support and marketing via WhatsApp.",
+    "website": "https://www.limechat.ai",
+    "categories": "AI Customer Service Assistant, AI Content Generator, E-commerce Assistant, AI Chatbot, AI CRM Assistant, AI Product Description Generator, Marketing Plan Generator, AI Lead Generation, Digital Marketing Generator, AI Advertising Assistant, AI Analytics Assistant, AI Ad Creative Assistant, Writing Assistants, AI Facebook Assistant, AI Instagram Assistant, Copywriting, AI Social Media Assistant",
+    "slug": "limechat",
+    "created_at": "03:40:18 04/13/2025"
   },
   {
     "title": "Windsurf",
@@ -7136,6 +7163,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Higgsfield",
+    "name": "Higgsfield",
+    "description": "AI platform for cinematic video generation and dynamic camera control.",
+    "website": "https://higgsfield.ai",
+    "categories": "AI Video Recording, AI Video Generator",
+    "slug": "higgsfield",
+    "created_at": "03:40:18 04/13/2025"
+  },
+  {
     "title": "FenPost",
     "name": "FenPost",
     "description": "AI tool for efficient LinkedIn content creation.",
@@ -8646,6 +8682,15 @@
     "categories": "Copywriting, AI Content Generator, Writing Assistants, AI Rewriter, Paraphraser, General Writing, AI Email Writer, AI Product Description Generator",
     "slug": "scripe-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "iSlide",
+    "name": "iSlide",
+    "description": "A platform simplifying PPT design with extensive templates and AI tools.",
+    "website": "https://www.islide.cc",
+    "categories": "Design Assistant, AI Presentation Generator, AI Content Generator, AI Productivity Tools, Writing Assistants, AI Team Collaboration",
+    "slug": "islide",
+    "created_at": "03:40:18 04/13/2025"
   },
   {
     "title": "TopAiContent",
@@ -11463,6 +11508,15 @@
     "categories": "AI Search Engine, Web Scraping, Writing Assistants, AI SQL Query Builder, Large Language Models (LLMs), AI Voice Assistants",
     "slug": "mcpagentseek",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "NoteForms",
+    "name": "NoteForms",
+    "description": "Create customizable forms for Notion databases easily without coding.",
+    "website": "https://noteforms.com",
+    "categories": "AI Forms & Surveys, AI Photography",
+    "slug": "noteforms",
+    "created_at": "03:40:18 04/13/2025"
   },
   {
     "title": "Conslate",
