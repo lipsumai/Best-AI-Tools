@@ -72,6 +72,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Onepage",
+    "name": "Onepage",
+    "description": "All-in-one tool for building websites, landing pages, and quizzes.",
+    "website": "https://onepage.io",
+    "categories": "No-Code&Low-Code, AI Landing Page Builder, AI Website Builder, AI Website Designer, AI Productivity Tools, AI Forms & Surveys, Bio Link, AI CRM Assistant, AI Lead Generation, AI Project Management, AI Team Collaboration, AI SEO Assistant, AI Quizzes, AI Social Media Assistant, Copywriting, AI Customer Service Assistant, AI Instagram Assistant, AI Ad Creative Assistant, AI Advertising Assistant, AI Twitter Assistant, AI Facebook Assistant, Digital Marketing Generator",
+    "slug": "onepage",
+    "created_at": "02:26:48 04/14/2025"
+  },
+  {
     "title": "HealCycle",
     "name": "HealCycle",
     "description": "App for tracking PMDD, PMS, and menstrual health with insights.",
@@ -277,6 +286,15 @@
     "categories": "AI Logo Generator",
     "slug": "yetvos",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PyjamaHR",
+    "name": "PyjamaHR",
+    "description": "AI-powered ATS for efficient recruitment and candidate tracking.",
+    "website": "https://pyjamahr.com",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, AI Team Collaboration, AI Scheduling",
+    "slug": "pyjamahr",
+    "created_at": "02:26:48 04/14/2025"
   },
   {
     "title": "Travlo",
@@ -3590,6 +3608,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Gallabox",
+    "name": "Gallabox",
+    "description": "No-code WhatsApp automation for enhanced business communication.",
+    "website": "https://gallabox.com",
+    "categories": "AI Chatbot, No-Code&Low-Code, AI Customer Service Assistant, AI Lead Generation, AI Advertising Assistant, AI CRM Assistant, Healthcare, Sales Assistant, AI Social Media Assistant, AI Ad Creative Assistant, Digital Marketing Generator, AI Education Assistant, E-commerce Assistant, AI Facebook Assistant",
+    "slug": "gallabox",
+    "created_at": "02:26:48 04/14/2025"
+  },
+  {
     "title": "Brilliant",
     "name": "Brilliant",
     "description": "Interactive learning platform for math, science, and programming.",
@@ -5228,6 +5255,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "WeWeb",
+    "name": "WeWeb",
+    "description": "No-code front-end builder for rapid app development.",
+    "website": "https://www.weweb.io",
+    "categories": "AI Website Designer, AI Website Builder, No-Code&Low-Code, AI App Builder",
+    "slug": "weweb",
+    "created_at": "02:26:48 04/14/2025"
+  },
+  {
     "title": "Micro SaaS Ideas",
     "name": "Validated SaaS Ideas",
     "description": "Find validated SaaS ideas to launch profitable businesses.",
@@ -5901,6 +5937,15 @@
     "categories": "Prompt, AI Workflow Management, Large Language Models (LLMs), AI Content Generator",
     "slug": "itzam",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Pronounce",
+    "name": "Pronounce",
+    "description": "AI speech checker for improved English pronunciation and communication.",
+    "website": "https://www.getpronounce.com",
+    "categories": "AI Grammar Checker, AI Chatbot, AI Interview Assistant, AI Coaching, AI Education Assistant, AI Meeting Assistant, AI Video Recording, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition",
+    "slug": "pronounce",
+    "created_at": "02:26:48 04/14/2025"
   },
   {
     "title": "RecetasIA",
@@ -7125,6 +7170,15 @@
     "categories": "AI Email Assistant, AI Advertising Assistant",
     "slug": "breef-in",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ReachInbox",
+    "name": "ReachInbox",
+    "description": "AI tool for cold email outreach and engagement.",
+    "website": "https://reachinbox.ai",
+    "categories": "AI CRM Assistant, AI Email Assistant, AI Email Generator, AI Email Marketing, AI Lead Generation, AI Email Writer",
+    "slug": "reachinbox",
+    "created_at": "02:26:48 04/14/2025"
   },
   {
     "title": "FutureDesk",
