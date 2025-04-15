@@ -1620,6 +1620,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "RTA.POKER",
+    "name": "RTA.POKER",
+    "description": "RTA Poker software providing GTO solutions directly on your poker tables",
+    "website": "https://rta.poker",
+    "categories": "AI Coaching, Large Language Models (LLMs), Other",
+    "slug": "rta-poker",
+    "created_at": "02:25:43 04/15/2025"
+  },
+  {
     "title": "KlydaAI",
     "name": "Product hunt Pilot",
     "description": "AI tools for simplified personal branding and content creation.",
