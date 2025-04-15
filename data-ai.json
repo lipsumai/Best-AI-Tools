@@ -234,6 +234,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Strykr.ai",
+    "name": "Strykr.ai",
+    "description": "AI-driven platform for informed trading decisions and market analysis.",
+    "website": "https://strykr.ai",
+    "categories": "AI Analytics Assistant, AI Team Collaboration, AI Trading Bot Assistant, Investing Assistant, AI Charting, AI API Design",
+    "slug": "strykr-ai",
+    "created_at": "14:12:40 04/15/2025"
+  },
+  {
     "title": "Patee.io",
     "name": "Patee.io - Thai Transcription Service",
     "description": "Efficient AI-powered speech-to-text platform.",
@@ -2358,6 +2367,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Planner 5D",
+    "name": "Planner 5D",
+    "description": "Best AI interior design software for amateurs and professionals.",
+    "website": "https://planner5d.com",
+    "categories": "AI Design Generator, AI Interior & Room Design, Design Assistant, AI 3D Model Generator",
+    "slug": "planner-5d",
+    "created_at": "14:12:40 04/15/2025"
+  },
+  {
     "title": "AgentHub",
     "name": "AgentHub",
     "description": "No-code platform for AI automations",
@@ -2761,6 +2779,15 @@
     "categories": "Other",
     "slug": "awesome-repositories",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "IconCraft",
+    "name": "IconCraft AI",
+    "description": "AI tool for creating professional app icons quickly.",
+    "website": "https://iconcraft.app",
+    "categories": "AI Design Generator, AI Graphic Design, Design Assistant, AI Icon Generator",
+    "slug": "iconcraft-ai",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "Pr-Mate",
@@ -3282,6 +3309,15 @@
     "categories": "AI Advertising Assistant",
     "slug": "userstudy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI CakeMaker",
+    "name": "AI CakeMaker",
+    "description": "AI app for creating personalized cake designs instantly.",
+    "website": "https://apps.apple.com/in/app/ai-cakemaker-name-on-cake/id6744043747",
+    "categories": "AI Art Generator, AI Design Generator, AI Graphic Design, Text to Image, AI Photo & Image Generator",
+    "slug": "ai-cakemaker-name-on-cake",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "SupermodsAI",
@@ -3977,6 +4013,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Unearthed",
+    "name": "Unearthed",
+    "description": "AI tool for syncing Kindle highlights and generating insights.",
+    "website": "https://unearthed.app",
+    "categories": "AI Analytics Assistant, AI Knowledge Management, AI Productivity Tools, AI Book Writing, Summarizer, Quotes Generator, Writing Assistants, AI Content Generator",
+    "slug": "unearthed",
+    "created_at": "14:12:40 04/15/2025"
+  },
+  {
     "title": "Pawcracy",
     "name": "Pawcracy",
     "description": "AI dog parent's assistant, Pawcracy, enhances dog care for optimal happiness, health, and well-being.",
@@ -4652,6 +4697,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Potpie",
+    "name": "Potpie AI",
+    "description": "Build custom AI agents for engineering tasks using your codebase.",
+    "website": "https://potpie.ai",
+    "categories": "AI Knowledge Graph, Large Language Models (LLMs), AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Testing & QA, AI Developer Tools",
+    "slug": "potpie-ai",
+    "created_at": "14:12:40 04/15/2025"
+  },
+  {
     "title": "LimeChat",
     "name": "LimeChat",
     "description": "AI-driven platform for e-commerce support and marketing via WhatsApp.",
@@ -4722,6 +4776,15 @@
     "categories": "AI YouTube Assistant, Summarizer",
     "slug": "skipwatch-ai-youtube-summarizer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TRMX - AI Solutions Platform",
+    "name": "TRMX",
+    "description": "No-code AI solutions platform for secure data management.",
+    "website": "https://trmx.ai",
+    "categories": "AI CRM Assistant, AI Trip Planner, Healthcare, Legal Assistant, AI Education Assistant, AI PDF, AI Project Management, AI Document Extraction, Large Language Models (LLMs), Translate, AI Consulting Assistant, AI Recruiting, AI Team Collaboration, No-Code&Low-Code",
+    "slug": "trmx",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "Talkzy",
@@ -5379,6 +5442,15 @@
     "categories": "AI Documents Assistant, AI Notes Assistant, Healthcare",
     "slug": "physicianux-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ghibli AI",
+    "name": "Ghibli AI - The Best Free Studio Ghibli Generator",
+    "description": "Studio Ghibli AI - The Best Free Studio Ghibli Generator",
+    "website": "https://facetomany.net",
+    "categories": "AI Photo & Image Generator, AI Illustration Generator, AI Avatar Generator, AI Profile Picture Generator, AI Manga & Comic, AI Pattern Generator, Image to Image, AI Art Generator, AI Design Generator, AI Pixel Art, AI Anime Art",
+    "slug": "ghibli-ai-the-best-free-studio-ghibli-generator",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "ExplainIt",
@@ -6605,6 +6677,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "PolyPal",
+    "name": "PolyPal Live Translator",
+    "description": "Real-time translation solution in 43 languages for effective communication.",
+    "website": "https://polypal.ai",
+    "categories": "AI Meeting Assistant, Translate, Captions or Subtitle, AI Course, AI Education Assistant",
+    "slug": "polypal-live-translator",
+    "created_at": "14:12:40 04/15/2025"
+  },
+  {
     "title": "ReviewForge",
     "name": "ReviewForge",
     "description": "Automates code reviews with AI insights for better quality.",
@@ -7143,6 +7224,15 @@
     "categories": "AI Cooking Assistant, AI Recipe Assistant",
     "slug": "cookfast",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "iMean",
+    "name": "iMean – AI Travel Planner",
+    "description": "Free AI travel planner for personalized itineraries.",
+    "website": "https://www.imean.ai",
+    "categories": "AI Trip Planner, AI Reviews Assistant",
+    "slug": "imean-ai-travel-planner",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "HackSocial.ai",
@@ -7899,6 +7989,15 @@
     "categories": "AI 3D Model Generator",
     "slug": "latent-labs",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TalkToDesign",
+    "name": "TalkToDesign",
+    "description": "AI tool for image creation and editing through conversations.",
+    "website": "https://talktodesign.com",
+    "categories": "Photo & Image Editor, AI Design Generator, AI Graphic Design, AI Art Generator, Design Assistant, Text to Image, AI Photo Enhancer, AI Customer Service Assistant, AI Image Enhancer",
+    "slug": "talktodesign",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "Swapr",
@@ -10502,6 +10601,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wisbox.ai",
+    "name": "Wisbox.ai",
+    "description": "AI assistant for mastering graphic software efficiently.",
+    "website": "https://wisbox.ai",
+    "categories": "AI Graphic Design, Design Assistant, AI Tutorial, AI Education Assistant, AI Video Editor",
+    "slug": "wisbox-ai",
+    "created_at": "14:12:40 04/15/2025"
+  },
+  {
     "title": "GitHub Copilot",
     "name": "Copilot",
     "description": "An AI pair programmer for real-time code suggestions.",
@@ -10572,6 +10680,15 @@
     "categories": "Code Explanation",
     "slug": "xactions-chatgpt-in-a-better-way",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "image2poemclip",
+    "name": "image2poemclip",
+    "description": "Transforms photos into video clips with poems and music.",
+    "website": "https://play.google.com/store/apps/details",
+    "categories": "AI Poem & Poetry Generator, AI Short Clips Generator",
+    "slug": "image2poemclip",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "BetweenQuiz",
@@ -10887,6 +11004,15 @@
     "categories": "Other",
     "slug": "icons-creator-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Naptha AI",
+    "name": "AutoMCP",
+    "description": "Convert AI agents into MCP servers easily and quickly.",
+    "website": "https://auto-mcp.com",
+    "categories": "Other",
+    "slug": "automcp-convert-agents-to-mcp-servers",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "StockPhoto",
@@ -11600,6 +11726,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Florami",
+    "name": "Florami – AI Plant Identifier",
+    "description": "AI app identifying plants with poetic meanings.",
+    "website": "https://apps.apple.com/us/app/florami-ai-plant-identifier/id6744268868",
+    "categories": "AI Poem & Poetry Generator, AI Image Recognition",
+    "slug": "florami-ai-plant-identifier",
+    "created_at": "14:12:40 04/15/2025"
+  },
+  {
     "title": "Mooonshot.io",
     "name": "Mooonshot.io",
     "description": "Discover hot coins with real-time social media analytics",
@@ -11760,6 +11895,15 @@
     "categories": "AI Reviews Assistant, AI Content Generator",
     "slug": "cfreview-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Prompt PP",
+    "name": "Prompt PP",
+    "description": "Create personalized AI agents for task automation and collaboration.",
+    "website": "https://promptpp.com",
+    "categories": "AI Team Collaboration, AI Content Generator, AI Chatbot, AI Knowledge Management, AI Knowledge Base, Legal Assistant, AI Productivity Tools, AI Project Management, Writing Assistants, AI Customer Service Assistant, AI Workflow Management, AI Lead Generation, Copywriting, Design Assistant, Report Writing, AI Design Generator, AI Graphic Design, General Writing, AI Monitor & Report Builder",
+    "slug": "prompt-pp",
+    "created_at": "14:12:40 04/15/2025"
   },
   {
     "title": "Sommel-ai",
