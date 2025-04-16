@@ -297,6 +297,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Richpanel",
+    "name": "Richpanel",
+    "description": "AI customer service platform for e-commerce managing all interactions.",
+    "website": "https://www.richpanel.com",
+    "categories": "AI Customer Service Assistant, AI Social Media Assistant, AI Chatbot, E-commerce Assistant, AI Email Writer",
+    "slug": "richpanel",
+    "created_at": "02:25:05 04/16/2025"
+  },
+  {
     "title": "PyjamaHR",
     "name": "PyjamaHR",
     "description": "AI-powered ATS for efficient recruitment and candidate tracking.",
@@ -781,6 +790,15 @@
     "categories": "AI Analytics Assistant, AI Code Assistant, AI Data Mining, AI Developer Tools, AI SQL Query Builder, Code Explanation, AI Code Generator",
     "slug": "probeai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Qase",
+    "name": "Qase",
+    "description": "A test management platform for manual and automated QA testing.",
+    "website": "https://qase.io",
+    "categories": "AI Testing & QA",
+    "slug": "qase",
+    "created_at": "02:25:05 04/16/2025"
   },
   {
     "title": "Tempo-Pulse",
@@ -1744,6 +1762,15 @@
     "categories": "AI Knowledge Base, AI Knowledge Management, AI Presentation Generator, AI PDF, AI Productivity Tools, AI Team Collaboration, AI Notes Assistant, AI Project Management, AI Mind Mapping, Research Tool",
     "slug": "heptabase",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Typebot",
+    "name": "Typebot",
+    "description": "A no-code platform to create advanced chatbots easily.",
+    "website": "https://typebot.io",
+    "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, AI Quizzes, No-Code&Low-Code, AI Forms & Surveys, AI Analytics Assistant, AI CRM Assistant, AI Team Collaboration, Sales Assistant, AI Social Media Assistant, AI Content Generator",
+    "slug": "typebot",
+    "created_at": "02:25:05 04/16/2025"
   },
   {
     "title": "BeautiAI",
@@ -5480,6 +5507,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Vid.AI",
+    "name": "Vid.AI",
+    "description": "AI tool for generating viral short-form videos rapidly.",
+    "website": "https://vid.ai",
+    "categories": "AI Social Media Assistant, AI Instagram Assistant, AI YouTube Assistant, AI Tiktok Assistant, Prompt, AI Video Recording, Captions or Subtitle, AI Script Writing, AI Content Generator, AI Video Editor, Text to Video, AI Video Generator, AI Short Clips Generator",
+    "slug": "vid-ai",
+    "created_at": "02:25:05 04/16/2025"
+  },
+  {
     "title": "Brandrly",
     "name": "Brandrly",
     "description": "AI tool for creating unique logos in seconds.",
@@ -5919,6 +5955,15 @@
     "categories": "AI Product Description Generator, AI Email Assistant",
     "slug": "sanebox-ios-app",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ShipFast",
+    "name": "ShipFast",
+    "description": "NextJS boilerplate for rapid startup launches.",
+    "website": "https://shipfa.st",
+    "categories": "AI SEO Assistant, AI Tutorial, AI Twitter Assistant, AI Email Assistant, AI Landing Page Builder, AI Website Builder",
+    "slug": "shipfast",
+    "created_at": "02:25:05 04/16/2025"
   },
   {
     "title": "Presbot",
@@ -6918,6 +6963,15 @@
     "categories": "AI Analytics Assistant",
     "slug": "castello",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "CapyParse",
+    "name": "CapyParse",
+    "description": "Convert PDF bank statements to CSV, Excel, or QuickBooks easily.",
+    "website": "https://capyparse.com",
+    "categories": "AI PDF, AI Document Extraction, AI Spreadsheet, AI Accounting Assistant, Tax Assistant, AI Analytics Assistant",
+    "slug": "capyparse",
+    "created_at": "02:25:05 04/16/2025"
   },
   {
     "title": "Mentan.ai",
@@ -8061,6 +8115,15 @@
     "categories": "Other",
     "slug": "daetama",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Gloo",
+    "name": "Gloo",
+    "description": "A platform connecting faith communities with AI tools for impact.",
+    "website": "https://gloo.com",
+    "categories": "Religion, AI Analytics Assistant, AI CRM Assistant",
+    "slug": "gloo",
+    "created_at": "02:25:05 04/16/2025"
   },
   {
     "title": "Klangio",
@@ -9285,6 +9348,15 @@
     "categories": "AI Anime & Cartoon Generator, AI Avatar Generator, AI Profile Picture Generator",
     "slug": "toon-avatar-guru",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Docsumo",
+    "name": "Docsumo",
+    "description": "AI document processing platform for efficient data extraction and validation.",
+    "website": "https://www.docsumo.com",
+    "categories": "AI Document Extraction",
+    "slug": "docsumo",
+    "created_at": "02:25:05 04/16/2025"
   },
   {
     "title": "Arsturn",
@@ -10979,6 +11051,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Anima",
+    "name": "Anima",
+    "description": "Transforms design into code with AI support for web development.",
+    "website": "https://www.animaapp.com",
+    "categories": "Design Assistant, AI Website Designer, AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Code Assistant, AI Code Generator, AI App Builder, Writing Assistants, AI Developer Tools",
+    "slug": "anima",
+    "created_at": "02:25:05 04/16/2025"
+  },
+  {
     "title": "MeetingAssistant.co",
     "name": "MeetingAssistant.co",
     "description": "AI assistant for enhancing job interviews and meetings.",
@@ -12057,6 +12138,15 @@
     "categories": "Web Scraping, AI Spreadsheet, AI Notes Assistant, Research Tool, Sales Assistant",
     "slug": "extracto-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Jump",
+    "name": "Jump AI",
+    "description": "AI tool for financial advisors to automate notes and tasks.",
+    "website": "https://jumpapp.com",
+    "categories": "AI CRM Assistant, AI Productivity Tools, AI Task Management, AI Meeting Assistant, AI Notes Assistant, Transcription, AI Email Writer, Speech-to-Text",
+    "slug": "jump-ai",
+    "created_at": "02:25:05 04/16/2025"
   },
   {
     "title": "PodcastPrepper",
