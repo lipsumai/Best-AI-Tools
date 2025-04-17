@@ -1143,6 +1143,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MiriCanvas",
+    "name": "MiriCanvas",
+    "description": "User-friendly design tool for graphics and templates.",
+    "website": "https://www.miricanvas.com",
+    "categories": "AI Design Generator, AI Graphic Design, Design Assistant, AI Presentation Generator, Photo & Image Editor, AI Background Remover, AI Poster Generator, AI Thumbnail Maker, AI Social Media Assistant, AI YouTube Assistant, AI Quizzes",
+    "slug": "miricanvas",
+    "created_at": "02:24:06 04/17/2025"
+  },
+  {
     "title": "Voxscribe",
     "name": "Voxscribe",
     "description": "Voice to social media content app",
@@ -1699,6 +1708,15 @@
     "categories": "AI App Builder, AI Content Generator, AI Chatbot",
     "slug": "floatingai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "CopyOwl.ai",
+    "name": "CopyOwl.ai",
+    "description": "AI platform for automated writing and research assistance.",
+    "website": "https://copyowl.ai",
+    "categories": "AI SEO Assistant, AI Trip Planner, Research Tool, AI Productivity Tools, Essay Writer, Papers, Report Writing, Writing Assistants, AI Content Generator, AI Blog Writer, General Writing, Copywriting",
+    "slug": "copyowl-ai",
+    "created_at": "02:24:06 04/17/2025"
   },
   {
     "title": "GuessAI",
@@ -3590,6 +3608,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "grok studio",
+    "name": "grok studio",
+    "description": "AI collaborative workspace for documents, code, and games.",
+    "website": "https://grokai.studio",
+    "categories": "Game, AI Productivity Tools, AI Team Collaboration, AI Documents Assistant, Writing Assistants, AI Content Generator, AI Code Assistant, Code Explanation, AI Code Generator, AI Monitor & Report Builder, AI Developer Tools, Report Writing",
+    "slug": "grok-studio",
+    "created_at": "02:24:06 04/17/2025"
+  },
+  {
     "title": "Firebase Studio",
     "name": "Firebase Studio",
     "description": "Web-based workspace for full-stack app development with AI support.",
@@ -4661,6 +4688,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "EHVA.ai",
+    "name": "EHVA.ai",
+    "description": "Conversational AI by Phone - Customer Service, Sales, More.",
+    "website": "https://ehva.ai",
+    "categories": "Other",
+    "slug": "ehva-ai",
+    "created_at": "02:24:06 04/17/2025"
+  },
+  {
     "title": "Insula",
     "name": "Insula",
     "description": "Insula is an AI assistant that enables natural speech communication with advanced technology.",
@@ -5514,6 +5550,15 @@
     "categories": "AI App Builder, AI Developer Tools, AI Code Assistant, AI Developer Docs, Code Explanation",
     "slug": "isitpossible-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ChatIMG",
+    "name": "ChatIMG",
+    "description": "AI platform for generating Studio Ghibli-style images.",
+    "website": "https://chatimg.ai",
+    "categories": "AI Art Generator, AI Anime Art, AI Photo & Image Generator, AI Illustration Generator, AI Avatar Generator, AI Background Generator, AI Profile Picture Generator, AI Anime & Cartoon Generator",
+    "slug": "chatimg",
+    "created_at": "02:24:06 04/17/2025"
   },
   {
     "title": "WeWeb",
