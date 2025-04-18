@@ -1422,6 +1422,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "Hyring",
+    "name": "Hyring",
+    "description": "AI platform automating hiring with intelligent agents.",
+    "website": "https://hyring.com",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, AI Video Recording, Report Writing, AI Detector, AI Plagiarism Checker",
+    "slug": "hyring",
+    "created_at": "14:10:50 04/18/2025"
+  },
+  {
     "title": "PortraitArt",
     "name": "PortraitArt",
     "description": "Transform your photos into beautiful art with AI.",
@@ -3662,6 +3671,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "Shotup AI",
+    "name": "Shotup AI",
+    "description": "AI tool that learns and organizes your screenshots",
+    "website": "https://shotup.ai",
+    "categories": "AI Productivity Tools",
+    "slug": "shotup-ai",
+    "created_at": "14:10:50 04/18/2025"
+  },
+  {
     "title": "Brekky",
     "name": "Brekky AI",
     "description": "AI tools transforming restaurant operations and enhancing dining experiences.",
@@ -4371,6 +4389,15 @@
     "categories": "Other",
     "slug": "adfreemusic",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Capsule",
+    "name": "Capsule",
+    "description": "AI video editor for fast, collaborative content creation.",
+    "website": "https://capsule.video",
+    "categories": "AI Social Media Assistant, AI YouTube Assistant, AI Team Collaboration, AI Video Recording, AI Video Editor, Captions or Subtitle, AI Ad Creative Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant",
+    "slug": "capsule",
+    "created_at": "14:10:50 04/18/2025"
   },
   {
     "title": "Snack AI",
@@ -7055,6 +7082,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ChatoGhibli",
+    "name": "ChatoGhibli",
+    "description": "Transforms text into magical Ghibli-style anime art.",
+    "website": "https://play.google.com/store/apps/details",
+    "categories": "AI Art Generator, AI Anime Art, Text to Image, AI Photo & Image Generator, AI Illustration Generator, AI Anime & Cartoon Generator, AI Story Writing, AI Poem & Poetry Generator, AI Creative Writing, AI Content Generator",
+    "slug": "chatoghibli-ai-anime-art",
+    "created_at": "14:10:50 04/18/2025"
+  },
+  {
     "title": "SetupAI.co",
     "name": "SetupAI.co",
     "description": "SetupAI.co uses AI to redesign your setup based on an uploaded photo.",
@@ -8279,6 +8315,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "Filterly",
+    "name": "Filterly",
+    "description": "Transform your look with filters like hairstyles and age changes.",
+    "website": "https://www.filterly.app",
+    "categories": "AI Photo & Image Generator, Photo & Image Editor, AI Photography, AI Selfie & Portrait",
+    "slug": "filterly",
+    "created_at": "14:10:50 04/18/2025"
+  },
+  {
     "title": "Single Prompt AI",
     "name": "Single Prompt AI",
     "description": "Loading provides information and services on a specific topic.",
@@ -9240,6 +9285,15 @@
     "categories": "AI Detector, AI Content Generator, Writing Assistants, AI Rewriter, AI Social Media Assistant, Paraphraser, AI Blog Writer, General Writing, Copywriting, AI Creative Writing, AI Story Writing, AI Book Writing, Papers, Essay Writer, Novel, Report Writing, AI Email Writer",
     "slug": "twaingpt",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Canopy",
+    "name": "Canopy",
+    "description": "AI-based parental control app for online safety.",
+    "website": "https://canopy.us",
+    "categories": "Parenting, Mental Health",
+    "slug": "canopy",
+    "created_at": "14:10:50 04/18/2025"
   },
   {
     "title": "Seamless Studio",
@@ -11393,6 +11447,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Framepack",
+    "name": "Framepack",
+    "description": "AI video diffusion technology for fast video generation.",
+    "website": "https://framepack.co",
+    "categories": "AI Video Generator, Text to Video, AI Animated Video, Video to Video, AI Video Editor, AI Video Recording, AI Content Generator, AI Script Writing, AI UGC Video Generator",
+    "slug": "framepack",
+    "created_at": "14:10:50 04/18/2025"
+  },
+  {
     "title": "CuriosityXR",
     "name": "CuriosityXR",
     "description": "Educational platform using mixed reality and AI for active learning.",
@@ -12498,5 +12561,14 @@
     "categories": "AI Contract Management",
     "slug": "conslate-ai-contract-manager",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Cluely AI",
+    "name": "Cluely AI",
+    "description": "AI Sales Copilot for real-time sales support.",
+    "website": "https://www.cluelyai.com",
+    "categories": "AI Team Collaboration, AI Meeting Assistant, Sales Assistant, AI Lead Generation, Transcription, Transcriber, Speech-to-Text, Summarizer, Writing Assistants",
+    "slug": "cluely-ai",
+    "created_at": "14:10:50 04/18/2025"
   }
 ]
