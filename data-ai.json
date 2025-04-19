@@ -11573,6 +11573,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PortfolioGPT",
+    "name": "PortfolioGPT",
+    "description": "AI-powered tool for generating personalized investment portfolios quickly.",
+    "website": "https://www.portfoliogpt.xyz",
+    "categories": "Investing Assistant",
+    "slug": "portfoliogpt",
+    "created_at": "02:18:27 04/19/2025"
+  },
+  {
     "title": "Civitai green",
     "name": "Civitai green",
     "description": "A hub for sharing and discovering generative AI art and models.",
