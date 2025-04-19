@@ -4832,6 +4832,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Creatopy",
+    "name": "Creatopy",
+    "description": "AI-powered platform for ad creation and management.",
+    "website": "https://www.creatopy.com",
+    "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Ad Creative Assistant, AI Ad Generator, AI Design Generator, AI Graphic Design, Design Assistant, AI Banner Generator, AI Content Generator, AI Photo & Image Generator, Copywriting, Writing Assistants",
+    "slug": "creatopy",
+    "created_at": "14:10:15 04/19/2025"
+  },
+  {
     "title": "My Dev Agents",
     "name": "Upwork Business Developer | MyDevAgents",
     "description": "AI-based agents for Upwork proposal generation",
@@ -5901,6 +5910,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant, AI Knowledge Base, Large Language Models (LLMs), Writing Assistants",
     "slug": "mithrin",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Designrr",
+    "name": "Designrr",
+    "description": "Create eBooks and content quickly from various sources.",
+    "website": "https://designrr.io",
+    "categories": "AI Blog Writer, AI Repurpose Assistant, AI Book Writing, Transcription, Transcriber, AI Content Generator, AI Cover Generator, AI Podcast Assistant, AI YouTube Assistant, AI Lead Generation, Design Assistant, AI PDF, AI Design Generator, AI Graphic Design, General Writing",
+    "slug": "designrr",
+    "created_at": "14:10:15 04/19/2025"
   },
   {
     "title": "Content Canvas",
@@ -7548,6 +7566,15 @@
     "categories": "AI Analytics Assistant",
     "slug": "flowtestai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RivalOut - Rival Company Analysis and Comparison Platform",
+    "name": "RivalOut",
+    "description": "AI-Powered rival company analysis platform",
+    "website": "https://rivalout.com",
+    "categories": "AI Analytics Assistant, AI SEO Assistant",
+    "slug": "rivalout",
+    "created_at": "14:10:15 04/19/2025"
   },
   {
     "title": "Power to the Creator",
