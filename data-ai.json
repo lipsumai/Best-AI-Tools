@@ -2088,6 +2088,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "dende",
+    "name": "dende",
+    "description": "AI Quiz Generator that helps students review and memorize key concepts.",
+    "website": "https://dende.ai",
+    "categories": "AI Quizzes, AI Education Assistant, AI Tiktok Assistant, AI PDF, AI Content Generator",
+    "slug": "dende",
+    "created_at": "14:10:24 04/20/2025"
+  },
+  {
     "title": "Text2Meme",
     "name": "Text2Meme.io",
     "description": "AI meme generator that turns text into viral memes quickly.",
@@ -3905,6 +3914,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Grain",
+    "name": "Grain",
+    "description": "AI notetaker for meetings with automatic summaries and insights.",
+    "website": "https://grain.com",
+    "categories": "AI Speech Recognition, AI CRM Assistant, AI Recruiting, AI Coaching, AI Productivity Tools, AI Team Collaboration, AI Meeting Assistant, AI Notes Assistant, AI Video Recording, Sales Assistant, Transcription, Transcriber, AI Email Writer, AI Short Clips Generator, Recording, Speech-to-Text, AI Customer Service Assistant",
+    "slug": "grain",
+    "created_at": "14:10:24 04/20/2025"
+  },
+  {
     "title": "MyDreamTeam",
     "name": "My Dream Team",
     "description": "AI-powered virtual dream team for human-like conversations and sharing wisdom",
@@ -5451,6 +5469,15 @@
     "categories": "Other",
     "slug": "choosechosei",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "vectal.ai",
+    "name": "vectal.ai",
+    "description": "AI app to enhance productivity using advanced models.",
+    "website": "https://www.vectal.ai",
+    "categories": "AI Productivity Tools, Large Language Models (LLMs), AI Task Management, Writing Assistants, AI Content Generator",
+    "slug": "vectal-ai",
+    "created_at": "14:10:24 04/20/2025"
   },
   {
     "title": "Sprk™",
@@ -7692,6 +7719,15 @@
     "categories": "Other",
     "slug": "chatgpt-revenue-estimator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Emoji Generator",
+    "name": "AI Emoji Generator -emojis",
+    "description": "Generate custom emojis for Slack and Discord easily with AI.",
+    "website": "https://www.emojis.com",
+    "categories": "AI Art Generator, AI Emoji Generator",
+    "slug": "ai-emoji-generator-emojis",
+    "created_at": "14:10:24 04/20/2025"
   },
   {
     "title": "Stack Studio",
