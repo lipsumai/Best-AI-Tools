@@ -270,6 +270,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Massive",
+    "name": "Massive",
+    "description": "Automated job application platform for hyper-relevant roles.",
+    "website": "https://usemassive.com",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator",
+    "slug": "massive",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "Popsy",
     "name": "Popsy",
     "description": "AI tool for monitoring Reddit for product promotion opportunities.",
@@ -1008,6 +1017,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Koala",
+    "name": "Koala",
+    "description": "AI-driven platform for account prioritization and sales engagement.",
+    "website": "https://getkoala.com",
+    "categories": "Sales Assistant, AI Email Writer, AI CRM Assistant, AI Lead Generation, AI Analytics Assistant, AI Content Generator, Research Tool",
+    "slug": "koala",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "TMRA - The Most Ridiculous Adventure ever told",
     "name": "TMRA",
     "description": "Cooperative AI-generated gaming experience.",
@@ -1096,6 +1114,15 @@
     "categories": "Other",
     "slug": "speax-ai-video-dubbing",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Plus AI Presentation Maker",
+    "name": "Plus AI Presentation Maker",
+    "description": "An AI tool for creating and editing presentations easily.",
+    "website": "https://plusai.com",
+    "categories": "AI Presentation Generator, AI PDF, AI Content Generator, AI Charting, Prompt, Writing Assistants, AI Rewriter, Paraphraser, Report Writing, Summarizer",
+    "slug": "plus-ai-presentation-maker",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "Page Canary",
@@ -2430,6 +2457,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "DocuClipper",
+    "name": "DocuClipper",
+    "description": "Automated extraction of financial data from various documents.",
+    "website": "https://www.docuclipper.com",
+    "categories": "AI PDF, AI Document Extraction, AI Accounting Assistant, Tax Assistant, AI Image Scanning, AI Spreadsheet, AI Reviews Assistant",
+    "slug": "docuclipper",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "T3 Chat",
     "name": "T3 Chat",
     "description": "All-in-one AI chat platform with top models.",
@@ -2799,6 +2835,15 @@
     "created_at": "02:25:29 04/07/2025"
   },
   {
+    "title": "MyDesigns.io",
+    "name": "MyDesigns.io",
+    "description": "Platform for designing and selling custom print-on-demand products.",
+    "website": "https://mydesigns.io",
+    "categories": "AI Design Generator, Design Assistant, E-commerce Assistant, AI Product Description Generator, AI Reviews Assistant, AI Graphic Design",
+    "slug": "mydesigns-io",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "PDFToMP3",
     "name": "PDF to MP3",
     "description": "Transform PDFs into MP3s for easy listening.",
@@ -2824,6 +2869,15 @@
     "categories": "AI Code Generator, AI Developer Tools, AI Script Writing, AI Tiktok Assistant",
     "slug": "script-pro",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PDF.co",
+    "name": "PDF.co",
+    "description": "API for extracting, editing, converting, and managing PDF documents.",
+    "website": "https://pdf.co",
+    "categories": "AI PDF, AI Document Extraction, No-Code&Low-Code, AI API Design, AI Developer Tools",
+    "slug": "pdf-co",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "Apply",
@@ -3094,6 +3148,15 @@
     "categories": "AI Meeting Assistant, AI Notes Assistant, Summarizer, Transcription, Transcriber, AI Productivity Tools",
     "slug": "meeting-ai",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Paper Digest",
+    "name": "Paper Digest",
+    "description": "AI platform for efficient academic research and writing.",
+    "website": "https://www.paperdigest.org",
+    "categories": "AI Knowledge Graph, Research Tool, Papers, Writing Assistants, Summarizer, General Writing, AI Content Generator, AI Rewriter, Paraphraser",
+    "slug": "paper-digest",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "ChatPLG",
@@ -3858,6 +3921,15 @@
     "categories": "AI Product Description Generator",
     "slug": "parrotscage",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Scrapingdog",
+    "name": "Scrapingdog",
+    "description": "Web scraping API for data extraction with proxies and headless browsers.",
+    "website": "https://www.scrapingdog.com",
+    "categories": "AI Product Description Generator, Web Scraping, AI Recruiting, AI SEO Assistant, AI Twitter Assistant, AI Lead Generation, AI YouTube Assistant, AI Document Extraction",
+    "slug": "scrapingdog",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "Moqqie",
@@ -5084,6 +5156,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TensorDock",
+    "name": "TensorDock",
+    "description": "Affordable cloud GPUs for AI, rendering, and gaming.",
+    "website": "https://tensordock.com",
+    "categories": "AI Art Generator",
+    "slug": "tensordock",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "Practici",
     "name": "Practici",
     "description": "Transform PDFs into interactive test questions with AI. Efficient studying, seamless practice, better retention.",
@@ -5201,6 +5282,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nebius",
+    "name": "Nebius",
+    "description": "Cloud platform for AI model development on NVIDIA GPUs",
+    "website": "https://nebius.com",
+    "categories": "Other",
+    "slug": "nebius",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "MathSolverAI",
     "name": "MathSolverAI",
     "description": "Math problem-solving tool with ML algorithm",
@@ -5226,6 +5316,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "chatbusiness-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Activepieces",
+    "name": "Activepieces",
+    "description": "AI-first open-source automation platform for teams.",
+    "website": "https://www.activepieces.com",
+    "categories": "No-Code&Low-Code, AI Code Assistant, AI Customer Service Assistant, AI CRM Assistant, AI Recruiting, Sales Assistant",
+    "slug": "activepieces",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "Eadlyn",
@@ -5523,6 +5622,15 @@
     "categories": "Other",
     "slug": "trends-for-gpts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Peech",
+    "name": "Peech",
+    "description": "Converts text to audio in multiple languages.",
+    "website": "https://www.getpeech.com",
+    "categories": "AI Speech Synthesis, Text-to-Speech, AI Education Assistant",
+    "slug": "peech-text-to-speech-reader",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "GoalsAI",
@@ -5975,6 +6083,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "SEO Bot",
+    "name": "SEO Bot",
+    "description": "AI-driven SEO automation for busy founders.",
+    "website": "https://seobotai.com",
+    "categories": "AI SEO Assistant, AI YouTube Assistant, AI Blog Writer, General Writing, Writing Assistants, AI Content Generator, Copywriting",
+    "slug": "seo-bot",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "Affirm",
     "name": "Affirm",
     "description": "Overcome setbacks with empowering affirmations.",
@@ -5991,6 +6108,15 @@
     "categories": "AI Reply Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Analytics Assistant, AI Productivity Tools, AI Workflow Management, AI Content Generator, Writing Assistants",
     "slug": "badger-post",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "HeyBoss",
+    "name": "HeyBoss",
+    "description": "AI development agency for websites, apps, and games.",
+    "website": "https://heybossai.com",
+    "categories": "AI SEO Assistant, AI Social Media Assistant, AI Tiktok Assistant, AI Chatbot, AI Design Generator, AI Graphic Design, Design Assistant, AI Website Designer, Game, Prompt, AI Forms & Surveys, Copywriting, AI Website Builder, No-Code&Low-Code, AI App Builder",
+    "slug": "heyboss",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "Finned-tech",
@@ -6902,6 +7028,15 @@
     "created_at": "02:21:40 04/03/2025"
   },
   {
+    "title": "Influee",
+    "name": "Influee",
+    "description": "UGC platform connecting brands with a creator network for content creation.",
+    "website": "https://influee.co",
+    "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, E-commerce Assistant, Captions or Subtitle, AI Script Writing, AI Video Editor, AI UGC Video Generator",
+    "slug": "influee",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "Bizchaty",
     "name": "Bizchaty - WhatsApp marketing platform",
     "description": "A WhatsApp marketing platform for real-time customer engagement.",
@@ -7559,6 +7694,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Spinach AI",
+    "name": "Spinach AI",
+    "description": "AI assistant for meetings that summarizes and automates tasks.",
+    "website": "https://www.spinach.ai",
+    "categories": "AI CRM Assistant, AI Interview Assistant, AI Recruiting, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Meeting Assistant, AI Notes Assistant, AI Workflow Management, AI Project Management, AI Video Recording, Sales Assistant, Summarizer, Transcription, Recording, Speech-to-Text",
+    "slug": "spinach-ai",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "iMean",
     "name": "iMean – AI Travel Planner",
     "description": "Free AI travel planner for personalized itineraries.",
@@ -7665,6 +7809,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, AI Knowledge Management, AI Productivity Tools, AI Tutorial, AI SOP, AI Analytics Assistant, AI SEO Assistant",
     "slug": "helpjuice",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Zeabur",
+    "name": "Zeabur",
+    "description": "A seamless deployment platform for developers of all languages.",
+    "website": "https://zeabur.com",
+    "categories": "AI Chatbot, Large Language Models (LLMs), AI Content Generator, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Developer Tools, Domain Name Generator",
+    "slug": "zeabur",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "Receipts",
@@ -8495,6 +8648,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "kluster.ai",
+    "name": "kluster.ai",
+    "description": "Scalable AI platform for developers offering real-time and batch inference.",
+    "website": "https://www.kluster.ai",
+    "categories": "Healthcare, Large Language Models (LLMs)",
+    "slug": "kluster-ai",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "Style Me AI",
     "name": "Style Me AI Create cover photo",
     "description": "Generate cover photos in multiple styles from a single portrait photo.",
@@ -8628,6 +8790,15 @@
     "categories": "AI Gift Ideas, AI Reviews Assistant, AI Content Generator",
     "slug": "birthday-reminder-widget",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Morph Studio",
+    "name": "Morph Studio",
+    "description": "AI tool for video creation and editing with multiple features.",
+    "website": "https://www.morphstudio.com",
+    "categories": "AI Advertising Assistant, AI Art Generator, E-commerce Assistant, Image to Video, AI Video Editor, AI Video Enhancer, Text to Video, Video to Video, AI Video Generator, AI Ad Creative Assistant, AI Ad Generator, AI Animated Video, AI Music Video Generator, AI Pixel Art",
+    "slug": "morph-studio",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "AsktheDoc",
@@ -10439,6 +10610,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Lex",
+    "name": "Lex page",
+    "description": "Collaborative document editing platform with AI features for writers.",
+    "website": "https://lex.page",
+    "categories": "AI Productivity Tools, AI Team Collaboration, AI Documents Assistant, General Writing, Writing Assistants, AI Content Generator, Copywriting, AI Rewriter, Paraphraser, AI Story Writing, AI Creative Writing, AI Blog Writer",
+    "slug": "lex-page",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "QuickQuest",
     "name": "QuickQuest",
     "description": "AI-powered tool for customer feedback and online reviews.",
@@ -10808,6 +10988,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "PureCode AI",
+    "name": "PureCode AI",
+    "description": "AI tool for generating UI components and speeding up development.",
+    "website": "https://purecode.ai",
+    "categories": "AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring",
+    "slug": "purecode-ai",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "slAItor",
     "name": "slAItor",
     "description": "Translation system with step-by-step explanations",
@@ -11049,6 +11238,15 @@
     "categories": "AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Workflow Management, AI Project Management, AI Accounting Assistant",
     "slug": "datawisr",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "iSmartRecruit",
+    "name": "iSmartRecruit",
+    "description": "AI-powered recruitment software for streamlined hiring process.",
+    "website": "https://www.ismartrecruit.com",
+    "categories": "AI Recruiting, AI Interview Assistant, Resume Builder, AI CRM Assistant, AI Lead Generation, AI Team Collaboration, AI Social Media Assistant",
+    "slug": "ismartrecruit",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "VPIHub",
@@ -11789,6 +11987,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Browserless",
+    "name": "Browserless",
+    "description": "Browserless enables seamless browser automation and bot detection evasion.",
+    "website": "https://www.browserless.io",
+    "categories": "AI PDF, Web Scraping, AI Browsers Builder",
+    "slug": "browserless",
+    "created_at": "14:11:07 04/21/2025"
+  },
+  {
     "title": "MagiCan",
     "name": "MagiCan",
     "description": "AI-powered infinite canvas for creative collaboration and storytelling.",
@@ -12282,6 +12489,15 @@
     "categories": "AI Chatbot, AI Girlfriend, AI Character, AI Art Generator",
     "slug": "lovechat",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Sieve",
+    "name": "Sieve",
+    "description": "Video AI solution for understanding and generating videos at scale.",
+    "website": "https://www.sievedata.com",
+    "categories": "AI Video Recording, AI Video Editor, AI Video Enhancer, Video to Video, AI Video Generator",
+    "slug": "sieve",
+    "created_at": "14:11:07 04/21/2025"
   },
   {
     "title": "Metamorph Labs",
