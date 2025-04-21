@@ -3267,6 +3267,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Emitrr",
+    "name": "Emitrr",
+    "description": "AI toolbox for business communication and customer engagement.",
+    "website": "https://emitrr.com",
+    "categories": "AI Customer Service Assistant, AI CRM Assistant, AI Reviews Assistant, AI Chatbot, AI Scheduling, AI Forms & Surveys, AI Lead Generation, AI Team Collaboration",
+    "slug": "emitrr",
+    "created_at": "02:28:54 04/21/2025"
+  },
+  {
     "title": "Lite Queen",
     "name": "Lite Queen",
     "description": "All-in-one SQLite management",
@@ -6992,6 +7001,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Polymer",
+    "name": "Polymer",
+    "description": "A platform for preventing data breaches with real-time monitoring",
+    "website": "https://www.polymerhq.io",
+    "categories": "Healthcare, Large Language Models (LLMs), No-Code&Low-Code, AI Content Generator",
+    "slug": "polymer",
+    "created_at": "02:28:54 04/21/2025"
+  },
+  {
     "title": "Chat with Page",
     "name": "Chat with your Pages - AI Post Assistant",
     "description": "Enhance user engagement with interactive chat.",
@@ -7548,6 +7566,15 @@
     "categories": "AI Trip Planner, AI Reviews Assistant",
     "slug": "imean-ai-travel-planner",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "Vizologi",
+    "name": "Vizologi",
+    "description": "AI tool for generating business ideas and automating business plans.",
+    "website": "https://vizologi.com",
+    "categories": "Marketing Plan Generator, AI Business Ideas Generator, AI Consulting Assistant, AI Content Generator, AI Knowledge Base",
+    "slug": "vizologi",
+    "created_at": "02:28:54 04/21/2025"
   },
   {
     "title": "NerdyTips",
@@ -11663,6 +11690,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "Omakase Voice AI",
+    "name": "Omakase Voice AI",
+    "description": "Transform websites into voice-enabled shopping assistants for enhanced sales.",
+    "website": "https://www.omakase.ai",
+    "categories": "Sales Assistant, AI Product Description Generator, Text-to-Speech, AI Voice Assistants, Web Scraping, AI Customer Service Assistant, E-commerce Assistant, AI Lead Generation, AI Knowledge Base",
+    "slug": "omakase-voice-ai",
+    "created_at": "02:28:54 04/21/2025"
+  },
+  {
     "title": "Data Nuts",
     "name": "DataNuts",
     "description": "AI chat tool for querying PostgreSQL databases",
@@ -12552,6 +12588,15 @@
     "categories": "AI Creative Writing, AI Story Writing, Text to Image, AI Photo & Image Generator, AI Character, AI Art Generator, Prompt, Large Language Models (LLMs), AI Design Generator, AI Illustration Generator, Photo & Image Editor, AI Photo Enhancer",
     "slug": "story-diffusion-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Blush design",
+    "name": "Blush design",
+    "description": "Create and customize free illustrations for your designs.",
+    "website": "https://blush.design",
+    "categories": "AI Art Generator, AI Design Generator, AI Graphic Design, AI Illustration Generator",
+    "slug": "blush-design",
+    "created_at": "02:28:54 04/21/2025"
   },
   {
     "title": "AI Image Translator For Ecom Image",
