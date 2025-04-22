@@ -135,6 +135,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Arvow",
+    "name": "Arvow",
+    "description": "AI article writer for SEO and automated blogging.",
+    "website": "https://arvow.com",
+    "categories": "AI SEO Assistant, AI Reviews Assistant, AI Knowledge Base, E-commerce Assistant, AI Blog Writer, Copywriting, Writing Assistants, AI Product Description Generator",
+    "slug": "arvow",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "EasyToDo",
     "name": "EasyToDo",
     "description": "AI-powered daily task assistant",
@@ -576,6 +585,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Resumea.io",
+    "name": "Resumea.io",
+    "description": "AI job application package generator for tailored materials.",
+    "website": "https://resumea.io",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator, Letter Writer, AI Content Generator, AI Email Writer",
+    "slug": "resumea-io",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "VSona",
     "name": "VSona",
     "description": "AI companions for personalized interactions.",
@@ -610,6 +628,15 @@
     "categories": "AI Coaching, AI Website Builder, AI Website Designer, Mental Health, AI Chatbot",
     "slug": "bobbychat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Engagechat",
+    "name": "EngageChat-AI",
+    "description": "AI chatbot for lead qualification and sales automation.",
+    "website": "https://www.engagechat.ai",
+    "categories": "AI Lead Generation, AI Chatbot, Sales Assistant, No-Code&Low-Code, AI Customer Service Assistant, AI CRM Assistant, Copywriting, AI Analytics Assistant, Writing Assistants, E-commerce Assistant, AI Content Generator",
+    "slug": "engagechat-ai",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "Skydis",
@@ -673,6 +700,15 @@
     "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator, Prompt",
     "slug": "raphael-ai",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "Manga Translator",
+    "name": "Manga Translator - ichigoreader",
+    "description": "AI translations for manga in various languages.",
+    "website": "https://ichigoreader.com",
+    "categories": "AI Anime Art, Translate, AI Manga & Comic",
+    "slug": "manga-translator-ichigoreader",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "Itoka",
@@ -988,6 +1024,15 @@
     "categories": "AI Customer Service Assistant, AI CRM Assistant, AI Recruiting, AI Team Collaboration, Transcription, Transcriber, AI Content Generator",
     "slug": "openphone",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "Hastewire",
+    "name": "Hastewire",
+    "description": "AI tools for content humanization and workflow automation.",
+    "website": "https://hastewire.com",
+    "categories": "AI Detector, AI Content Detector, AI Workflow Management, AI Productivity Tools, AI Content Generator, AI Lead Generation, Writing Assistants, AI Customer Service Assistant",
+    "slug": "hastewire",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "TextGears",
@@ -1332,6 +1377,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VoiceType AI",
+    "name": "Voicetype AI",
+    "description": "AI dictation tool that transforms speech into text.",
+    "website": "https://voicetype.ai",
+    "categories": "Writing Assistants, AI Productivity Tools, General Writing, AI Speech Recognition, AI Reply Assistant, Speech-to-Text, AI Email Assistant, AI Meeting Assistant, AI Notes Assistant, AI Email Writer, Report Writing, AI Blog Writer, AI Customer Service Assistant, Copywriting, AI Social Media Assistant, AI Rewriter, Paraphraser, Summarizer, Transcription, Letter Writer, AI Content Generator, Transcriber",
+    "slug": "voicetype-ai",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "AI Presentation Maker",
     "name": "Slides.bot",
     "description": "AI tool for creating professional slides from text",
@@ -1566,6 +1620,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "ChatWise",
+    "name": "ChatWise",
+    "description": "Versatile AI chatbot supporting multiple models for quick interactions.",
+    "website": "https://chatwise.app",
+    "categories": "AI Chatbot, Large Language Models (LLMs)",
+    "slug": "chatwise",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "Quick Resume - AI Resume Creation Tool",
     "name": "Quick Resume",
     "description": "AI-powered tool for creating professional resumes",
@@ -1582,6 +1645,15 @@
     "categories": "AI Podcast Assistant, AI Interview Assistant, Legal Assistant, AI Education Assistant, AI Productivity Tools, AI Meeting Assistant, AI Notes Assistant, Transcription, Transcriber, AI Speech Recognition, Speech-to-Text, AI Team Collaboration, Summarizer, Captions or Subtitle",
     "slug": "soundtype-ai",
     "created_at": "14:12:51 04/16/2025"
+  },
+  {
+    "title": "Dialora.ai",
+    "name": "Dialora.ai",
+    "description": "24/7 AI voice agent for managing calls and scheduling appointments",
+    "website": "https://Dialora.ai",
+    "categories": "AI Customer Service Assistant, AI Chatbot, AI Interview Assistant, AI Recruiting, Healthcare, AI SOP, AI Productivity Tools, AI Voice Assistants",
+    "slug": "dialora-ai",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "IntelligenceLab - AI Generator",
@@ -2646,6 +2718,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "StoryShort AI",
+    "name": "StoryShort AI",
+    "description": "AI video creator for viral content on TikTok and YouTube.",
+    "website": "https://storyshort.ai",
+    "categories": "AI YouTube Assistant, AI Tiktok Assistant, Captions or Subtitle, AI Script Writing, AI Story Writing, AI Creative Writing, AI Content Generator, Text to Image, Image to Video, Text to Video, AI Animated Video, AI Video Generator, AI UGC Video Generator, AI Social Media Assistant",
+    "slug": "storyshort-ai",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "MyShotAI",
     "name": "MyShotAI - AI Headshot",
     "description": "AI app for creating professional headshots from selfies.",
@@ -3022,6 +3103,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "supportchat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Runware",
+    "name": "Runware",
+    "description": "Affordable AI image generation API for rapid deployment.",
+    "website": "https://runware.ai",
+    "categories": "AI Art Generator, AI Design Generator, AI Graphic Design, Design Assistant, Prompt, Text to Image, AI Photo & Image Generator, AI Avatar Generator, AI Profile Picture Generator, AI Content Generator, AI Image Enhancer, Photo & Image Editor, AI Background Remover",
+    "slug": "runware",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "AI Homework Helper",
@@ -3968,6 +4058,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "LazyLines",
+    "name": "LazyLines",
+    "description": "AI tool for optimizing short-form video content creation.",
+    "website": "https://lazylines.ai",
+    "categories": "AI Analytics Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Tiktok Assistant, Research Tool, AI SEO Assistant, AI Video Recording, Captions or Subtitle, AI Script Writing, AI Video Editor",
+    "slug": "lazylines",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "Gallabox",
     "name": "Gallabox",
     "description": "No-code WhatsApp automation for enhanced business communication.",
@@ -4407,6 +4506,15 @@
     "categories": "AI Story Writing",
     "slug": "narrati",
     "created_at": "14:12:51 04/16/2025"
+  },
+  {
+    "title": "ScholarAI",
+    "name": "Scholar AI",
+    "description": "AI-driven research tools for academic papers and personalized learning.",
+    "website": "https://scholarai.io",
+    "categories": "Research Tool, Papers, Summarizer, Writing Assistants, AI Education Assistant, AI Productivity Tools, AI Notes Assistant, AI Project Management",
+    "slug": "scholar-ai",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "CharacterHub",
@@ -4893,6 +5001,15 @@
     "categories": "AI Chatbot",
     "slug": "insula",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Chat Recap",
+    "name": "Chat Recap",
+    "description": "AI tool for analyzing cross-platform chat history and insights.",
+    "website": "https://chatrecap.io",
+    "categories": "AI Analytics Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Dating Assistant",
+    "slug": "chat-recap",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "EngagePlus",
@@ -6101,6 +6218,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "The Botmode",
+    "name": "The Botmode",
+    "description": "AI platform for automated WhatsApp customer engagement and sales.",
+    "website": "https://thebotmode.com",
+    "categories": "AI Lead Generation, AI Customer Service Assistant, AI Chatbot, E-commerce Assistant, Sales Assistant, AI CRM Assistant, AI Advertising Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Instagram Assistant",
+    "slug": "the-botmode",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "DhiWise",
     "name": "DhiWise",
     "description": "Agentic AI platform for automating the software development lifecycle.",
@@ -6182,6 +6308,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nifty",
+    "name": "Nifty AI",
+    "description": "Reselling software that automates crosslisting and inventory management.",
+    "website": "https://nifty.ai",
+    "categories": "AI Analytics Assistant, AI Productivity Tools, E-commerce Assistant",
+    "slug": "nifty-ai",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "Gimme Summary AI",
     "name": "Gimme Summary AI",
     "description": "\"Free Chrome extension summarizes web articles using AI-powered neural network model.\"",
@@ -6198,6 +6333,15 @@
     "categories": "AI Content Generator, AI Product Description Generator, AI SEO Assistant, AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "verbiai-ai-powered-seo-content-creation",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Pixelfox AI",
+    "name": "Pixelfox AI",
+    "description": "Free AI photo editing tool for easy image enhancement.",
+    "website": "https://pixelfox.ai",
+    "categories": "AI Art Generator, AI Colorize, AI Anime Art, AI Background Generator, AI Image Enhancer, Photo & Image Editor, AI Photo Enhancer, AI Photo Restoration, AI Photography, AI Background Remover, AI Face Swap Generator",
+    "slug": "pixelfox-ai",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "Memeface.me",
@@ -8171,6 +8315,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ywork.ai",
+    "name": "Ywork.ai",
+    "description": "AI procurement tool for comparing supplier quotes.",
+    "website": "https://ywork.ai",
+    "categories": "AI Project Management, AI Email Writer, Quotes Generator",
+    "slug": "ywork-ai",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "Online Lebenslauf",
     "name": "Online Lebenslauf",
     "description": "Online Lebenslauf helps users create professional resumes effortlessly.",
@@ -8394,6 +8547,15 @@
     "categories": "Other",
     "slug": "codelab",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Free AI (not a) Therapist",
+    "name": "Free AI (not a) Therapist",
+    "description": "AI chatbot for mental health support without judgment.",
+    "website": "https://www.freeainotatherapist.com",
+    "categories": "AI Chatbot, Life Assistant, Mental Health",
+    "slug": "free-ai-not-a-therapist",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "PageWise AI",
@@ -8927,6 +9089,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Ogrovision",
+    "name": "Ogrovision",
+    "description": "Design your dream garden from a photo in seconds with AI—realistic visuals and plant insights, no skills required.",
+    "website": "https://aigarden.design",
+    "categories": "AI Photo & Image Generator, AI Illustration Generator, Photo & Image Editor, Image to Image, AI Landscape Generator, AI Interior & Room Design",
+    "slug": "ogrovision",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "brainwashd",
     "name": "brainwashd",
     "description": "\"brainwashd is a Chrome extension that provides real-time analysis on tweets and news to detect misinformation.\"",
@@ -9377,6 +9548,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Meet Alfred",
+    "name": "Meet Alfred",
+    "description": "A leading LinkedIn automation tool for sales optimization.",
+    "website": "https://meetalfred.com",
+    "categories": "AI Social Media Assistant, AI Twitter Assistant, AI CRM Assistant, AI Email Assistant, AI Lead Generation, AI Recruiting, AI Team Collaboration, Sales Assistant, AI Email Writer, AI Email Marketing, AI Productivity Tools",
+    "slug": "meet-alfred",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "Odeist",
     "name": "odeist",
     "description": "AI Powered Social Media Discovery and Engagement",
@@ -9566,6 +9746,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "JoyLink",
+    "name": "JoyLink",
+    "description": "AI tool for Amazon affiliates to enhance earnings through optimized links.",
+    "website": "https://joylink.io",
+    "categories": "AI Content Generator, AI Social Media Assistant, AI Instagram Assistant, AI Advertising Assistant, AI Analytics Assistant, AI Ad Creative Assistant, Captions or Subtitle, AI Facebook Assistant, Digital Marketing Generator, E-commerce Assistant, Copywriting, Writing Assistants, AI Product Description Generator, General Writing",
+    "slug": "joylink",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "WUI.AI",
     "name": "WUI.AI",
     "description": "AI tool for turning long videos into short clips.",
@@ -9600,6 +9789,15 @@
     "categories": "AI Social Media Assistant, AI Bio Generator, AI SEO Assistant",
     "slug": "plano-ly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RoastMyResume",
+    "name": "RoastMyResume",
+    "description": "AI-driven humorous resume feedback to improve job applications.",
+    "website": "https://www.rostmyresume.xyz",
+    "categories": "AI Joke, Resume Builder, AI PDF, AI Interview Assistant, AI Recruiting",
+    "slug": "roastmyresume",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "TwainGPT",
@@ -10898,6 +11096,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Hautech.AI",
+    "name": "Hautech.AI",
+    "description": "AI platform for generating stunning fashion visuals.",
+    "website": "https://www.hautech.ai",
+    "categories": "AI Photo & Image Generator, Text to Image, AI Image Enhancer, Photo & Image Editor, AI Photo Enhancer, AI Clothing Generator, AI Advertising Assistant, AI Reviews Assistant, AI Ad Creative Assistant, AI Social Media Assistant, AI Ad Generator, Digital Marketing Generator, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant",
+    "slug": "hautech-ai",
+    "created_at": "14:12:23 04/22/2025"
+  },
+  {
     "title": "Casc",
     "name": "Casc",
     "description": "Access and scale knowledge instantly",
@@ -11796,6 +12003,15 @@
     "categories": "AI Story Writing, AI Creative Writing, Text to Image, AI Illustration Generator, AI Education Assistant, Parenting, AI Art Generator, AI Social Media Assistant",
     "slug": "imagine-tales",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RapidMCP",
+    "name": "RapidMCP",
+    "description": "Convert REST APIs into MCP servers effortlessly.",
+    "website": "https://rapid-mcp.com",
+    "categories": "Prompt, No-Code&Low-Code, AI API Design",
+    "slug": "rapidmcp",
+    "created_at": "14:12:23 04/22/2025"
   },
   {
     "title": "DeepSeek AI",
