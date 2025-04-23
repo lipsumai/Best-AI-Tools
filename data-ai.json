@@ -1971,6 +1971,15 @@
     "created_at": "14:12:51 04/16/2025"
   },
   {
+    "title": "Aimi Sync",
+    "name": "Aimi Sync",
+    "description": "Aimi Sync automatically analyzes any video and generates royalty‑free, perfectly timed soundtracks—plus optional AI voice‑overs—via a simple web app. No editing, no licensing headaches, just upload and go.",
+    "website": "https://aimi.fm",
+    "categories": "AI Music Video Generator, AI Music Generator",
+    "slug": "aimi-sync",
+    "created_at": "02:24:57 04/23/2025"
+  },
+  {
     "title": "Logzen",
     "name": "Logzen",
     "description": "AI log assistant for real-time log interaction.",
@@ -3561,6 +3570,15 @@
     "categories": "Fitness, Healthcare",
     "slug": "nutrinote",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vadoo AI",
+    "name": "Vadoo AI",
+    "description": "AI dashboard for video creation and management.",
+    "website": "https://ai.vadoo.tv",
+    "categories": "AI Anime Art, AI Story Writing, AI Lip Sync Generator, AI YouTube Assistant, AI Tiktok Assistant, AI Art Generator, AI 3D Model Generator, Image to 3D Model, AI Video Recording, Captions or Subtitle, AI Script Writing, AI Creative Writing, AI Social Media Assistant, Photo & Image Editor, AI Background Remover, AI Face Swap Generator, AI Anime & Cartoon Generator, AI Video Editor, AI Thumbnail Maker, AI Video Enhancer, AI Image Enhancer, AI Photo Enhancer",
+    "slug": "vadoo-ai",
+    "created_at": "02:24:57 04/23/2025"
   },
   {
     "title": "Phase",
