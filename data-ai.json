@@ -1125,6 +1125,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Rayo",
+    "name": "Rayo",
+    "description": "Generate SEO Content on Autopilot",
+    "website": "https://rayo.work",
+    "categories": "AI Blog Writer, AI Content Generator",
+    "slug": "rayo",
+    "created_at": "02:26:03 04/24/2025"
+  },
+  {
     "title": "Free Paraphrasing Tool-Toolsmart",
     "name": "Free Paraphrasing Tool-Toolsmart",
     "description": "Free Paraphrasing Tool is a powerful AI writing assistant designed to help you rewrite and polish content with total flexibility—completely free, unlimited, and ad-free.",
@@ -8118,6 +8127,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "magi-1",
+    "name": "magi-1",
+    "description": "Open-source model for autoregressive video generation with high quality.",
+    "website": "https://magi-1.io",
+    "categories": "Prompt, AI Video Recording, Image to Video, Text to Video, AI Video Generator",
+    "slug": "magi-1",
+    "created_at": "02:26:03 04/24/2025"
+  },
+  {
     "title": "AiNameIt",
     "name": "AiNameIt",
     "description": "AI-driven platform for generating business names and taglines.",
@@ -8566,6 +8584,15 @@
     "categories": "Other",
     "slug": "knoiz",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Convoso",
+    "name": "Convoso",
+    "description": "Innovating contact center solutions since 2006",
+    "website": "https://www.convoso.com",
+    "categories": "Speech-to-Text, AI Speech Recognition, AI Voice Assistants, AI Lead Generation, AI Chatbot, AI Workflow Management, AI Contract Management",
+    "slug": "convoso",
+    "created_at": "02:26:03 04/24/2025"
   },
   {
     "title": "Albert AI",
