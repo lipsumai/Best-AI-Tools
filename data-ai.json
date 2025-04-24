@@ -1134,6 +1134,15 @@
     "created_at": "02:26:03 04/24/2025"
   },
   {
+    "title": "Callio",
+    "name": "Callio",
+    "description": "AI-powered content marketing automation for startups and small businesses.",
+    "website": "https://callio.com",
+    "categories": "AI SEO Assistant, Marketing Plan Generator, AI Scheduling, AI Blog Writer, General Writing, Writing Assistants, AI Content Generator, Copywriting, AI Product Description Generator",
+    "slug": "callio",
+    "created_at": "14:11:12 04/24/2025"
+  },
+  {
     "title": "Free Paraphrasing Tool-Toolsmart",
     "name": "Free Paraphrasing Tool-Toolsmart",
     "description": "Free Paraphrasing Tool is a powerful AI writing assistant designed to help you rewrite and polish content with total flexibility—completely free, unlimited, and ad-free.",
@@ -4266,6 +4275,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Syft AI",
+    "name": "Syft AI News Aggregator",
+    "description": "AI-powered personalized news aggregator delivering tailored content.",
+    "website": "https://justsyft.com",
+    "categories": "Summarizer",
+    "slug": "syft-ai-news-aggregator",
+    "created_at": "14:11:12 04/24/2025"
+  },
+  {
     "title": "Backflip AI",
     "name": "Backflip AI",
     "description": "AI tools for transforming 3D scans into CAD models.",
@@ -4534,6 +4552,15 @@
     "categories": "Other",
     "slug": "lavione",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AgentR",
+    "name": "AgentR",
+    "description": "AI hiring assistant for talent analysis and candidate identification.",
+    "website": "https://agentr.global",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator",
+    "slug": "agentr",
+    "created_at": "14:11:12 04/24/2025"
   },
   {
     "title": "Ledger",
@@ -5533,6 +5560,15 @@
     "categories": "AI Business Ideas Generator, Domain Name Generator, E-commerce Assistant",
     "slug": "side-hustle-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sand.ai",
+    "name": "Sand.ai",
+    "description": "AI research and product company focusing on video generation models.",
+    "website": "https://sand.ai",
+    "categories": "AI Video Recording, Text to Video, AI Video Generator, AI Content Generator",
+    "slug": "sand-ai",
+    "created_at": "14:11:12 04/24/2025"
   },
   {
     "title": "Email Assistant",
@@ -11366,6 +11402,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Minea",
+    "name": "Minea",
+    "description": "E-commerce tool tracking ads to boost sales and profits.",
+    "website": "https://en.minea.com",
+    "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Customer Service Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, AI Coaching, Research Tool, E-commerce Assistant, AI Product Description Generator",
+    "slug": "minea",
+    "created_at": "14:11:12 04/24/2025"
+  },
+  {
     "title": "ShipFast",
     "name": "ShipFast",
     "description": "NextJS boilerplate for rapid startup launches.",
@@ -12329,6 +12374,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tenorshare AI Bypass",
+    "name": "Tenorshare AI Bypass",
+    "description": "Your ultimate tool to humanize AI text and beat AI detection.",
+    "website": "https://ai.tenorshare.com",
+    "categories": "AI Rewriter, Paraphraser, AI Detector, AI Content Detector",
+    "slug": "tenorshare-ai-bypass",
+    "created_at": "14:11:12 04/24/2025"
+  },
+  {
     "title": "Thentic",
     "name": "Thentic",
     "description": "Automate Web3 tasks easily with Thentic, no coding required.",
@@ -12984,6 +13038,15 @@
     "categories": "AI Chatbot, AI Voice Assistants, AI PDF, AI Content Generator, Writing Assistants, General Writing, AI Creative Writing, Essay Writer, AI Rewriter, AI Story Writing, Copywriting, Summarizer, AI Blog Writer, AI Photo & Image Generator, Paraphraser, AI Illustration Generator, Report Writing, Text to Image, Papers, AI Product Description Generator, Image to Image, AI Book Writing, AI Script Writing, AI Email Writer, Novel, Captions or Subtitle, Quotes Generator, AI Image Recognition, Letter Writer, AI Image Enhancer, Photo & Image Editor, AI Photo Enhancer, AI Profile Picture Generator, AI Avatar Generator, AI Video Editor, AI Bio Generator",
     "slug": "olivia-ai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "ModAI",
+    "name": "ModAi",
+    "description": "AI Discord bot for community support and ticket management.",
+    "website": "https://modai.app",
+    "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, AI Knowledge Management",
+    "slug": "modai",
+    "created_at": "14:11:12 04/24/2025"
   },
   {
     "title": "UsageGuard",
