@@ -4698,6 +4698,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "BLACKBOX.AI",
+    "name": "BLACKBOX.AI",
+    "description": "AI agent for transforming work and learning experiences.",
+    "website": "https://www.blackbox.ai",
+    "categories": "Large Language Models (LLMs), AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI App Builder, Writing Assistants, AI Content Generator, AI Developer Tools, AI Chatbot",
+    "slug": "blackbox-ai-1",
+    "created_at": "14:11:25 04/25/2025"
+  },
+  {
     "title": "Creative Concepts",
     "name": "ConceptAI",
     "description": "Creative Concepts offers unique and professional design concepts at unbeatable prices.",
@@ -5983,6 +5992,15 @@
     "categories": "AI Lead Generation",
     "slug": "samrt-lead-magnet",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "goHeather",
+    "name": "goHeather",
+    "description": "AI platform for easy contract drafting and review.",
+    "website": "https://www.goheather.io",
+    "categories": "Legal Assistant, AI Contract Management, AI Content Generator",
+    "slug": "goheather",
+    "created_at": "14:11:25 04/25/2025"
   },
   {
     "title": "Artwo",
@@ -10248,6 +10266,15 @@
     "categories": "AI Podcast Assistant, AI YouTube Assistant, AI Knowledge Management, AI Productivity Tools, AI Notes Assistant, Research Tool, Summarizer, AI Content Generator, Writing Assistants, Papers, Report Writing",
     "slug": "cerebro",
     "created_at": "02:24:12 04/22/2025"
+  },
+  {
+    "title": "iRocket iCreaVoice",
+    "name": "iRocket iCreaVoice",
+    "description": "iRocket iCreaVoice is an AI-powered voice changer that supports high-fidelity real-time transformation using RVC models, custom voice uploads, and natural multi-language synthesis.",
+    "website": "https://www.irocketx.com",
+    "categories": "AI Voice Changer, AI Voice Cloning",
+    "slug": "irocket-icreavoice",
+    "created_at": "14:11:25 04/25/2025"
   },
   {
     "title": "White Swan",
