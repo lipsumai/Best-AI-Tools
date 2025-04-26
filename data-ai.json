@@ -1521,6 +1521,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Weavely.ai",
+    "name": "Weavely.ai",
+    "description": "AI Forms and Surveys",
+    "website": "https://www.weavely.ai",
+    "categories": "AI Forms & Surveys, Research Tool, AI Lead Generation, No-Code&Low-Code, Digital Marketing Generator, AI Consulting Assistant, AI Content Generator",
+    "slug": "weavely-ai",
+    "created_at": "02:21:00 04/26/2025"
+  },
+  {
     "title": "Buildzero",
     "name": "Buildzero",
     "description": "AI-powered startup idea validation through voice calls.",
@@ -3616,6 +3625,15 @@
     "categories": "AI Website Builder, AI Website Designer, No-Code&Low-Code, AI App Builder, AI Developer Tools, AI API Design, AI Landing Page Builder",
     "slug": "backengine",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Social Media Manager",
+    "name": "AI Social Media Manager",
+    "description": "Enhance social media growth with planning and scheduling tools.",
+    "website": "https://aisocialmediamanager.io",
+    "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Scheduling, AI Bio Generator, AI Analytics Assistant",
+    "slug": "ai-social-media-manager",
+    "created_at": "02:21:00 04/26/2025"
   },
   {
     "title": "RecapioGPT",
@@ -5812,6 +5830,15 @@
     "categories": "AI Advertising Assistant, AI Chatbot, AI Dating Assistant, AI Reply Assistant, AI Response Generator, AI Voice Chat Generator, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "rednit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Backlink Management",
+    "name": "Backlink Management",
+    "description": "All-in-one tool for managing backlinks and growing organic traffic.",
+    "website": "https://backlinkmanagement.io",
+    "categories": "AI SEO Assistant, AI Team Collaboration, AI Content Generator, AI Email Writer",
+    "slug": "backlink-management",
+    "created_at": "02:21:00 04/26/2025"
   },
   {
     "title": "Speechy",
@@ -10752,6 +10779,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, E-commerce Assistant, AI Product Description Generator, Writing Assistants, AI Content Generator, AI Email Writer, Copywriting, General Writing",
     "slug": "gorgias",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "DialLink's AI Voice Agents",
+    "name": "DialLink's AI Voice Agents",
+    "description": "AI voice agents that automate calls to enhance customer satisfaction and drive growth",
+    "website": "https://diallink.com",
+    "categories": "Speech-to-Text, AI Voice Assistants, Sales Assistant, AI Customer Service Assistant, AI Lead Generation",
+    "slug": "diallink-s-ai-voice-agents",
+    "created_at": "02:21:00 04/26/2025"
   },
   {
     "title": "HypeWize",
