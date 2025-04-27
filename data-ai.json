@@ -4563,6 +4563,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Learn Earth",
+    "name": "Learn Earth",
+    "description": "AI-driven adaptive learning platform for personalized education.",
+    "website": "https://www.learn.earth",
+    "categories": "AI Course, AI Education Assistant, AI Content Generator, AI Tutorial, AI Quizzes",
+    "slug": "learn-earth",
+    "created_at": "14:09:57 04/27/2025"
+  },
+  {
     "title": "Anima",
     "name": "Anima",
     "description": "Transforms design into code with AI support for web development.",
@@ -6469,6 +6478,15 @@
     "categories": "AI Code Assistant, AI Developer Tools",
     "slug": "reviewforge",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "O.Translator",
+    "name": "O.Translator",
+    "description": "AI-driven document translator for flawless translations.",
+    "website": "https://otranslator.com",
+    "categories": "AI PDF, Translate",
+    "slug": "o-translator",
+    "created_at": "14:09:57 04/27/2025"
   },
   {
     "title": "ClearPhrase",
