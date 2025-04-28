@@ -27,6 +27,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Flux AI",
+    "name": "Flux AI - Image & Video Art AI",
+    "description": "Rapid AI image generator for creative content creation.",
+    "website": "https://play.google.com/store/apps/details",
+    "categories": "AI Social Media Assistant, AI Art Generator, Text to Image, AI Photo & Image Generator, Image to Video, Text to Video, AI Video Generator, AI Instagram Assistant, AI Tiktok Assistant, AI Twitter Assistant, AI YouTube Assistant",
+    "slug": "flux-ai-image-video-art-ai",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "Plagiarism Remover",
     "name": "Plagiarism Remover",
     "description": "A free AI tool for removing plagiarism from text.",
@@ -234,6 +243,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SpicyGen",
+    "name": "SpicyGen",
+    "description": "Turn AI Images into Creative Videos",
+    "website": "https://spicygen.ai",
+    "categories": "AI Animated Video, Image to Video, AI Video Generator",
+    "slug": "spicygen",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "AI to Data",
     "name": "AI to Data",
     "description": "AI to Data is an AI-powered data generator for generating real and secure data.",
@@ -322,6 +340,15 @@
     "categories": "AI Interview Assistant, AI Recruiting",
     "slug": "hyresynth",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AiPy",
+    "name": "AiPy",
+    "description": "AI assistant for programming and automated task execution.",
+    "website": "https://www.aipy.app",
+    "categories": "AI Trip Planner, Life Assistant, Game, Report Writing, AI Charting, AI Maps Generator, AI Code Assistant, AI Monitor & Report Builder, Writing Assistants, AI Content Generator, Code Explanation, AI Code Generator, AI Code Refactoring",
+    "slug": "aipy",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "talksprout",
@@ -2115,6 +2142,15 @@
     "created_at": "02:21:21 04/04/2025"
   },
   {
+    "title": "Suna",
+    "name": "Suna",
+    "description": "Open source AI assistant for tasks and data analysis.",
+    "website": "https://www.suna.so",
+    "categories": "Research Tool, Web Scraping",
+    "slug": "suna",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "My Dev Agents",
     "name": "Upwork Business Developer | MyDevAgents",
     "description": "AI-based agents for Upwork proposal generation",
@@ -2122,6 +2158,15 @@
     "categories": "Writing Assistants",
     "slug": "upwork-business-developer-mydevagents",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Listen Labs",
+    "name": "Listen Labs",
+    "description": "AI-driven customer interviews for actionable insights.",
+    "website": "https://listenlabs.ai",
+    "categories": "Research Tool, Report Writing, AI Interview Assistant, AI Recruiting, AI Advertising Assistant, AI Ad Creative Assistant, AI Lead Generation, Marketing Plan Generator",
+    "slug": "listen-labs",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "Owl AI",
@@ -3069,6 +3114,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Yourware",
+    "name": "Yourware",
+    "description": "Instant deployment of AI-generated websites with no configuration.",
+    "website": "https://www.yourware.so",
+    "categories": "AI Website Designer, AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Instagram Assistant",
+    "slug": "yourware",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "UniqMail",
     "name": "UniqMail",
     "description": "Revolutionize emailing with AI customization",
@@ -3501,6 +3555,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Jo",
+    "name": "Jo",
+    "description": "Gather real user feedback before product launch.",
+    "website": "https://jo.floto.ai",
+    "categories": "AI Customer Service Assistant, AI Chatbot, AI Forms & Surveys",
+    "slug": "jo",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "Wunderwrite",
     "name": "Wunderwrite",
     "description": "Generate captions for photos with AI-powered tool Wunderwrite, analyzing emotions and suggesting keywords.",
@@ -3634,6 +3697,15 @@
     "categories": "AI Website Builder, AI Website Designer, No-Code&Low-Code, AI App Builder, AI Developer Tools, AI API Design, AI Landing Page Builder",
     "slug": "backengine",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Readly",
+    "name": "Readly",
+    "description": "Accelerates learning Chinese through an interactive scanning solution.",
+    "website": "https://readly.ink",
+    "categories": "Novel, AI Image Scanning, AI Image Recognition, AI Education Assistant, Translate",
+    "slug": "readly",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "AI Social Media Manager",
@@ -5022,6 +5094,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Pai",
+    "name": "Pai",
+    "description": "AI study assistant providing step-by-step solutions",
+    "website": "https://www.paiapp.net",
+    "categories": "AI Chatbot, Homework Helper, AI Course, AI Education Assistant, Writing Assistants, AI Content Generator",
+    "slug": "pai-ai-tutor-for-a-level-ap-and-more",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "PageWise AI",
     "name": "PageWise AI",
     "description": "PageWise AI eliminates repetitive searches by providing direct access to Confluence pages in Slack.",
@@ -5715,6 +5796,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Doctorina",
+    "name": "Doctorina",
+    "description": "AI telemedicine platform for personalized health insights and recommendations.",
+    "website": "https://doctorina.com",
+    "categories": "AI Chatbot, Healthcare",
+    "slug": "doctorina",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "MergeML",
     "name": "MergeML",
     "description": "AI image generation using merged inputs.",
@@ -6082,6 +6172,15 @@
     "categories": "AI Analytics Assistant, AI CRM Assistant, Sales Assistant, AI Lead Generation, Newsletter",
     "slug": "apptrop",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ZippLead",
+    "name": "Zipplead",
+    "description": "Complete marketing and lead generation platform for businesses.",
+    "website": "https://zipplead.com",
+    "categories": "AI Lead Generation, AI Email Writer, AI Content Generator, AI CRM Assistant, AI Reviews Assistant, AI Email Assistant, AI Email Marketing, AI Chatbot, AI Customer Service Assistant, Newsletter, AI SEO Assistant",
+    "slug": "zipplead",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "LocalBot.ai",
@@ -6487,6 +6586,15 @@
     "categories": "AI PDF, Translate",
     "slug": "o-translator",
     "created_at": "14:09:57 04/27/2025"
+  },
+  {
+    "title": "Raycast AI",
+    "name": "Raycast AI Lite",
+    "description": "AI platform with powerful extensions on your OS.",
+    "website": "https://raycast.ai",
+    "categories": "Large Language Models (LLMs), AI Content Generator",
+    "slug": "raycast-ai-lite",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "ClearPhrase",
@@ -7515,6 +7623,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "Thunder.vc",
+    "name": "Thunder",
+    "description": "Investment banking platform connecting startups with relevant investors.",
+    "website": "https://web.thunder.vc",
+    "categories": "AI Consulting Assistant, Investing Assistant, AI Podcast Assistant, Newsletter",
+    "slug": "thunder",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "Savro AI",
     "name": "Savro AI",
     "description": "Create adult AI influencers in minutes",
@@ -7738,6 +7855,15 @@
     "categories": "Large Language Models (LLMs), AI Tools Directory",
     "slug": "gptshub",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SUAPP AI",
+    "name": "SUAPP AI",
+    "description": "AI Design Assistant for Architects and Interior Designers",
+    "website": "https://suapp.ai",
+    "categories": "AI Design Generator, Photo & Image Editor, Image to Image, AI Charting, AI Landscape Generator, AI 3D Model Generator, Design Assistant, AI Interior & Room Design, Image to 3D Model, Text to 3D, AI Graphic Design, Video to Video, Image to Video, AI Art Generator, AI Image Enhancer, AI Background Remover, Text to Image, Text to Video",
+    "slug": "suapp-ai",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "Arro",
@@ -8080,6 +8206,15 @@
     "categories": "AI Rewriter, Paraphraser",
     "slug": "phrasal-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AceUnlock",
+    "name": "AceUnlock AI",
+    "description": "AI tools for interview preparation and feedback.",
+    "website": "https://www.aceunlock.com",
+    "categories": "AI Interview Assistant, AI Quizzes",
+    "slug": "aceunlock-ai",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "CSV-AI",
@@ -8476,6 +8611,24 @@
     "categories": "Parenting, Mental Health",
     "slug": "canopy",
     "created_at": "14:10:50 04/18/2025"
+  },
+  {
+    "title": "Flair AI",
+    "name": "Flair AI - AI Art Generator",
+    "description": "AI art and video generator from text prompts",
+    "website": "https://apps.apple.com/us/app/flair-ai-ai-art-generator/id6499095429",
+    "categories": "AI Art Generator, AI Social Media Assistant, AI Graphic Design, Prompt, AI Photo & Image Generator, Image to Video, Text to Video, AI Video Generator, Text to Image, AI Profile Picture Generator, AI Instagram Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Facebook Assistant, AI Tiktok Assistant",
+    "slug": "flair-ai-ai-art-generator",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Spray",
+    "name": "Spray",
+    "description": "AI gifting platform linking brands with influencers.",
+    "website": "https://spray.io",
+    "categories": "AI Social Media Assistant, AI Gift Ideas, AI Email Writer, AI Advertising Assistant, AI Instagram Assistant, AI Content Generator, AI Analytics Assistant, AI Ad Creative Assistant, AI Product Description Generator, Digital Marketing Generator, AI Email Assistant, AI Tiktok Assistant, AI Email Marketing, Marketing Plan Generator",
+    "slug": "spray",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "Designly AI",
@@ -9204,6 +9357,15 @@
     "categories": "AI Content Generator, Writing Assistants",
     "slug": "saystory",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SafeWrite AI",
+    "name": "SafeWrite AI",
+    "description": "AI rewriting tool for human-like text and detector bypassing.",
+    "website": "https://safewrite.ai",
+    "categories": "AI Detector, AI Content Detector, AI Rewriter, Paraphraser, Writing Assistants, Copywriting, Papers, Report Writing, General Writing, AI Content Generator, Essay Writer, AI Product Description Generator",
+    "slug": "safewrite-ai",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "AskSteve",
@@ -10376,6 +10538,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "RecapLoop",
+    "name": "Recaploop",
+    "description": "AI tool for gathering meeting feedback and insights.",
+    "website": "https://www.recaploop.com",
+    "categories": "AI Analytics Assistant, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Meeting Assistant, AI Workflow Management, AI Scheduling",
+    "slug": "recaploop",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "ls graphics",
     "name": "ls graphics",
     "description": "High-quality mockups for graphic designers and digital artists.",
@@ -10401,6 +10572,15 @@
     "categories": "AI CRM Assistant, AI Recruiting, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Workflow Management, AI Project Management",
     "slug": "smartsuite",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "CybeDefend",
+    "name": "CybeDefend",
+    "description": "AI application security solution for real-time vulnerability detection and fixing.",
+    "website": "https://cybedefend.com",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Code Generator, AI DevOps Assistant",
+    "slug": "cybedefend",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "Webfuse",
@@ -10934,6 +11114,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Resonance Studio",
+    "name": "Resonance Studio",
+    "description": "Studio for startups creating resonant brands and products with AI expertise.",
+    "website": "https://www.theresonance.studio",
+    "categories": "AI Graphic Design, Design Assistant, AI Business Ideas Generator, Copywriting, AI Story Writing, AI Creative Writing, AI Product Description Generator, AI Logo Generator",
+    "slug": "resonance-studio",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "FileSpeech",
     "name": "FileSpeech",
     "description": "Convert files into speech with personalized language and voice options.",
@@ -11420,6 +11609,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "KIVA by Wellows",
+    "name": "KIVA (By Wellows)",
+    "description": "AI SEO agent for automating keyword research and content optimization",
+    "website": "https://wellows.com",
+    "categories": "AI SEO Assistant, AI Content Generator, Writing Assistants, AI Blog Writer, General Writing, Copywriting, AI Rewriter, Paraphraser",
+    "slug": "kiva-by-wellows",
+    "created_at": "14:13:12 04/28/2025"
+  },
+  {
     "title": "Rubii AI",
     "name": "Rubii",
     "description": "Rubii",
@@ -11598,6 +11796,15 @@
     "categories": "AI Reviews Assistant",
     "slug": "supascout",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Spring.new",
+    "name": "spring.new",
+    "description": "AI platform for building custom apps and workflows in minutes.",
+    "website": "https://spring.new",
+    "categories": "AI Content Generator, No-Code&Low-Code, AI App Builder, Text to Image, AI Photo & Image Generator, AI Landing Page Builder, AI Website Builder",
+    "slug": "spring-new",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "Brainstorm Buddy",
@@ -12993,6 +13200,15 @@
     "categories": "Other",
     "slug": "lensa",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lymio",
+    "name": "Lymio",
+    "description": "LinkedIn sales assistant for optimizing conversations into sales.",
+    "website": "https://www.lymio.es",
+    "categories": "AI Lead Generation, Sales Assistant, Writing Assistants, AI Content Generator, AI Response Generator, AI Reply Assistant",
+    "slug": "lymio",
+    "created_at": "14:13:12 04/28/2025"
   },
   {
     "title": "Fight IQ",
