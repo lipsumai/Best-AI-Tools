@@ -3726,6 +3726,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Heuristica",
+    "name": "Heuristica",
+    "description": "AI platform for visualizing and organizing learning with mind maps.",
+    "website": "https://heuristi.ca",
+    "categories": "AI Mind Mapping, Large Language Models (LLMs), Writing Assistants, Essay Writer, Papers, Summarizer, AI Content Generator",
+    "slug": "heuristica",
+    "created_at": "02:26:12 04/30/2025"
+  },
+  {
     "title": "Remy",
     "name": "Remy",
     "description": "AI cooking assistant for step-by-step recipe guidance.",
@@ -10538,6 +10547,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "bestcoloringpages",
+    "name": "bestcoloringpages",
+    "description": "Free printable AI coloring pages for all ages and occasions.",
+    "website": "https://www.bestcoloringpages.ai",
+    "categories": "AI Art Generator, Mental Health, AI Education Assistant, AI PDF, AI Content Generator",
+    "slug": "bestcoloringpages",
+    "created_at": "02:26:12 04/30/2025"
+  },
+  {
     "title": "RecapLoop",
     "name": "Recaploop",
     "description": "AI tool for gathering meeting feedback and insights.",
@@ -11492,6 +11510,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "AI SVG Generator | text to SVG | svg.onl",
+    "name": "AI SVG Generator | text to SVG | svg.onl",
+    "description": "Create colorful SVG vector graphics using AI technology.",
+    "website": "https://svg.onl",
+    "categories": "AI Analytics Assistant, AI Art Generator, AI Design Generator, AI Graphic Design, AI Photo & Image Generator, AI Illustration Generator",
+    "slug": "ai-svg-generator-text-to-svg-svg-onl",
+    "created_at": "02:26:12 04/30/2025"
+  },
+  {
     "title": "Workik",
     "name": "Workik",
     "description": "AI-powered coding assistant for developers' efficiency.",
@@ -11976,6 +12003,15 @@
     "categories": "Game, AI Productivity Tools, AI Team Collaboration, AI Documents Assistant, Writing Assistants, AI Content Generator, AI Code Assistant, Code Explanation, AI Code Generator, AI Monitor & Report Builder, AI Developer Tools, Report Writing",
     "slug": "grok-studio",
     "created_at": "02:24:06 04/17/2025"
+  },
+  {
+    "title": "Publora",
+    "name": "Publora",
+    "description": "Social media management tool for scheduling and analytics.",
+    "website": "https://publora.com",
+    "categories": "AI Analytics Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Repurpose Assistant, AI Scheduling, AI Content Generator",
+    "slug": "publora",
+    "created_at": "02:26:12 04/30/2025"
   },
   {
     "title": "Myple",
