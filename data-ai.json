@@ -819,6 +819,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "YouTube Transcript Generator",
+    "name": "YouTube Transcript Generator",
+    "description": "Extracts YouTube transcripts for easy access and review.",
+    "website": "https://transcriptgenerator.org",
+    "categories": "AI YouTube Assistant, AI Document Extraction, Research Tool, Captions or Subtitle, Transcription, Transcriber",
+    "slug": "youtube-transcript-generator",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "LLM API Costs Widget",
     "name": "LLM API Costs Widget",
     "description": "App for managing OpenAI API expenses effectively.",
@@ -1485,6 +1494,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Raindrop",
+    "name": "Raindrop",
+    "description": "AI monitoring tool for alerts on issues and successes.",
+    "website": "https://www.raindrop.ai",
+    "categories": "AI Analytics Assistant, AI Chatbot, Life Assistant, Large Language Models (LLMs), AI Monitor & Report Builder, AI Log Management, AI Customer Service Assistant",
+    "slug": "raindrop",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "Unearthed",
     "name": "Unearthed",
     "description": "AI tool for syncing Kindle highlights and generating insights.",
@@ -1746,6 +1764,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "FullReviews",
+    "name": "FullReviews",
+    "description": "AI-powered platform for managing Google Reviews and boosting local SEO.",
+    "website": "https://www.fullreviews.co",
+    "categories": "AI Customer Service Assistant, AI Reply Assistant, AI SEO Assistant, AI Reviews Assistant, AI Response Generator, AI Content Generator",
+    "slug": "fullreviews",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "SupermodsAI",
     "name": "SupermodsAI",
     "description": "AI app for transforming and creating images with ease.",
@@ -1807,6 +1834,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator",
     "slug": "simplify",
     "created_at": "02:26:00 04/06/2025"
+  },
+  {
+    "title": "TurboSQL",
+    "name": "TurboSQL",
+    "description": "AI-powered SQL desktop app for fast database management.",
+    "website": "https://www.turbosql.co",
+    "categories": "AI SQL Query Builder",
+    "slug": "turbosql",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "Welle",
@@ -2682,6 +2718,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Promptaa",
+    "name": "Promptaa",
+    "description": "An AI prompt library for organizing and enhancing prompts.",
+    "website": "https://promptaa.com",
+    "categories": "AI Email Assistant, Prompt, AI Content Generator, AI Creative Writing, AI Story Writing, AI Email Writer, AI Product Description Generator, Copywriting, AI Book Writing, Writing Assistants, Letter Writer, Report Writing, AI Rewriter, Paraphraser, Summarizer, AI Blog Writer, AI Script Writing, Essay Writer",
+    "slug": "promptaa",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "Prisma Assistant",
     "name": "Prisma Assistant",
     "description": "Schema interaction and code generation tool",
@@ -2878,6 +2923,15 @@
     "categories": "AI Content Generator, AI Landing Page Builder, AI Advertising Assistant, AI SEO Assistant, AI Blog Writer",
     "slug": "seoll-e",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Frame",
+    "name": "AI Frame",
+    "description": "AI site builder for fast and smart design.",
+    "website": "https://aifra.me",
+    "categories": "AI Design Generator, AI Graphic Design, Design Assistant, AI Website Designer, Prompt, Writing Assistants, AI Content Generator, AI Website Builder, No-Code&Low-Code, Copywriting, General Writing, AI Landing Page Builder, AI Rewriter, Paraphraser, AI Product Description Generator",
+    "slug": "ai-frame",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "Ghiblio Art",
@@ -4509,6 +4563,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "Stackie.AI",
+    "name": "Stackie.AI Your Life Logger",
+    "description": "Personal logging and tracking app for organized life management.",
+    "website": "https://stackie.ai",
+    "categories": "AI Log Management, Mental Health, AI Notes Assistant, Life Assistant, AI Productivity Tools, Fitness",
+    "slug": "stackie-ai-your-life-logger",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "Raphael AI",
     "name": "Raphael AI",
     "description": "Unlimited free AI image generator for high-quality image creation.",
@@ -4707,6 +4770,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Boltweb",
+    "name": "Boltweb",
+    "description": "AI web builder for creating unique landing pages",
+    "website": "https://boltweb.co",
+    "categories": "AI Content Generator, No-Code&Low-Code, AI Website Builder, AI Landing Page Builder, AI Product Description Generator, Copywriting, AI Website Designer, AI Productivity Tools, AI Advertising Assistant, AI Ad Generator, AI Ad Creative Assistant, Design Assistant, AI Workflow Management, AI Project Management, AI Task Management, AI Lead Generation, Marketing Plan Generator, AI Team Collaboration",
+    "slug": "boltweb",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "Vertate",
     "name": "Vertate",
     "description": "AI-driven sound library for producers and creators.",
@@ -4777,6 +4849,15 @@
     "categories": "AI Interior & Room Design, AI 3D Model Generator",
     "slug": "foyr-neo",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Behind SaaS",
+    "name": "Behind SaaS",
+    "description": "A dev agency for non-technical founders to launch SaaS products.",
+    "website": "https://behindsaas.com",
+    "categories": "No-Code&Low-Code, AI Website Builder",
+    "slug": "behind-saas",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "Memrise",
@@ -5659,6 +5740,15 @@
     "categories": "Other",
     "slug": "dantia",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ztalk.ai",
+    "name": "Ztalk.ai",
+    "description": "AI-driven voice translation tool for video calls.",
+    "website": "https://ztalk.ai",
+    "categories": "AI Meeting Assistant, Translate, AI Speech Recognition, AI Noise Cancellation, Speech-to-Text, Captions or Subtitle",
+    "slug": "ztalk-ai",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "PDF.co",
@@ -7605,6 +7695,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Kinder",
+    "name": "Kinder games",
+    "description": "An educational swiping game that enhances learning for kids.",
+    "website": "https://kindergames.org",
+    "categories": "Game, Homework Helper, AI Knowledge Base, AI Quizzes, AI Education Assistant, AI Content Generator",
+    "slug": "kinder-games",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "Influee",
     "name": "Influee",
     "description": "UGC platform connecting brands with a creator network for content creation.",
@@ -7720,6 +7819,15 @@
     "categories": "AI SEO Assistant, AI Reviews Assistant, AI Tutorial, AI Course, AI Education Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Code Assistant, AI Code Generator, Code Explanation, AI Code Refactoring, AI Developer Tools, AI Website Builder, Copywriting, General Writing, Writing Assistants",
     "slug": "codefast",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "PostLazy",
+    "name": "PostLazy",
+    "description": "Social media scheduler for creators, marketers, and agencies.",
+    "website": "https://postlazy.com",
+    "categories": "AI Analytics Assistant, AI Social Media Assistant, AI Hashtag Assistant, AI Repurpose Assistant, AI Project Management, AI Scheduling, Captions or Subtitle, General Writing, Writing Assistants, AI Content Generator, AI Photo & Image Generator, AI Twitter Assistant, AI Instagram Assistant, AI Facebook Assistant",
+    "slug": "postlazy",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "ExamCram",
@@ -9395,6 +9503,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "DeepWiki",
+    "name": "DeepWiki by Congnition",
+    "description": "AI generates interactive documentation for GitHub repos.",
+    "website": "https://deepwiki.com",
+    "categories": "Large Language Models (LLMs)",
+    "slug": "deepwiki-by-congnition",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "Chat Recap",
     "name": "Chat Recap",
     "description": "AI tool for analyzing cross-platform chat history and insights.",
@@ -9566,6 +9683,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Desklib",
+    "name": "Desklib",
+    "description": "AI-powered toolkit for academic success and learning enhancement.",
+    "website": "https://desklib.com",
+    "categories": "AI Detector, AI Plagiarism Checker, Homework Helper, AI Quizzes, AI Education Assistant, Research Tool, Paraphraser, Papers, Report Writing, Writing Assistants",
+    "slug": "desklib",
+    "created_at": "14:12:02 04/30/2025"
+  },
+  {
     "title": "Unstuck AI",
     "name": "Unstuck AI",
     "description": "AI tool for chatting with course materials and gaining insights.",
@@ -9726,6 +9852,15 @@
     "categories": "AI SEO Assistant, AI Blog Writer, AI Content Generator, AI Ad Creative Assistant, AI Rewriter, General Writing, Writing Assistants, AI Email Writer, AI Product Description Generator, Copywriting, AI Ad Generator, Paraphraser",
     "slug": "spyro-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Deep Founder Ai",
+    "name": "DeepFounder Ai",
+    "description": "AI platform for conducting market research and developing business plans.",
+    "website": "https://deepfounder.ai",
+    "categories": "Research Tool, AI Business Ideas Generator, Report Writing",
+    "slug": "deepfounder-ai",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "Contentful",
@@ -10113,6 +10248,15 @@
     "categories": "AI Art Generator, AI Content Generator, AI Photo & Image Generator",
     "slug": "promptum-ai-images-feed",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Live Portals",
+    "name": "Live Portals | Custom Video Conferencing",
+    "description": "Custom branded video conferencing for sales and demos",
+    "website": "https://liveportals.com",
+    "categories": "AI Analytics Assistant, AI Lead Generation, AI 3D Model Generator, AI Presentation Generator, AI Team Collaboration, AI Meeting Assistant, Sales Assistant, E-commerce Assistant",
+    "slug": "live-portals-custom-video-conferencing",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "ProMatch",
@@ -11175,6 +11319,15 @@
     "categories": "Resume Builder, Cover Letter Generator, AI Recruiting",
     "slug": "ai-resume-checker",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Smart Keys for Mac",
+    "name": "Smart Keys for Mac",
+    "description": "AI tool that enhances writing with shortcuts and translations.",
+    "website": "https://smartkeys.so",
+    "categories": "AI Grammar Checker, AI Productivity Tools, Translate, Writing Assistants, Summarizer, General Writing, Code Explanation",
+    "slug": "smart-keys-for-mac",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "SkyReels",
@@ -13524,6 +13677,15 @@
     "categories": "AI CRM Assistant, AI Recruiting, AI Product Description Generator",
     "slug": "humbird-ai-beta",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Learning Mode AI",
+    "name": "Youtube AI - Learning Mode",
+    "description": "AI-driven tools enhancing online learning through quizzes and video summaries.",
+    "website": "https://learningmodeai.com",
+    "categories": "AI YouTube Assistant, AI Chatbot, AI Tutorial, AI Course, AI Quizzes, AI Education Assistant, Newsletter, Summarizer",
+    "slug": "youtube-ai-learning-mode",
+    "created_at": "14:12:02 04/30/2025"
   },
   {
     "title": "Picsart Mod APK",
