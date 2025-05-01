@@ -5085,6 +5085,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "CrePal AI",
+    "name": "CrePal AI",
+    "description": "AI agent for automating video creation for different formats.",
+    "website": "https://crepal.ai",
+    "categories": "AI YouTube Assistant, AI Repurpose Assistant, AI Interview Assistant, AI Video Recording, AI Video Editor, AI Video Generator, AI Short Clips Generator, Text to Video, AI Script Writing, AI Animated Video, Captions or Subtitle",
+    "slug": "crepal-ai",
+    "created_at": "02:43:00 05/01/2025"
+  },
+  {
     "title": "Imagine Tales",
     "name": "Imagine Tales",
     "description": "A creative storytelling app for children with parental controls.",
@@ -6604,6 +6613,15 @@
     "categories": "AI PDF, Web Scraping, AI Browsers Builder",
     "slug": "browserless",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "NailDesignsLab",
+    "name": "NailDesignsLab",
+    "description": "AI platform for generating custom nail designs online.",
+    "website": "https://naildesignslab.com",
+    "categories": "AI Pattern Generator, AI Design Generator, AI Art Generator, Design Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Hashtag Assistant",
+    "slug": "naildesignslab",
+    "created_at": "02:43:00 05/01/2025"
   },
   {
     "title": "Conva.AI",
@@ -8251,6 +8269,15 @@
     "categories": "AI Recipe Assistant, AI Cooking Assistant",
     "slug": "nutricapture-ai-food-tracker",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Legacy Online School",
+    "name": "Legacy Online School",
+    "description": "Accredited online school for K-12 with flexible programs.",
+    "website": "https://legacyonlineschool.com",
+    "categories": "AI Course, AI Education Assistant, AI Reviews Assistant, AI Customer Service Assistant",
+    "slug": "legacy-online-school",
+    "created_at": "02:43:00 05/01/2025"
   },
   {
     "title": "Vaanee AI",
@@ -12633,6 +12660,15 @@
     "categories": "AI Course",
     "slug": "goodlearns",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SkinCareLens",
+    "name": "SkinCareLens",
+    "description": "AI-driven skin analysis with personalized Korean skincare recommendations.",
+    "website": "https://skincarelens.com",
+    "categories": "Other",
+    "slug": "skincarelens",
+    "created_at": "02:43:00 05/01/2025"
   },
   {
     "title": "JoyPix.ai",
