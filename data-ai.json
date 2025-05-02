@@ -18,6 +18,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ImagesArt AI",
+    "name": "ImagesArt AI",
+    "description": "ImagesArt AI offers tools to transform ideas into AI art",
+    "website": "https://imagesart.ai",
+    "categories": "Text to Image, AI Photo & Image Generator, AI Image Enhancer, Photo & Image Editor, Prompt",
+    "slug": "imagesart-ai",
+    "created_at": "14:11:46 05/02/2025"
+  },
+  {
     "title": "BafCloud",
     "name": "BafCloud",
     "description": "Simplify AI development with BafCloud",
@@ -5040,6 +5049,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "DeepGamer",
+    "name": "DeepGamer",
+    "description": "Free online platform for AI-powered games across various genres.",
+    "website": "https://deepgamer.net",
+    "categories": "Game, AI Story Writing, AI Creative Writing",
+    "slug": "deepgamer",
+    "created_at": "14:11:46 05/02/2025"
+  },
+  {
     "title": "EasyToDo",
     "name": "EasyToDo",
     "description": "AI-powered daily task assistant",
@@ -5623,6 +5641,15 @@
     "categories": "Prompt",
     "slug": "gptea",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Dubb",
+    "name": "Dubb",
+    "description": "AI-driven video sales platform for enhanced communication and sales.",
+    "website": "https://dubb.com",
+    "categories": "AI Monitor & Report Builder, AI Email Writer, AI Video Recording, Sales Assistant, AI Script Writing, Writing Assistants, AI Content Generator, Copywriting, AI Video Editor, Text to Video, AI Personalized Video Generator, AI Video Generator, Recording, General Writing, AI Lead Generation, AI CRM Assistant, AI Team Collaboration, AI Analytics Assistant, AI Social Media Assistant, AI Productivity Tools, AI Email Marketing, AI Coaching, AI YouTube Assistant",
+    "slug": "dubb",
+    "created_at": "14:11:46 05/02/2025"
   },
   {
     "title": "Klangio",
@@ -7630,6 +7657,15 @@
     "categories": "Other",
     "slug": "ai-freelance-marketplace",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Best Creator",
+    "name": "Best Creator",
+    "description": "AI platform for creating customized content effortlessly.",
+    "website": "https://bestcreator.com",
+    "categories": "AI Content Generator, AI Logo Generator, Image to Video, Text to Video, AI Social Media Assistant, AI Design Generator, AI Instagram Assistant, AI Ad Creative Assistant",
+    "slug": "best-creator",
+    "created_at": "14:11:46 05/02/2025"
   },
   {
     "title": "RFPILOT",
@@ -12570,6 +12606,15 @@
     "categories": "AI Content Generator, AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator, AI Script Writing, Writing Assistants, AI Creative Writing",
     "slug": "power-to-the-creators",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lens",
+    "name": "Lens AI",
+    "description": "AI-driven video editing agent based on prompts.",
+    "website": "https://trylens.ai",
+    "categories": "Prompt, AI Video Recording, Photo & Image Editor, AI Video Editor",
+    "slug": "lens-ai",
+    "created_at": "14:11:46 05/02/2025"
   },
   {
     "title": "KeywordSearch.com",
