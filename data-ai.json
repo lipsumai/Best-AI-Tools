@@ -4257,6 +4257,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Placy AI",
+    "name": "Placy AI",
+    "description": "Artificial Intellegence For The Real Estate Industry",
+    "website": "https://pro.placy.ai",
+    "categories": "Other, Sales Assistant, AI Workflow Management, AI Consulting Assistant, AI Productivity Tools, AI Voice Assistants, AI Notes Assistant, AI Task Management, AI Chatbot, General Writing, AI Speech Synthesis, Text-to-Speech, AI Email Writer, Transcriber, AI Team Collaboration, AI Meeting Assistant, Transcription, AI Contract Management",
+    "slug": "placy-ai",
+    "created_at": "02:27:12 05/02/2025"
+  },
+  {
     "title": "Pocket Hansei",
     "name": "Pocket Hansei",
     "description": "Your personal Assistant for instant answers.",
@@ -8467,6 +8476,15 @@
     "categories": "AI Content Generator, AI Short Clips Generator, AI Video Editor, AI Video Enhancer, Captions or Subtitle, AI UGC Video Generator, AI Video Generator, Video to Video",
     "slug": "clipglow",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ducky",
+    "name": "Ducky",
+    "description": "Fully managed AI retrieval, RAG, and data indexing platform designed specifically for developers who need to connect fast, accurate search to generative AI applications.",
+    "website": "https://ducky.ai",
+    "categories": "AI Developer Tools, AI Documents Assistant, Large Language Models (LLMs)",
+    "slug": "ducky",
+    "created_at": "02:27:12 05/02/2025"
   },
   {
     "title": "Articulate",
