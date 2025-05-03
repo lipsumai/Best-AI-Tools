@@ -1197,6 +1197,15 @@
     "created_at": "14:12:45 04/23/2025"
   },
   {
+    "title": "AI Chat",
+    "name": "AI Chat",
+    "description": "AI Chat",
+    "website": "https://aichat.fm",
+    "categories": "AI Blog Writer, Sales Assistant, AI Presentation Generator, Prompt, Sports, AI Cooking Assistant, AI Chatbot, AI Reply Assistant, AI Analytics Assistant, AI Tiktok Assistant, AI YouTube Assistant, AI Instagram Assistant, AI Advertising Assistant, Tax Assistant, Translate, AI Consulting Assistant, AI Business Ideas Generator, Research Tool, AI Accounting Assistant, Code Explanation, AI Landing Page Builder, AI Logo Generator, AI Photo & Image Generator, Text to Image, Summarizer, Report Writing, Copywriting, AI PDF",
+    "slug": "ai-chat-all-top-ai-models-in-one-app",
+    "created_at": "14:10:35 05/03/2025"
+  },
+  {
     "title": "SoulGem",
     "name": "SoulGem",
     "description": "AI-generated personality art",
@@ -3589,6 +3598,15 @@
     "categories": "Mental Health, AI Productivity Tools, AI Task Management, AI Notes Assistant, Prompt, AI Chatbot",
     "slug": "jadebook",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "CSS Picker",
+    "name": "CSS Picker",
+    "description": "AI tool for converting designs to code easily.",
+    "website": "https://www.csspicker.dev",
+    "categories": "AI Website Builder, AI Developer Tools, AI Code Assistant",
+    "slug": "css-picker",
+    "created_at": "14:10:35 05/03/2025"
   },
   {
     "title": "Surfaccer",
@@ -12444,6 +12462,15 @@
     "categories": "AI Recruiting",
     "slug": "jd-aid",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "freebeat.ai",
+    "name": "freebeat",
+    "description": "Turn Music & Ideas into Viral Videos In One Click",
+    "website": "https://freebeat.ai",
+    "categories": "Fitness",
+    "slug": "freebeat",
+    "created_at": "14:10:35 05/03/2025"
   },
   {
     "title": "HighlightFactCheck.com",
