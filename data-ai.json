@@ -351,6 +351,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wonderchat",
+    "name": "Wonderchat",
+    "description": "Create custom chatbot with Wonderchat, boost customer response speed by 100% and reduce workload.",
+    "website": "https://wonderchat.io",
+    "categories": "AI Chatbot, AI Reply Assistant, Large Language Models (LLMs)",
+    "slug": "wonderchat",
+    "created_at": "14:09:58 05/04/2025"
+  },
+  {
     "title": "AiPy",
     "name": "AiPy",
     "description": "AI assistant for programming and automated task execution.",
@@ -7009,6 +7018,15 @@
     "categories": "AI Graphic Design, Design Assistant, AI Tutorial, AI Education Assistant, AI Video Editor",
     "slug": "wisbox-ai",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "TranslateBase - Web Page, PDF and Subtitle Tranlation | Chat with PDF",
+    "name": "TranslateBase - Web Page, PDF and Subtitle Tranlation | Chat with PDF",
+    "description": "TranslateBase.net is your all-in-one AI content processing platform, supporting translation for various formats like web pages, PDFs, and subtitles. It also allows intelligent PDF chat, where you can ask questions directly and get answers quickly and efficiently. With integrated models like ChatGPT, DeepSeek, Gemini, Claude, we provide a more professional and flexible translation and comprehension experience.  📄 No more worries about foreign-language papers! We not only support intelligent summarization of research papers but also enable you to easily convert complex two-column papers into clear, single-column formats, greatly improving reading efficiency. Whether you're a student, researcher, or working across borders, TranslateBase is your ultimate tool for boosting content processing efficiency.",
+    "website": "https://www.translatebase.net",
+    "categories": "Translate, Papers, Captions or Subtitle, Summarizer",
+    "slug": "translatebase-web-page-pdf-and-subtitle-tranlation-chat-with-pdf",
+    "created_at": "14:09:58 05/04/2025"
   },
   {
     "title": "Dia Browser",
