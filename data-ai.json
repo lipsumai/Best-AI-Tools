@@ -576,6 +576,15 @@
     "created_at": "02:25:05 04/16/2025"
   },
   {
+    "title": "ToyImageAI",
+    "name": "ToyImageAI",
+    "description": "Transform photos into boxed action figures using AI.",
+    "website": "https://toyimageai.com",
+    "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Tiktok Assistant, AI Selfie & Portrait, AI Photo & Image Generator",
+    "slug": "toyimageai",
+    "created_at": "02:39:22 05/05/2025"
+  },
+  {
     "title": "Lingobo",
     "name": "Lingobo",
     "description": "Lingobo helps professionals and companies improve English skills with AI-powered micro-lessons.",
@@ -13625,6 +13634,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "ViralPulseAI",
+    "name": "ViralPulseAI",
+    "description": "Best AI Social Media Post Generator",
+    "website": "https://viralpulse.ai",
+    "categories": "AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Social Media Assistant, AI Hashtag Assistant",
+    "slug": "viralpulseai",
+    "created_at": "02:39:22 05/05/2025"
+  },
+  {
     "title": "DGi",
     "name": "DGi",
     "description": "AI agent for data workflows and automation through visual interfaces.",
@@ -13805,6 +13823,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SmartlyQ",
+    "name": "SmartlyQ",
+    "description": "SmartlyQ is your all-in-one AI-powered content creation and scheduling platform built for marketers, agencies, and SaaSpreneurs. From social posts and carousels to blog snippets and email campaigns, SmartlyQ helps you generate high-converting content in seconds — no creative block, no wasted time.  With pre-trained AI assistants, niche-specific templates, and seamless WordPress article scheduling and posting, SmartlyQ automates the entire content workflow so you can focus on growth. Ideal for HighLevel users and anyone looking to scale content without hiring a team.  👉 Try it now at smartlyq.com",
+    "website": "https://smartlyq.com",
+    "categories": "AI Blog Writer, AI Business Ideas Generator, AI Plagiarism Checker, AI Email Marketing, AI Email Generator, AI Email Assistant, Digital Marketing Generator, Marketing Plan Generator, AI Ad Generator, AI Ad Creative Assistant, AI SEO Assistant, AI Advertising Assistant, AI Photo & Image Generator, Translate, Text to Image, AI Email Writer, AI Content Generator, AI Creative Writing, Writing Assistants, Summarizer, Paraphraser, AI Bio Generator, AI Story Writing, Copywriting, Prompt",
+    "slug": "smartlyq",
+    "created_at": "02:39:22 05/05/2025"
+  },
+  {
     "title": "Activepieces",
     "name": "Activepieces",
     "description": "AI-first open-source automation platform for teams.",
@@ -13812,6 +13839,15 @@
     "categories": "No-Code&Low-Code, AI Code Assistant, AI Customer Service Assistant, AI CRM Assistant, AI Recruiting, Sales Assistant",
     "slug": "activepieces",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "Undetectable WTF",
+    "name": "Undetectable WTF",
+    "description": "Transforms AI text into human-like content to avoid detection.",
+    "website": "https://www.undetectable.wtf",
+    "categories": "Papers, Essay Writer, AI Rewriter, Paraphraser, AI Detector",
+    "slug": "undetectable-wtf",
+    "created_at": "02:39:22 05/05/2025"
   },
   {
     "title": "Data Science Kit",
