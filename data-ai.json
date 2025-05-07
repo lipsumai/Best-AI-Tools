@@ -7713,6 +7713,15 @@
     "created_at": "02:25:05 04/16/2025"
   },
   {
+    "title": "Aithor",
+    "name": "Aithor",
+    "description": "AI writing assistant for research and writing enhancement.",
+    "website": "https://aithor.com",
+    "categories": "Paraphraser, AI Rewriter, Writing Assistants, Essay Writer, Papers, General Writing, AI Content Generator, AI Blog Writer, Report Writing, Summarizer, AI Story Writing, AI Creative Writing, AI Book Writing, Copywriting",
+    "slug": "aithor",
+    "created_at": "02:29:14 05/07/2025"
+  },
+  {
     "title": "Voyage AI - ChatGPT powered AI Travel Planner",
     "name": "Travel Bug AI",
     "description": "Voyage AI",
@@ -10896,6 +10905,15 @@
     "categories": "AI Chatbot",
     "slug": "seikakuai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Alumnium",
+    "name": "Alumnium",
+    "description": "AI tool for converting test instructions into executable commands.",
+    "website": "https://alumnium.ai",
+    "categories": "Large Language Models (LLMs), Writing Assistants, AI Testing & QA",
+    "slug": "alumnium",
+    "created_at": "02:29:14 05/07/2025"
   },
   {
     "title": "Sincerely Karen | Complaint Email Generator",
