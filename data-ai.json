@@ -441,6 +441,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "RapidScan.AI",
+    "name": "RapidScan.AI",
+    "description": "AI-powered document management for efficiency and accuracy.",
+    "website": "https://rapidscan.ai",
+    "categories": "AI PDF, AI Productivity Tools, AI Workflow Management, AI Document Extraction, AI Documents Assistant, AI Image Scanning, AI Email Assistant, Tax Assistant, AI Email Writer",
+    "slug": "rapidscan-ai",
+    "created_at": "14:11:31 05/08/2025"
+  },
+  {
     "title": "AI Design Training",
     "name": "AI Design Training",
     "description": "AI Design Training integrates AI with design disciplines, offering online courses for interior design, graphic design, and architectural design.",
@@ -628,6 +637,15 @@
     "categories": "AI Chatbot, AI Forms & Surveys, AI Analytics Assistant, AI Reviews Assistant",
     "slug": "feed-ai-back-ai-driven-customer-feedback",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TwelveLabs",
+    "name": "TwelveLabs",
+    "description": "AI platform for understanding and analyzing video content.",
+    "website": "https://www.twelvelabs.io",
+    "categories": "AI Video Recording, AI Image Recognition, AI Video Editor, AI Video Enhancer, Text to Video, AI Animated Video, AI Video Search",
+    "slug": "twelvelabs",
+    "created_at": "14:11:31 05/08/2025"
   },
   {
     "title": "Bookshelf",
@@ -1845,6 +1863,15 @@
     "created_at": "02:26:48 04/14/2025"
   },
   {
+    "title": "Unwink AI",
+    "name": "Unwink AI",
+    "description": "AI-powered platform for actionable customer insights and efficiency gains.",
+    "website": "https://unwink.ai",
+    "categories": "AI Analytics Assistant, AI Customer Service Assistant, AI Workflow Management, Writing Assistants",
+    "slug": "unwink-ai",
+    "created_at": "14:11:31 05/08/2025"
+  },
+  {
     "title": "Dia Browser",
     "name": "Dia from The Browser Company",
     "description": "An AI-enhanced web browser creating a new user environment.",
@@ -3013,6 +3040,14 @@
     "categories": "Code Explanation",
     "slug": "xactions-chatgpt-in-a-better-way",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Productivity Tracker",
+    "name": "Time Champ",
+    "description": "Enhance productivity by tracking and analyzing time usage.",
+    "website": "https://www.timechamp.io",
+    "slug": "time-champ",
+    "created_at": "14:11:31 05/08/2025"
   },
   {
     "title": "iOS App of AMA",
@@ -5868,6 +5903,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "Tiptap Editor 3.0",
+    "name": "Tiptap Editor 3.0 Beta",
+    "description": "A headless rich text editor for developers.",
+    "website": "https://www.tiptap.dev",
+    "categories": "AI Team Collaboration, AI Content Generator, AI Website Builder, Writing Assistants, Copywriting",
+    "slug": "tiptap-editor-3-0-beta",
+    "created_at": "14:11:31 05/08/2025"
+  },
+  {
     "title": "Polymer",
     "name": "Polymer",
     "description": "A platform for preventing data breaches with real-time monitoring",
@@ -6496,6 +6540,15 @@
     "categories": "AI Video Recording, AI GIF Generator, AI Face Swap Generator, AI Video Editor, Photo & Image Editor",
     "slug": "bestfaceswap-ai",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Ciro",
+    "name": "Ciro",
+    "description": "AI tool for swift prospect list building and enrichment.",
+    "website": "https://www.ciro.io",
+    "categories": "AI CRM Assistant, AI Lead Generation, Sales Assistant",
+    "slug": "ciro",
+    "created_at": "14:11:31 05/08/2025"
   },
   {
     "title": "CareerComposeAI",
@@ -9512,6 +9565,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vermile",
+    "name": "Vermile",
+    "description": "AI platform for automating SEO content and backlinks.",
+    "website": "https://vermile.com",
+    "categories": "AI SEO Assistant, AI Blog Writer, Writing Assistants, AI Content Generator",
+    "slug": "vermile",
+    "created_at": "14:11:31 05/08/2025"
+  },
+  {
     "title": "MemeSwift",
     "name": "MemeSwift",
     "description": "\"AI-powered MemeSwift helps users create hilarious memes from their photos, making them digital meme sensations.\"",
@@ -10871,6 +10933,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "make.ad",
+    "name": "Make.ad",
+    "description": "AI platform for creating high-converting ads from text.",
+    "website": "https://make.ad",
+    "categories": "AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator, Copywriting, AI Product Description Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator, AI Background Generator, AI Banner Generator, Image to Image, AI Content Generator, Writing Assistants",
+    "slug": "make-ad",
+    "created_at": "14:11:31 05/08/2025"
+  },
+  {
     "title": "Cognizise",
     "name": "Cognizise",
     "description": "Resource-efficient AGI architecture for solving complex challenges.",
@@ -11310,6 +11381,15 @@
     "categories": "AI Advertising Assistant, AI Customer Service Assistant, AI Reply Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI CRM Assistant, AI Reviews Assistant, AI Ad Creative Assistant, AI Response Generator, AI Lead Generation, AI Chatbot, AI Forms & Surveys, Sales Assistant",
     "slug": "respond-io",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Free LinkedIn Review",
+    "name": "FREE LinkedIn Profile Review",
+    "description": "AI-enhanced LinkedIn profile optimization service.",
+    "website": "https://freelinkedinreview.com",
+    "categories": "AI Coaching, AI Interview Assistant, Resume Builder, Newsletter",
+    "slug": "free-linkedin-profile-review",
+    "created_at": "14:11:31 05/08/2025"
   },
   {
     "title": "Knoiz",
@@ -13184,6 +13264,15 @@
     "created_at": "02:25:05 04/16/2025"
   },
   {
+    "title": "grimly.ai",
+    "name": "grimly.ai",
+    "description": "AI security against prompt injections and jailbreaks in real-time.",
+    "website": "https://grimly.ai",
+    "categories": "Large Language Models (LLMs), Prompt",
+    "slug": "grimly-ai",
+    "created_at": "14:11:31 05/08/2025"
+  },
+  {
     "title": "addto.me",
     "name": "addto.me",
     "description": "Interact with productivity tools via messaging apps using AI.",
@@ -13362,6 +13451,15 @@
     "categories": "AI Art Generator, AI Design Generator, AI Graphic Design, Design Assistant, AI Tattoo Generator",
     "slug": "inker-ai",
     "created_at": "14:11:40 04/03/2025"
+  },
+  {
+    "title": "TradingWizard.ai",
+    "name": "Trading Wizard AI",
+    "description": "AI-powered chart analysis for trading decisions.",
+    "website": "https://tradingwizard.ai",
+    "categories": "AI Trading Bot Assistant, Investing Assistant, AI Charting, AI Analytics Assistant, Large Language Models (LLMs)",
+    "slug": "trading-wizard-ai",
+    "created_at": "14:11:31 05/08/2025"
   },
   {
     "title": "Promptdle",
