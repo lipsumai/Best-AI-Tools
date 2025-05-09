@@ -117,6 +117,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Bookeeping.ai",
+    "name": "Bookeeping.ai",
+    "description": "AI-powered bookkeeping service automating financial tasks and workflows",
+    "website": "https://bookeeping.ai",
+    "categories": "AI Accounting Assistant, Tax Assistant",
+    "slug": "bookeeping-ai",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "Specgen.ai",
     "name": "Specgen.ai",
     "description": "AI for automated tender responses with confidentiality.",
@@ -151,6 +160,15 @@
     "categories": "AI Lead Generation",
     "slug": "samrt-lead-magnet",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Truelink.ai",
+    "name": "Truelink",
+    "description": "AI web protection against phishing and malware threats.",
+    "website": "https://www.truelink.ai",
+    "categories": "AI SEO Assistant, Newsletter, AI Social Media Assistant",
+    "slug": "truelink",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "UseChatGPT.AI",
@@ -603,6 +621,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ViolationWatch",
+    "name": "Real-Time NYC Building Violation",
+    "description": "Real-time monitoring of NYC building violations and alerts for property owners.",
+    "website": "https://violationwatch.nyc",
+    "categories": "Other",
+    "slug": "real-time-nyc-building-violation",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "Talkzy",
     "name": "Talkzy",
     "description": "Talkzy is an AI Scrum Master that generates meeting summaries and emails them to your team.",
@@ -997,6 +1024,15 @@
     "categories": "Writing Assistants",
     "slug": "asistee",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "T-Rex Label",
+    "name": "Cross-Image Annotation by T-Rex Label",
+    "description": "AI tool for efficient image labeling and dataset annotation.",
+    "website": "https://www.trexlabel.com",
+    "categories": "Other",
+    "slug": "cross-image-annotation-by-t-rex-label",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "Dailyreach",
@@ -1609,6 +1645,15 @@
     "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator, Image to Image",
     "slug": "civitai-green",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Nelly",
+    "name": "Nelly",
+    "description": "AI platform for building and sharing custom AI agents without coding.",
+    "website": "https://nelly.is",
+    "categories": "AI Chatbot, Large Language Models (LLMs), No-Code&Low-Code",
+    "slug": "nelly",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "GitSummarize",
@@ -3311,6 +3356,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Hedy AI",
+    "name": "Hedy 2.0 MacOS App",
+    "description": "AI tool for real-time insights in conversations and meetings.",
+    "website": "https://www.hedy.ai",
+    "categories": "AI Interview Assistant, AI Recruiting, Healthcare, AI Education Assistant, AI Meeting Assistant, AI Notes Assistant, Summarizer, Transcription, Writing Assistants, Transcriber, Speech-to-Text, AI Speech Recognition, AI Coaching",
+    "slug": "hedy-2-0-macos-app",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "Deep Nostalgia AI",
     "name": "Deep Nostalgia AI COM",
     "description": "AI tool for animating old photos into lifelike videos.",
@@ -4058,6 +4112,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "AudioX",
+    "name": "AudioX",
+    "description": "Anything to Audio - Create Stunning Music and Sound Effects in Minutes",
+    "website": "https://audiox.app",
+    "categories": "AI Speech Synthesis, AI Music Generator, Text-to-Music, AI Audio Enhancer",
+    "slug": "audiox",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "CSS Picker",
     "name": "CSS Picker",
     "description": "AI tool for converting designs to code easily.",
@@ -4326,6 +4389,15 @@
     "categories": "AI Bio Generator, Bio Link, AI Social Media Assistant",
     "slug": "social-media-bio-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VitAI",
+    "name": "VitAI – Your Pocket Nutrition Assistant",
+    "description": "AI nutrition app for meal analysis and personalized health recommendations.",
+    "website": "https://vit-ai.com",
+    "categories": "AI Cooking Assistant, AI Recipe Assistant, AI Image Scanning, AI Image Recognition, Healthcare",
+    "slug": "vitai-your-pocket-nutrition-assistant",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "Free AI (not a) Therapist",
@@ -4668,6 +4740,15 @@
     "categories": "AI Chatbot, Homework Helper, AI Course, AI Education Assistant, Writing Assistants, AI Content Generator",
     "slug": "pai-ai-tutor-for-a-level-ap-and-more",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Sagehood",
+    "name": "Sagehood AI",
+    "description": "Stock analysis platform using AI for investment decisions",
+    "website": "https://sagehood.ai",
+    "categories": "AI Analytics Assistant, Newsletter, Research Tool, AI Trading Bot Assistant, Investing Assistant, AI Data Mining, AI Charting",
+    "slug": "sagehood-ai",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "Google Gemini Pro",
@@ -7946,6 +8027,15 @@
     "created_at": "02:25:05 04/16/2025"
   },
   {
+    "title": "TranslateAir",
+    "name": "TranslateAir",
+    "description": "AI translation and OCR tool for macOS users.",
+    "website": "https://translateair.com",
+    "categories": "AI Document Extraction, Translate, AI Rewriter",
+    "slug": "translateair",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "SkyReels",
     "name": "SkyReels",
     "description": "AI video creation platform for transforming ideas into videos.",
@@ -8133,6 +8223,15 @@
     "categories": "AI Chatbot, AI Product Description Generator, AI Website Builder, AI Customer Service Assistant",
     "slug": "brain-behind",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MonoKit",
+    "name": "MonoKit",
+    "description": "AI-powered monorepo toolkit for building apps quickly.",
+    "website": "https://monokit.dev",
+    "categories": "AI Analytics Assistant, AI SEO Assistant, AI Email Assistant, AI Email Marketing, AI Chatbot, Large Language Models (LLMs), AI Content Generator",
+    "slug": "monokit",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "Mia",
@@ -9178,6 +9277,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "Viral You AI",
+    "name": "Viral You AI",
+    "description": "AI tool for creators to generate unique viral stories.",
+    "website": "https://viralyou.ai",
+    "categories": "AI Script Writing, AI Story Writing, AI Content Generator, AI Social Media Assistant, AI YouTube Assistant, AI Tiktok Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Hashtag Assistant",
+    "slug": "viral-you-ai",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "IntervuPro AI",
     "name": "IntervuPro AI",
     "description": "AI-driven platform for interview coaching and resume analysis.",
@@ -9554,6 +9662,15 @@
     "categories": "Copywriting, AI Ad Creative Assistant, AI Ad Generator, AI Advertising Assistant",
     "slug": "write-label",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ProtoBoost.ai",
+    "name": "ProtoBoost.ai",
+    "description": "AI-driven prototyping service for fast product validation.",
+    "website": "https://www.protoboost.ai",
+    "categories": "AI Business Ideas Generator, AI Consulting Assistant",
+    "slug": "protoboost-ai",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "ChatGPT Keyboard",
@@ -10501,6 +10618,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "legml.ai",
+    "name": "Mo'",
+    "description": "AI tool for real-time translation in Microsoft Teams.",
+    "website": "https://legml.ai",
+    "categories": "AI Meeting Assistant, Large Language Models (LLMs), Translate",
+    "slug": "mo",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "BeautiAI",
     "name": "BeautiAI",
     "description": "Personalized AI feedback for your style",
@@ -10805,6 +10931,15 @@
     "categories": "Bio Link, Game",
     "slug": "validator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Mutatio",
+    "name": "mutatio.dev",
+    "description": "Platform for AI engineers to optimize prompts using language models.",
+    "website": "https://mutatio.dev",
+    "categories": "Prompt, Large Language Models (LLMs), Paraphraser",
+    "slug": "mutatio-dev",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "AI Avatar Maker",
@@ -11653,6 +11788,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "supOS",
+    "name": "supOS",
+    "description": "All-in-one IIoT platform for seamless industrial data integration.",
+    "website": "https://supos.ai",
+    "categories": "Other",
+    "slug": "supos",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "Luminaries",
     "name": "Luminaries AI",
     "description": "Luminaries offers AI-powered coaching with personalized digital experts for natural conversations.",
@@ -12040,6 +12184,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "docsynecx",
+    "name": "docsynecx by SynecX AI Labs",
+    "description": "AI-driven document processing and automation for various documents.",
+    "website": "https://docsynecx.com",
+    "categories": "Healthcare, AI Document Extraction, Tax Assistant, AI Image Scanning, Speech-to-Text, AI Speech Recognition",
+    "slug": "docsynecx-by-synecx-ai-labs",
+    "created_at": "14:12:08 05/09/2025"
+  },
+  {
     "title": "Pitch Roasters",
     "name": "Pitch Roasters",
     "description": "AI tool for expert analysis of startup pitch decks.",
@@ -12281,6 +12434,15 @@
     "categories": "AI Design Generator, Photo & Image Editor, Image to Image, AI Charting, AI Landscape Generator, AI 3D Model Generator, Design Assistant, AI Interior & Room Design, Image to 3D Model, Text to 3D, AI Graphic Design, Video to Video, Image to Video, AI Art Generator, AI Image Enhancer, AI Background Remover, Text to Image, Text to Video",
     "slug": "suapp-ai",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Respaced.com",
+    "name": "Respaced.com",
+    "description": "AI-driven UI design tool for product teams.",
+    "website": "https://respaced.com",
+    "categories": "Design Assistant, AI Content Generator, AI Code Generator, AI Product Description Generator",
+    "slug": "respaced-com",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "Porsia",
@@ -13766,6 +13928,15 @@
     "categories": "Large Language Models (LLMs), AI Content Generator",
     "slug": "raycast-ai-lite",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Calldock",
+    "name": "Calldock",
+    "description": "AI voice agents for instant callbacks and support automation.",
+    "website": "https://calldock.co",
+    "categories": "AI Customer Service Assistant, AI Lead Generation, AI Knowledge Base, AI Scheduling, AI Chatbot, AI Meeting Assistant, AI Voice Assistants, No-Code&Low-Code, AI Analytics Assistant",
+    "slug": "calldock",
+    "created_at": "14:12:08 05/09/2025"
   },
   {
     "title": "SearchMyDocs.ai",
