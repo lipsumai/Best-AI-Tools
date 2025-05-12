@@ -270,6 +270,15 @@
     "created_at": "02:42:53 05/04/2025"
   },
   {
+    "title": "Scottie",
+    "name": "Scottie",
+    "description": "Build AI agents for customer interactions across multiple platforms.",
+    "website": "https://heyscottie.io",
+    "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, Healthcare, AI Scheduling, Sales Assistant, AI Email Writer",
+    "slug": "scottie",
+    "created_at": "02:41:26 05/12/2025"
+  },
+  {
     "title": "Stream Guide - AI Search",
     "name": "Stream Guide - AI search",
     "description": "Find where to stream movies and TV shows quickly.",
@@ -12209,6 +12218,15 @@
     "categories": "AI Presentation Generator, AI PDF, AI Content Generator",
     "slug": "pitch-roasters",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GhostCoder",
+    "name": "GhostCoder",
+    "description": "Invisible AI assistant for coding during interviews.",
+    "website": "https://ghostcoder.app",
+    "categories": "AI Interview Assistant, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring",
+    "slug": "ghostcoder",
+    "created_at": "02:41:26 05/12/2025"
   },
   {
     "title": "Gabber.dev",
