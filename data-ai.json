@@ -684,6 +684,15 @@
     "created_at": "14:11:31 05/08/2025"
   },
   {
+    "title": "TaoPrompt",
+    "name": "TaoPrompt.com",
+    "description": "AI prompt generator for efficient and professional prompt creation",
+    "website": "https://taoprompt.com",
+    "categories": "Prompt, General Writing, AI Content Generator, AI Code Generator, AI Script Writing, AI Code Assistant, AI Email Writer, Writing Assistants, AI Chatbot, AI Rewriter, AI Ad Generator, Digital Marketing Generator, AI Social Media Assistant, AI Blog Writer, Copywriting, AI Advertising Assistant, Paraphraser, Code Explanation, AI Facebook Assistant, AI Product Description Generator, AI Twitter Assistant, AI Instagram Assistant",
+    "slug": "taoprompt-com",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "Bookshelf",
     "name": "Bookshelf",
     "description": "Organize and remember what you read.",
@@ -988,6 +997,15 @@
     "categories": "AI PDF, AI Presentation Generator, AI Spreadsheet, AI WORD",
     "slug": "pdf-converter",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Matter AI",
+    "name": "Matter AI",
+    "description": "Open-source tool for AI-driven code reviews.",
+    "website": "https://matterai.dev",
+    "categories": "Summarizer, AI Code Assistant, Code Explanation",
+    "slug": "matter-ai",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "Thepanel",
@@ -1737,6 +1755,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PulpMiner",
+    "name": "PulpMiner",
+    "description": "Convert webpages to structured real-time JSON APIs effortlessly.",
+    "website": "https://www.pulpminer.com",
+    "categories": "AI API Design, AI Content Generator, Web Scraping, E-commerce Assistant",
+    "slug": "pulpminer",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "Workik",
     "name": "Workik",
     "description": "AI-powered coding assistant for developers' efficiency.",
@@ -1762,6 +1789,15 @@
     "categories": "AI Content Generator, AI Blog Writer",
     "slug": "writerai-content-writer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FirstQuadrant",
+    "name": "FirstQuadrant",
+    "description": "AI sales platform to optimize revenue and automate processes.",
+    "website": "https://firstquadrant.ai",
+    "categories": "AI CRM Assistant, AI Email Marketing, AI Lead Generation, AI Knowledge Base, AI Productivity Tools, AI Team Collaboration, AI Meeting Assistant, AI Scheduling, Sales Assistant, AI Email Writer, Writing Assistants, AI Content Generator, AI Analytics Assistant, Letter Writer, Copywriting, AI Reply Assistant",
+    "slug": "firstquadrant",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "Academi.AI",
@@ -1816,6 +1852,15 @@
     "categories": "AI Quizzes, AI Education Assistant, AI PDF, AI Productivity Tools, AI Task Management, AI Project Management",
     "slug": "vylo",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "SeeMuseums",
+    "name": "SeeMuseums",
+    "description": "AI-powered insights for enriching museum visits and art appreciation.",
+    "website": "https://seemuseums.art",
+    "categories": "AI Education Assistant, AI Image Scanning, AI Chatbot, AI Podcast Assistant",
+    "slug": "seemuseums",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "StoryLang",
@@ -2988,6 +3033,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "pfp.fm",
+    "name": "pfp.fm",
+    "description": "Transform photos into stunning avatars in various artistic styles.",
+    "website": "https://www.pfp.fm",
+    "categories": "AI Social Media Assistant, AI Art Generator, AI Anime Art, AI Avatar Generator, AI Profile Picture Generator",
+    "slug": "pfp-fm",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "Scriptu",
     "name": "Scriptu",
     "description": "AI-powered LinkedIn content and engagement platform",
@@ -3453,6 +3507,15 @@
     "categories": "AI Team Collaboration, AI Social Media Assistant",
     "slug": "actavivo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Smart PDFs",
+    "name": "SmartPDFs",
+    "description": "Quickly summarize PDFs using AI for free.",
+    "website": "https://www.smartpdfs.ai",
+    "categories": "AI PDF, Summarizer",
+    "slug": "smartpdfs",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "Ledger",
@@ -4346,6 +4409,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "CareerSwift",
+    "name": "CareerSwift",
+    "description": "AI job search assistant for resume and application optimization.",
+    "website": "https://careerswift.ai",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator, Writing Assistants, AI Content Generator",
+    "slug": "careerswift",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "Rapture Parser",
     "name": "Rapture Parser",
     "description": "Extracts structured data from any webpage easily.",
@@ -5012,6 +5084,15 @@
     "created_at": "14:12:45 04/23/2025"
   },
   {
+    "title": "Aladin AI",
+    "name": "Aladin",
+    "description": "AI-powered browser extension for productivity and quick actions.",
+    "website": "https://aladin-ai.com",
+    "categories": "AI YouTube Assistant, AI PDF, AI Productivity Tools, Summarizer, Research Tool, AI Scheduling",
+    "slug": "aladin",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "StoryStation.ai Content Creation Platform",
     "name": "StoryStation.ai",
     "description": "A content creation platform using ChatGPT to generate high-quality written content for businesses and individuals.",
@@ -5037,6 +5118,15 @@
     "categories": "Other",
     "slug": "automate-github-pr-analysis",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SpeakingAI",
+    "name": "SpeakingAI",
+    "description": "Mobile app for practicing and improving spoken language skills with AI.",
+    "website": "https://speakingai.co",
+    "categories": "AI Grammar Checker, AI Chatbot, Text-to-Speech, AI Speech Synthesis",
+    "slug": "speakingai",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "PortfolioGPT",
@@ -5361,6 +5451,15 @@
     "categories": "AI Productivity Tools, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Testing & QA, AI Developer Tools",
     "slug": "windsurf",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "Sked",
+    "name": "Sked",
+    "description": "AI scheduling assistant for effortless meeting management in Slack.",
+    "website": "https://getsked.ai",
+    "categories": "AI Scheduling",
+    "slug": "sked",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "Stryde",
@@ -6893,6 +6992,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Mendel",
+    "name": "Mendel Lab",
+    "description": "AI platform for automating code reviews and providing team insights.",
+    "website": "https://mendellab.co",
+    "categories": "AI Analytics Assistant, AI Reviews Assistant, AI Productivity Tools, AI Team Collaboration, AI Workflow Management, AI Project Management, Report Writing, AI Code Assistant, AI Code Generator, AI Code Refactoring, AI Monitor & Report Builder, AI Developer Tools",
+    "slug": "mendel-lab",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "UniqMail",
     "name": "UniqMail",
     "description": "Revolutionize emailing with AI customization",
@@ -7406,6 +7514,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Duration",
+    "name": "duration.ai",
+    "description": "AI platform for personalized learning plans in online education.",
+    "website": "https://duration.ai",
+    "categories": "AI Tutorial, AI Course, AI Education Assistant, AI Video Recording, Writing Assistants",
+    "slug": "duration-ai",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "MindStudio",
     "name": "MindStudio",
     "description": "Browser tool offering diverse AI agents for task automation.",
@@ -7521,6 +7638,15 @@
     "categories": "Other",
     "slug": "voltmailer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "EchoPod",
+    "name": "EchoPod",
+    "description": "AI-powered podcast creation from written content.",
+    "website": "https://www.echo-pod.ai",
+    "categories": "AI Podcast Assistant",
+    "slug": "echopod",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "VFitter Platform",
@@ -8196,6 +8322,15 @@
     "categories": "AI Podcast Assistant, Letter Writer, AI Story Writing",
     "slug": "echeta",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "All Voice Lab",
+    "name": "All Voice Lab",
+    "description": "AI-powered audio solutions for voice and speech technology.",
+    "website": "https://www.allvoicelab.com",
+    "categories": "AI Voice Changer, Text-to-Speech, AI Voice Cloning, AI Speech Synthesis, AI Video Recording, AI Podcast Assistant, AI YouTube Assistant, AI Book Writing, Novel",
+    "slug": "all-voice-lab",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "Interactive Tutor",
@@ -9160,6 +9295,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Blaze",
+    "name": "Blaze.baby",
+    "description": "Web development tool for fast website creation using HTML.",
+    "website": "https://blaze.baby",
+    "categories": "AI Website Designer, AI Website Builder, No-Code&Low-Code, AI Landing Page Builder",
+    "slug": "blaze-baby",
+    "created_at": "14:13:14 05/12/2025"
+  },
+  {
     "title": "AI Presentation Maker",
     "name": "Slides.bot",
     "description": "AI tool for creating professional slides from text",
@@ -9608,6 +9752,15 @@
     "categories": "Summarizer",
     "slug": "syft-ai-news-aggregator",
     "created_at": "14:11:12 04/24/2025"
+  },
+  {
+    "title": "DeckSpeed",
+    "name": "DeckSpeed",
+    "description": "AI tool for creating personalized presentations without templates.",
+    "website": "https://www.deckspeed.com",
+    "categories": "AI Presentation Generator, Text to Image, AI Charting",
+    "slug": "deckspeed",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "Astrid - Autism Caregiving Resources and Solutions",
@@ -10265,6 +10418,15 @@
     "categories": "AI Background Generator, AI Art Generator, AI Wallpaper Generator",
     "slug": "omagine-wallpapers",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Starrio",
+    "name": "Starrio",
+    "description": "AI self-care app for astrology and emotional support",
+    "website": "https://apps.apple.com/us/app/starrio/id6740392436",
+    "categories": "AI Chatbot, Life Assistant, Mental Health, AI Music Generator",
+    "slug": "starrio",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "ChatWay AI Assistant",
@@ -13055,6 +13217,15 @@
     "categories": "AI Presentation Generator, AI PDF, AI Content Generator, AI Charting, Prompt, Writing Assistants, AI Rewriter, Paraphraser, Report Writing, Summarizer",
     "slug": "plus-ai-presentation-maker",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "Seveum",
+    "name": "Seveum",
+    "description": "AI job search assistant for tailored role matching and application optimization.",
+    "website": "https://seveum.com",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator",
+    "slug": "seveum",
+    "created_at": "14:13:14 05/12/2025"
   },
   {
     "title": "Pocket Hansei",
