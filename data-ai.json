@@ -2079,6 +2079,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "Fluig AI",
+    "name": "Fluig AI",
+    "description": "Smart AI for Mind Maps, Flowcharts & more diagrams",
+    "website": "https://www.fluig.cc",
+    "categories": "Copywriting, AI Instagram Assistant, Life Assistant, AI Recipe Assistant, AI Trip Planner, AI Dating Assistant, AI Chatbot, AI Tiktok Assistant, AI Facebook Assistant, AI YouTube Assistant, AI Twitter Assistant, AI Advertising Assistant, Essay Writer, Research Tool, AI Maps Generator, AI Photo & Image Generator, Text to Image, AI Book Writing, AI Bio Generator, AI Story Writing, AI Rewriter, Fun Tools",
+    "slug": "fluig-ai",
+    "created_at": "14:12:29 05/13/2025"
+  },
+  {
     "title": "ModAI",
     "name": "ModAi",
     "description": "AI Discord bot for community support and ticket management.",
@@ -7505,6 +7514,15 @@
     "created_at": "02:21:00 04/26/2025"
   },
   {
+    "title": "Lovart",
+    "name": "Lovart",
+    "description": "AI design agent turning prompts into creative masterpieces.",
+    "website": "https://www.lovart.ai",
+    "categories": "Prompt, Text to Image, AI Graphic Design, AI Design Generator, Design Assistant, AI Art Generator, AI Poster Generator, AI Ad Creative Assistant, AI Pixel Art, AI Advertising Assistant, AI Ad Generator, AI Logo Generator",
+    "slug": "lovart",
+    "created_at": "14:12:29 05/13/2025"
+  },
+  {
     "title": "Buddies",
     "name": "Melany AI",
     "description": "Buddies is a platform for creating smart AI friends for personal and professional support.",
@@ -7901,6 +7919,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Pippit AI",
+    "name": "Pippit AI",
+    "description": "AI-powered platform for easy content creation and management.",
+    "website": "https://pippit.capcut.com",
+    "categories": "AI Advertising Assistant, AI Video Recording, Text to Video, AI Avatar Generator, AI Video Generator, AI Content Generator, AI Video Editor, E-commerce Assistant, AI Analytics Assistant, AI Scheduling, AI Ad Generator, AI Ad Creative Assistant, AI Tiktok Assistant, AI Facebook Assistant, AI Instagram Assistant, AI Social Media Assistant, AI Script Writing, AI Product Description Generator, Image to Video, AI Image Enhancer, AI Poster Generator, Photo & Image Editor",
+    "slug": "pippit-ai",
+    "created_at": "14:12:29 05/13/2025"
+  },
+  {
     "title": "askInput",
     "name": "askInput",
     "description": "askInput is a website for clients to voice thoughts and receive prompt responses.",
@@ -8178,6 +8205,15 @@
     "categories": "AI Document Extraction, Translate, AI Rewriter",
     "slug": "translateair",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "DocsHound",
+    "name": "Demo → Intercom by DocsHound",
+    "description": "AI platform for automatic documentation and customer insights from demos.",
+    "website": "https://docshound.com",
+    "categories": "AI Content Generator, AI Image Recognition, Recording, AI Developer Docs, AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, AI Video Recording, AI Analytics Assistant, AI Knowledge Management, AI Documents Assistant, AI Tutorial, AI Productivity Tools, AI SEO Assistant",
+    "slug": "demo-intercom-by-docshound",
+    "created_at": "14:12:29 05/13/2025"
   },
   {
     "title": "SkyReels",
@@ -9572,6 +9608,15 @@
     "categories": "Other",
     "slug": "propit-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FalcoCut",
+    "name": "FalcoCut",
+    "description": "AI video generator for social media in multiple languages.",
+    "website": "https://falcocut.com",
+    "categories": "AI Advertising Assistant, E-commerce Assistant, AI Instagram Assistant, AI YouTube Assistant, AI Facebook Assistant, AI Ad Creative Assistant, AI Social Media Assistant, AI Voice Cloning, Captions or Subtitle, AI Script Writing, AI Avatar Generator, AI Face Swap Generator, AI Video Editor, AI Video Generator, AI Lip Sync Generator, AI Video Recording, Digital Marketing Generator, AI Ad Generator, Translate",
+    "slug": "falcocut",
+    "created_at": "14:12:29 05/13/2025"
   },
   {
     "title": "Concurrence.ai",
@@ -13975,6 +14020,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ImageGPT",
+    "name": "ImageGPT",
+    "description": "AI platform for image generation, enhancement, and editing tools.",
+    "website": "https://imagegpt.io",
+    "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, AI Avatar Generator, AI Image Enhancer, Photo & Image Editor, AI Photo Enhancer, AI Background Remover, Image to Image, AI Poster Generator, AI Face Swap Generator, AI Profile Picture Generator, AI Icon Generator",
+    "slug": "imagegpt",
+    "created_at": "14:12:29 05/13/2025"
+  },
+  {
     "title": "PrimeAI",
     "name": "Get PrimeAI",
     "description": "Accelerate test case creation and script generation with AI",
@@ -14738,6 +14792,15 @@
     "categories": "AI Rewriter, Paraphraser, Writing Assistants",
     "slug": "clearphrase",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Bugster",
+    "name": "Bugster",
+    "description": "AI testing solution for developers to automate tests and enhance efficiency.",
+    "website": "https://www.bugster.dev",
+    "categories": "AI Testing & QA, AI Developer Tools",
+    "slug": "bugster",
+    "created_at": "14:12:29 05/13/2025"
   },
   {
     "title": "PostPerfect",
