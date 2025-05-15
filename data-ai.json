@@ -4995,6 +4995,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "GetInvoice",
+    "name": "GetInvoice",
+    "description": "AI-driven invoice and receipt automation software for businesses.",
+    "website": "https://www.get-invoice.com",
+    "categories": "AI Productivity Tools, AI Document Extraction, AI Accounting Assistant, Tax Assistant, AI Email Writer",
+    "slug": "getinvoice",
+    "created_at": "14:12:57 05/15/2025"
+  },
+  {
     "title": "ChoCho | ChooseChosei",
     "name": "ChooseChosei",
     "description": "Transforming design workflow and improving communication process for designers and customers.",
@@ -8952,6 +8961,15 @@
     "categories": "AI Interview Assistant, AI Quizzes",
     "slug": "aceunlock-ai",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Ghibli Style Image Generator",
+    "name": "Ghibli Style Image Generator",
+    "description": "AI tool for transforming images into Ghibli-style art.",
+    "website": "https://ghiblimagicmaker.com",
+    "categories": "AI Art Generator, AI Anime Art, AI Photo & Image Generator, Image to Image, AI Illustration Generator",
+    "slug": "ghibli-style-image-generator",
+    "created_at": "14:12:57 05/15/2025"
   },
   {
     "title": "CSV-AI",
