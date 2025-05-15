@@ -2781,6 +2781,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ecomdesignlab.ai",
+    "name": "Ecomdesignlab.ai",
+    "description": "Virtual try-on platform for fashion brands using AI technology.",
+    "website": "https://www.ecomdesignlab.ai",
+    "categories": "E-commerce Assistant, AI Product Description Generator, AI Photo & Image Generator, AI Clothing Generator, AI Selfie & Portrait",
+    "slug": "ecomdesignlab-ai",
+    "created_at": "02:28:12 05/15/2025"
+  },
+  {
     "title": "ATR Tennis",
     "name": "ATR Tennis",
     "description": "Real-time stats and insights for tennis enthusiasts.",
@@ -13496,6 +13505,15 @@
     "categories": "AI Chatbot",
     "slug": "precog-by-ubikai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Blobfish AI",
+    "name": "Blobfish-AI",
+    "description": "Call Center Training with Voice AI Roleplay",
+    "website": "https://www.blobfish-ai.com",
+    "categories": "AI Audio Enhancer, AI Voice Assistants",
+    "slug": "blobfish-ai-1",
+    "created_at": "02:28:12 05/15/2025"
   },
   {
     "title": "Windsurf",
