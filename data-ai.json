@@ -288,6 +288,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tokenomy",
+    "name": "Tokenomy.ai",
+    "description": "AI platform for token management and cost estimation",
+    "website": "https://tokenomy.ai",
+    "categories": "Prompt, Large Language Models (LLMs), AI Content Generator",
+    "slug": "tokenomy-ai",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "E-Legal",
     "name": "E-Legal AI",
     "description": "E-Legal simplifies legal jargon, helping users understand complex terms and avoid disputes.",
@@ -1179,6 +1188,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tragal AI",
+    "name": "Tragal",
+    "description": "AI-enabled business process automation through chatbots and voice assistants.",
+    "website": "https://tragal.ai",
+    "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, AI Knowledge Management, AI Meeting Assistant, AI Scheduling, AI Voice Assistants, No-Code&Low-Code",
+    "slug": "tragal",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "Insula",
     "name": "Insula",
     "description": "Insula is an AI assistant that enables natural speech communication with advanced technology.",
@@ -1618,6 +1636,15 @@
     "categories": "AI Ad Generator, AI Advertising Assistant, AI Banner Generator",
     "slug": "slaitor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Velin",
+    "name": "Velin",
+    "description": "AI platform for integrated product marketing and campaigns.",
+    "website": "https://velin.ai",
+    "categories": "Marketing Plan Generator, Writing Assistants, AI Content Generator, AI Product Description Generator, Copywriting, General Writing, AI Lead Generation, Sales Assistant",
+    "slug": "velin",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "Documentation.new",
@@ -2367,6 +2394,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nayla",
+    "name": "Nayla",
+    "description": "AI companion for browsing and task automation.",
+    "website": "https://nayla.ai",
+    "categories": "AI Email Assistant, AI Productivity Tools, Writing Assistants, AI Email Writer, AI Voice Assistants, AI Browsers Builder",
+    "slug": "nayla",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "GistReader",
     "name": "GistReader",
     "description": "AI web reader for clean article summaries",
@@ -2905,6 +2941,15 @@
     "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Team Collaboration, AI Content Generator",
     "slug": "text2meme-io",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Sourcery",
+    "name": "Sourcery Sentinel",
+    "description": "AI engineer fixing production issues detected by Sentry.",
+    "website": "https://sourcery.ai",
+    "categories": "AI Code Assistant, AI Code Generator, AI Log Management, AI Code Refactoring, AI Developer Tools",
+    "slug": "sourcery-sentinel",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "MCPAgentSeek",
@@ -3645,6 +3690,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Dolphin AI",
+    "name": "Dolphin AI",
+    "description": "Automates feature requests tracking from customer calls.",
+    "website": "https://getdolphin.ai",
+    "categories": "AI Customer Service Assistant, Speech-to-Text",
+    "slug": "dolphin-ai",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "PresentWizard",
     "name": "Present Wizard",
     "description": "PresentWizard uses AI to generate personalized gift recommendations.",
@@ -3895,6 +3949,15 @@
     "categories": "AI Response Generator, AI Social Media Assistant, Large Language Models (LLMs), Writing Assistants, AI Content Generator, AI Bio Generator",
     "slug": "wunderwrite",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Scrapybara",
+    "name": "Scrapybara",
+    "description": "Remote desktops for AI agents with unified API access.",
+    "website": "https://scrapybara.com",
+    "categories": "Large Language Models (LLMs), Research Tool, Web Scraping",
+    "slug": "scrapybara",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "Paraphraser.io",
@@ -4329,6 +4392,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PRDKit",
+    "name": "PRDKit",
+    "description": "AI tool for crafting product specs and user flows efficiently.",
+    "website": "https://prdkit.ai",
+    "categories": "AI Product Description Generator, AI Content Generator, AI Project Management, AI Social Media Assistant, Design Assistant, AI Reviews Assistant",
+    "slug": "prdkit",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "Edward Teach Bot",
     "name": "Edward Teach Bot",
     "description": "Edward Teach Bot is an AI chatbot for Telegram that can study any topic and provide accurate information.",
@@ -4570,6 +4642,15 @@
     "categories": "Summarizer, Writing Assistants, AI Content Generator",
     "slug": "managr-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Image Fusion Tool",
+    "name": "AI Image Fusion Tool",
+    "description": "Combine images into enhanced visuals using AI technology.",
+    "website": "https://www.imagefusionai.com",
+    "categories": "AI Art Generator, AI Photo Enhancer, AI Photo & Image Generator, Image to Image",
+    "slug": "ai-image-fusion-tool",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "Nifty",
@@ -4878,6 +4959,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "Generated Assets",
+    "name": "Generated Assets",
+    "description": "AI tool to create investable indexes from user ideas.",
+    "website": "https://generatedassets.com",
+    "categories": "Investing Assistant, AI Advertising Assistant, AI Ad Creative Assistant",
+    "slug": "generated-assets",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "Raphael AI",
     "name": "Raphael AI",
     "description": "Unlimited free AI image generator for high-quality image creation.",
@@ -4975,6 +5065,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator, AI PDF, Letter Writer, Writing Assistants, AI Content Generator",
     "slug": "onlinecv",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "MiniMax Agent",
+    "name": "MiniMax Agent",
+    "description": "AI partner enhancing productivity through multi-agent collaboration.",
+    "website": "https://agent.minimax.io",
+    "categories": "AI Team Collaboration, AI Productivity Tools, AI Content Generator, AI Podcast Assistant, Summarizer",
+    "slug": "minimax-agent",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "Codlixe",
@@ -6093,6 +6192,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "1Stroke",
+    "name": "1Stroke",
+    "description": "AI tool for generating context-aware responses instantly.",
+    "website": "https://www.1stroke.ai",
+    "categories": "AI Customer Service Assistant, AI Reply Assistant, AI Social Media Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Reviews Assistant, AI Email Assistant, AI Response Generator, E-commerce Assistant, AI Content Generator, AI Email Writer, Writing Assistants",
+    "slug": "1stroke",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "ContentHubAI",
     "name": "ContentHubAI.com",
     "description": "Revolutionize Content Creation with AI.",
@@ -6163,6 +6271,15 @@
     "categories": "Other",
     "slug": "receipts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ezra",
+    "name": "Ezra Ads",
+    "description": "AI-powered tool for generating Meta ad creatives instantly.",
+    "website": "https://www.heyezra.co",
+    "categories": "AI Advertising Assistant, AI Facebook Assistant, AI Ad Creative Assistant, AI Ad Generator, Copywriting, AI Content Generator, AI Product Description Generator, AI Video Editor, AI UGC Video Generator",
+    "slug": "ezra-ads",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "Dantia",
@@ -7173,6 +7290,15 @@
     "created_at": "14:09:57 04/27/2025"
   },
   {
+    "title": "AppearOnAI",
+    "name": "AppearOnAI",
+    "description": "Optimizes website visibility in AI chatbots with actionable insights.",
+    "website": "https://appearonai.com",
+    "categories": "AI SEO Assistant, AI Chatbot, AI Content Generator, AI Landing Page Builder, AI Website Builder, AI Website Designer",
+    "slug": "appearonai",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "Raycast AI",
     "name": "Raycast AI Lite",
     "description": "AI platform with powerful extensions on your OS.",
@@ -7387,6 +7513,15 @@
     "categories": "AI Social Media Assistant, AI Instagram Assistant, AI YouTube Assistant, AI Tiktok Assistant, Prompt, AI Video Recording, Captions or Subtitle, AI Script Writing, AI Content Generator, AI Video Editor, Text to Video, AI Video Generator, AI Short Clips Generator",
     "slug": "vid-ai",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "Kazu Navi (かずナビ)",
+    "name": "Kazu Navi (かずナビ)",
+    "description": "Tool for learning Japanese numbers, grammar, and context.",
+    "website": "https://kazunavi.com",
+    "categories": "Translate",
+    "slug": "kazu-navi",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "AI Homework Helper",
@@ -7767,6 +7902,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Papira",
+    "name": "Papira",
+    "description": "Automated notepad for personalized AI writing commands.",
+    "website": "https://www.papira.io",
+    "categories": "AI Grammar Checker, AI Content Generator, AI Documents Assistant, Large Language Models (LLMs), Writing Assistants, Prompt, Papers, Summarizer, Essay Writer, General Writing, Paraphraser, AI Book Writing, AI Blog Writer, AI Rewriter, Novel, AI Creative Writing, AI SEO Assistant, Report Writing, Copywriting, AI Story Writing, AI Social Media Assistant, AI Productivity Tools, AI Education Assistant",
+    "slug": "papira",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "Pagic.io",
     "name": "Pagic",
     "description": "AI-based website builder, Pagic.io, enables easy and quick creation of stunning websites.",
@@ -7801,6 +7945,15 @@
     "categories": "AI App Builder",
     "slug": "felvin",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TikTok",
+    "name": "TikTok AI Alive",
+    "description": "Social media platform for creating and sharing short videos.",
+    "website": "https://newsroom.tiktok.com",
+    "categories": "AI Tiktok Assistant, AI Social Media Assistant, Image to Video, Text to Video",
+    "slug": "tiktok-ai-alive",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "ContactSwing",
@@ -9431,6 +9584,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "RADiCAL",
+    "name": "RADiCAL",
+    "description": "AI motion capture and 3D visualization platform.",
+    "website": "https://www.radicalmotion.com",
+    "categories": "AI Video Generator, Text to Video, AI 3D Model Generator, Text to 3D, Image to 3D Model, AI Design Generator",
+    "slug": "radical",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "SEOmator",
     "name": "SEOmator",
     "description": "AI-driven platform for SEO and SEM optimization.",
@@ -9833,6 +9995,15 @@
     "categories": "AI Chatbot, AI Trip Planner",
     "slug": "layla-ai",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Odyssea",
+    "name": "ODYSSEA",
+    "description": "AI game for decoding subconscious mind patterns.",
+    "website": "https://www.odyssea.ai",
+    "categories": "Mental Health, Game, AI Content Generator",
+    "slug": "odyssea",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "Bothatch",
@@ -10481,6 +10652,15 @@
     "categories": "AI YouTube Assistant, Homework Helper, AI Course, AI Education Assistant, AI PDF, AI Charting",
     "slug": "unstuck-ai",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "supermemory™",
+    "name": "supermemory™",
+    "description": "Universal memory API for personalized AI experiences.",
+    "website": "https://supermemory.ai",
+    "categories": "AI Chatbot, Large Language Models (LLMs)",
+    "slug": "supermemory-1",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "Castello.ai",
@@ -11932,6 +12112,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Opusense",
+    "name": "Opusense",
+    "description": "AI tool for generating formatted site inspection reports.",
+    "website": "https://www.opusense.com",
+    "categories": "AI WORD, AI Productivity Tools, Report Writing, Speech-to-Text",
+    "slug": "opusense",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "ChatGPT Keyboard",
     "name": "Xboard",
     "description": "Boost your productivity with AI-powered typing.",
@@ -13255,6 +13444,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "CreaTweet",
+    "name": "CreaTweet",
+    "description": "AI tool for generating and polishing tweets on Twitter.",
+    "website": "https://www.creatweet.online",
+    "categories": "AI Twitter Assistant, Writing Assistants, AI Content Generator, AI Social Media Assistant, General Writing, Copywriting, AI Rewriter, AI Bio Generator, Paraphraser, AI Creative Writing, AI Blog Writer, Summarizer, AI Story Writing, Captions or Subtitle, AI Product Description Generator, AI Script Writing, Quotes Generator, AI Reply Assistant",
+    "slug": "creatweet",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "Paraphraser",
     "name": "Paraphrase Tool & Rewrite App",
     "description": "Write clear, concise, and plagiarism-free text with Paraphraser.",
@@ -14344,6 +14542,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Basin MCP",
+    "name": "Basin MCP",
+    "description": "Reliability tool to stop AI code generation hallucinations.",
+    "website": "https://mcp.basin.ai",
+    "categories": "AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Testing & QA, AI Developer Tools",
+    "slug": "basin-mcp",
+    "created_at": "14:12:11 05/16/2025"
+  },
+  {
     "title": "PodulateAI",
     "name": "PodulateAI",
     "description": "Turn YouTube videos into interactive experiences.",
@@ -14540,6 +14747,15 @@
     "categories": "AI Analytics Assistant, AI Roadmap Generator",
     "slug": "insightq",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vetzi.io",
+    "name": "Vetzi.io",
+    "description": "AI-driven documentation automation for veterinary clinics.",
+    "website": "https://vetzi.io",
+    "categories": "Healthcare, AI Productivity Tools, AI Team Collaboration, AI Documents Assistant, AI Email Writer",
+    "slug": "vetzi-io",
+    "created_at": "14:12:11 05/16/2025"
   },
   {
     "title": "KYWRD AI - AI Powered SEO Keyword Assistant",
