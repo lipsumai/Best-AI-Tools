@@ -2259,6 +2259,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "Livideo AI",
+    "name": "Livideo AI",
+    "description": "Create unlimited face-swap videos privately and for free.",
+    "website": "https://www.livideo.ai",
+    "categories": "AI Social Media Assistant, AI Instagram Assistant, Fun Tools, AI Gift Ideas, AI Video Recording, AI Face Swap Generator, AI Video Editor",
+    "slug": "livideo-ai",
+    "created_at": "14:10:02 05/18/2025"
+  },
+  {
     "title": "Loreweaver",
     "name": "Loreweaver",
     "description": "AI-driven RPG adventure generation on Discord.",
@@ -5850,6 +5859,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "AI Book Translate",
+    "name": "AI Book Translate",
+    "description": "AI tool for accurate book translations using multi-pass methods.",
+    "website": "https://www.booktranslate.ai",
+    "categories": "Translate, AI Book Writing, Novel",
+    "slug": "ai-book-translate",
+    "created_at": "14:10:02 05/18/2025"
+  },
+  {
     "title": "Fast Domain",
     "name": "Fast Domain",
     "description": "AI tool generating unique, available domain names for brands.",
@@ -6514,6 +6532,15 @@
     "categories": "AI Tools Directory, AI WORD",
     "slug": "custom-gpts-list",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "OutfitAI",
+    "name": "OutfitAI",
+    "description": "AI outfit generator for virtual clothing try-ons.",
+    "website": "https://www.aioutfitgen.com",
+    "categories": "AI Clothing Generator, AI Photo & Image Generator",
+    "slug": "outfitai",
+    "created_at": "14:10:02 05/18/2025"
   },
   {
     "title": "Chat With Media",
@@ -10221,6 +10248,15 @@
     "categories": "AI Photo & Image Generator, Photo & Image Editor",
     "slug": "gigglz",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ImgEdify",
+    "name": "ImgEdify",
+    "description": "AI platform for generating and editing high-quality images.",
+    "website": "https://imgedify.com",
+    "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, Photo & Image Editor, Image to Image, AI Face Swap Generator",
+    "slug": "imgedify",
+    "created_at": "14:10:02 05/18/2025"
   },
   {
     "title": "PromptReply",
