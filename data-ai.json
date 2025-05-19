@@ -486,6 +486,15 @@
     "created_at": "14:11:31 05/08/2025"
   },
   {
+    "title": "OctoComics",
+    "name": "OctoComics",
+    "description": "OctoComics-AI comic creation tool. Includes generation tool and comic community, supports drawing BL comics, original serialized comics, OC character comics, etc.",
+    "website": "https://www.animeshorts.ai",
+    "categories": "AI Anime Art, Text to Image, AI Photo & Image Generator, AI Illustration Generator, AI Graphic Design, AI Anime & Cartoon Generator, AI Animated Video, Image to Video, Novel, AI Script Writing",
+    "slug": "octocomics",
+    "created_at": "14:12:39 05/19/2025"
+  },
+  {
     "title": "Tivra",
     "name": "Tivra (Your AI Tutor)",
     "description": "AI-driven personal teaching platform for effective learning.",
@@ -5535,6 +5544,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Girl Cool Anime Wallpaper",
+    "name": "Girl Cool Anime Wallpaper",
+    "description": "Create HD anime wallpapers of cool girls easily.",
+    "website": "https://www.girlaniai.com",
+    "categories": "AI Art Generator, AI Anime Art, Prompt, Text to Image, AI Wallpaper Generator, AI Anime & Cartoon Generator",
+    "slug": "girl-cool-anime-wallpaper",
+    "created_at": "14:12:39 05/19/2025"
+  },
+  {
     "title": "X-Me - x-me.world | AI Video Generator",
     "name": "X-Me：AI Video Generator",
     "description": "Unlock boundless creativity with X-Me.",
@@ -7110,6 +7128,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "Generator AI Music",
+    "name": "Generator AI Music",
+    "description": "AI platform for generating unique music from text and lyrics.",
+    "website": "https://www.generatoraimusic.com",
+    "categories": "AI Lyrics Generator, AI Music Generator, Text-to-Music",
+    "slug": "generator-ai-music",
+    "created_at": "14:12:39 05/19/2025"
+  },
+  {
     "title": "PortraitArt",
     "name": "PortraitArt",
     "description": "Transform your photos into beautiful art with AI.",
@@ -8188,6 +8215,15 @@
     "categories": "AI Video Recording, AI GIF Generator, AI Face Swap Generator, AI Video Editor, Photo & Image Editor",
     "slug": "bestfaceswap-ai",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Skywork.ai",
+    "name": "Skywork.ai",
+    "description": "AI-powered tool for productivity and organization.",
+    "website": "https://skywork.ai",
+    "categories": "AI Podcast Assistant, AI Productivity Tools, AI Documents Assistant, Writing Assistants, AI Content Generator, Report Writing, Summarizer, Copywriting, Papers, General Writing, Essay Writer, AI Rewriter, Paraphraser, AI Product Description Generator, AI Blog Writer",
+    "slug": "skywork-ai",
+    "created_at": "14:12:39 05/19/2025"
   },
   {
     "title": "GPT-Shirt",
