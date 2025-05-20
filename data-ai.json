@@ -1737,6 +1737,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dropflow",
+    "name": "Dropflow",
+    "description": "AI tool for extracting and summarizing emails into actions.",
+    "website": "https://dropflow.app",
+    "categories": "AI Document Extraction, AI Email Assistant, Summarizer, AI Email Writer, AI Productivity Tools, AI Recruiting, Resume Builder, AI Spreadsheet, AI Analytics Assistant, Newsletter",
+    "slug": "dropflow",
+    "created_at": "14:12:41 05/20/2025"
+  },
+  {
     "title": "GTranslate",
     "name": "GTranslate",
     "description": "Automatic website translation for global accessibility.",
@@ -7947,6 +7956,15 @@
     "created_at": "02:21:40 04/03/2025"
   },
   {
+    "title": "Smutfinder",
+    "name": "Smutfinder",
+    "description": "AI-generated personalized smut stories tailored to user preferences.",
+    "website": "https://www.smutfinder.com",
+    "categories": "NSFW, AI Story Writing, AI Creative Writing, AI Content Generator, AI Blog Writer",
+    "slug": "smutfinder",
+    "created_at": "14:12:41 05/20/2025"
+  },
+  {
     "title": "Prompt PP",
     "name": "Prompt PP",
     "description": "Create personalized AI agents for task automation and collaboration.",
@@ -8964,6 +8982,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Defipulsex",
+    "name": "Defipulsex",
+    "description": "Your DeFi companion for trading and portfolio management.",
+    "website": "https://www.defipulsex.org",
+    "categories": "AI Trading Bot Assistant, Web3, Blockchain",
+    "slug": "defipulsex",
+    "created_at": "14:12:41 05/20/2025"
+  },
+  {
     "title": "HumanEcho",
     "name": "Human Echo",
     "description": "AI chatbots and lifelike digital personas",
@@ -9213,6 +9240,15 @@
     "categories": "AI Response Generator, Writing Assistants, AI SQL Query Builder, AI Spreadsheet",
     "slug": "excel-formularizer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Landscapingai.site",
+    "name": "Landscapingai.site",
+    "description": "AI-powered landscape transformation visualization tool.",
+    "website": "https://app.landscapingai.site",
+    "categories": "AI Landscape Generator, Photo & Image Editor, AI Team Collaboration",
+    "slug": "landscapingai-site",
+    "created_at": "14:12:41 05/20/2025"
   },
   {
     "title": "Remote Insight",
@@ -10430,6 +10466,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Xagio",
+    "name": "Xagio",
+    "description": "AI SEO tool for optimizing websites easily and effectively.",
+    "website": "https://xagio.com",
+    "categories": "AI SEO Assistant, AI Website Designer, AI Project Management, Writing Assistants, AI Content Generator, AI Reviews Assistant, AI Website Builder",
+    "slug": "xagio",
+    "created_at": "14:12:41 05/20/2025"
+  },
+  {
     "title": "Ithy",
     "name": "Ithy AI",
     "description": "A platform using AI to provide comprehensive answers to questions.",
@@ -11627,6 +11672,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Notato",
+    "name": "Notato",
+    "description": "AI note-taking app that organizes lectures into structured notes.",
+    "website": "https://apps.apple.com/us/app/notato-ai-note-taker/id6744571120",
+    "categories": "AI Quizzes, AI Education Assistant, AI Productivity Tools, AI Notes Assistant, Translate, Summarizer, Transcription, Transcriber, AI Image Scanning, Recording, Speech-to-Text, AI Speech Recognition, AI YouTube Assistant",
+    "slug": "notato",
+    "created_at": "14:12:41 05/20/2025"
+  },
+  {
     "title": "Wikipedia Article AI",
     "name": "Wikipedia Article AI",
     "description": "Create Wikipedia articles instantly",
@@ -12615,6 +12669,15 @@
     "categories": "Translate, AI Presentation Generator",
     "slug": "deckflow-ppt-translator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Typiq",
+    "name": "Typiq",
+    "description": "AI tool for generating font pairings and type scales.",
+    "website": "https://www.typiq.app",
+    "categories": "Design Assistant, AI Font, AI Blog Writer, General Writing",
+    "slug": "typiq",
+    "created_at": "14:12:41 05/20/2025"
   },
   {
     "title": "Spyper AI - E-Commerce Insights Machine",
@@ -13623,6 +13686,15 @@
     "categories": "AI API Design, Sales Assistant, AI Analytics Assistant, AI Reply Assistant, AI CRM Assistant, AI Email Assistant, AI Email Generator, AI Response Generator, AI Lead Generation, AI Chatbot, AI Meeting Assistant, AI Workflow Management, AI Scheduling",
     "slug": "salesape-ai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Goonj",
+    "name": "Goonj",
+    "description": "AI to analyze baby cries for better parenting.",
+    "website": "https://www.prakarann.com",
+    "categories": "Healthcare, Parenting, AI Customer Service Assistant",
+    "slug": "goonj",
+    "created_at": "14:12:41 05/20/2025"
   },
   {
     "title": "Futudo",
@@ -14819,6 +14891,15 @@
     "categories": "AI Recipe Assistant, AI Content Generator",
     "slug": "granny-cooks-for-me",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "CoGuide",
+    "name": "CoGuide",
+    "description": "AI platform for generating lesson plans and activities.",
+    "website": "https://coguide.ai",
+    "categories": "AI Education Assistant, AI Content Generator, AI Course, Homework Helper, AI YouTube Assistant, AI Productivity Tools",
+    "slug": "coguide",
+    "created_at": "14:12:41 05/20/2025"
   },
   {
     "title": "Pollox.ai",
