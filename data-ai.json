@@ -72,6 +72,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "UseResume AI",
+    "name": "UseResume AI",
+    "description": "AI platform for creating and optimizing resumes and cover letters.",
+    "website": "https://useresume.ai",
+    "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator, Letter Writer, AI Email Writer",
+    "slug": "useresume-ai",
+    "created_at": "02:38:30 05/21/2025"
+  },
+  {
     "title": "Spinach AI",
     "name": "Spinach AI",
     "description": "AI assistant for meetings that summarizes and automates tasks.",
@@ -8892,6 +8901,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Veo3",
+    "name": "Veo3",
+    "description": "AI video generator with synchronized audio and sound effects.",
+    "website": "https://veo3.ai",
+    "categories": "Prompt, AI Video Recording, AI Script Writing, AI Content Generator, Text to Video, AI Animated Video, AI Video Generator, AI Short Clips Generator, AI Lip Sync Generator, AI Story Writing, Image to Video, AI Creative Writing",
+    "slug": "veo3",
+    "created_at": "02:38:30 05/21/2025"
+  },
+  {
     "title": "SoulGem",
     "name": "SoulGem",
     "description": "AI-generated personality art",
@@ -10185,6 +10203,15 @@
     "categories": "AI SEO Assistant, AI Reviews Assistant, AI Blog Writer, Copywriting, General Writing, Writing Assistants, AI Content Generator, AI Product Description Generator, AI Rewriter",
     "slug": "seo-ing",
     "created_at": "14:12:45 04/23/2025"
+  },
+  {
+    "title": "PassiveWP",
+    "name": "PassiveWP",
+    "description": "Affiliate marketing plugin for WordPress, enhancing revenue easily.",
+    "website": "https://passivewp.com",
+    "categories": "AI Product Description Generator, AI Analytics Assistant, AI Content Generator, AI Advertising Assistant, AI Customer Service Assistant, AI Ad Creative Assistant, E-commerce Assistant, Writing Assistants, AI Lead Generation, Copywriting, General Writing, AI Reviews Assistant, AI Blog Writer",
+    "slug": "passivewp",
+    "created_at": "02:38:30 05/21/2025"
   },
   {
     "title": "Sommel-ai",
