@@ -261,6 +261,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "iDox.ai",
+    "name": "iDox.ai",
+    "description": "Take the hassle out of redaction. Auto-redact text, signatures, logos & more.",
+    "website": "https://www.idox.ai",
+    "categories": "AI PDF, AI WORD, AI Monitor & Report Builder, AI Document Extraction",
+    "slug": "idox-ai",
+    "created_at": "02:37:53 05/22/2025"
+  },
+  {
     "title": "Voxscribe",
     "name": "Voxscribe",
     "description": "Voice to social media content app",
