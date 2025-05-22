@@ -3717,6 +3717,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Veo 3 AI",
+    "name": "Veo 3 AI",
+    "description": "Google's AI video generation for stunning content.",
+    "website": "https://veo3.co",
+    "categories": "AI Video Generator, Text to Video, AI Ad Generator",
+    "slug": "veo-3-ai",
+    "created_at": "14:12:37 05/22/2025"
+  },
+  {
     "title": "Memeface.me",
     "name": "Memeface",
     "description": "Turn friends into meme gifts.",
@@ -5911,6 +5920,15 @@
     "categories": "Translate, AI Book Writing, Novel",
     "slug": "ai-book-translate",
     "created_at": "14:10:02 05/18/2025"
+  },
+  {
+    "title": "Veo 3 AI",
+    "name": "Veo-3 AI",
+    "description": "All-in-one AI platform for image, video, and music generation.",
+    "website": "https://veo3ai.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Music Generator, AI Lip Sync Generator, Text to Image, Text to Video, AI Song Generator, Image to Video, Image to Image, AI Lyrics Generator, AI Voice Generator, AI Photo Editor, AI Social Media, AI Marketing",
+    "slug": "veo-3-ai-1",
+    "created_at": "14:12:37 05/22/2025"
   },
   {
     "title": "Fast Domain",
@@ -13319,6 +13337,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TeraBox",
+    "name": "TeraBox",
+    "description": "Free cloud storage, file transfer, and AI content generation tools.",
+    "website": "https://www.terabox.com",
+    "categories": "AI Text Generator, AI Essay Writer, AI Presentation Generator, AI Paraphraser",
+    "slug": "terabox",
+    "created_at": "14:12:37 05/22/2025"
+  },
+  {
     "title": "xMode.ai",
     "name": "xMode.ai",
     "description": "xMode.ai is an advanced AI platform tailored towards adult content creators. Offering an array of AI-powered tools, its main function is to transform the content creation process.",
@@ -15404,6 +15431,15 @@
     "categories": "AI Chatbot, AI Art Generator, AI Design Generator, AI Graphic Design, Design Assistant, AI Mind Mapping, Large Language Models (LLMs), Writing Assistants, AI Content Generator, Text to Image, AI Photo & Image Generator, AI Code Assistant, AI Search Engine",
     "slug": "cleverai",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "Portal by 20Vision",
+    "name": "Portal by 20Vision",
+    "description": "Free AI tool for instant image and video transformation.",
+    "website": "https://20.vision",
+    "categories": "AI Design Generator, AI Image Generator, AI Video Generator, AI Marketing, Text to Image, Image to Image, AI Art Generator, AI Ad Generator, AI Meme Generator, AI Social Media Post Generator, AI Interior Design, AI Anime Art, AI Yearbook, AI Poster Generator, AI Comic Generator",
+    "slug": "portal-by-20vision",
+    "created_at": "14:12:37 05/22/2025"
   },
   {
     "title": "AI-empowered Platform",
