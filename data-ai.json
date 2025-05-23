@@ -369,6 +369,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Propolis",
+    "name": "Propolis",
+    "description": "AI-powered autonomous browser agents for QA automation.",
+    "website": "https://propolis.tech",
+    "categories": "AI Testing, AI Agent, AI Browsers, AI Workflow, AI Productivity Tools, AI Developer Tools, AI Copilot",
+    "slug": "propolis",
+    "created_at": "02:37:41 05/23/2025"
+  },
+  {
     "title": "WayStars AI- Your Unified AI Platform",
     "name": "WayStars AI- Your Unified AI Platform",
     "description": "WayStars AI is an all-in-one AI supertool suite that empowers users with cutting-edge AI models, productivity tools, and creative capabilities—all in one unified platform. In short WayStars AI is a powerful AI aggregator.",
@@ -2880,6 +2889,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Soulnests",
+    "name": "Soulnests",
+    "description": "AI-powered journaling app for emotional well-being and personal growth.",
+    "website": "https://soulnests.com",
+    "categories": "AI Mental Health, AI Therapist, AI Chatbot",
+    "slug": "soulnests",
+    "created_at": "02:37:41 05/23/2025"
+  },
+  {
     "title": "MealForMe",
     "name": "MealForMe",
     "description": "Meals and food matching in less than a minute.",
@@ -3418,6 +3436,15 @@
     "categories": "Other",
     "slug": "chatplg",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SigmaNote",
+    "name": "SigmaNote - your second brain",
+    "description": "AI-powered tool turning files/links into editable, searchable notes.",
+    "website": "https://sigmanote.app",
+    "categories": "AI Knowledge Base, AI Note Taker, AI Knowledge Management",
+    "slug": "sigmanote-your-second-brain",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "X-Me",
@@ -4419,6 +4446,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "DeepShare",
+    "name": "DeepShare",
+    "description": "An experimental all-in-one deep content sharing community for high-quality content.",
+    "website": "https://deepshare.me",
+    "categories": "AI Tools Directory, AI Agent, AI Models, AI Assistant, AI News, AI Developer Tools, Large Language Models (LLMs), Prompt Engineering",
+    "slug": "deepshare",
+    "created_at": "02:37:41 05/23/2025"
+  },
+  {
     "title": "bartleby",
     "name": "bartleby",
     "description": "Online homework help and textbook solutions platform.",
@@ -4525,6 +4561,15 @@
     "categories": "Other",
     "slug": "freeaikit-org",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Gloda",
+    "name": "Gloda",
+    "description": "AI-driven TikTok analytics tool for market insights and business growth.",
+    "website": "https://www.gloda.vip",
+    "categories": "AI Tiktok, AI For Data Analytics, AI Digital Marketing",
+    "slug": "gloda",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "MergeML",
@@ -4696,6 +4741,15 @@
     "categories": "AI Chatbot, Mental Health, AI Analytics Assistant, Healthcare, AI Reviews Assistant, Fitness",
     "slug": "stoppr",
     "created_at": "14:12:51 04/16/2025"
+  },
+  {
+    "title": "Veo3Video",
+    "name": "Veo3Video",
+    "description": "AI video generation with synchronized audio and lip-sync, powered by Google Veo3.",
+    "website": "https://veo3video.app",
+    "categories": "AI Video Generator, Text to Video, AI Lip Sync Generator, Image to Video, AI Movie Generator, AI Speech Synthesis, AI Voice Generator, AI Sound Effect Generator, AI Animation Generator",
+    "slug": "veo3video",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "Tiptap Editor 3.0",
@@ -5047,6 +5101,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs)",
     "slug": "supermemory-1",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "FaceAge AI",
+    "name": "FaceAge AI",
+    "description": "Free AI tool to detect facial, eye, skin, and wrinkle age from photos.",
+    "website": "https://face-age.ai",
+    "categories": "AI Face Analyzer, AI Detector, AI Beauty, AI Image Recognition",
+    "slug": "faceage-ai",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "Lumia AI - AI Home Designer",
@@ -5650,6 +5713,15 @@
     "categories": "AI SEO Assistant, AI Website Designer, AI Website Builder, AI Content Generator, AI Landing Page Builder",
     "slug": "lkin",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "finlight.me",
+    "name": "finlight.me",
+    "description": "Real-time financial and geopolitical News API with AI insights.",
+    "website": "https://finlight.me",
+    "categories": "AI API, AI News, AI For Finance",
+    "slug": "finlight-me",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "Natulang",
@@ -8073,6 +8145,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "nom3d.studio",
+    "name": "nom3d.studio",
+    "description": "AI-powered platform for 2D to 3D logo conversion and creation.",
+    "website": "https://nom3d.studio",
+    "categories": "AI Logo Generator, AI 3D Model Generator, Image to 3D Model, AI Design Generator",
+    "slug": "nom3d-studio",
+    "created_at": "02:37:41 05/23/2025"
+  },
+  {
     "title": "MailHero",
     "name": "MailHero.ai - AI-driven email warmup",
     "description": "AI-driven email warmup tool for higher open rates",
@@ -10178,6 +10259,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Spillmate",
+    "name": "Spillmate",
+    "description": "AI mental health companion offering chat-based therapy and emotional support.",
+    "website": "https://spillmate.ai",
+    "categories": "AI Mental Health, AI Chatbot, AI Therapist",
+    "slug": "spillmate",
+    "created_at": "02:37:41 05/23/2025"
+  },
+  {
     "title": "Bookshelf",
     "name": "Bookshelf",
     "description": "Organize and remember what you read.",
@@ -10311,6 +10401,15 @@
     "categories": "AI Interior & Room Design, AI 3D Model Generator",
     "slug": "foyr-neo",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "DevBooster",
+    "name": "DevBooster",
+    "description": "AI browser extension for smarter copy-paste coding, validation, optimization, and documentation.",
+    "website": "https://devbooster.ai",
+    "categories": "AI Copilot, AI Code Assistant, AI Code Review, AI Translate, AI Developer Tools, AI Productivity Tools, AI Chatbot",
+    "slug": "devbooster",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "Arvow",
@@ -10518,6 +10617,15 @@
     "categories": "Copywriting, AI Ad Creative Assistant, AI Ad Generator, AI Advertising Assistant",
     "slug": "write-label",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Crosspost",
+    "name": "Crosspost",
+    "description": "Publish articles to multiple platforms simultaneously, saving time and growing reach.",
+    "website": "https://www.trycrosspost.com",
+    "categories": "AI Writing Assistants, AI Writing, AI Productivity Tools, AI Copilot",
+    "slug": "crosspost",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "Xagio",
@@ -11870,6 +11978,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Storygen",
+    "name": "AI UGC Avatar",
+    "description": "AI platform for generating videos, stories, and images.",
+    "website": "https://storygen.co",
+    "categories": "AI Story Generator, AI Video Generator, AI Image Generator, AI UGC Video Generator, Text to Video, Text to Image, AI Social Media Post Generator",
+    "slug": "ai-ugc-avatar",
+    "created_at": "02:37:41 05/23/2025"
+  },
+  {
     "title": "Puretalk.ai",
     "name": "Puretalk.ai",
     "description": "All‑in‑One Conversational AI Solution Powered by RUTH®",
@@ -12282,6 +12399,15 @@
     "categories": "Prompt, Writing Assistants, AI Content Generator, AI Chatbot, AI Customer Service Assistant, AI Response Generator",
     "slug": "kind-prompting",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Post 5s",
+    "name": "Post5s",
+    "description": "AI Chrome extension for instant, high-quality social media posts with captions and hashtags.",
+    "website": "https://post5s.autowork.com.vn",
+    "categories": "AI Social Media Post Generator, AI Facebook, AI Caption Generator, AI Hashtag",
+    "slug": "post5s",
+    "created_at": "02:37:41 05/23/2025"
   },
   {
     "title": "Hillda",
