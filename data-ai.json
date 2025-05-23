@@ -81,6 +81,15 @@
     "created_at": "02:38:30 05/21/2025"
   },
   {
+    "title": "Google AI Studio",
+    "name": "Google AI Studio",
+    "description": "Platform for building with Google's Gemini AI models.",
+    "website": "https://aistudio.google.com",
+    "categories": "AI Developer Tools, AI API, AI Models, Large Language Models (LLMs)",
+    "slug": "google-ai-studio",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "Spinach AI",
     "name": "Spinach AI",
     "description": "AI assistant for meetings that summarizes and automates tasks.",
@@ -358,6 +367,15 @@
     "categories": "AI CRM Assistant, AI Email Marketing, AI Lead Generation, AI Knowledge Base, AI Productivity Tools, AI Team Collaboration, AI Meeting Assistant, AI Scheduling, Sales Assistant, AI Email Writer, Writing Assistants, AI Content Generator, AI Analytics Assistant, Letter Writer, Copywriting, AI Reply Assistant",
     "slug": "firstquadrant",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "AddSubtitle",
+    "name": "AddSubtitle",
+    "description": "Subtitles, voiceover, and translation—all in one tool to speed up your video workflow.",
+    "website": "https://addsubtitle.ai",
+    "categories": "AI Video Editor, AI Subtitle Generator, AI Vocal Remover, AI Dubbing, AI Transcriber, AI Voice Changer, AI Voice Cloning, AI Voice Generator, AI Voice Over, AI Video Translator",
+    "slug": "addsubtitle",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "WishlistMate",
@@ -2043,6 +2061,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "HireHunch",
+    "name": "Saina",
+    "description": "AI interviewer for faster, unbiased candidate screening.",
+    "website": "https://ai.hirehunch.com",
+    "categories": "AI Interview Assistant, AI Recruiting, AI Agent, AI Chatbot, AI Transcription",
+    "slug": "saina",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "FalcoCut",
     "name": "FalcoCut",
     "description": "AI video generator for social media in multiple languages.",
@@ -2203,6 +2230,15 @@
     "categories": "AI Twitter Assistant, AI Social Media Assistant, AI Reply Assistant, AI Analytics Assistant",
     "slug": "tweetpeek",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Mangaka.app",
+    "name": "Mangaka.app",
+    "description": "AI tool transforming scripts into stunning manga illustrations.",
+    "website": "https://mangaka.app",
+    "categories": "AI Manga Generator, AI Comic Generator, AI Illustration Generator, Text to Image",
+    "slug": "mangaka-app",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "AiSensy",
@@ -2484,6 +2520,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Toolsmart Free Humanize AI",
+    "name": "Toolsmart Free Humanize AI",
+    "description": "Free Humanize AI is a free tool that transforms stiff AI text into fluent, natural human language. With 8 unique rewrite modes, adjustable polish levels, and no sign-up or ads, it's perfect for making AI content sound truly human—clear, smooth, and real.",
+    "website": "https://www.toolsmart.ai",
+    "categories": "AI Writing Assistants, AI Copywriting, AI Paraphraser, AI Proofreading, AI Rewriter, AI Spell Check, AI Writing",
+    "slug": "toolsmart-free-humanize-ai",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "Aithor",
     "name": "Aithor",
     "description": "AI writing assistant for research and writing enhancement.",
@@ -2655,6 +2700,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Head",
+    "name": "Head AI (Alpha)",
+    "description": "World's first AI marketer, replacing humans for business growth.",
+    "website": "https://headai.io",
+    "categories": "AI Marketing, AI Digital Marketing, AI Advertising",
+    "slug": "head-ai-alpha",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "LeadHunt AI",
     "name": "LeadHunt AI",
     "description": "AI-driven lead generation using advanced technology",
@@ -2788,6 +2842,15 @@
     "categories": "Other",
     "slug": "a-i-framewerks",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PostPlanify",
+    "name": "PostPlanify",
+    "description": "AI-powered social media management tool for scheduling, content, and publishing.",
+    "website": "https://postplanify.com",
+    "categories": "AI Social Media, AI Caption Generator, AI Social Media Post Generator, AI Scheduling",
+    "slug": "postplanify",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Promptum",
@@ -3465,6 +3528,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "Stitch",
+    "name": "Stitch",
+    "description": "AI-powered tool for generating UIs for mobile and web apps.",
+    "website": "https://stitch.withgoogle.com",
+    "categories": "AI Design Generator, AI UX Design, AI Code Generator, AI App Builder, AI Website Builder",
+    "slug": "stitch",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "Resonance Studio",
     "name": "Resonance Studio",
     "description": "Studio for startups creating resonant brands and products with AI expertise.",
@@ -3897,6 +3969,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "AdEx AURA",
+    "name": "AdEx AURA",
+    "description": "AI agent framework for Web3, automating DeFi, NFTs, and airdrops with personalized recommendations.",
+    "website": "https://www.adex.network",
+    "categories": "AI Agent, Web3, AI Crypto, AI Investing, AI Predictions",
+    "slug": "adex-aura",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "askInput",
     "name": "askInput",
     "description": "askInput is a website for clients to voice thoughts and receive prompt responses.",
@@ -4039,6 +4120,15 @@
     "categories": "AI Product Description Generator, AI SEO Assistant, E-commerce Assistant",
     "slug": "csv2ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Line0",
+    "name": "Line0",
+    "description": "AI pair programmer for backend development, building Express.js APIs.",
+    "website": "https://www.line0.dev",
+    "categories": "AI Code Generator, AI Code Assistant, AI Developer Tools, AI API, AI Github",
+    "slug": "line0",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Docsumo",
@@ -4831,6 +4921,15 @@
     "categories": "AI Social Media Assistant, AI Bio Generator, AI SEO Assistant",
     "slug": "plano-ly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SkyPlanner APS",
+    "name": "Skyplanner APS",
+    "description": "AI-powered software for production scheduling and optimization.",
+    "website": "https://skyplanner.ai",
+    "categories": "AI Scheduling, AI Productivity Tools, AI Workflow, AI Copilot",
+    "slug": "skyplanner-aps",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "LLMrefs",
@@ -6039,6 +6138,15 @@
     "created_at": "14:12:29 05/13/2025"
   },
   {
+    "title": "BrAIs",
+    "name": "BrAIs",
+    "description": "An integrated platform for managing and improving language model interactions.",
+    "website": "https://try.brais.app",
+    "categories": "Large Language Models (LLMs), AI Productivity Tools, AI Knowledge Management, AI Copilot",
+    "slug": "brais",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "YourDomainSite",
     "name": "YourDomainSite",
     "description": "Create landing pages for unused domains effortlessly.",
@@ -6604,6 +6712,15 @@
     "categories": "AI Art Generator, AI Photo & Image Generator",
     "slug": "face-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lóre AI",
+    "name": "Lóre AI",
+    "description": "AI-powered PDF to editable Word conversion and translation.",
+    "website": "https://www.loreai.org",
+    "categories": "AI PDF, AI Translate, AI OCR, AI Document Extraction, AI Documents Generator",
+    "slug": "l-re-ai",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Fiddi.ai",
@@ -8631,6 +8748,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Canvas Builders Program",
+    "name": "Canvas AI Builder's Program",
+    "description": "2-week sprint to build production-ready AI agents from ideas.",
+    "website": "https://www.canvasx.ai",
+    "categories": "AI Agent, AI Course, Large Language Models (LLMs), No-Code&Low-Code",
+    "slug": "canvas-ai-builder-s-program",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "DomainWoohoo | AI Domain Name Finder",
     "name": "DomainWoohoo",
     "description": "DomainWoohoo is an AI-powered domain name finder for easily searching and finding available awesome domain names.",
@@ -8917,6 +9043,15 @@
     "categories": "AI Chatbot, Parenting, Homework Helper, AI Education Assistant",
     "slug": "hachi",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Bible Chat",
+    "name": "Bible Chat",
+    "description": "AI faith app for Bible understanding, prayer, and daily encouragement.",
+    "website": "https://thebiblechat.com",
+    "categories": "AI Bible, AI Chatbot, AI Religion, AI Answer, AI Assistant",
+    "slug": "bible-chat",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Sand.ai",
@@ -11096,6 +11231,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "922 S5 Proxy",
+    "name": "922 S5 Proxy",
+    "description": "A proxy platform that focuses on providing high-quality residential proxy services.",
+    "website": "https://www.922proxy.com",
+    "categories": "AI Web Scraping",
+    "slug": "922-s5-proxy",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "Prisms",
     "name": "Prisms AI",
     "description": "No-code platform Prisms helps users build AI-powered apps by connecting data, user inputs, and building blocks.",
@@ -11519,6 +11663,15 @@
     "created_at": "02:26:48 04/14/2025"
   },
   {
+    "title": "Pi Labs",
+    "name": "Pi Copilot",
+    "description": "AI platform for building custom evaluation and scoring systems for LLMs.",
+    "website": "https://build.withpi.ai",
+    "categories": "AI Testing, AI Agent, AI Developer Tools, AI Copilot, AI Models, Large Language Models (LLMs), AI Monitor",
+    "slug": "pi-copilot",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "AI Book Writer",
     "name": "AI Book Writer",
     "description": "AI tool for writing books chapter by chapter",
@@ -11841,6 +11994,15 @@
     "categories": "AI Quizzes, AI Education Assistant, AI Productivity Tools, AI Notes Assistant, Translate, Summarizer, Transcription, Transcriber, AI Image Scanning, Recording, Speech-to-Text, AI Speech Recognition, AI YouTube Assistant",
     "slug": "notato",
     "created_at": "14:12:41 05/20/2025"
+  },
+  {
+    "title": "Reflecta",
+    "name": "Reflecta.me",
+    "description": "AI-powered self-care companion analyzing selfies for well-being insights and tips.",
+    "website": "https://www.reflecta.me",
+    "categories": "AI Mental Health, AI Face Analyzer, AI Assistant",
+    "slug": "reflecta-me",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Wikipedia Article AI",
@@ -12392,6 +12554,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Macaly",
+    "name": "Macaly",
+    "description": "AI coding assistant turning words into working apps instantly.",
+    "website": "https://macaly.com",
+    "categories": "AI App Builder, AI Code Generator, No-Code&Low-Code, AI Agent",
+    "slug": "macaly",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "AE Studio",
     "name": "Kind Prompting",
     "description": "AI tool for transforming communication into kinder interactions.",
@@ -12624,6 +12795,15 @@
     "categories": "AI Code Assistant, AI Developer Tools, AI Project Management, AI Workflow Management, AI Task Management",
     "slug": "pacely-project-management",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Summarizer for YouTube (Mac App Store)",
+    "name": "AI Summarizer for YouTube (Mac App Store)",
+    "description": "Free AI YouTube summarizer for quick, sequential, and deep-dive video insights.",
+    "website": "https://www.insightkeeper.ai",
+    "categories": "AI Youtube Summary, AI Video Summarizer, AI Summarizer",
+    "slug": "ai-summarizer-for-youtube-mac-app-store",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Birthday Reminder Widget",
@@ -13463,6 +13643,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Kreativespace™",
+    "name": "Kreativespace",
+    "description": "AI writing tools suite for productivity and authenticity.",
+    "website": "https://kreativespace.com",
+    "categories": "AI Writing Assistants, AI Writing, AI Paraphraser, AI Summarizer, AI Detector, AI Grammar Checker, AI Plagiarism Checker, AI Translate, AI Productivity Tools",
+    "slug": "kreativespace",
+    "created_at": "14:12:10 05/23/2025"
+  },
+  {
     "title": "TeraBox",
     "name": "TeraBox",
     "description": "Free cloud storage, file transfer, and AI content generation tools.",
@@ -13506,6 +13695,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, AI Knowledge Management, AI Productivity Tools, AI Tutorial, AI SOP, AI Analytics Assistant, AI SEO Assistant",
     "slug": "helpjuice",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "BuildQL",
+    "name": "BuildQL",
+    "description": "AI-powered platform for learning, developing, and deploying software easily.",
+    "website": "https://buildql.com",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Tutorial",
+    "slug": "buildql",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Thirsty Bot",
@@ -14145,6 +14343,15 @@
     "categories": "Writing Assistants, AI Interview Assistant, AI Analytics Assistant",
     "slug": "intvu-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Routerra",
+    "name": "Routerra",
+    "description": "AI-powered route planner for couriers and delivery teams.",
+    "website": "https://routerra.io",
+    "categories": "AI Trip Planner, AI Productivity Tools, AI Scheduling",
+    "slug": "routerra",
+    "created_at": "14:12:10 05/23/2025"
   },
   {
     "title": "Codelab",
