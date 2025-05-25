@@ -2160,6 +2160,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SMMAI",
+    "name": "SMMAI",
+    "description": "Skip the blank canvas. AI creates thousands of banners for you instantly. Free web and iOS app, ready to use!",
+    "website": "https://home.smmai.app",
+    "categories": "AI Banner Generator, AI Cover Generator, AI Flyer Generator, AI Digital Marketing, AI Advertising, AI Ad Generator, AI Ad Creative, AI Social Media Post Generator, AI Poster Generator, AI Graphic Design, AI Design Generator, Text to Image, AI Creative Writing, AI Realistic Image Generator, AI Image Generator, AI Writing, AI Title Generator, AI Text Message Generator, AI Text Generator, AI Subtitle Generator, AI Slogan Generator, AI Image Description Generator, AI Marketing",
+    "slug": "smmai-ai-banner-maker",
+    "created_at": "02:45:38 05/25/2025"
+  },
+  {
     "title": "Law Insider",
     "name": "Law Insider",
     "description": "AI tools for contract drafting, review, and redlining.",
@@ -6496,6 +6505,15 @@
     "categories": "AI Content Generator, Prompt",
     "slug": "promptist",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Doll",
+    "name": "AI Doll",
+    "description": "Generate, Modelize and 3D Print your Own AI Action Figure in One Click",
+    "website": "https://ai-doll.app",
+    "categories": "AI Art Generator, AI Avatar Generator, AI Realistic Image Generator, Image to Image, Text to Image, AI 3D Model Generator, AI Painting Generator",
+    "slug": "ai-doll",
+    "created_at": "02:45:38 05/25/2025"
   },
   {
     "title": "venturefy",
