@@ -180,6 +180,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "ReelUp",
+    "name": "Reelup",
+    "description": "Video-commerce platform for interactive, shoppable videos to boost sales.",
+    "website": "https://reelup.io",
+    "categories": "AI Marketing, AI Sales, AI Video Enhancer",
+    "slug": "reelup",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Genji - AI Browser Assistant",
     "name": "Genji",
     "description": "AI browser ninja for Chrome tasks",
@@ -2052,6 +2061,15 @@
     "created_at": "14:11:12 04/24/2025"
   },
   {
+    "title": "Morph",
+    "name": "Morph",
+    "description": "Morph rapidly applies LLM code edits to files, serving as AI agent's 'write' layer.",
+    "website": "https://morphllm.com",
+    "categories": "AI Developer Tools, AI Code Assistant, AI API, AI Agent, AI Copilot, AI Productivity Tools, AI Code Generator, Large Language Models (LLMs), AI Rewriter, AI Code Review, AI Workflow",
+    "slug": "morph-apply-ai-edits-to-files-fast",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Smart Keys for Mac",
     "name": "Smart Keys for Mac",
     "description": "AI tool that enhances writing with shortcuts and translations.",
@@ -2392,6 +2410,15 @@
     "categories": "AI Content Generator, AI Cooking Assistant, AI Recipe Assistant, AI Creative Writing",
     "slug": "ai-recipe-writer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "DigiMirror",
+    "name": "Digimirror",
+    "description": "AI virtual try-on for clothes, free and no registration.",
+    "website": "https://digimirror.app",
+    "categories": "AI Clothing Generator, AI Outfit Generator, AI Clothing Removal, AI Image Generator, AI Photo Editor, AI Shopping Assistant",
+    "slug": "digimirror",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "BotB9",
@@ -4671,6 +4698,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "QuizzMe",
+    "name": "QuizzMe",
+    "description": "AI-powered platform turning study materials into interactive lessons with personalized feedback.",
+    "website": "https://www.quizzme.ai",
+    "categories": "AI Quiz Generator, AI Question Generator, AI Teachers, AI Lesson Plan Generator, AI Quizzes",
+    "slug": "quizzme",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "MergeML",
     "name": "MergeML",
     "description": "AI image generation using merged inputs.",
@@ -5958,6 +5994,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Liznr",
+    "name": "Liznr",
+    "description": "AI meeting assistant for real-time summarization and understanding.",
+    "website": "https://liznr.ai",
+    "categories": "AI Meeting Assistant, AI Summarizer, AI Note Taker, AI Transcription",
+    "slug": "liznr",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Journee",
     "name": "MyJournee",
     "description": "Journee is an online journal that helps users gain clarity and achieve their goals through daily emails.",
@@ -6100,6 +6145,15 @@
     "categories": "Translate, AI Book Writing, Novel",
     "slug": "ai-book-translate",
     "created_at": "14:10:02 05/18/2025"
+  },
+  {
+    "title": "BAGEL",
+    "name": "Bagel",
+    "description": "Open-source unified multimodal AI for understanding, generation, editing.",
+    "website": "https://bagel-ai.org",
+    "categories": "Open Source AI Models, AI Models, AI Image Generator, AI Chatbot, AI Photo Editor, AI Style Transfer, AI Describe Image, AI Video Generator, Text to Image, AI Research Tool",
+    "slug": "bagel",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "Veo 3 AI",
@@ -6559,6 +6613,15 @@
     "categories": "AI Photo & Image Generator, Photo & Image Editor, AI Photo Enhancer",
     "slug": "stockphoto",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Approval AI",
+    "name": "Approval AI",
+    "description": "AI mortgage platform simplifying home loan process and negotiation.",
+    "website": "https://getapproval.ai",
+    "categories": "AI Assistant, AI Real Estate, AI For Finance, AI Agent",
+    "slug": "approval-ai",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "1Template",
@@ -7290,6 +7353,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "FireTexts",
+    "name": "FireTexts-",
+    "description": "AI dating assistant for perfect texts and more dates.",
+    "website": "https://www.firetexts.com",
+    "categories": "AI Dating Assistant, AI Text Message Generator, AI Rizz Generator",
+    "slug": "firetexts-1",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Scout AI",
     "name": "Scout AI",
     "description": "AI-powered task matching platform for automation.",
@@ -7360,6 +7432,15 @@
     "categories": "Homework Helper, AI Education Assistant",
     "slug": "ai-math-gpt-solver-online-powered-by-gpt-4o-math-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Uplyt",
+    "name": "Uplyt.io",
+    "description": "Simplifies Google Analytics & Ads with AI for actionable insights.",
+    "website": "https://www.uplyt.io",
+    "categories": "AI For Data Analytics, AI Assistant, AI Marketing, AI SEO Tools, Google Ads AI, AI Summarizer, AI Productivity Tools, AI Chatbot, AI Task Management",
+    "slug": "uplyt-io",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "Sora AI Video Generator",
@@ -8226,6 +8307,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Giststack",
+    "name": "Giststack",
+    "description": "AI tool for curating content and generating on-brand social media posts.",
+    "website": "https://www.giststack.com",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Writing Assistants, AI Summarizer, AI Productivity Tools",
+    "slug": "giststack",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "MIOSN",
     "name": "MIOSN",
     "description": "AI model matching for tasks efficiently and cost-effectively.",
@@ -8478,6 +8568,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "Aseto",
+    "name": "Voice AI Agents",
+    "description": "Custom AI Voice Agents for complex business communication.",
+    "website": "https://aseto.ai",
+    "categories": "AI Agent, AI Voice Assistants, AI Call Center, AI Sales Assistant, AI Workflow",
+    "slug": "voice-ai-agents",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Day.ai",
     "name": "Day.ai",
     "description": "Integrated CRM and meeting assistant for enhanced customer relationships.",
@@ -8530,6 +8629,15 @@
     "categories": "Investing Assistant",
     "slug": "welle-ai",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Leaderr",
+    "name": "Leaderr.io",
+    "description": "AI-powered B2B data intelligence, lead generation, and compliance solutions.",
+    "website": "https://leaderr.io",
+    "categories": "AI Lead Generation, AI For Data Analytics, AI Sales, AI API",
+    "slug": "leaderr-io",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "Skylight",
@@ -8809,6 +8917,15 @@
     "categories": "AI Analytics Assistant, AI Email Generator, AI Email Marketing, AI Lead Generation, AI Email Writer, AI Content Generator",
     "slug": "chillmail",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Lami.ai",
+    "name": "Lami.ai",
+    "description": "Compose original, royalty-free songs in minutes — and explore a suite of powerful AI music tools.",
+    "website": "https://lami.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Text-to-Music",
+    "slug": "lami-ai-free-ai-music-generator-from-text",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "TranslateBase - Web Page, PDF and Subtitle Tranlation | Chat with PDF",
@@ -9852,6 +9969,15 @@
     "categories": "AI Analytics Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Dating Assistant",
     "slug": "chat-recap",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Trring Me",
+    "name": "Trring Me",
+    "description": "All-in-one omnichannel platform for customer engagement.",
+    "website": "https://trringme.com",
+    "categories": "AI Chatbot, AI Customer Service, AI Marketing, AI Sales, AI CRM, AI Response Generator, AI Message Generator, AI Lead Generation",
+    "slug": "trring-me",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "Sohri",
@@ -11159,6 +11285,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Morphik",
+    "name": "Morphik",
+    "description": "Open-source AI knowledge base and research agent for enterprise data.",
+    "website": "https://www.morphik.ai",
+    "categories": "AI Knowledge Base, AI Search Engine, AI Research Tool, AI Knowledge Graph, AI API, AI Developer Tools, AI Document Extraction, AI For Data Analytics",
+    "slug": "morphik",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Flowie – Custom Webflow Solutions",
     "name": "Flowie",
     "description": "Flowie is a customizable platform for Webflow featuring code snippets and an AI Code Assistant.",
@@ -11355,6 +11490,15 @@
     "categories": "AI Team Collaboration, AI Product Description Generator, AI Workflow Management, AI Project Management, AI Productivity Tools, AI Task Management",
     "slug": "miro",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "LLM SEO Monitor",
+    "name": "LLM SEO Monitor",
+    "description": "Monitors AI recommendations for SEO optimization.",
+    "website": "https://llmseomonitor.com",
+    "categories": "AI SEO Tools, Large Language Models (LLMs), AI Search Engine, AI Monitor",
+    "slug": "llm-seo-monitor",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "VoiceType AI",
@@ -11895,6 +12039,15 @@
     "categories": "AI Art Generator, AI Avatar Generator, AI Profile Picture Generator",
     "slug": "arti-pics",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nexty.dev",
+    "name": "Nexty",
+    "description": "All-in-one Next.js SaaS starter template for rapid business website launch.",
+    "website": "https://nexty.dev",
+    "categories": "AI Developer Tools, No-Code&Low-Code",
+    "slug": "nexty",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "ls graphics",
@@ -14777,6 +14930,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Generate Ads AI",
+    "name": "Generate Ads AI",
+    "description": "AI tool to generate scroll-stopping ads in minutes.",
+    "website": "https://generateads.ai",
+    "categories": "AI Ad Generator, AI Ad Creative, AI Advertising",
+    "slug": "generate-ads-ai",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Workik",
     "name": "Workik",
     "description": "AI-powered coding assistant for developers' efficiency.",
@@ -15001,6 +15163,15 @@
     "created_at": "02:21:40 04/03/2025"
   },
   {
+    "title": "BudgetGPT",
+    "name": "BudgetGPT",
+    "description": "AI financial coach for budgeting, tracking, and optimizing finances via chat.",
+    "website": "https://www.budgetGPT.io",
+    "categories": "AI For Finance, AI Coaching, AI Chatbot",
+    "slug": "budgetgpt",
+    "created_at": "14:12:47 05/26/2025"
+  },
+  {
     "title": "Encouragebot",
     "name": "EncourageBot",
     "description": "AI Cheerleader Encouragebot provides uplifting messages using artificial intelligence.",
@@ -15206,6 +15377,15 @@
     "categories": "Other",
     "slug": "priorli",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Is This Course Legit",
+    "name": "Is This Course Legit?",
+    "description": "Platform reviewing online courses to prevent scams and guide users to legitimate education.",
+    "website": "https://isthiscourselegit.com",
+    "categories": "AI Course, AI Reviews, Prompt Engineering, AI Tools Directory",
+    "slug": "is-this-course-legit",
+    "created_at": "14:12:47 05/26/2025"
   },
   {
     "title": "Linux Helper",
