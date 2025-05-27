@@ -4518,6 +4518,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Teachfloor",
+    "name": "Teachfloor",
+    "description": "Teachfloor is an AI-powered LMS that helps instructors automate course creation, personalize learning, and streamline feedback using generative tools designed for education and training.",
+    "website": "https://www.teachfloor.com",
+    "categories": "AI Course, AI Copywriting, AI Creative Writing, AI Essay Writer, AI Summarizer, AI Image Generator, Text to Image, AI Teachers",
+    "slug": "teachfloor",
+    "created_at": "02:29:38 05/27/2025"
+  },
+  {
     "title": "ToyImageAI",
     "name": "ToyImageAI",
     "description": "Transform photos into boxed action figures using AI.",
@@ -6001,6 +6010,15 @@
     "categories": "AI Meeting Assistant, AI Summarizer, AI Note Taker, AI Transcription",
     "slug": "liznr",
     "created_at": "14:12:47 05/26/2025"
+  },
+  {
+    "title": "My Glow Up AI",
+    "name": "My Glow Up AI",
+    "description": "AI-powered mobile app for personalized self-improvement and holistic transformation.",
+    "website": "https://myglowup.ai",
+    "categories": "AI Beauty, AI Assistant, AI Coaching, Fashion AI, AI Fitness, AI Life, AI Mental Health",
+    "slug": "my-glow-up-ai",
+    "created_at": "02:29:38 05/27/2025"
   },
   {
     "title": "Journee",
