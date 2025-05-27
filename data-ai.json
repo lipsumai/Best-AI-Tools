@@ -7398,6 +7398,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PxBee",
+    "name": "PxBee",
+    "description": "Free AI photo editor for studio-quality image enhancement.",
+    "website": "https://www.pxbee.com",
+    "categories": "AI Photo Editor, AI Background Remover, AI Photo Enhancer, AI Background Generator, AI Watermark Remover, AI Image Upscaler, Object Remover AI, AI Expand Image",
+    "slug": "pxbee",
+    "created_at": "14:12:02 05/27/2025"
+  },
+  {
     "title": "Parental Bot",
     "name": "Parental Bot",
     "description": "Simplifique o direito da família e a parentalidade com o Parental Bot.",
@@ -10203,6 +10212,15 @@
     "categories": "Sales Assistant, AI Product Description Generator, Text-to-Speech, AI Voice Assistants, Web Scraping, AI Customer Service Assistant, E-commerce Assistant, AI Lead Generation, AI Knowledge Base",
     "slug": "omakase-voice-ai",
     "created_at": "02:28:54 04/21/2025"
+  },
+  {
+    "title": "BestProxy",
+    "name": "BestProxy",
+    "description": "A leading provider of proxy solutions, web scraping ,AI and data-driven operations.",
+    "website": "https://bestproxy.com",
+    "categories": "AI Web Scraping, AI API, AI Developer Tools, AI For Data Analytics",
+    "slug": "bestproxy",
+    "created_at": "14:12:02 05/27/2025"
   },
   {
     "title": "BoldVoice",
