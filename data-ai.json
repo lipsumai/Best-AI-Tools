@@ -1782,6 +1782,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MailTester.Ninja",
+    "name": "MailTester.Ninja",
+    "description": "MailTester.Ninja is a free and easy-to-use email checker that verifies or finds any address.",
+    "website": "https://mailtester.ninja",
+    "categories": "AI Email Marketing, AI Lead Generation, AI Marketing, AI Email Assistant",
+    "slug": "mailtester-ninja",
+    "created_at": "02:39:10 05/28/2025"
+  },
+  {
     "title": "RESUme upGRADE",
     "name": "ResuGrade",
     "description": "An AI platform, RESUme upGRADE enhances resumes for better job prospects with feedback, examples, and customized content.",
@@ -2824,6 +2833,15 @@
     "categories": "Prompt",
     "slug": "promptdle",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AltPage.ai",
+    "name": "AltPage.ai",
+    "description": "AI tool for generating competitor alternative pages to capture search traffic.",
+    "website": "https://www.altpage.ai",
+    "categories": "AI SEO Tools, AI Marketing, AI Landing Page Builder, AI Digital Marketing",
+    "slug": "altpage-ai",
+    "created_at": "02:39:10 05/28/2025"
   },
   {
     "title": "Lumenis",
@@ -13992,6 +14010,15 @@
     "categories": "AI Social Media Assistant, AI Twitter Assistant, AI CRM Assistant, AI Email Assistant, AI Lead Generation, AI Recruiting, AI Team Collaboration, Sales Assistant, AI Email Writer, AI Email Marketing, AI Productivity Tools",
     "slug": "meet-alfred",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Arcadium",
+    "name": "Arcadium",
+    "description": "AI-powered online 3D house design tool for floor plans and interior design.",
+    "website": "https://arcadium3D.com",
+    "categories": "AI 3D Model Generator, AI Interior Design, AI Floor Plan Generator, AI Room Planner, AI Kitchen Design, AI Landscape Generator",
+    "slug": "arcadium",
+    "created_at": "02:39:10 05/28/2025"
   },
   {
     "title": "GetResponse",
