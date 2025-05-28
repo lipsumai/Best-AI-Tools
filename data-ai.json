@@ -27,6 +27,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ghost Engineer",
+    "name": "Ghost Engineer",
+    "description": "AI tool for real-time, undetectable coding help during technical interviews.",
+    "website": "https://ghostengineer.com",
+    "categories": "AI Interview Assistant, AI Code Assistant, AI Copilot, AI Code Generator, AI Developer Tools",
+    "slug": "ghost-engineer",
+    "created_at": "14:13:07 05/28/2025"
+  },
+  {
     "title": "Canopy",
     "name": "Canopy",
     "description": "AI-based parental control app for online safety.",
@@ -718,6 +727,15 @@
     "categories": "Other",
     "slug": "style-ai-outfit-analysis",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VideoTutor",
+    "name": "VideoTutor",
+    "description": "AI education agent creating personalized teaching videos for K12, SAT/AP, STEM, and languages.",
+    "website": "https://videotutor.io",
+    "categories": "AI Video Generator, AI Teachers, AI Animated Video, AI Answer, AI Tutorial, AI Math",
+    "slug": "videotutor",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "Jo",
@@ -2403,6 +2421,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Skywork",
+    "name": "Skywork Super Agents",
+    "description": "AI workspace agent for multimodal content creation and deep research.",
+    "website": "https://skywork.ai",
+    "categories": "AI Agent, AI Report Generator, AI Research Tool, AI Documents Generator, AI Presentation Generator, AI Podcast, AI Spreadsheet",
+    "slug": "skywork-super-agents",
+    "created_at": "14:13:07 05/28/2025"
+  },
+  {
     "title": "Bubbles - AI Meeting Note Taker & Screen Recorder",
     "name": "Bubbles",
     "description": "AI tool for automated meeting notes and screen recording.",
@@ -2635,6 +2662,15 @@
     "categories": "Transcription, Transcriber, AI Interview Assistant, AI Podcast Assistant",
     "slug": "good-tape",
     "created_at": "02:19:38 04/12/2025"
+  },
+  {
+    "title": "Suno AI",
+    "name": "Suno AI-",
+    "description": "AI platform for generating music with vocals and instrumentation.",
+    "website": "https://suno-ai.org",
+    "categories": "AI Music Generator, AI Song Generator",
+    "slug": "suno-ai-1",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "Seren",
@@ -3292,6 +3328,15 @@
     "categories": "AI Cooking Assistant, AI Recipe Assistant",
     "slug": "cookfast",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ModAstera",
+    "name": "ModAstera",
+    "description": "Automates medical AI development, accelerating R&D, cutting costs, and ensuring compliance.",
+    "website": "https://www.modastera.com",
+    "categories": "AI Developer Tools, AI Healthcare, AI Agent, AI Models, No-Code&Low-Code, AI Workflow",
+    "slug": "modastera",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "Gloo",
@@ -5076,6 +5121,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SchedX",
+    "name": "SchedX",
+    "description": "AI Inbound SDR for lead qualification and meeting booking.",
+    "website": "https://www.schedx.ai",
+    "categories": "AI Sales Assistant, AI Agent, AI Sales, AI Lead Generation, AI Call Center, AI Chatbot, AI Scheduling",
+    "slug": "schedx",
+    "created_at": "14:13:07 05/28/2025"
+  },
+  {
     "title": "Lovart",
     "name": "Lovart",
     "description": "AI design agent turning prompts into creative masterpieces.",
@@ -5362,6 +5416,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant, AI Reply Assistant, AI Response Generator, E-commerce Assistant, Large Language Models (LLMs)",
     "slug": "resolvebot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ideately",
+    "name": "Ideately",
+    "description": "Collaborative AI tool for structured brainstorming, retros, and strategy sessions.",
+    "website": "https://ideately.io",
+    "categories": "AI Productivity Tools, AI Assistant, AI Business Ideas Generator",
+    "slug": "ideately",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "AI Cleaner Guru",
@@ -6777,6 +6840,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "Piny",
+    "name": "Piny",
+    "description": "Visual editor for Astro, React, Next.js, and Tailwind CSS in your IDE.",
+    "website": "https://getpiny.com",
+    "categories": "AI Developer Tools, AI Assistant, AI Design Assistant",
+    "slug": "piny",
+    "created_at": "14:13:07 05/28/2025"
+  },
+  {
     "title": "GPTChat",
     "name": "GPTChat",
     "description": "AI chatbot assistant for daily tasks and questions.",
@@ -7738,6 +7810,15 @@
     "categories": "AI Personalized Video Generator, AI Animated Video, AI Advertising Assistant, AI Content Generator, AI Video Generator",
     "slug": "media-generation-using-generativeai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AssistLoop.ai",
+    "name": "AssistLoop",
+    "description": "AI platform for automated, personalized customer support.",
+    "website": "https://assistloop.ai",
+    "categories": "AI Chatbot, AI Customer Service, AI Agent, AI Assistant, Large Language Models (LLMs)",
+    "slug": "assistloop",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "Prompt Overflow",
@@ -8739,6 +8820,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Orate",
+    "name": "Orate",
+    "description": "macOS app turning highlighted text into AI speech.",
+    "website": "https://orateai.app",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI Speech Synthesis",
+    "slug": "orate",
+    "created_at": "14:13:07 05/28/2025"
+  },
+  {
     "title": "Hailabs",
     "name": "Hello AI - HAILabs.ai",
     "description": "Hailabs empowers children with AI and data science education through personalized self-learning and gamification.",
@@ -9385,6 +9475,15 @@
     "categories": "AI Workflow Management, AI Analytics Assistant, AI Lead Generation, Sales Assistant, AI CRM Assistant, AI Email Assistant, AI Email Generator, AI Email Marketing, AI Tutorial, No-Code&Low-Code",
     "slug": "agenthub",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Rork",
+    "name": "Rork",
+    "description": "AI-powered platform for rapid native mobile app development and publishing.",
+    "website": "https://rork.com",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator",
+    "slug": "rork",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "Ogrovision",
@@ -12509,6 +12608,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Cloudglue",
+    "name": "Cloudglue",
+    "description": "Transforms video/audio into structured, LLM-ready data for AI.",
+    "website": "https://cloudglue.dev",
+    "categories": "AI API, AI Video Summarizer, AI Video Search, AI Transcription, Large Language Models (LLMs)",
+    "slug": "cloudglue",
+    "created_at": "14:13:07 05/28/2025"
+  },
+  {
     "title": "RapidScan.AI",
     "name": "RapidScan.AI",
     "description": "AI-powered document management for efficiency and accuracy.",
@@ -12543,6 +12651,15 @@
     "categories": "Fun Tools, AI Avatar Generator, AI Face Swap Generator",
     "slug": "faceswapper",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Kawaak",
+    "name": "Kawaak",
+    "description": "AI-powered tool for viral, personalized LinkedIn content creation and scheduling.",
+    "website": "https://kawaak.com",
+    "categories": "AI Social Media Post Generator, AI Writing Assistants, AI Repurpose, AI Copywriting, AI Text Generator, AI Social Media, AI Marketing, AI Productivity Tools",
+    "slug": "kawaak",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "MCPAgentSeek",
@@ -13256,6 +13373,15 @@
     "created_at": "14:10:35 05/03/2025"
   },
   {
+    "title": "3 Things - AI Tasks Tracker",
+    "name": "3 Things AI Tasks Tracker",
+    "description": "Minimalist AI task and habit tracker for focusing on 3 daily tasks and building habits.",
+    "website": "https://apps.apple.com/us/app/3-things-ai-tasks-tracker/id6745344343",
+    "categories": "AI Task Management, AI Productivity Tools, AI Assistant",
+    "slug": "3-things-ai-tasks-tracker",
+    "created_at": "14:13:07 05/28/2025"
+  },
+  {
     "title": "Metamorph Labs",
     "name": "Metamorph Labs",
     "description": "Explore curated AI resources",
@@ -13587,6 +13713,15 @@
     "categories": "Other",
     "slug": "eatlink",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "New Copy",
+    "name": "newcopy",
+    "description": "AI-powered platform for on-brand content generation, marketing playbook extraction, and copywriting.",
+    "website": "https://newcopy.ai",
+    "categories": "AI Copywriting, AI Marketing, AI Writing Assistants, AI Email Generator, AI Newsletter Generator",
+    "slug": "newcopy",
+    "created_at": "14:13:07 05/28/2025"
   },
   {
     "title": "Rizzmate",
