@@ -2052,6 +2052,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Winify AI",
+    "name": "WinifyAI",
+    "description": "AI platform automating security questionnaire and RFP responses.",
+    "website": "https://winifyai.com",
+    "categories": "AI Response Generator, AI Answer, AI Document Extraction, AI Knowledge Base",
+    "slug": "winifyai",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Web2PDF",
     "name": "Web2PDF",
     "description": "Convert web pages to PDF documents effortlessly online.",
@@ -2527,6 +2536,15 @@
     "categories": "AI Developer Docs, AI Productivity Tools, AI Meeting Assistant",
     "slug": "docdocsai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nomi",
+    "name": "Nomi",
+    "description": "AI sales copilot providing real-time phrase suggestions to boost sales win rates.",
+    "website": "https://heynomi.com",
+    "categories": "AI Copilot, AI Sales Assistant, AI Sales",
+    "slug": "nomi",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "Sprk™",
@@ -4113,6 +4131,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wondera",
+    "name": "Wondera.ai",
+    "description": "Wondera is an AI-powered music creation platform that lets anyone write, produce, and publish songs through natural conversations. Combining proprietary models and real production tools, it's ideal for creators, developers, and innovators exploring generative AI in music.",
+    "website": "https://www.wondera.ai",
+    "categories": "AI Music Generator",
+    "slug": "wondera-ai",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Bitbucket",
     "name": "Bitbucket",
     "description": "Git solution for teams using Jira to enhance collaboration.",
@@ -4741,6 +4768,15 @@
     "categories": "Design Assistant, AI Graphic Design, AI Design Generator, AI Website Designer",
     "slug": "handcraftd",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Docaroo",
+    "name": "Docaroo.ai",
+    "description": "Smart digital vault for secure document management and reminders.",
+    "website": "https://docaroo.ai",
+    "categories": "AI Knowledge Management, AI Assistant, AI Productivity Tools, AI Document Extraction",
+    "slug": "docaroo-ai",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "Chat-fu",
@@ -5382,6 +5418,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Clado",
+    "name": "Clado",
+    "description": "AI-powered global people search for sales, hiring, and research.",
+    "website": "https://clado.ai",
+    "categories": "AI Search Engine, AI Agent, AI Research Tool, AI Lead Generation, AI Recruiting, AI Productivity Tools",
+    "slug": "clado",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "CuriosityXR",
     "name": "CuriosityXR",
     "description": "Educational platform using mixed reality and AI for active learning.",
@@ -5524,6 +5569,15 @@
     "categories": "AI Photo & Image Generator, AI Image Enhancer, Photo & Image Editor",
     "slug": "image-upscaler-upscale-your-photo-for-free-with-ai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "OpenTrain AI",
+    "name": "OpenTrain AI",
+    "description": "Global marketplace for vetted human AI data experts and managed labeling services.",
+    "website": "https://www.opentrain.ai",
+    "categories": "AI Jobs, AI Recruiting, Large Language Models (LLMs)",
+    "slug": "opentrain-ai",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "Email Assistant",
@@ -6660,6 +6714,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Notigo",
+    "name": "notigo.ai",
+    "description": "AI-powered tool for real-time meeting summaries, notes, and action items.",
+    "website": "https://notigo.ai",
+    "categories": "AI Note Taker, AI Meeting Assistant, AI Summarizer, AI Transcription, AI Notes Generator",
+    "slug": "notigo-ai",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Zeabur",
     "name": "Zeabur",
     "description": "A seamless deployment platform for developers of all languages.",
@@ -7072,6 +7135,15 @@
     "categories": "AI Chatbot, AI SEO Assistant, Large Language Models (LLMs)",
     "slug": "xiu-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Keepyobread",
+    "name": "KEEPYOBREAD",
+    "description": "AI tool to enhance real estate photos and generate listing descriptions.",
+    "website": "https://keepyobread.com",
+    "categories": "AI Photo Enhancer, AI Real Estate, Object Remover AI, AI Description Generator",
+    "slug": "keepyobread",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "Rixi.org",
@@ -7551,6 +7623,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Amsflow",
+    "name": "Amsflow",
+    "description": "AI-powered financial intelligence platform for smarter investment analysis and team collaboration.",
+    "website": "https://amsflow.com",
+    "categories": "AI For Finance, AI Research Tool, AI For Data Analytics, AI Assistant",
+    "slug": "amsflow",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Placelift",
     "name": "Placelift.ai",
     "description": "AI-powered app to reimagine your home",
@@ -7720,6 +7801,15 @@
     "categories": "AI Photo & Image Generator, AI Image Enhancer",
     "slug": "proshot-app",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Facewow",
+    "name": "facewow",
+    "description": "AI-powered toolkit for portraits, face swaps, and image enhancement.",
+    "website": "https://facewow.ai",
+    "categories": "AI Image Generator, AI Background Generator, AI Background Remover, AI Eraser, AI Expand Image, AI Headshot Generator, AI Image Enhancer",
+    "slug": "facewow",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "EasyTranscribe",
@@ -9387,6 +9477,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "Loopcv",
+    "name": "Loopcv",
+    "description": "AI-powered platform to automate and optimize job search and applications.",
+    "website": "https://www.loopcv.pro",
+    "categories": "AI Jobs, AI Resume Builder, AI Resume Checker, AI Cover Letter Generator, AI Email Generator",
+    "slug": "loopcv",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Tiktok Shop Message Automation",
     "name": "RevueAI",
     "description": "Automate cold messages to Tiktok creators",
@@ -9484,6 +9583,15 @@
     "categories": "AI Voice Assistants, AI Speech Recognition, AI Speech Synthesis",
     "slug": "top-pushup-v2",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TryVeo3.ai",
+    "name": "TryVeo3.ai",
+    "description": "Turn ideas into stunning 4K videos with Veo 3 — complete with AI-generated audio and cinematic flair.",
+    "website": "https://tryveo3.ai",
+    "categories": "AI Video Generator, Image to Video, Text to Video",
+    "slug": "tryveo3-ai-free-access-to-google-veo-3-for-ai-video-generation",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "AI-Powered TailwindCSS Code Generator",
@@ -9915,6 +10023,15 @@
     "categories": "AI Chatbot, AI Reviews Assistant, E-commerce Assistant, AI Product Description Generator",
     "slug": "chatgpt-for-shop",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Funy AI",
+    "name": "Funy AI",
+    "description": "Funy AI, your premier all-in-one platform for AI creative tools without sign up, offering powerful tools like the AI Kissing Video Generator, Video Face Swap, AI Text to Video Generator, AI Image to Video Generator, AI Bikini Video Generator, and AI Muscle Video Generator. Alongside these, explore our robust Image Editing & Generation suite, featuring Face Swap, AI Hairstyle Changer, and AI Art Generator. Funy AI is designed to make every creative task remarkably simple and highly efficient.",
+    "website": "https://funy.ai",
+    "categories": "AI Video Generator, AI Watermark Remover, Image to Video, AI Face Swap Video, AI Animated Video, AI Hairstyle, AI Bikini, Text to Image, AI Unblur Image, AI Background Remover, AI Photo Restoration, AI Photo Filter, AI Photo Enhancer, AI Image Generator, AI Face Swap Generator, AI Clothing Removal, Text to Video",
+    "slug": "funy-ai-ai-video-ai-image-face-swap",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "Leaddit",
@@ -12041,6 +12158,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AcademicIdeas",
+    "name": "AI论文初稿写作-学境思源",
+    "description": "AI-powered platform for academic writing and paper generation.",
+    "website": "https://academicideas.cn",
+    "categories": "AI Essay Writer, AI Thesis Generator, AI Writing, AI Rewriter, AI Outline Generator, AI PPT Maker",
+    "slug": "ai论文初稿写作-学境思源",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Onepage",
     "name": "Onepage",
     "description": "All-in-one tool for building websites, landing pages, and quizzes.",
@@ -13247,6 +13373,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Imgkits - Top AI Image & Video Processing Tools Online",
+    "name": "Imgkits - Top AI Image & Video Processing Tools Online",
+    "description": "All-in-one AI Image & Video Editor",
+    "website": "https://www.imgkits.com",
+    "categories": "AI Background Remover, AI Disney Poster, Image to Image, Object Remover AI, Text to Handwriting, Text to Image, AI Describe Image, AI OCR, AI Anime Art, AI Book Cover Generator, AI Cartoon Generator, AI Cover Generator, AI Hairstyle, AI Yearbook, AI Icon Generator, AI Logo Generator, AI Movie Poster, AI Pixel Art, AI Sticker Generator, AI Tattoo Generator, AI Animation Generator, AI Short Video Generator, AI Stock Video Generator, AI Tiktok Video Generator, Gender Swap AI, AI Watermark Remover, AI Avatar Generator, AI Inpainting, AI Background Generator, AI Clothing Removal, AI Colorize, AI Eraser, AI Expand Image, AI Face Swap Generator, AI Headshot Generator, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Passport Photo, AI Wallpaper Generator, AI Photo Editor, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration, AI Product Photography, AI Profile Picture Generator, AI QR Code Generator, AI Realistic Image Generator, AI Signature Generator, AI Style Transfer, AI Unblur Image, AI Baby Generator",
+    "slug": "imgkits-top-ai-image-video-processing-tools-online",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Luminaries",
     "name": "Luminaries AI",
     "description": "Luminaries offers AI-powered coaching with personalized digital experts for natural conversations.",
@@ -13400,6 +13535,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "Lumii",
+    "name": "Lumii",
+    "description": "AI gaming companion offering game tips and emotional support.",
+    "website": "https://lumii-pal.ai",
+    "categories": "AI Games, AI Assistant, AI Chatbot, AI Character",
+    "slug": "lumii",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "VideoIdeas.ai",
     "name": "VideoIdeasAI",
     "description": "AI assistant for generating YouTube video scripts and ideas.",
@@ -13481,6 +13625,15 @@
     "created_at": "14:12:41 05/20/2025"
   },
   {
+    "title": "Cartwheel",
+    "name": "Cartwheel",
+    "description": "AI-powered tool for faster 3D character animation across various media.",
+    "website": "https://getcartwheel.com",
+    "categories": "AI Animation Generator, AI Character, Text to 3D, Image to 3D Model",
+    "slug": "cartwheel",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Spyper AI - E-Commerce Insights Machine",
     "name": "Spyper.ai",
     "description": "AI-powered crawler for catalog insights, price and stock changes.",
@@ -13506,6 +13659,15 @@
     "categories": "AI Analytics Assistant, AI Presentation Generator, AI PDF, AI Productivity Tools, Report Writing, AI Charting, AI Data Mining",
     "slug": "csv-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Opera Neon",
+    "name": "Opera Neon",
+    "description": "Agentic AI browser for task automation and context-aware assistance.",
+    "website": "https://operaneon.com",
+    "categories": "AI Browsers, AI Agent, AI Assistant",
+    "slug": "opera-neon",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "ChatScreen AI Assistant",
@@ -13551,6 +13713,15 @@
     "categories": "AI App Builder",
     "slug": "xboard",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Flapico",
+    "name": "Flapico",
+    "description": "LLMOps platform for prompt management, testing, and evaluation.",
+    "website": "https://flapico.com",
+    "categories": "Prompt Engineering, Large Language Models (LLMs), AI Testing, AI Developer Tools, AI Models",
+    "slug": "flapico",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "Learn Earth",
@@ -13706,6 +13877,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wabo.ai",
+    "name": "Wabo.ai",
+    "description": "WhatsApp automation platform for business engagement, sales, service, and support.",
+    "website": "https://www.wabo.ai",
+    "categories": "AI Chatbot, AI Marketing, AI Customer Service, AI CRM, No-Code&Low-Code, AI Lead Generation, AI Workflow, AI Sales Assistant, AI Email Marketing, AI Response Generator, AI Message Generator",
+    "slug": "wabo-ai",
+    "created_at": "14:12:11 05/29/2025"
+  },
+  {
     "title": "Documentation.new",
     "name": "documentation.new",
     "description": "AI-driven platform for quick product documentation generation.",
@@ -13794,6 +13974,15 @@
     "categories": "AI Flashcard Maker, AI Chatbot, AI Summarizer, AI Homework Helper",
     "slug": "studydrive",
     "created_at": "02:39:04 05/29/2025"
+  },
+  {
+    "title": "Proofs.io",
+    "name": "Proofs - AI Agents for Sales Engineering",
+    "description": "AI Agents build full-stack PoCs faster, cheaper, and customized for sales.",
+    "website": "https://proofs.io",
+    "categories": "AI Agent, AI Sales, AI App Builder, AI Sales Assistant, AI Code Generator, AI Developer Tools, AI Productivity Tools, AI Workflow",
+    "slug": "proofs-ai-agents-for-sales-engineering",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "AI-Powered Gift Ideas",
@@ -15755,6 +15944,15 @@
     "categories": "Translate, AI Presentation Generator, AI WORD, AI PDF, AI Document Extraction, AI Documents Assistant, AI Files Assistant",
     "slug": "molku-ai-autofill-pdfs-in-seconds-by-transferring-data-from-another-docs",
     "created_at": "14:12:24 05/05/2025"
+  },
+  {
+    "title": "Everlyn AI",
+    "name": "Everlyn.AI",
+    "description": "Fast, cheap, unlimited AI video and image generation.",
+    "website": "https://www.everlyn.app",
+    "categories": "AI Video Generator, AI Image Generator, Image to Video, Text to Video, Text to Image, AI Agent",
+    "slug": "everlyn-ai-1",
+    "created_at": "14:12:11 05/29/2025"
   },
   {
     "title": "impaction.ai",
