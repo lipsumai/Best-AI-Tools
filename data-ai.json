@@ -144,6 +144,15 @@
     "created_at": "14:11:40 04/03/2025"
   },
   {
+    "title": "Prezi",
+    "name": "Prezi",
+    "description": "AI-powered software for engaging presentations, videos, and infographics.",
+    "website": "https://prezi.com",
+    "categories": "AI Presentation Generator, AI Design Generator, AI Assistant",
+    "slug": "prezi",
+    "created_at": "02:39:04 05/29/2025"
+  },
+  {
     "title": "OpenAI Academy",
     "name": "OpenAI Academy",
     "description": "Free AI resource hub with workshops and videos for all levels.",
@@ -5733,6 +5742,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Kilo Code",
+    "name": "Kilo AI",
+    "description": "Open-source AI coding assistant for VS Code, enhancing coding efficiency and automation.",
+    "website": "https://kilocode.ai",
+    "categories": "AI Agent, AI Code Assistant, AI Code Generator, Open Source AI Models",
+    "slug": "kilo-ai",
+    "created_at": "02:39:04 05/29/2025"
+  },
+  {
     "title": "SMAAS Platform",
     "name": "SMAAS",
     "description": "AI marketing tool for managing content and sales funnels.",
@@ -5794,6 +5812,15 @@
     "categories": "AI Graphic Design, Design Assistant, AI Tutorial, AI Education Assistant, AI Video Editor",
     "slug": "wisbox-ai",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "Essay Title Generator",
+    "name": "Essay Title Generator",
+    "description": "Free AI tool to generate essay titles instantly.",
+    "website": "https://essaytitle.com",
+    "categories": "AI Title Generator, AI Writing Assistants, AI Creative Writing, AI Text Generator",
+    "slug": "essay-title-generator",
+    "created_at": "02:39:04 05/29/2025"
   },
   {
     "title": "Synapse Tutor",
@@ -10763,6 +10790,15 @@
     "created_at": "14:12:45 04/23/2025"
   },
   {
+    "title": "PersuadMe",
+    "name": "PersuadMe",
+    "description": "AI Chrome extension for persuasive copy that boosts conversions.",
+    "website": "https://persuad.me",
+    "categories": "AI Copywriting, AI Rewriter, AI Writing Assistants",
+    "slug": "persuadme",
+    "created_at": "02:39:04 05/29/2025"
+  },
+  {
     "title": "PassiveWP",
     "name": "PassiveWP",
     "description": "Affiliate marketing plugin for WordPress, enhancing revenue easily.",
@@ -10932,6 +10968,15 @@
     "categories": "AI Reply Assistant",
     "slug": "gpt-in-whatsapp-with-text-and-images",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MarkMe",
+    "name": "MarkMe AI",
+    "description": "AI-powered instant essay feedback for GCSE & A-Level students.",
+    "website": "https://markme.ai",
+    "categories": "AI Checker Essay, AI Homework Helper, AI Teachers",
+    "slug": "markme-ai",
+    "created_at": "02:39:04 05/29/2025"
   },
   {
     "title": "Shh Silence",
@@ -11436,6 +11481,15 @@
     "categories": "Large Language Models (LLMs)",
     "slug": "edux",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sloneek",
+    "name": "Sloneek",
+    "description": "Sloneek is a modern HR software designed for growing teams.",
+    "website": "https://www.sloneek.com",
+    "categories": "AI Assistant, AI Agent, AI Document Extraction, AI Files, AI Jobs, AI For Data Analytics",
+    "slug": "sloneek",
+    "created_at": "02:39:04 05/29/2025"
   },
   {
     "title": "Morphik",
@@ -13731,6 +13785,15 @@
     "categories": "AI Reply Assistant, AI Advertising Assistant",
     "slug": "rizzmate",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Studydrive",
+    "name": "Studydrive",
+    "description": "Learning hub for university students",
+    "website": "https://www.studydrive.net",
+    "categories": "AI Flashcard Maker, AI Chatbot, AI Summarizer, AI Homework Helper",
+    "slug": "studydrive",
+    "created_at": "02:39:04 05/29/2025"
   },
   {
     "title": "AI-Powered Gift Ideas",
