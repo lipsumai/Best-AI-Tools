@@ -2826,6 +2826,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "API Hub",
+    "name": "API Hub",
+    "description": "Platform for APIs and MCP servers for traditional and AI applications.",
+    "website": "https://api-hub.org",
+    "categories": "AI API, AI Agent",
+    "slug": "api-hub",
+    "created_at": "14:12:38 05/30/2025"
+  },
+  {
     "title": "SnapAI",
     "name": "Snap AI",
     "description": "AI assistant for writing, coding, and translation on Mac.",
@@ -3499,6 +3508,15 @@
     "categories": "AI Reviews Assistant, AI Customer Service Assistant, AI Reply Assistant, AI Response Generator, AI Analytics Assistant, AI Social Media Assistant, AI Facebook Assistant, AI CRM Assistant, AI SEO Assistant, AI Lead Generation",
     "slug": "sindo",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "Scholtz",
+    "name": "Scholtz",
+    "description": "AI-powered people search engine for business connections and growth.",
+    "website": "https://scholtz.ai",
+    "categories": "AI Search Engine, AI Lead Generation, AI Agent, AI Developer Tools",
+    "slug": "scholtz",
+    "created_at": "14:12:38 05/30/2025"
   },
   {
     "title": "Eadlyn",
@@ -4687,6 +4705,15 @@
     "categories": "AI Tools Directory, AI Agent, AI Models, AI Assistant, AI News, AI Developer Tools, Large Language Models (LLMs), Prompt Engineering",
     "slug": "deepshare",
     "created_at": "02:37:41 05/23/2025"
+  },
+  {
+    "title": "Filo Mail",
+    "name": "Filo Mail",
+    "description": "AI-powered email app transforming inbox into a calm, focused to-do list.",
+    "website": "https://www.filomail.com",
+    "categories": "AI Email Assistant, AI Assistant, AI Productivity Tools, AI Task Management",
+    "slug": "filo-mail",
+    "created_at": "14:12:38 05/30/2025"
   },
   {
     "title": "bartleby",
@@ -8307,6 +8334,15 @@
     "created_at": "02:43:00 05/01/2025"
   },
   {
+    "title": "VisionAR",
+    "name": "VisionAR - Visualize Your Creations",
+    "description": "AI platform transforming 2D images/sketches into pro-grade 3D models quickly.",
+    "website": "https://www.visionar.dev",
+    "categories": "AI 3D Model Generator, Image to 3D Model, AI Models",
+    "slug": "visionar-visualize-your-creations",
+    "created_at": "14:12:38 05/30/2025"
+  },
+  {
     "title": "Klofa",
     "name": "Klofa",
     "description": "Effortlessly get suggested prewritten epics and user stories",
@@ -9333,6 +9369,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Writegenic AI",
+    "name": "Writegenic AI",
+    "description": "AI platform for generating professional documents and content.",
+    "website": "https://writegenic.ai",
+    "categories": "AI Documents Generator, AI Copywriting, AI Project Management, AI Writing, AI Ad Generator, AI Social Media Post Generator, AI Email Generator",
+    "slug": "writegenic-ai",
+    "created_at": "14:12:38 05/30/2025"
+  },
+  {
     "title": "Merlin",
     "name": "Merlin Bird ID",
     "description": "Quick bird identification and learning across continents.",
@@ -9538,6 +9583,15 @@
     "categories": "AI Testing & QA",
     "slug": "qase",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "HackFast",
+    "name": "HackFast",
+    "description": "AI-powered hacking tool for ethical hackers and pentesting teams.",
+    "website": "https://hackfast.co",
+    "categories": "AI Assistant, AI Copilot, AI For Data Analytics, AI Productivity Tools",
+    "slug": "hackfast",
+    "created_at": "14:12:38 05/30/2025"
   },
   {
     "title": "Manga Translator",
@@ -10970,6 +11024,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI KAT",
+    "name": "AI KAT",
+    "description": "AI-powered agentic brand agency for promptless strategy, logos, and content.",
+    "website": "https://www.aikat.ai",
+    "categories": "AI Digital Marketing, AI Marketing, AI Logo Generator, AI Business Name Generator, AI Marketing Plan Generator, AI Image Generator, AI Copywriting, AI Blog Generator, AI Social Media Post Generator, AI Ad Generator, AI Script Writing, AI Calendar",
+    "slug": "ai-kat",
+    "created_at": "14:12:38 05/30/2025"
+  },
+  {
     "title": "Dokusō",
     "name": "Dokuso",
     "description": "A fashion search tool for finding desired items easily.",
@@ -11292,6 +11355,15 @@
     "categories": "AI Character, AI Story Writing",
     "slug": "sleepytales",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Pi（Presentation Intelligence）",
+    "name": "Pi（Presentation Intelligence）",
+    "description": "Ai-Native Design & Sharing Platform; Pi helps you create presentations and documents with solid contents, crystal-clear structure, and decent aesthetics.",
+    "website": "https://www.pi.inc",
+    "categories": "AI PPT Maker, AI Creative Writing, AI Presentation Generator, AI Productivity Tools",
+    "slug": "pi-presentation-intelligence",
+    "created_at": "14:12:38 05/30/2025"
   },
   {
     "title": "Resumea.io",
@@ -11742,6 +11814,15 @@
     "categories": "AI App Builder, Large Language Models (LLMs), No-Code&Low-Code",
     "slug": "prisms-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Art Flâneur",
+    "name": "Art Flaneur",
+    "description": "Mobile app for art discovery, cultural tourism, and personalized art routes.",
+    "website": "https://www.artflaneur.com.au",
+    "categories": "AI Assistant, AI Trip Planner, AI Calendar, AI Games",
+    "slug": "art-flaneur",
+    "created_at": "14:12:38 05/30/2025"
   },
   {
     "title": "freebeat.ai",
@@ -12986,6 +13067,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "Leoline",
+    "name": "Leoline",
+    "description": "AI voice assistant telling engaging, unique stories to children.",
+    "website": "https://leoline.fun",
+    "categories": "AI Story Generator, AI Chatbot, AI Voice Generator",
+    "slug": "leoline",
+    "created_at": "14:12:38 05/30/2025"
+  },
+  {
     "title": "WUI.AI",
     "name": "WUI.AI",
     "description": "AI tool for turning long videos into short clips.",
@@ -13056,6 +13146,15 @@
     "categories": "AI YouTube Assistant, AI Chatbot, AI Content Generator, AI Podcast Assistant",
     "slug": "podulateai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SuperMaker AI Video Generator",
+    "name": "SuperMaker AI Video Generator",
+    "description": "All-in-one AI video generator with integrated audio, image, and music.",
+    "website": "https://supermaker.ai",
+    "categories": "AI Video Generator, AI Music Generator, AI Image Generator, AI Voice Generator, AI Movie Generator",
+    "slug": "supermaker-ai-video-generator",
+    "created_at": "14:12:38 05/30/2025"
   },
   {
     "title": "Apply",
@@ -14669,6 +14768,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "Jazzberry",
+    "name": "Jazzberry",
+    "description": "AI agent for finding bugs via real code execution on pull requests.",
+    "website": "https://jazzberry.ai",
+    "categories": "AI Testing, AI Code Review, AI Agent, AI Developer Tools",
+    "slug": "jazzberry",
+    "created_at": "14:12:38 05/30/2025"
+  },
+  {
     "title": "Seveum",
     "name": "Seveum",
     "description": "AI job search assistant for tailored role matching and application optimization.",
@@ -16196,6 +16304,15 @@
     "categories": "Other",
     "slug": "japanese-name-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Directify",
+    "name": "Directify",
+    "description": "No-code platform to build, grow, and monetize directory websites.",
+    "website": "https://directify.app",
+    "categories": "No-Code&Low-Code, AI Website Builder, AI SEO Tools",
+    "slug": "directify",
+    "created_at": "14:12:38 05/30/2025"
   },
   {
     "title": "Thunder.vc",
