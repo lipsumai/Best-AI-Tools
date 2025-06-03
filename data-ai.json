@@ -5535,6 +5535,15 @@
     "created_at": "14:11:12 04/24/2025"
   },
   {
+    "title": "EasyFin",
+    "name": "EasyFin",
+    "description": "AI-powered stock analysis platform for smarter investments.",
+    "website": "https://easyfin.ai",
+    "categories": "AI Investing, AI For Finance, AI For Data Analytics",
+    "slug": "easyfin",
+    "created_at": "14:13:25 06/03/2025"
+  },
+  {
     "title": "Sans Writer",
     "name": "Sans Writer",
     "description": "Distraction-free writing platform for enhanced focus and creativity.",
@@ -11753,6 +11762,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Pacdora AI Background Generator",
+    "name": "Pacdora AI Background Generator",
+    "description": "Effortlessly Create Stunning Product Backgrounds with Pacdora AI Background Generator—Just One Click Away!🎁20% discount code",
+    "website": "https://www.pacdora.com",
+    "categories": "AI Background Generator",
+    "slug": "pacdora-ai-background-generator",
+    "created_at": "14:13:25 06/03/2025"
+  },
+  {
     "title": "EHVA.ai",
     "name": "EHVA.ai",
     "description": "Conversational AI by Phone - Customer Service, Sales, More.",
@@ -13965,6 +13983,15 @@
     "categories": "Fitness, AI Coaching, Writing Assistants",
     "slug": "calorica",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Detector for PPT",
+    "name": "AI Detector for PPT",
+    "description": "Accurate AI detector for PowerPoint presentations, checking for AI-generated content.",
+    "website": "https://www.pptdetector.com",
+    "categories": "AI Detector, AI Content Detector, AI Checker, AI Plagiarism Checker, AI Checker Essay, AI Image Detector",
+    "slug": "ai-detector-for-ppt",
+    "created_at": "14:13:25 06/03/2025"
   },
   {
     "title": "NeuroCraft",
