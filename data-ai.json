@@ -1017,6 +1017,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "ClarityUX",
+    "name": "ClarityUX",
+    "description": "AI-powered platform for optimizing design reviews with feedback and heat maps.",
+    "website": "https://www.clarityux.in",
+    "categories": "AI UX Design, AI Design Assistant, AI Productivity Tools, AI Report Generator, AI For Data Analytics",
+    "slug": "clarityux",
+    "created_at": "14:10:26 06/04/2025"
+  },
+  {
     "title": "CSS Picker",
     "name": "CSS Picker",
     "description": "AI tool for converting designs to code easily.",
@@ -1845,6 +1854,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "ToS Expert",
+    "name": "Terms of Service Expert",
+    "description": "AI assistant for non-technical founders to ensure business idea compliance.",
+    "website": "https://tosexpert.com",
+    "categories": "AI Assistant, AI Chatbot, AI Research Tool, AI Productivity Tools",
+    "slug": "terms-of-service-expert",
+    "created_at": "14:10:26 06/04/2025"
+  },
+  {
     "title": "Dantia",
     "name": "Dantia",
     "description": "Investment platform for climate founders.",
@@ -2383,6 +2401,15 @@
     "categories": "AI Advertising Assistant, AI Ad Generator, AI Ad Creative Assistant, AI SEO Assistant, Digital Marketing Generator, AI Lead Generation, Sales Assistant",
     "slug": "usevideo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Promptmonitor",
+    "name": "Promptmonitor",
+    "description": "AI visibility tracking and optimization for brands across LLMs.",
+    "website": "https://www.promptmonitor.io",
+    "categories": "AI SEO Tools, AI Monitor, AI Marketing",
+    "slug": "promptmonitor",
+    "created_at": "14:10:26 06/04/2025"
   },
   {
     "title": "Logzen",
@@ -3805,6 +3832,15 @@
     "categories": "AI Consulting Assistant, Sales Assistant, E-commerce Assistant, AI Reply Assistant, AI Response Generator, AI Lead Generation, AI Chatbot, AI Knowledge Base, AI Education Assistant, AI Documents Assistant",
     "slug": "getbutton-ai-chatbots-for-websites",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "Runrly",
+    "name": "Runrly",
+    "description": "On-demand marketing teams and platform for startups and lean brands.",
+    "website": "https://www.runrly.com",
+    "categories": "AI Marketing, AI Digital Marketing, AI Advertising, AI SEO Tools, AI Social Media, AI Email Marketing",
+    "slug": "runrly",
+    "created_at": "14:10:26 06/04/2025"
   },
   {
     "title": "BuildnPlay",
@@ -6192,6 +6228,15 @@
     "created_at": "02:26:12 04/30/2025"
   },
   {
+    "title": "Instation",
+    "name": "Instation",
+    "description": "AI-powered platform for LinkedIn growth, content creation, and profile optimization.",
+    "website": "https://instation.app",
+    "categories": "AI Social Media Post Generator, AI Writing, AI Image Generator, AI Social Media, AI Productivity Tools, AI Repurpose, AI Hashtag, AI Banner Generator",
+    "slug": "instation",
+    "created_at": "14:10:26 06/04/2025"
+  },
+  {
     "title": "healcovery",
     "name": "healcovery",
     "description": "AI-driven matching for behavioral healthcare programs.",
@@ -7164,6 +7209,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Wave",
+    "name": "Wave",
+    "description": "Modular AI agent system for research, content, and web automation.",
+    "website": "https://thatswave.com",
+    "categories": "AI Agent, AI Research Tool, AI Writing",
+    "slug": "wave",
+    "created_at": "14:10:26 06/04/2025"
+  },
+  {
     "title": "Creative Concepts",
     "name": "ConceptAI",
     "description": "Creative Concepts offers unique and professional design concepts at unbeatable prices.",
@@ -7810,6 +7864,15 @@
     "categories": "AI Audio Enhancer, AI Voice Assistants",
     "slug": "blobfish-ai-1",
     "created_at": "02:28:12 05/15/2025"
+  },
+  {
+    "title": "Tilda",
+    "name": "Tilda Publishing",
+    "description": "No-code website builder for sites, stores, and blogs.",
+    "website": "https://tilda.cc",
+    "categories": "AI Website Builder, No-Code&Low-Code",
+    "slug": "tilda-publishing",
+    "created_at": "14:10:26 06/04/2025"
   },
   {
     "title": "ContGpt - Article Builder with AI",
@@ -12248,6 +12311,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MCP Defender",
+    "name": "MCP Defender",
+    "description": "Desktop app securing AI apps from attacks by monitoring MCP communications.",
+    "website": "https://mcpdefender.com",
+    "categories": "Large Language Models (LLMs), AI Developer Tools, Open Source AI Models",
+    "slug": "mcp-defender",
+    "created_at": "14:10:26 06/04/2025"
+  },
+  {
     "title": "BafCloud",
     "name": "BafCloud",
     "description": "Simplify AI development with BafCloud",
@@ -12516,6 +12588,15 @@
     "categories": "AI Developer Tools, No-Code&Low-Code",
     "slug": "nexty",
     "created_at": "14:12:47 05/26/2025"
+  },
+  {
+    "title": "Picbolt",
+    "name": "Picbolt",
+    "description": "Online tool to transform screenshots into stunning visuals and mockups.",
+    "website": "https://www.picbolt.co",
+    "categories": "AI Mockup Generator, AI Logo Generator, AI Design Generator, AI Photo Editor, AI Social Media Post Generator",
+    "slug": "picbolt",
+    "created_at": "14:10:26 06/04/2025"
   },
   {
     "title": "ls graphics",
@@ -14136,6 +14217,15 @@
     "categories": "AI Flashcard Maker, AI Chatbot, AI Summarizer, AI Homework Helper",
     "slug": "studydrive",
     "created_at": "02:39:04 05/29/2025"
+  },
+  {
+    "title": "CoverSentry",
+    "name": "CoverSentry",
+    "description": "Used AI to write your cover letter? Better to scan before sending.",
+    "website": "https://www.coversentry.com",
+    "categories": "AI Content Detector, AI Cover Letter Generator, AI Checker, AI Detector",
+    "slug": "coversentry",
+    "created_at": "14:10:26 06/04/2025"
   },
   {
     "title": "Proofs.io",
@@ -15908,6 +15998,15 @@
     "categories": "AI Ad Generator, AI Advertising Assistant, AI Banner Generator",
     "slug": "slaitor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AurumTau",
+    "name": "AurumTau",
+    "description": "AI search engine with a self-service advertising platform.",
+    "website": "https://aurumtau.com",
+    "categories": "AI Search Engine, AI Agent, AI Answer",
+    "slug": "aurumtau",
+    "created_at": "14:10:26 06/04/2025"
   },
   {
     "title": "GPT Workspace",
