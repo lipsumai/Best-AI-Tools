@@ -252,6 +252,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "UIsnapper",
+    "name": "UIsnapper",
+    "description": "Converts UI screenshots into AI prompts for fast, no-code UI cloning.",
+    "website": "https://www.uisnapper.xyz",
+    "categories": "AI Prompt Generator, Image to Prompt, AI Design Assistant, AI UX Design, AI Assistant",
+    "slug": "uisnapper",
+    "created_at": "14:12:32 06/05/2025"
+  },
+  {
     "title": "ReplyInbox",
     "name": "ReplyInbox",
     "description": "Automate email replies using AI",
@@ -1701,6 +1710,15 @@
     "created_at": "02:22:12 04/08/2025"
   },
   {
+    "title": "Jots",
+    "name": "Jots",
+    "description": "Developer-focused journaling app to accelerate goals and improve skills.",
+    "website": "https://www.daily-jots.com",
+    "categories": "AI Developer Tools, AI Assistant, AI Notes Generator, AI Productivity Tools",
+    "slug": "jots",
+    "created_at": "14:12:32 06/05/2025"
+  },
+  {
     "title": "BlogFAST",
     "name": "BlogFAST",
     "description": "Auto-blog generator with SEO-optimized content.",
@@ -1924,6 +1942,15 @@
     "categories": "Healthcare, Legal Assistant, AI Productivity Tools, AI Meeting Assistant, AI Video Recording, Research Tool, AI Education Assistant, Captions or Subtitle, Summarizer, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition",
     "slug": "rev",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Maxel AI",
+    "name": "Maxel AI",
+    "description": "Cloud-based platform for automated 3D print preparation and G-code generation.",
+    "website": "https://maxel.ai",
+    "categories": "AI Design Assistant, AI Productivity Tools, AI Coaching",
+    "slug": "maxel-ai",
+    "created_at": "14:12:32 06/05/2025"
   },
   {
     "title": "Ultralgo",
@@ -3195,6 +3222,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "SuperWriter.io",
+    "name": "SuperWriter AI",
+    "description": "AI article writer for SEO-optimized, human-like blog posts.",
+    "website": "https://www.superwriter.io",
+    "categories": "AI Blog Generator, SEO Writing AI, AI Writing Assistants",
+    "slug": "superwriter-ai",
+    "created_at": "14:12:32 06/05/2025"
+  },
+  {
     "title": "GEAR - Workout & Meal Tracker",
     "name": "GEAR",
     "description": "AI app for fitness and nutrition tracking.",
@@ -4066,6 +4102,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs), Writing Assistants, AI Content Generator",
     "slug": "native-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Crayo AI Video Clips Generator",
+    "name": "Create Viral Video clips with AI",
+    "description": "AI tool for viral video clips, dubbing, and editing.",
+    "website": "https://CRAYOCLIPS.COM",
+    "categories": "AI Short Video Generator, AI Video Generator, Text to Video, AI Dubbing, AI Video Translator, Long Video To Short Video AI, AI Voice Changer, AI Video Editor, AI Voice Generator, AI Subtitle Generator, AI Tiktok Video Generator, AI Youtube Video Maker, AI Text Message Generator",
+    "slug": "create-viral-video-clips-with-ai",
+    "created_at": "14:12:32 06/05/2025"
   },
   {
     "title": "Free Paraphrasing Tool-Toolsmart",
@@ -6597,6 +6642,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Heidi Health",
+    "name": "Heidi Health",
+    "description": "AI medical scribe for transcribing visits and generating notes.",
+    "website": "https://www.heidihealth.com",
+    "categories": "AI Writing Assistants, AI Healthcare, AI Transcriber, AI Notes Generator, AI Speech-to-Text",
+    "slug": "heidi-health",
+    "created_at": "14:12:32 06/05/2025"
+  },
+  {
     "title": "ContactSwing",
     "name": "ContactSwing",
     "description": "AI platform for enhanced customer communication",
@@ -8613,6 +8667,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Smart Palette",
+    "name": "Smart Palette",
+    "description": "AI platform for creating and ordering custom artwork and prints.",
+    "website": "https://www.smartpalette.io",
+    "categories": "AI Art Generator, AI Image Generator, AI Design Generator, AI Painting Generator, AI Design Assistant",
+    "slug": "smart-palette",
+    "created_at": "14:12:32 06/05/2025"
+  },
+  {
     "title": "Olivia AI",
     "name": "Olivia AI",
     "description": "A multi-model AI assistant for personalized interactions.",
@@ -9430,6 +9493,15 @@
     "categories": "Summarizer, Writing Assistants, AI Content Generator",
     "slug": "managr-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Janus",
+    "name": "Janus",
+    "description": "AI platform for battle-testing and improving AI agents.",
+    "website": "https://withjanus.com",
+    "categories": "AI Testing, AI Agent, AI Detector",
+    "slug": "janus",
+    "created_at": "14:12:32 06/05/2025"
   },
   {
     "title": "rewriteIT",
@@ -11402,6 +11474,15 @@
     "created_at": "14:12:45 04/23/2025"
   },
   {
+    "title": "LipSync.video",
+    "name": "LipSync.video",
+    "description": "Free online AI tool for creating lifelike lip-synced videos easily.",
+    "website": "https://lipsync.video",
+    "categories": "AI Lip Sync Generator, Image to Video, AI Video Generator, AI Animation Generator",
+    "slug": "lipsync-video",
+    "created_at": "14:12:32 06/05/2025"
+  },
+  {
     "title": "SmartSuite",
     "name": "SmartSuite",
     "description": "A collaborative work management platform for any workflow.",
@@ -12075,6 +12156,15 @@
     "categories": "AI Image Enhancer, AI Photo Enhancer, AI Audio Enhancer, AI Music Generator, AI Lyrics Generator, AI Poem & Poetry Generator",
     "slug": "ai-equalizer",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Pretty Prompt",
+    "name": "Pretty Prompt",
+    "description": "AI tool to turn text into perfect prompts for better AI results.",
+    "website": "https://www.pretty-prompt.com",
+    "categories": "AI Prompt Generator, Prompt Engineering, AI Productivity Tools",
+    "slug": "pretty-prompt",
+    "created_at": "14:12:32 06/05/2025"
   },
   {
     "title": "FileSpeech",
