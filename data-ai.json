@@ -2016,6 +2016,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Teammates.ai",
+    "name": "Teammates.ai",
+    "description": "AI-powered customer service, sales, and lead generation solutions.",
+    "website": "https://www.teammates.ai",
+    "categories": "AI Agent, AI Customer Service, AI Sales, AI Lead Generation, AI Sales Assistant, AI Call Center, AI Email Assistant, AI Chatbot",
+    "slug": "teammates-ai",
+    "created_at": "02:40:55 06/05/2025"
+  },
+  {
     "title": "CharacterHub",
     "name": "CharacterHub",
     "description": "Community platform for sharing and developing original characters.",
@@ -6228,6 +6237,15 @@
     "created_at": "02:26:12 04/30/2025"
   },
   {
+    "title": "Makeform",
+    "name": "Makeform",
+    "description": "AI-powered platform for effortless form, survey, quiz, and poll creation.",
+    "website": "https://makeform.ai",
+    "categories": "AI Forms, AI Quiz Generator, No-Code&Low-Code, AI Question Generator",
+    "slug": "makeform",
+    "created_at": "02:40:55 06/05/2025"
+  },
+  {
     "title": "Instation",
     "name": "Instation",
     "description": "AI-powered platform for LinkedIn growth, content creation, and profile optimization.",
@@ -7324,6 +7342,15 @@
     "categories": "Prompt, AI Video Recording, Image to Video, Text to Video, AI Video Generator",
     "slug": "magi-1",
     "created_at": "02:26:03 04/24/2025"
+  },
+  {
+    "title": "Vexub",
+    "name": "Vexub",
+    "description": "AI video generator for text, audio, and more.",
+    "website": "https://vexub.com",
+    "categories": "AI Video Generator, Text to Video, AI Youtube Video Maker, AI Tiktok Video Generator, AI Voice Over, AI Subtitle Generator, AI Video Enhancer, AI Short Video Generator",
+    "slug": "vexub",
+    "created_at": "02:40:55 06/05/2025"
   },
   {
     "title": "Facts-Generator.com",
