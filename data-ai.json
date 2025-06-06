@@ -8694,6 +8694,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AdpexAI",
+    "name": "AdpexAI",
+    "description": "AdpexAI | The Ultimate Free AI Hub for Image and Video Generation",
+    "website": "https://www.adpexai.com",
+    "categories": "AI Face Swap Generator, AI Video Enhancer, AI Video Generator, AI Video Upscaler",
+    "slug": "adpexai",
+    "created_at": "14:12:17 06/06/2025"
+  },
+  {
     "title": "Smart Palette",
     "name": "Smart Palette",
     "description": "AI platform for creating and ordering custom artwork and prints.",
@@ -8764,6 +8773,15 @@
     "categories": "AI Productivity Tools, AI Search Engine, Summarizer",
     "slug": "rewind-for-iphone",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PodGen.io",
+    "name": "Podgen",
+    "description": "AI tool to convert content into professional podcasts with natural voices.",
+    "website": "https://podgen.io",
+    "categories": "AI Podcast, AI Voice Generator, AI Repurpose, AI Script Writing",
+    "slug": "podgen",
+    "created_at": "14:12:17 06/06/2025"
   },
   {
     "title": "Ledger",
@@ -16034,6 +16052,15 @@
     "categories": "AI Chatbot, AI Productivity Tools, Summarizer, Transcription, Transcriber, Speech-to-Text, AI Speech Recognition",
     "slug": "neuron-ai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "IFNovels",
+    "name": "IFNovels",
+    "description": "\"Shape your own adventure with dynamic AI-driven storytelling.\"",
+    "website": "https://www.ifnovels.com",
+    "categories": "AI Plot Generator, AI Book Writing, AI Creative Writing, AI Fanfic Generator, AI Movie Script Generator, AI Novel, AI Script Writing, AI Story Generator",
+    "slug": "ifnovels",
+    "created_at": "14:12:17 06/06/2025"
   },
   {
     "title": "Artwo",
