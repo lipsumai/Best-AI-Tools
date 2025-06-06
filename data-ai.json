@@ -927,6 +927,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "Veo3",
+    "name": "Veo3-ai",
+    "description": "Google's advanced AI for generating videos with synchronized sound and dialogue.",
+    "website": "https://veo3-ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator, AI Music Generator, AI Voice Generator, AI Sound Effect Generator",
+    "slug": "veo3-ai",
+    "created_at": "02:40:27 06/06/2025"
+  },
+  {
     "title": "ChatIMG",
     "name": "ChatIMG",
     "description": "AI platform for generating Studio Ghibli-style images.",
@@ -5076,6 +5085,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Flux Kontext",
+    "name": "Flux Kontext",
+    "description": "AI image editing tool for professional, context-aware transformations.",
+    "website": "https://flux-kontext.app",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, Image to Image",
+    "slug": "flux-kontext",
+    "created_at": "02:40:27 06/06/2025"
+  },
+  {
     "title": "Sizzle",
     "name": "Sizzle - Discover, Shop, Cook",
     "description": "An app for shopping recipes and delivering groceries.",
@@ -5911,6 +5929,15 @@
     "categories": "Other",
     "slug": "instalm",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI HairStyle Changer",
+    "name": "AI HairStyle Changer",
+    "description": "AI tool for virtual hair makeovers, changing styles and colors instantly.",
+    "website": "https://aihairchanger.com",
+    "categories": "AI Hairstyle, AI Hair Color Changer, Text to Image, AI Photo Editor, AI Character",
+    "slug": "ai-hairstyle-changer",
+    "created_at": "02:40:27 06/06/2025"
   },
   {
     "title": "Hedy AI",
@@ -9369,6 +9396,15 @@
     "created_at": "14:12:10 05/23/2025"
   },
   {
+    "title": "The Influencer AI",
+    "name": "The Influencer AI",
+    "description": "Create your own *consistent* AI influencer in minutes. Then use them for photos, videos, product images, and try-ons",
+    "website": "https://www.theinfluencer.ai",
+    "categories": "AI Person Generator, AI Photo Editor, AI Product Photography, AI Influencer, AI Model Instagram, AI Commercial Generator, AI Reel Generator, AI Short Video Generator, AI UGC Video Generator, AI Video Generator, Image to Video, AI Ad Creative",
+    "slug": "the-influencer-ai",
+    "created_at": "02:40:27 06/06/2025"
+  },
+  {
     "title": "DomainWoohoo | AI Domain Name Finder",
     "name": "DomainWoohoo",
     "description": "DomainWoohoo is an AI-powered domain name finder for easily searching and finding available awesome domain names.",
@@ -11420,6 +11456,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Gazoulab",
+    "name": "Gazoulab",
+    "description": "AI-powered online image editor for background removal, upscaling, and photo enhancement.",
+    "website": "https://gazoulab.com",
+    "categories": "AI Photo Editor, AI Background Remover, AI Image Enhancer, AI Image Upscaler, AI Background Generator",
+    "slug": "gazoulab",
+    "created_at": "02:40:27 06/06/2025"
+  },
+  {
     "title": "Listify Music AI",
     "name": "Listify Music AI",
     "description": "AI app for creating personalized playlists instantly.",
@@ -12662,6 +12707,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "Flux1 Kontext",
+    "name": "Flux1 Kontext",
+    "description": "AI image editing with natural language, preserving context and identity.",
+    "website": "https://fluximage.co",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI API",
+    "slug": "flux1-kontext",
+    "created_at": "02:40:27 06/06/2025"
+  },
+  {
     "title": "Streos",
     "name": "Streos",
     "description": "AI-powered platform for creating and modifying websites with text prompts.",
@@ -13902,6 +13956,15 @@
     "categories": "AI YouTube Assistant, AI Script Writing, AI Content Generator, AI Video Editor, AI Advertising Assistant, AI Ad Creative Assistant, AI Analytics Assistant",
     "slug": "videoideasai",
     "created_at": "02:22:19 04/10/2025"
+  },
+  {
+    "title": "Humanize AI (HumanizeAI.app)",
+    "name": "Humanize AI (HumanizeAI.app)",
+    "description": "HumanizeAI.app transforms AI-generated text into fluent, natural-sounding content. Ideal for marketers, writers, and professionals, it preserves original meaning while enhancing readability and engagement. The tool supports multiple languages, ensuring your message resonates authentically across diverse audiences.",
+    "website": "https://humanizeai.app",
+    "categories": "Humanizer AI, AI Text Generator, AI Detector, AI Checker Essay, AI Checker, AI Bypasser, AI Writing Assistants, AI Writing, AI Summarizer, AI Blog Generator, AI Rewriter, AI Paraphraser, AI Letter Writer, AI Grammar Checker, AI Essay Writer, AI Email Writer, AI Creative Writing, SEO Writing AI",
+    "slug": "humanize-ai-humanizeai-app",
+    "created_at": "02:40:27 06/06/2025"
   },
   {
     "title": "SATprep",
