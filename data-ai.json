@@ -4230,6 +4230,15 @@
     "created_at": "14:12:10 05/23/2025"
   },
   {
+    "title": "Scoop Analytics",
+    "name": "Scoop Analytics",
+    "description": "Scoop Analytics is an AI-powered business intelligence platform that turns non-technical users into data scientists through natural language conversations. Ask questions like \"What predicts customer churn?\" and get instant predictive models, hidden customer segments, and actionable insights from your connected CRM, marketing, and support data—no SQL or coding required.",
+    "website": "https://www.scoopanalytics.com",
+    "categories": "AI For Data Analytics, AI Charting, Graph AI, Excel AI, AI Spreadsheet, AI Report Generator, AI Productivity Tools, AI Presentation Generator, AI Agent, AI Detector, AI Chatbot, AI Sales, AI Marketing, AI Digital Marketing, AI Advertising, AI CRM, AI For Finance, AI Predictions",
+    "slug": "scoop-analytics",
+    "created_at": "02:37:57 06/07/2025"
+  },
+  {
     "title": "askInput",
     "name": "askInput",
     "description": "askInput is a website for clients to voice thoughts and receive prompt responses.",
@@ -10797,6 +10806,15 @@
     "categories": "AI Web Scraping, AI API, AI Developer Tools, AI For Data Analytics",
     "slug": "bestproxy",
     "created_at": "14:12:02 05/27/2025"
+  },
+  {
+    "title": "Raventic",
+    "name": "Raventic",
+    "description": "Semantic AI Product Discovery| Next-gen solutions that transform how e-commerce customers explore, find, and buy.",
+    "website": "https://www.raventic.com",
+    "categories": "AI Search Engine",
+    "slug": "raventic",
+    "created_at": "02:37:57 06/07/2025"
   },
   {
     "title": "BoldVoice",
