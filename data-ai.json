@@ -1539,6 +1539,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Rownd",
+    "name": "Rownd App Services Platform; 1M MAU Free",
+    "description": "AI-ready platform for auth, payments, and user management via one SDK.",
+    "website": "https://rownd.com",
+    "categories": "AI Workflow, AI Developer Tools, AI App Builder, AI API, No-Code&Low-Code",
+    "slug": "rownd-app-services-platform-1m-mau-free",
+    "created_at": "14:12:59 06/09/2025"
+  },
+  {
     "title": "Astronov",
     "name": "Astronov",
     "description": "Discover astrology secrets with Astronov",
@@ -6561,6 +6570,15 @@
     "created_at": "14:10:02 05/18/2025"
   },
   {
+    "title": "Zeno",
+    "name": "Zeno",
+    "description": "AI YouTube curator & summarizer for bite-sized learning, insights, and career fuel.",
+    "website": "https://youzeno.com",
+    "categories": "AI Youtube Summary, AI Video Summarizer",
+    "slug": "zeno",
+    "created_at": "14:12:59 06/09/2025"
+  },
+  {
     "title": "BAGEL",
     "name": "Bagel",
     "description": "Open-source unified multimodal AI for understanding, generation, editing.",
@@ -8494,6 +8512,15 @@
     "categories": "AI Tutorial, AI Course, AI Education Assistant, AI Notes Assistant, Research Tool, Homework Helper, Summarizer, Writing Assistants",
     "slug": "bloomnote",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Chat4Data",
+    "name": "Chat4Data",
+    "description": "AI-powered Chrome extension for natural language web data extraction.",
+    "website": "https://chat4data.ai",
+    "categories": "AI Web Scraping, AI Chatbot, AI Assistant",
+    "slug": "chat4data",
+    "created_at": "14:12:59 06/09/2025"
   },
   {
     "title": "yourly",
@@ -13364,6 +13391,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Placed App",
+    "name": "Placed",
+    "description": "AI-powered tool for automated job applications and interview preparation.",
+    "website": "https://placed.today",
+    "categories": "AI Jobs, AI Resume Builder, AI Cover Letter Generator, AI Interview Assistant, AI Agent",
+    "slug": "placed",
+    "created_at": "14:12:59 06/09/2025"
+  },
+  {
     "title": "Iterato",
     "name": "Iterato",
     "description": "AI-powered Product Manager for collecting and analyzing feedback.",
@@ -15972,6 +16008,15 @@
     "categories": "AI Code Assistant, Code Explanation, AI Code Refactoring, AI Developer Docs, AI Developer Tools, AI Knowledge Base",
     "slug": "tethered-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Elyspr",
+    "name": "Elyspr",
+    "description": "AI-powered digital solutions for business digitalization and automation.",
+    "website": "https://elyspr.com",
+    "categories": "AI Workflow, AI Chatbot, AI Scheduling, AI Consulting",
+    "slug": "elyspr",
+    "created_at": "14:12:59 06/09/2025"
   },
   {
     "title": "kluster.ai",
