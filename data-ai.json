@@ -252,6 +252,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Skymel' ARIA (Beta)",
+    "name": "Skymel' ARIA (Beta)",
+    "description": "ARIA",
+    "website": "https://skymel.com",
+    "categories": "AI Assistant",
+    "slug": "skymel-aria-beta",
+    "created_at": "02:47:36 06/09/2025"
+  },
+  {
     "title": "UIsnapper",
     "name": "UIsnapper",
     "description": "Converts UI screenshots into AI prompts for fast, no-code UI cloning.",
@@ -5094,6 +5103,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "AISheets.study",
+    "name": "AISheets.study",
+    "description": "AI tool for creating interactive worksheets, mind maps, and flashcards.",
+    "website": "https://aisheets.study",
+    "categories": "AI Documents Generator, AI Flashcard Maker, AI Mind Mapping, AI Question Generator, AI Quiz Generator, AI Teachers, AI Homework Helper, AI PDF",
+    "slug": "aisheets-study",
+    "created_at": "02:47:36 06/09/2025"
+  },
+  {
     "title": "Flux Kontext",
     "name": "Flux Kontext",
     "description": "AI image editing tool for professional, context-aware transformations.",
@@ -6028,6 +6046,15 @@
     "categories": "AI Podcast Assistant, AI SEO Assistant, AI Social Media Assistant, AI YouTube Assistant, AI Tiktok Assistant, AI Repurpose Assistant, AI Font, AI Interview Assistant, AI Team Collaboration, AI Meeting Assistant, Translate, Captions or Subtitle, Transcription, Transcriber, Speech-to-Text, AI Voice Cloning, AI Speech Recognition, AI Speech Synthesis, Text-to-Speech, Summarizer",
     "slug": "maestra-ai",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "Buzz Cut Filter",
+    "name": "Buzz Cut Filter",
+    "description": "AI tool to preview buzz cut on your photo instantly.",
+    "website": "https://buzzcutfilter.com",
+    "categories": "AI Photo Filter, AI Hairstyle, AI Photo Editor, AI Face Analyzer",
+    "slug": "buzz-cut-filter",
+    "created_at": "02:47:36 06/09/2025"
   },
   {
     "title": "ReviewForge",
@@ -10761,6 +10788,15 @@
     "categories": "AI Advertising Assistant",
     "slug": "intellibizzai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "buzzcuts.me free forever hair style generator",
+    "name": "buzzcuts.me free forever hair style generator",
+    "description": "AI platform to preview buzz cut hairstyles before committing.",
+    "website": "https://buzzcuts.me",
+    "categories": "AI Hairstyle, AI Hair Color Changer, AI Design Generator",
+    "slug": "buzzcuts-me-free-forever-hair-style-generator",
+    "created_at": "02:47:36 06/09/2025"
   },
   {
     "title": "ROK Solution",
@@ -16223,6 +16259,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder",
     "slug": "hireduce",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "P20V",
+    "name": "P20V",
+    "description": "Free AI platform for instant image/video transformation and visual creation.",
+    "website": "https://p20v.com",
+    "categories": "AI Image Generator, AI Video Generator, AI Design Generator, Text to Image, Image to Image",
+    "slug": "p20v",
+    "created_at": "02:47:36 06/09/2025"
   },
   {
     "title": "BLACKBOX.AI",
