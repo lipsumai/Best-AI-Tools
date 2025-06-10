@@ -603,6 +603,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "BrowserAct",
+    "name": "BrowserAct",
+    "description": "BrowserAct is an AI-powered cloud browser automation tool that enables effortless data extraction and task automation from any website without coding - providing high-quality data for your AI Agents!",
+    "website": "https://www.browseract.com",
+    "categories": "AI Browsers, AI API, AI Web Scraping, AI Workflow, AI Agent, AI Copilot, AI Data Mining",
+    "slug": "browseract",
+    "created_at": "14:12:57 06/10/2025"
+  },
+  {
     "title": "Powered_by Agency",
     "name": "Powered_by Agency",
     "description": "Powered_By is world's first AI agency for SMBs. We design and deploy super-smart AI agents for voice, email, SMS-text, & workflows. We take the most cutting-edge AI agent technology and make it deadly simple and really affordable to operate.",
@@ -2635,6 +2644,15 @@
     "categories": "AI Developer Docs, AI Productivity Tools, AI Meeting Assistant",
     "slug": "docdocsai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "EmotionSense Pro",
+    "name": "EmotionSense Pro",
+    "description": "AI Chrome extension for real-time emotion and cognitive analysis in Google Meet.",
+    "website": "https://www.emotionsense.pro",
+    "categories": "AI Meeting Assistant, AI Face Recognition, AI Report Generator",
+    "slug": "emotionsense-pro",
+    "created_at": "14:12:57 06/10/2025"
   },
   {
     "title": "Nomi",
@@ -5409,6 +5427,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "VibeKit",
+    "name": "VibeKit",
+    "description": "Open-source SDK to run coding agents in secure sandboxes.",
+    "website": "https://www.vibekit.sh",
+    "categories": "AI Agent, AI Code Generator, AI Code Assistant, AI Developer Tools, Large Language Models (LLMs), AI Copilot, AI API, AI Workflow",
+    "slug": "vibekit",
+    "created_at": "14:12:57 06/10/2025"
+  },
+  {
     "title": "aiWritely",
     "name": "aiWritely",
     "description": "AI writing tools for seamless content creation, editing, and downloading.",
@@ -6352,6 +6379,15 @@
     "categories": "Mental Health, AI Chatbot",
     "slug": "anxiety-simulator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Longist",
+    "name": "Longist",
+    "description": "AI-powered app to track food's impact on longevity in minutes.",
+    "website": "https://www.longist.io",
+    "categories": "AI Healthcare, AI Coaching, AI Assistant, AI Life, AI Image Recognition, AI Predictions, AI Fitness",
+    "slug": "longist",
+    "created_at": "14:12:57 06/10/2025"
   },
   {
     "title": "IconsCreatorAI",
@@ -8989,6 +9025,15 @@
     "categories": "AI Logo Generator, AI 3D Model Generator, Image to 3D Model, AI Design Generator",
     "slug": "nom3d-studio",
     "created_at": "02:37:41 05/23/2025"
+  },
+  {
+    "title": "SocioSim",
+    "name": "SocioSim",
+    "description": "The AI survey platform that provides instant, simulated responses from any audience.",
+    "website": "https://sociosim.org",
+    "categories": "AI Marketing, AI Business Ideas Generator, AI Consulting, AI Research Tool, Other",
+    "slug": "sociosim",
+    "created_at": "14:12:57 06/10/2025"
   },
   {
     "title": "MailHero",
@@ -15378,6 +15423,15 @@
     "categories": "AI Girlfriend, AI Chatbot, Pick-up Lines Generator",
     "slug": "mia-romantic-ai-girlfriend",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Moonlit Platform",
+    "name": "Moonlit Platform",
+    "description": "AI-powered SEO content tool builder for scalable workflows.",
+    "website": "https://moonlitplatform.com",
+    "categories": "AI SEO Tools, AI Workflow, SEO Writing AI, No-Code&Low-Code",
+    "slug": "moonlit-platform",
+    "created_at": "14:12:57 06/10/2025"
   },
   {
     "title": "Motionscribe",
