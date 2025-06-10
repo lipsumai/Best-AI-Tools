@@ -5103,6 +5103,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hatch Canvas",
+    "name": "Hatch Canvas",
+    "description": "Hatch combines AI chat with an infinite canvas for collaboration. Create websites, web apps, games, and generate multiple images simultaneously—all in one collaborative space.",
+    "website": "https://hatchcanvas.com",
+    "categories": "AI Mockup Generator, AI Blog Generator, AI Book Writing, AI Creative Writing, AI Job Description Generator, AI Letter Writer, AI Love Letter Generator, AI Avatar Generator, AI Image Generator, AI Describe Image, Image to Prompt, AI Design Generator, AI Emoji Generator, AI Infographic Generator",
+    "slug": "hatch-canvas",
+    "created_at": "02:43:31 06/10/2025"
+  },
+  {
     "title": "Nebius",
     "name": "Nebius",
     "description": "Cloud platform for AI model development on NVIDIA GPUs",
@@ -13722,6 +13731,15 @@
     "categories": "Healthcare, AI Productivity Tools, AI Team Collaboration, AI Documents Assistant, AI Email Writer",
     "slug": "vetzi-io",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "Social AF",
+    "name": "Social AF",
+    "description": "AI tool for creating scroll-stopping social media posts and videos.",
+    "website": "https://socialaf.ai",
+    "categories": "AI Social Media Post Generator, AI Video Generator, AI Image Generator, AI Social Media, AI Influencer, AI Animation Generator, AI Reel Generator, AI Ad Generator",
+    "slug": "social-af",
+    "created_at": "02:43:31 06/10/2025"
   },
   {
     "title": "Prisma Assistant",
