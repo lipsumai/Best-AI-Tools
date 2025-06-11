@@ -234,6 +234,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Heynds",
+    "name": "Heynds",
+    "description": "AI Writing & Speech Assistant desktop app for faster, effortless content creation.",
+    "website": "https://www.heynds.com",
+    "categories": "AI Writing Assistants, AI Speech-to-Text, AI Writing",
+    "slug": "heynds",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "EchoPod",
     "name": "EchoPod",
     "description": "AI-powered podcast creation from written content.",
@@ -1429,6 +1438,15 @@
     "categories": "AI Data Mining, AI Code Assistant",
     "slug": "dataneko",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Imgupscaler AI",
+    "name": "Imgupscaler AI",
+    "description": "Free AI image upscaler to sharpen, enlarge, and enhance photos online.",
+    "website": "https://imgupscaler.ai",
+    "categories": "AI Image Upscaler, AI Image Enhancer, AI Image Sharpening",
+    "slug": "imgupscaler-ai",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "Virtual Reunion",
@@ -4580,6 +4598,15 @@
     "created_at": "02:26:35 04/29/2025"
   },
   {
+    "title": "Genbaz",
+    "name": "Genbaz",
+    "description": "AI-powered platform for creating diverse apps and content.",
+    "website": "https://www.genbaz.io",
+    "categories": "AI Tools Directory, AI Image Generator, AI Writing",
+    "slug": "genbaz",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "Meeting.ai",
     "name": "Meeting.ai",
     "description": "AI tool for meeting transcription, organization, and summarization.",
@@ -7163,6 +7190,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Magic Eraser",
+    "name": "Magic-Eraser",
+    "description": "AI-powered tool to remove unwanted objects from photos, free and no login.",
+    "website": "https://magiceraser.org",
+    "categories": "AI Eraser, Object Remover AI, AI Inpainting",
+    "slug": "magic-eraser-1",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "Wonderchat",
     "name": "Wonderchat",
     "description": "Create custom chatbot with Wonderchat, boost customer response speed by 100% and reduce workload.",
@@ -7701,6 +7737,15 @@
     "categories": "AI Content Generator, AI Social Media Assistant, Speech-to-Text, AI Ad Creative Assistant, Text-to-Speech, AI Ad Generator, AI Rewriter, Large Language Models (LLMs), AI Analytics Assistant, AI Creative Writing, Writing Assistants, General Writing, AI Blog Writer, Copywriting, Paraphraser, AI Chatbot, AI Instagram Assistant, Translate, AI Hashtag Assistant, AI Art Generator, AI Email Generator, AI Email Assistant, AI Graphic Design, AI Facebook Assistant, AI Twitter Assistant, AI SEO Assistant, AI Speech Synthesis, AI Repurpose Assistant, AI Email Writer, E-commerce Assistant, AI Design Generator, AI Response Generator, AI Email Marketing, AI YouTube Assistant, Design Assistant",
     "slug": "aitoolbox",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "NUROFILE",
+    "name": "NUROFILE",
+    "description": "AI identity platform replacing resumes, adapting to jobs, answering recruiters.",
+    "website": "https://nurofile.ai",
+    "categories": "AI Resume Builder, Resume AI, AI Assistant, AI Recruiting, AI Agent, AI Writing Assistants",
+    "slug": "nurofile",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "Website2GPT",
@@ -8369,6 +8414,15 @@
     "created_at": "02:38:30 05/21/2025"
   },
   {
+    "title": "EasySite",
+    "name": "EasySite",
+    "description": "EasuSite is AI Website Builder with built-in database. It Builds Working Apps & Websites Just by Chatting with AI",
+    "website": "https://www.easysite.ai",
+    "categories": "AI App Builder, AI Website Builder",
+    "slug": "easysite",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "Superify",
     "name": "Superify",
     "description": "AI business assistant simplifying management for entrepreneurs.",
@@ -8583,6 +8637,15 @@
     "categories": "AI Chatbot, Homework Helper, AI Tutorial, AI Quizzes, AI Education Assistant, AI Productivity Tools, AI Notes Assistant, AI Mind Mapping, Writing Assistants",
     "slug": "explain-ai-notes-study-help",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "Spydr Memory MCP",
+    "name": "Spydr - The Github for LLM Context",
+    "description": "Multimodal, interoperable context engine for AI clients.",
+    "website": "https://spydr.dev",
+    "categories": "AI Knowledge Management, AI Assistant, AI Productivity Tools",
+    "slug": "spydr-the-github-for-llm-context",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "Spring.new",
@@ -9890,6 +9953,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Katalon",
+    "name": "Katalon Studio",
+    "description": "AI-augmented all-in-one test automation platform for software quality.",
+    "website": "https://www.katalon.com",
+    "categories": "AI Testing, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
+    "slug": "katalon-studio",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "Owl AI",
     "name": "OWL AI",
     "description": "Simplified logo creation tool",
@@ -9969,6 +10041,15 @@
     "categories": "AI Presentation Generator, AI PDF, AI Content Generator",
     "slug": "pitch-roasters",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Capacity",
+    "name": "Capacity",
+    "description": "AI platform for creating full-stack web apps with natural language.",
+    "website": "https://capacity.so",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
+    "slug": "capacity",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "AI Barbie",
@@ -10104,6 +10185,15 @@
     "categories": "AI Task Management, AI Productivity Tools, AI Assistant",
     "slug": "3-things-ai-tasks-tracker",
     "created_at": "14:13:07 05/28/2025"
+  },
+  {
+    "title": "Unblurimage AI",
+    "name": "Unblurimage AI",
+    "description": "AI-powered tool to unblur, sharpen, upscale, and enhance image quality online.",
+    "website": "https://unblurimage.ai",
+    "categories": "AI Unblur Image, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler",
+    "slug": "unblurimage-ai",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "Nexty.dev",
@@ -10778,6 +10868,15 @@
     "categories": "AI Monitor & Report Builder, Report Writing, Resume Builder, Research Tool, AI Business Ideas Generator, AI Analytics Assistant, AI Roadmap Generator, AI Reviews Assistant, AI Social Media Assistant",
     "slug": "refinedea",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "Huntr",
+    "name": "Huntr",
+    "description": "AI-powered all-in-one job search tool for resumes, applications, and tracking.",
+    "website": "https://huntr.co",
+    "categories": "AI Resume Builder, AI Cover Letter Generator, AI Resume Checker, AI Text Generator, AI Writing Assistants",
+    "slug": "huntr",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "AI Design Training",
@@ -11671,6 +11770,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "My Better AI",
+    "name": "My Better AI for iOS",
+    "description": "Simplifies generative AI for everyone, no prompt engineering needed.",
+    "website": "https://MyBetter.ai",
+    "categories": "AI Assistant, AI Text Generator, AI Writing Assistants, AI Prompt Generator, AI Copilot",
+    "slug": "my-better-ai-for-ios",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "Arvow",
     "name": "Arvow",
     "description": "AI article writer for SEO and automated blogging.",
@@ -12373,6 +12481,15 @@
     "created_at": "14:12:38 05/30/2025"
   },
   {
+    "title": "Bridgely",
+    "name": "Bridgely",
+    "description": "AI-powered, real-time universal translation browser extension for web chats and content.",
+    "website": "https://bridgely.tech",
+    "categories": "AI Translate, AI Assistant, AI Productivity Tools",
+    "slug": "bridgely",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "HappyML",
     "name": "Happyml",
     "description": "Unlimited customizable chatbots for various purposes.",
@@ -12524,6 +12641,15 @@
     "categories": "AI Customer Service Assistant, AI Product Description Generator, AI Roadmap Generator, AI Knowledge Base",
     "slug": "deskday",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Instance",
+    "name": "Instance",
+    "description": "AI-powered app builder for iOS, Android, and web, no coding needed.",
+    "website": "https://instance.so",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Game Generator",
+    "slug": "instance",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "FreeAI-Image.com",
@@ -15847,6 +15973,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Melodiez",
+    "name": "Melodiez",
+    "description": "Melodiez is an AI-powered music and sound app designed to help you focus, relax, sleep, and care for your loved ones - including pets and babies.",
+    "website": "https://melodiez.com",
+    "categories": "AI Productivity Tools, AI Audio Editing, AI Music Generator, AI Mental Health",
+    "slug": "melodiez",
+    "created_at": "14:11:17 06/11/2025"
+  },
+  {
     "title": "ScaleSuggest",
     "name": "ScaleSuggest",
     "description": "SEO strategy for brand visibility",
@@ -16007,6 +16142,15 @@
     "categories": "Investing Assistant, AI Advertising Assistant, AI Ad Creative Assistant",
     "slug": "generated-assets",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "Unwatermark AI",
+    "name": "Unwatermark AI",
+    "description": "AI-powered tool to remove watermarks from images and videos.",
+    "website": "https://unwatermark.ai",
+    "categories": "AI Watermark Remover, Object Remover AI, AI PDF, AI Image Enhancer",
+    "slug": "unwatermark-ai",
+    "created_at": "14:11:17 06/11/2025"
   },
   {
     "title": "Dublai.com - Dubbing with artificial intelligence",
