@@ -4076,6 +4076,15 @@
     "created_at": "14:12:51 04/16/2025"
   },
   {
+    "title": "Agent One",
+    "name": "Agent One",
+    "description": "No-code platform to build and host custom AI chatbots and agents.",
+    "website": "https://agnt.one",
+    "categories": "AI Agent, AI Chatbot, No-Code&Low-Code, AI Assistant, AI Knowledge Base",
+    "slug": "agent-one",
+    "created_at": "02:41:34 06/12/2025"
+  },
+  {
     "title": "Qaprix Intelligence",
     "name": "Qaprix Intelligence",
     "description": "AI chatbot solutions for improving business communication and customer support.",
@@ -5921,6 +5930,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Zintra",
+    "name": "Zintra",
+    "description": "Crypto automation and real-world investments for passive income.",
+    "website": "https://zintra.vercel.app",
+    "categories": "AI Investing, AI Crypto, AI Trading Bot, AI For Finance, AI Predictions, Web3, Blockchain",
+    "slug": "zintra",
+    "created_at": "02:41:34 06/12/2025"
+  },
+  {
     "title": "I18n Studio",
     "name": "I18n Studio",
     "description": "Simplify software localization with GPT4.",
@@ -7181,6 +7199,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Zafu.ai",
+    "name": "Zafu.ai",
+    "description": "24/7 AI therapist for mental wellbeing support.",
+    "website": "https://www.zafu.ai",
+    "categories": "AI Therapist, AI Mental Health, AI Chatbot",
+    "slug": "zafu-ai",
+    "created_at": "02:41:34 06/12/2025"
+  },
+  {
     "title": "LightX",
     "name": "LightX",
     "description": "AI tools for photo and video editing with templates.",
@@ -7827,6 +7854,15 @@
     "categories": "AI Recruiting",
     "slug": "jd-aid",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VisionFX",
+    "name": "VisionFX",
+    "description": "All-in-one AI creative studio for images, videos, music, voice, and more.",
+    "website": "https://visionfx.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Music Generator, AI Art Generator, AI Voice Generator, AI Agent",
+    "slug": "visionfx",
+    "created_at": "02:41:34 06/12/2025"
   },
   {
     "title": "Publora",
@@ -15530,6 +15566,15 @@
     "categories": "AI Short Clips Generator, AI Advertising Assistant",
     "slug": "fusionclips",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Marketing Guide AI",
+    "name": "Marketing Guide AI",
+    "description": "AI-powered marketing plan and document generator.",
+    "website": "https://marketingguide.ai",
+    "categories": "AI Marketing Plan Generator, AI Marketing, AI Digital Marketing",
+    "slug": "marketing-guide-ai",
+    "created_at": "02:41:34 06/12/2025"
   },
   {
     "title": "Vid.AI",
