@@ -5732,6 +5732,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Patsnap Eureka",
+    "name": "Patsnap Eureka",
+    "description": "Your AI Agents for Innovation. Execute your innovation workflows faster with domain-specific AI agents.",
+    "website": "https://eureka.patsnap.com",
+    "categories": "AI Agent, AI Answer, AI Knowledge Base, AI Copilot, AI Document Extraction, AI Report Generator, AI Search Engine, AI Research Tool, Large Language Models (LLMs)",
+    "slug": "patsnap-eureka",
+    "created_at": "02:42:45 06/13/2025"
+  },
+  {
     "title": "BabelShark",
     "name": "BabelShark",
     "description": "Website and app localization with automatic translation",
@@ -5829,6 +5838,15 @@
     "categories": "AI Art Generator, AI Photo & Image Generator, AI Illustration Generator, AI Selfie & Portrait, Photo & Image Editor, AI Anime & Cartoon Generator",
     "slug": "portraitart",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Morphic",
+    "name": "Morphic",
+    "description": "Morphic is an all-in-one AI studio for generating everything from images and videos to ads and in-game assets.",
+    "website": "https://www.morphic.com",
+    "categories": "AI Video Generator, AI Movie Generator, Storyboard AI, AI Linkedin Headshot, AI Social Media Post Generator, AI Youtube Thumbnail Generator, AI Animated Video, AI Animation Generator, AI Cartoon Video Generator, AI Commercial Generator, AI Reel Generator, AI Sketch Generator, AI Short Video Generator, AI Stock Video Generator, AI Video Editor, AI Video Upscaler, AI Youtube Video Maker, Image to Video, AI Ad Generator, AI Advertising, Fashion AI, AI Pixel Art, AI Photo Editor, AI Image Segmentation, AI Photo Enhancer, AI Product Photography, AI Realistic Image Generator, AI Style Transfer, AI Wallpaper Generator, Image to Image, Object Remover AI, Text to Image, AI Clothing Generator, AI Movie Poster, AI Coloring Book Generator, AI Comic, AI Comic Generator, AI Cover Generator, AI Design Assistant, AI Design Generator, AI Graphic Design, AI Hairstyle, AI Flyer Generator",
+    "slug": "morphic",
+    "created_at": "02:42:45 06/13/2025"
   },
   {
     "title": "Vagabond AI",
@@ -15757,6 +15775,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "fluxcontext.app",
+    "name": "fluxcontext.app",
+    "description": "AI-powered online image enhancement, restoration, and transformation.",
+    "website": "https://fluxcontext.app",
+    "categories": "AI Image Enhancer, AI Photo Restoration, AI Watermark Remover, AI Anime Generator, Object Remover AI, AI Photo Editor, AI Image Generator",
+    "slug": "fluxcontext-app",
+    "created_at": "02:42:45 06/13/2025"
+  },
+  {
     "title": "Ibuyprompts - AI Freelance Marketplace",
     "name": "ibuyprompts",
     "description": "Ibuyprompts connects AI freelancers and clients for buying and selling AI prompts and services.",
@@ -17033,6 +17060,15 @@
     "categories": "AI Chatbot",
     "slug": "seikakuai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Body Type Calculator",
+    "name": "Body Type Calculator",
+    "description": "AI fitness plans, personalized to your unique body type.",
+    "website": "https://mybodytype.net",
+    "categories": "AI Healthcare, AI Fitness",
+    "slug": "body-type-calculator",
+    "created_at": "02:42:45 06/13/2025"
   },
   {
     "title": "Scoop Analytics",
