@@ -684,6 +684,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "Flowstep",
+    "name": "Flowstep",
+    "description": "AI design assistant for UI, wireframes, and user flows.",
+    "website": "https://flowstep.ai",
+    "categories": "AI Design Assistant, AI Design Generator, AI UX Design, AI Diagram Generator, AI Mockup Generator",
+    "slug": "flowstep",
+    "created_at": "14:12:18 06/13/2025"
+  },
+  {
     "title": "Doctorina",
     "name": "Doctorina",
     "description": "AI telemedicine platform for personalized health insights and recommendations.",
@@ -1411,6 +1420,15 @@
     "categories": "Text to Video, AI Video Generator, Captions or Subtitle",
     "slug": "textbeat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PageAI",
+    "name": "PageAI",
+    "description": "AI-powered website generator for planning, designing, and coding.",
+    "website": "https://pageai.pro",
+    "categories": "AI Website Builder, AI Code Generator, AI Agent, AI Design Generator, AI Copywriting, AI SEO Tools, AI Blog Generator, AI UX Design, No-Code&Low-Code, AI Landing Page Builder, AI Assistant",
+    "slug": "pageai",
+    "created_at": "14:12:18 06/13/2025"
   },
   {
     "title": "Supaboard",
@@ -6407,6 +6425,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "UntitledPen",
+    "name": "UntitledPen",
+    "description": "AI platform for lifelike voiceovers, writing, editing, and speaking content.",
+    "website": "https://untitledpen.com",
+    "categories": "AI Voice Generator, AI Text-to-Speech, AI Writing Assistants",
+    "slug": "untitledpen",
+    "created_at": "14:12:18 06/13/2025"
+  },
+  {
     "title": "EnergeticAI",
     "name": "EnergeticAI",
     "description": "EnergeticAI is a optimized TensorFlow.js for serverless functions with fast cold-start and pre-trained models.",
@@ -9141,6 +9168,15 @@
     "categories": "AI Product Description Generator, AI Customer Service Assistant, AI Design Generator, Design Assistant",
     "slug": "partykit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Viddo-Veo3 AI Video Generator",
+    "name": "Viddo-Veo3 AI Video Generator",
+    "description": "Viddo Al | AI Video Generator of Veo3,Runway,Kling,Hailuo and so on",
+    "website": "https://viddo.ai",
+    "categories": "AI Video Generator, AI UGC Video Generator, Script To Video AI Generator, Image to Video, AI Youtube Video Maker, AI Vtuber, AI Video Upscaler, AI Video Summarizer, AI Video Search, AI Video Recording, AI Video Enhancer, AI Video Editor, AI Tiktok Video Generator, AI Animated Video, AI Stock Video Generator, AI Short Video Generator, AI Reel Generator, AI Music Video Generator, AI Movie Generator, AI Lip Sync Generator, AI GIF Generator, AI Face Swap Video, AI Commercial Generator, AI Cartoon Video Generator, AI Animation Generator, Text to Video",
+    "slug": "viddo-veo3-ai-video-generator",
+    "created_at": "14:12:18 06/13/2025"
   },
   {
     "title": "Miro",
@@ -12373,6 +12409,15 @@
     "created_at": "14:11:31 05/08/2025"
   },
   {
+    "title": "ChurchCalls.ai",
+    "name": "ChurchCalls.ai",
+    "description": "AI assistant for churches to answer calls 24/7.",
+    "website": "https://www.churchcalls.ai",
+    "categories": "AI Agent, AI Assistant, AI Call Center, AI Religion, AI Voice Assistants",
+    "slug": "churchcalls-ai",
+    "created_at": "14:12:18 06/13/2025"
+  },
+  {
     "title": "VPIHub",
     "name": "VPIHub",
     "description": "Platform for deploying AI Voice Agents for customer service automation.",
@@ -13118,6 +13163,15 @@
     "categories": "Resume Builder, Cover Letter Generator, Writing Assistants",
     "slug": "my-resume-hero",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RepediaAI",
+    "name": "RepediaAI",
+    "description": "AI assistant for job hunting, hiring, and career preparation.",
+    "website": "https://www.repediaai.com",
+    "categories": "AI Jobs, AI Assistant, AI Interview Assistant, Resume AI, AI Search Engine, AI Chatbot, AI Recruiting, AI Task Management",
+    "slug": "repediaai",
+    "created_at": "14:12:18 06/13/2025"
   },
   {
     "title": "Winify AI",
