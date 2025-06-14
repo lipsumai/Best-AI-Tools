@@ -11347,6 +11347,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AICosts.ai",
+    "name": "AICosts.ai",
+    "description": "AICosts.ai is the unified AI cost management platform that helps teams track, analyze, and optimize spending across all AI services. Stop juggling multiple billing portals and cut your AI costs by 30%+ with our comprehensive dashboard that connects OpenAI, Claude, Gemini, n8n, Make, Zapier, and 100+ other AI tools in one place. Trusted by AI-first startups, automation agencies, and enterprise teams to manage their entire AI stack efficiently.",
+    "website": "https://www.aicosts.ai",
+    "categories": "AI Accounting, AI API, Log Management, AI Project Management",
+    "slug": "aicosts-ai",
+    "created_at": "14:10:23 06/14/2025"
+  },
+  {
     "title": "Pai",
     "name": "Pai",
     "description": "AI study assistant providing step-by-step solutions",
@@ -11399,6 +11408,15 @@
     "categories": "AI Email Assistant, AI Productivity Tools, AI Meeting Assistant, AI Scheduling, AI Email Writer",
     "slug": "whimsey-ai-scheduling-assistant",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "Shoplauncher AI",
+    "name": "Shoplauncher AI",
+    "description": "A fully optimized AI Shopify store with winning products, ready-to-sell product pages & free high quality logo",
+    "website": "https://www.shoplauncher.ai",
+    "categories": "AI Shopify Store Builder, AI Website Builder, AI Productivity Tools",
+    "slug": "shoplauncher-ai",
+    "created_at": "14:10:23 06/14/2025"
   },
   {
     "title": "adversea",
