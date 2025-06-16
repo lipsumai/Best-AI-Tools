@@ -3851,6 +3851,15 @@
     "created_at": "14:09:23 04/05/2025"
   },
   {
+    "title": "Enzzo AI",
+    "name": "Enzzo PM - AI Product Manager",
+    "description": "AI product manager for hardware development.",
+    "website": "https://enzzo.ai",
+    "categories": "AI Product Manager, AI Agent, AI Design Generator",
+    "slug": "enzzo-pm-ai-product-manager",
+    "created_at": "14:12:56 06/16/2025"
+  },
+  {
     "title": "Alumnium",
     "name": "Alumnium",
     "description": "AI tool for converting test instructions into executable commands.",
@@ -4056,6 +4065,15 @@
     "categories": "AI Diagram Generator, AI Charting",
     "slug": "flowcraft-ai-diagrams-whiteboard",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MCP Stack",
+    "name": "MCP Stack",
+    "description": "Open-source MCP integration for AI-powered enterprise marketing.",
+    "website": "https://mcp-stack.com",
+    "categories": "AI Marketing, AI Agent, AI Sales Assistant, AI Lead Generation, No-Code&Low-Code, AI Customer Service, AI For Data Analytics",
+    "slug": "mcp-stack",
+    "created_at": "14:12:56 06/16/2025"
   },
   {
     "title": "Mancoding",
@@ -4695,6 +4713,15 @@
     "categories": "Other",
     "slug": "hai-surf",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VibeSec",
+    "name": "VibeSec",
+    "description": "AI-powered code security copilot for GitHub repo vulnerability scanning.",
+    "website": "https://www.vibesec.app",
+    "categories": "AI Scanner, AI Code Review, AI Developer Tools, AI Github, AI Report Generator",
+    "slug": "vibesec",
+    "created_at": "14:12:56 06/16/2025"
   },
   {
     "title": "Unwink AI",
@@ -8207,6 +8234,15 @@
     "created_at": "02:28:54 04/21/2025"
   },
   {
+    "title": "LLM SEO Report",
+    "name": "LLM SEO Report",
+    "description": "Analyzes brand perception by AI assistants for SEO.",
+    "website": "https://llmseoreport.com",
+    "categories": "AI SEO Tools, AI Report Generator, Large Language Models (LLMs), AI Search Engine, AI Assistant",
+    "slug": "llm-seo-report",
+    "created_at": "14:12:56 06/16/2025"
+  },
+  {
     "title": "AICreditRepair",
     "name": "AICreditRepair",
     "description": "AI tools for fixing and improving credit scores.",
@@ -11662,6 +11698,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Solar",
+    "name": "Solar",
+    "description": "AI-powered platform for building full-stack apps, AI agents, and workflow automations.",
+    "website": "https://try.solar",
+    "categories": "AI App Builder, AI Agent, AI Code Generator, AI Workflow",
+    "slug": "solar",
+    "created_at": "14:12:56 06/16/2025"
+  },
+  {
     "title": "Tavern of Tales",
     "name": "Tavern of Tales",
     "description": "App for creating and sharing fantasy heroes and stories.",
@@ -12938,6 +12983,15 @@
     "categories": "Other",
     "slug": "future-proof",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Speechly",
+    "name": "Speechly",
+    "description": "Voice-powered AI email assistant for professional, structured emails.",
+    "website": "https://speechly.io",
+    "categories": "AI Email Generator, AI Email Writer, AI Email Assistant",
+    "slug": "speechly",
+    "created_at": "14:12:56 06/16/2025"
   },
   {
     "title": "Uppply",
@@ -15415,6 +15469,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "HoverNotes",
+    "name": "HoverNotes",
+    "description": "AI-powered tool to transform video tutorials into Obsidian notes.",
+    "website": "https://hovernotes.io",
+    "categories": "AI Notes Generator, AI Video Summarizer, AI Productivity Tools",
+    "slug": "hovernotes",
+    "created_at": "14:12:56 06/16/2025"
+  },
+  {
     "title": "Shh Silence",
     "name": "Shh .. Silence",
     "description": "Train yourself to snore less with Shh Silence.",
@@ -16448,6 +16511,15 @@
     "categories": "AI Background Remover, AI Video Editor, Large Language Models (LLMs), Photo & Image Editor",
     "slug": "watermarkremoverai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Humanify AI",
+    "name": "Humanify AI - Detect AI, Humanize",
+    "description": "App to enhance writing, detect AI content, and humanize text.",
+    "website": "https://apps.apple.com/us/app/humanify-ai/id6740541272",
+    "categories": "Humanizer AI, AI Content Detector, AI Writing Assistants, AI Rewriter, AI Bypasser",
+    "slug": "humanify-ai-detect-ai-humanize",
+    "created_at": "14:12:56 06/16/2025"
   },
   {
     "title": "Corporate Finance App",
