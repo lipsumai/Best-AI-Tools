@@ -63,6 +63,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Labubu live wallpaper",
+    "name": "Labubu live wallpaper",
+    "description": "Free Labubu live, dynamic, and static wallpapers for iPhone and Android.",
+    "website": "https://labubuwallpaper.fun",
+    "categories": "AI Wallpaper Generator",
+    "slug": "labubu-live-wallpaper",
+    "created_at": "14:11:59 06/19/2025"
+  },
+  {
     "title": "Builco",
     "name": "Builco",
     "description": "AI-powered MVP builder with Next.js",
@@ -1008,6 +1017,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "UI root",
+    "name": "UI root",
+    "description": "A hub to discover and share UI/UX tools and resources.",
+    "website": "https://uiroot.com",
+    "categories": "AI Tools Directory, AI UX Design, AI Graphic Design, AI Design Assistant",
+    "slug": "ui-root",
+    "created_at": "14:11:59 06/19/2025"
+  },
+  {
     "title": "Capacities",
     "name": "Capacities",
     "description": "A powerful note-taking tool for organizing and connecting ideas.",
@@ -1420,6 +1438,15 @@
     "categories": "AI Sales Assistant, AI Agent, AI Sales, AI Lead Generation, AI Call Center, AI Chatbot, AI Scheduling",
     "slug": "schedx",
     "created_at": "14:13:07 05/28/2025"
+  },
+  {
+    "title": "The AI Labor Index",
+    "name": "The AI Labor Index",
+    "description": "Tracks AI's impact on work, mapping task automation potential.",
+    "website": "https://ailaborindex.com",
+    "categories": "AI For Data Analytics, AI Jobs, AI Research Tool, AI Predictions",
+    "slug": "the-ai-labor-index",
+    "created_at": "14:11:59 06/19/2025"
   },
   {
     "title": "PrimeAI",
@@ -4704,6 +4731,15 @@
     "categories": "AI Meeting Assistant, AI Notes Assistant, Summarizer, Transcription, Transcriber, AI Productivity Tools",
     "slug": "meeting-ai",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Echovox Studio",
+    "name": "Echovox Studio",
+    "description": "AI-powered platform for audio content creation, editing, and voiceovers.",
+    "website": "https://studio.echovox.in",
+    "categories": "AI Text-to-Speech, AI Voice Cloning, AI Speech-to-Text, AI Voice Generator, AI Audio Editing, AI Voice Over",
+    "slug": "echovox-studio",
+    "created_at": "14:11:59 06/19/2025"
   },
   {
     "title": "InstaLM",
@@ -8297,6 +8333,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "DreamASMR",
+    "name": "DreamASMR",
+    "description": "AI-powered Veo3 ASMR video generator for relaxing content.",
+    "website": "https://dreamasmr.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Sound Effect Generator, AI API",
+    "slug": "dreamasmr",
+    "created_at": "14:11:59 06/19/2025"
+  },
+  {
     "title": "Emitrr",
     "name": "Emitrr",
     "description": "AI toolbox for business communication and customer engagement.",
@@ -9224,6 +9269,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Scheduloid",
+    "name": "Scheduloid",
+    "description": "AI-powered social media management for content creation, scheduling, automation, and analytics.",
+    "website": "https://scheduloid.com",
+    "categories": "AI Social Media, AI Scheduling, AI Social Media Post Generator, AI Assistant, AI Caption Generator, AI Tweet Generator",
+    "slug": "scheduloid",
+    "created_at": "14:11:59 06/19/2025"
+  },
+  {
     "title": "Opera Neon",
     "name": "Opera Neon",
     "description": "Agentic AI browser for task automation and context-aware assistance.",
@@ -9267,6 +9321,15 @@
     "categories": "AI Design Generator, AI Graphic Design, Design Assistant, AI Website Designer, Prompt, AI Team Collaboration, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Developer Tools",
     "slug": "tempo-new",
     "created_at": "02:23:05 04/09/2025"
+  },
+  {
+    "title": "NLX",
+    "name": "NLX",
+    "description": "No-code platform for building conversational AI applications.",
+    "website": "https://nlx.ai",
+    "categories": "AI Chatbot, No-Code&Low-Code, AI Customer Service, AI Voice Assistants, Large Language Models (LLMs), AI Chat Generator",
+    "slug": "nlx",
+    "created_at": "14:11:59 06/19/2025"
   },
   {
     "title": "Victoria AI",
@@ -9762,6 +9825,15 @@
     "categories": "Homework Helper, AI Education Assistant",
     "slug": "ai-math-gpt-solver-online-powered-by-gpt-4o-math-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ittybit",
+    "name": "ittybit",
+    "description": "Scalable media APIs for video, audio, and image processing and automation.",
+    "website": "https://ittybit.com",
+    "categories": "AI API, AI Developer Tools, AI Summarizer, AI Subtitle Generator, AI Transcriber, AI Image Recognition",
+    "slug": "ittybit",
+    "created_at": "14:11:59 06/19/2025"
   },
   {
     "title": "SnapVault",
@@ -10446,6 +10518,15 @@
     "categories": "AI Unblur Image, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler",
     "slug": "unblurimage-ai",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "Midjourney Video",
+    "name": "Midjourney Video",
+    "description": "AI video generator transforming images into 5-second videos with advanced Image-to-Video technology.",
+    "website": "https://midjourneyvideo.ai",
+    "categories": "AI Video Generator, Image to Video, AI Animation Generator, AI Animated Video",
+    "slug": "midjourney-video",
+    "created_at": "14:11:59 06/19/2025"
   },
   {
     "title": "Nexty.dev",
@@ -16783,6 +16864,15 @@
     "created_at": "02:43:13 06/19/2025"
   },
   {
+    "title": "Thunai",
+    "name": "Thunai",
+    "description": "AI platform turning org knowledge into smart agents for automation.",
+    "website": "https://www.thunai.ai",
+    "categories": "AI Agent, AI Assistant, AI Customer Service, AI Chatbot, AI Call Center, AI Meeting Assistant, AI Email Assistant, AI Knowledge Management, AI Sales Assistant, AI Note Taker",
+    "slug": "thunai",
+    "created_at": "14:11:59 06/19/2025"
+  },
+  {
     "title": "Groopub",
     "name": "Groopub",
     "description": "\"Groopub provides AI shopping assistants for global merchants, improving B2B transactions.\"",
@@ -17348,6 +17438,15 @@
     "categories": "AI Analytics Assistant, AI Charting, AI Customer Service Assistant, AI Data Mining, AI Product Description Generator, AI Lead Generation",
     "slug": "data-science-kit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Garden Design",
+    "name": "AI Garden Design",
+    "description": "AI tool for instant, personalized garden and landscape design.",
+    "website": "https://aigardendesign.io",
+    "categories": "AI Backyard Design, AI Landscape Generator, AI Design Generator, AI Image Generator",
+    "slug": "ai-garden-design",
+    "created_at": "14:11:59 06/19/2025"
   },
   {
     "title": "Blueprint",
