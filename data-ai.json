@@ -6425,6 +6425,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hunch",
+    "name": "Hunch",
+    "description": "AI-powered job hunt. Less ghosting, more replies.",
+    "website": "https://www.askhunch.com",
+    "categories": "Resume AI, AI Jobs, Large Language Models (LLMs)",
+    "slug": "hunch",
+    "created_at": "02:43:13 06/19/2025"
+  },
+  {
     "title": "Udemy Quiz Generator",
     "name": "Flashlearn.ai",
     "description": "AI tool for creating study aids from Udemy courses",
@@ -10877,6 +10886,15 @@
     "categories": "Design Assistant, AI Website Designer, AI Team Collaboration, AI Diagram Generator, AI Education Assistant",
     "slug": "mockflow",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "ImgSearch",
+    "name": "ImgSearch",
+    "description": "ImgSearch.com is a platform offering millions of high-quality, free AI-generated images—easy to search, download, and use in any creative project.",
+    "website": "https://imgsearch.com",
+    "categories": "Text to Image",
+    "slug": "imgsearch",
+    "created_at": "02:43:13 06/19/2025"
   },
   {
     "title": "AcademicIdeas",
@@ -16754,6 +16772,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Ad Creative Assistant, AI Ad Generator, AI Design Generator, AI Graphic Design, Design Assistant, AI Banner Generator, AI Content Generator, AI Photo & Image Generator, Copywriting, Writing Assistants",
     "slug": "creatopy",
     "created_at": "14:10:15 04/19/2025"
+  },
+  {
+    "title": "Seedance 1.0 AI",
+    "name": "Seedance 1.0 AI",
+    "description": "AI video generator for cinematic text & image to video.",
+    "website": "https://seedance-ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animated Video",
+    "slug": "seedance-1-0-ai",
+    "created_at": "02:43:13 06/19/2025"
   },
   {
     "title": "Groopub",
