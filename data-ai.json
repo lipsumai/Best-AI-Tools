@@ -8999,6 +8999,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "Moonmate",
+    "name": "Moonmate",
+    "description": "AI companion platform for immersive roleplay chats and emotional support.",
+    "website": "https://moonmate.ai",
+    "categories": "AI Roleplay, AI Girlfriend, AI Chatbot, AI Character",
+    "slug": "moonmate",
+    "created_at": "14:12:01 06/20/2025"
+  },
+  {
     "title": "Free Paraphrasing Tool-Toolsmart",
     "name": "Free Paraphrasing Tool-Toolsmart",
     "description": "Free Paraphrasing Tool is a powerful AI writing assistant designed to help you rewrite and polish content with total flexibility—completely free, unlimited, and ad-free.",
@@ -11734,6 +11743,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "蛙蛙写作",
+    "name": "蛙蛙写作",
+    "description": "A comprehensive AI writing assistant for diverse content creation needs.",
+    "website": "https://wawawriter.com",
+    "categories": "AI Writing, AI Writing Assistants, AI Creative Writing, AI Script Writing, AI Video Generator, AI Short Story Generator, AI Novel",
+    "slug": "蛙蛙写作",
+    "created_at": "14:12:01 06/20/2025"
+  },
+  {
     "title": "CodableAI - Your AI-Powered Programming Assistant for Developers",
     "name": "CoableAI - Code Writing & Debugging",
     "description": "AI-driven platform simplifies coding for developers, enhancing efficiency and achieving coding goals.",
@@ -11741,6 +11759,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs), Writing Assistants, AI Content Generator, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Analytics Assistant, Prompt",
     "slug": "coableai-code-writing-debugging",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Makefilm",
+    "name": "Makefilm",
+    "description": "All-in-one AI video platform for creation, editing, and summarization.",
+    "website": "https://www.makefilm.ai",
+    "categories": "AI Video Generator, AI Video Summarizer, AI Voice Generator, AI Subtitle Generator, AI Watermark Remover, Text to Video, Image to Video",
+    "slug": "makefilm",
+    "created_at": "14:12:01 06/20/2025"
   },
   {
     "title": "Bookeeping.ai",
@@ -14351,6 +14378,15 @@
     "categories": "AI Product Description Generator, AI Website Builder, AI Website Designer",
     "slug": "personadeck-io",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Thena",
+    "name": "Thena",
+    "description": "AI customer support platform for B2B teams.",
+    "website": "https://thena.ai",
+    "categories": "AI Customer Service, AI Assistant, AI Chatbot, AI Response Generator, AI Workflow, AI Knowledge Base",
+    "slug": "thena",
+    "created_at": "14:12:01 06/20/2025"
   },
   {
     "title": "IFNovels",
