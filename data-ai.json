@@ -900,6 +900,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Midjourney Video",
+    "name": "Midjourney Video 1",
+    "description": "AI video generator for Midjourney images and artwork.",
+    "website": "https://midjourneyvideo.io",
+    "categories": "AI Video Generator, Image to Video, AI Animation Generator, AI Animated Video",
+    "slug": "midjourney-video-1",
+    "created_at": "14:11:46 06/21/2025"
+  },
+  {
     "title": "Astronov",
     "name": "Astronov",
     "description": "Discover astrology secrets with Astronov",
@@ -8016,6 +8025,15 @@
     "categories": "AI API Design, Sales Assistant, AI Analytics Assistant, AI Reply Assistant, AI CRM Assistant, AI Email Assistant, AI Email Generator, AI Response Generator, AI Lead Generation, AI Chatbot, AI Meeting Assistant, AI Workflow Management, AI Scheduling",
     "slug": "salesape-ai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Seedance Ai",
+    "name": "Seedance Ai 1",
+    "description": "AI video generator for cinematic videos from text and images.",
+    "website": "https://seedance-ai.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
+    "slug": "seedance-ai-1",
+    "created_at": "14:11:46 06/21/2025"
   },
   {
     "title": "Buildify",
