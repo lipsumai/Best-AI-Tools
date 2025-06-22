@@ -234,6 +234,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SchoolAI",
+    "name": "School AI",
+    "description": "AI platform for student success, personalized learning, and educator support.",
+    "website": "https://schoolai.com",
+    "categories": "AI Teachers, AI Homework Helper, AI Assistant, AI Coaching",
+    "slug": "school-ai",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Inboxly",
     "name": "Inboxly AI",
     "description": "AI-powered public mailbox",
@@ -304,6 +313,15 @@
     "categories": "Other",
     "slug": "mergeml",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Docyt",
+    "name": "Docyt",
+    "description": "AI bookkeeping software for multi-entity businesses.",
+    "website": "https://docyt.com",
+    "categories": "AI Accounting, AI Agent, AI Copilot, AI Assistant, AI For Finance",
+    "slug": "docyt",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "OpenVC Decks",
@@ -3014,6 +3032,15 @@
     "created_at": "02:43:20 05/19/2025"
   },
   {
+    "title": "Together AI",
+    "name": "Together AI",
+    "description": "AI Acceleration Cloud for fast inference, fine-tuning, and training.",
+    "website": "https://www.together.ai",
+    "categories": "AI Developer Tools, AI API, AI Models, Open Source AI Models, Large Language Models (LLMs)",
+    "slug": "together-ai",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Digest AI",
     "name": "Digest AI",
     "description": "Convert YouTube videos into summaries and blogs with AI.",
@@ -3183,6 +3210,15 @@
     "categories": "Other",
     "slug": "edward-teach-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "OneReach.ai",
+    "name": "OneReach.ai",
+    "description": "No-code platform for orchestrating advanced multimodal AI agents.",
+    "website": "https://onereach.ai",
+    "categories": "AI Agent, No-Code&Low-Code, AI Workflow, AI Customer Service, AI Assistant, AI Call Center",
+    "slug": "onereach-ai",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "Naptha AI",
@@ -3572,6 +3608,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI ASMR Videos",
+    "name": "AI ASMR Videos",
+    "description": "AI-powered platform for generating professional ASMR videos.",
+    "website": "https://www.asmr.so",
+    "categories": "AI Video Generator, Text to Video, Script To Video AI Generator",
+    "slug": "ai-asmr-videos",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Veo 3 AI",
     "name": "Veo-3 AI",
     "description": "All-in-one AI platform for image, video, and music generation.",
@@ -3669,6 +3714,15 @@
     "categories": "AI Knowledge Base, AI Note Taker, AI Knowledge Management",
     "slug": "sigmanote-your-second-brain",
     "created_at": "02:37:41 05/23/2025"
+  },
+  {
+    "title": "Smith.ai",
+    "name": "Smith.ai",
+    "description": "24/7 AI and human-powered receptionists, outreach, and web chat services.",
+    "website": "https://smith.ai",
+    "categories": "AI Call Center, AI Chatbot, AI Assistant, AI Customer Service, AI Scheduling, AI Lead Generation",
+    "slug": "smith-ai",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "GPTTurkey.net",
@@ -5165,6 +5219,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Leoforce",
+    "name": "Leoforce",
+    "description": "AI recruiting solutions to optimize hiring results and talent acquisition.",
+    "website": "https://leoforce.com",
+    "categories": "AI Recruiting, AI Chatbot, AI Advertising, AI Lead Generation",
+    "slug": "leoforce",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "StoryPathGame",
     "name": "StoryPathGame",
     "description": "Imagination meets AI for personalized adventures",
@@ -5840,6 +5903,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SuperAnnotate",
+    "name": "Super Annotate",
+    "description": "Platform for streamlining AI data annotation and evaluation workflows.",
+    "website": "https://www.superannotate.com",
+    "categories": "AI Workflow, AI Developer Tools, AI Project Management",
+    "slug": "super-annotate",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Heidi Health",
     "name": "Heidi Health",
     "description": "AI medical scribe for transcribing visits and generating notes.",
@@ -6162,6 +6234,15 @@
     "categories": "AI Customer Service Assistant, AI Reply Assistant, AI SEO Assistant, AI Reviews Assistant, AI Response Generator, AI Content Generator",
     "slug": "fullreviews",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "Isahit",
+    "name": "Isahit",
+    "description": "Ethical human-driven AI & data labeling, fine-tuning, and processing.",
+    "website": "https://www.isahit.com",
+    "categories": "AI Workflow, Large Language Models (LLMs), AI For Data Analytics, AI Developer Tools, AI Speech Recognition",
+    "slug": "isahit",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "Paraphraser.io",
@@ -8774,6 +8855,15 @@
     "created_at": "02:25:05 04/16/2025"
   },
   {
+    "title": "Labelbox",
+    "name": "Labelbox",
+    "description": "AI data factory for building, operating, and staffing AI data.",
+    "website": "https://labelbox.com",
+    "categories": "AI Developer Tools, AI API, AI Workflow, AI Productivity Tools",
+    "slug": "labelbox",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Birthday Reminder Widget",
     "name": "Birthday Reminder Widget",
     "description": "App to track birthdays and find gift ideas.",
@@ -9258,6 +9348,15 @@
     "categories": "AI Social Media Assistant, AI Tiktok Assistant, AI Hashtag Assistant",
     "slug": "revueai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SandboxAQ",
+    "name": "SandboxAQ",
+    "description": "AI and advanced computing for real-world challenges.",
+    "website": "https://www.sandboxaq.com",
+    "categories": "AI Models, AI Healthcare, AI Medical Diagnosis, AI Research Papers, AI For Finance",
+    "slug": "sandboxaq",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "ViolationWatch",
@@ -10187,6 +10286,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ushur",
+    "name": "Ushur",
+    "description": "AI-powered customer experience automation for regulated industries.",
+    "website": "https://ushur.ai",
+    "categories": "AI Agent, AI Customer Service, AI Workflow, AI Healthcare, AI For Finance, AI Assistant",
+    "slug": "ushur",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Seedance Video Generator",
     "name": "Seedance Video Generator",
     "description": "The new state-of-the-art video generation model beats google Veo3",
@@ -10527,6 +10635,15 @@
     "categories": "AI Project Management, AI Analytics Assistant",
     "slug": "predikt-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hailo",
+    "name": "Hailo AI",
+    "description": "Breakthrough AI processors for high-performance deep learning on edge devices.",
+    "website": "https://hailo.ai",
+    "categories": "AI Developer Tools, AI Models, AI Image Recognition, AI Video Enhancer",
+    "slug": "hailo-ai",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "Tenorshare AI Bypass",
@@ -11066,6 +11183,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Reply Assistant, AI CRM Assistant",
     "slug": "bizchaty-whatsapp-marketing-platform",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Immuta",
+    "name": "Immuta",
+    "description": "Accelerates secure, compliant enterprise data access governance and marketplace.",
+    "website": "https://www.immuta.com",
+    "categories": "AI For Data Analytics, AI Productivity Tools, AI For Finance, AI Healthcare",
+    "slug": "immuta",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "Not Diamond",
@@ -12121,6 +12247,15 @@
     "created_at": "14:10:50 04/18/2025"
   },
   {
+    "title": "Buildots",
+    "name": "Buildots",
+    "description": "AI-powered construction management for progress tracking and delay reduction.",
+    "website": "https://buildots.com",
+    "categories": "AI Project Management, AI Assistant, AI Productivity Tools, AI Predictions",
+    "slug": "buildots",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Directify",
     "name": "Directify",
     "description": "No-code platform to build, grow, and monetize directory websites.",
@@ -12137,6 +12272,15 @@
     "categories": "Captions or Subtitle, Photo & Image Editor, AI Background Remover, AI Image Segmentation, AI Video Editor, AI Noise Cancellation, AI Video Recording, Text to Image, Image to Image",
     "slug": "cloudstudio",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vue.ai",
+    "name": "Vue.ai",
+    "description": "Enterprise AI orchestration platform for rapid AI transformation and business outcomes.",
+    "website": "https://www.vue.ai",
+    "categories": "AI Workflow, No-Code&Low-Code, AI Agent, AI Sales, AI Lead Generation, AI For Finance",
+    "slug": "vue-ai",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "AskSteve",
@@ -13651,6 +13795,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Cognigy",
+    "name": "Cognigy",
+    "description": "Enterprise AI platform for customer service and contact centers.",
+    "website": "https://www.cognigy.com",
+    "categories": "AI Customer Service, AI Agent, AI Chatbot, AI Copilot, AI Voice Assistants",
+    "slug": "cognigy",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "LeadsGenerator AI",
     "name": "LeadsGenerator AI",
     "description": "AI tool for automated lead generation and prospect verification.",
@@ -14594,6 +14747,15 @@
     "categories": "AI Product Description Generator, AI Speech Synthesis, Text-to-Speech, AI Voice Assistants, AI Productivity Tools, Translate",
     "slug": "clipboard-tts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Alice Biometrics",
+    "name": "Alice Biometrics",
+    "description": "Secure, automatic, instant identity verification for customer onboarding.",
+    "website": "https://alicebiometrics.com",
+    "categories": "AI Face Recognition, AI OCR, AI Document Extraction, AI For Finance",
+    "slug": "alice-biometrics",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "Picmojo",
@@ -15928,6 +16090,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Axion Ray",
+    "name": "Axion Ray",
+    "description": "AI platform for detecting, investigating, and resolving product quality issues.",
+    "website": "https://www.axionray.com",
+    "categories": "AI Detector, AI For Data Analytics, AI Predictions, AI Productivity Tools",
+    "slug": "axion-ray",
+    "created_at": "14:10:54 06/22/2025"
+  },
+  {
     "title": "Head",
     "name": "Head AI (Alpha)",
     "description": "World's first AI marketer, replacing humans for business growth.",
@@ -16853,6 +17024,15 @@
     "categories": "AI Content Generator, No-Code&Low-Code, AI Website Builder, AI Landing Page Builder, AI Product Description Generator, Copywriting, AI Website Designer, AI Productivity Tools, AI Advertising Assistant, AI Ad Generator, AI Ad Creative Assistant, Design Assistant, AI Workflow Management, AI Project Management, AI Task Management, AI Lead Generation, Marketing Plan Generator, AI Team Collaboration",
     "slug": "boltweb",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "DroneDeploy",
+    "name": "DroneDeploy",
+    "description": "Reality capture platform for site understanding, quality, safety, and progress.",
+    "website": "https://dronedeploy.com",
+    "categories": "AI Project Management, AI Photography, AI Robot, AI Real Estate, AI Map Generator, AI Image Recognition",
+    "slug": "dronedeploy",
+    "created_at": "14:10:54 06/22/2025"
   },
   {
     "title": "GetBooks.ai",
