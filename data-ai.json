@@ -11833,6 +11833,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "BeatJar",
+    "name": "BeatJar",
+    "description": "AI-powered service creating custom, personalized songs from your stories.",
+    "website": "https://beatjar.com",
+    "categories": "AI Song Generator, AI Music Generator, AI Gift Ideas",
+    "slug": "beatjar",
+    "created_at": "02:51:30 06/23/2025"
+  },
+  {
     "title": "Tragal AI",
     "name": "Tragal",
     "description": "AI-enabled business process automation through chatbots and voice assistants.",
@@ -17951,6 +17960,15 @@
     "categories": "Other",
     "slug": "gistreader",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Homesage.ai",
+    "name": "Homesage.ai",
+    "description": "Homesage.ai is an AI-powered real estate platform that delivers cutting-edge insights on 140M+ U.S. residential properties to investors, realtors, lenders and IT developers. The company uses computer vision and advanced AI models to identify investment opportunities, generate full property reports, and provide well-documented real estate and home improvement APIs. It also offers custom AI solutions for the real estate, financial and insurance industries.",
+    "website": "https://homesage.ai",
+    "categories": "AI Real Estate",
+    "slug": "homesage-ai",
+    "created_at": "02:51:30 06/23/2025"
   },
   {
     "title": "Manus AI",
