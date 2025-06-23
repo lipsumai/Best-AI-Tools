@@ -5120,6 +5120,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Slashit App",
+    "name": "Slashit App",
+    "description": "AI-powered tool for faster replies, text automation, and productivity.",
+    "website": "https://slashit.app",
+    "categories": "AI Writing Assistants, AI Productivity Tools, AI Assistant, AI Workflow, AI Text Generator",
+    "slug": "slashit-app",
+    "created_at": "14:13:09 06/23/2025"
+  },
+  {
     "title": "Google AI Studio",
     "name": "Google AI Studio",
     "description": "Platform for building with Google's Gemini AI models.",
@@ -5876,6 +5885,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "PiSearch",
+    "name": "Pisearch",
+    "description": "AI search engine for product discovery and comparison.",
+    "website": "https://www.pisearch.ai",
+    "categories": "AI Search Engine, AI News, AI Shopping Assistant, Fashion AI, AI Beauty",
+    "slug": "pisearch",
+    "created_at": "14:13:09 06/23/2025"
+  },
+  {
     "title": "Hyresynth",
     "name": "Hyresynth",
     "description": "AI recruitment platform with an AI interviewing agent",
@@ -5982,6 +6000,15 @@
     "categories": "Other",
     "slug": "daetama",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Dynbox",
+    "name": "Dynbox.app",
+    "description": "AI file organizer for automatic tidying and management.",
+    "website": "https://dynbox.app",
+    "categories": "AI Files, AI Assistant, AI Productivity Tools, AI Search Engine, AI Chatbot",
+    "slug": "dynbox-app",
+    "created_at": "14:13:09 06/23/2025"
   },
   {
     "title": "Conslate",
@@ -12247,6 +12274,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "StudyFox",
+    "name": "StudyFox",
+    "description": "AI-powered learning assistant with smart study tools for academic excellence.",
+    "website": "https://studyfox.pro",
+    "categories": "AI Homework Helper, AI Assistant, AI Flashcard Maker, AI Mind Mapping, AI PDF Summarizer, AI Youtube Summary, AI Paraphraser, AI Quizzes",
+    "slug": "studyfox",
+    "created_at": "14:13:09 06/23/2025"
+  },
+  {
     "title": "Framepack",
     "name": "Framepack",
     "description": "AI video diffusion technology for fast video generation.",
@@ -14711,6 +14747,15 @@
     "categories": "Homework Helper, Writing Assistants, Essay Writer, Paraphraser",
     "slug": "ai-homework-helper",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hello Pet Dreams",
+    "name": "Hello Pet Dreams",
+    "description": "AI platform transforming pet photos into high-res digital art in 30+ styles.",
+    "website": "https://hellopetdreams.com",
+    "categories": "AI Art Generator, AI Portrait Generator, Image to Image, AI Cartoon Generator, AI Anime Generator",
+    "slug": "hello-pet-dreams",
+    "created_at": "14:13:09 06/23/2025"
   },
   {
     "title": "RivalOut - Rival Company Analysis and Comparison Platform",
@@ -17798,6 +17843,15 @@
     "categories": "AI Speech Recognition, AI CRM Assistant, AI Recruiting, AI Coaching, AI Productivity Tools, AI Team Collaboration, AI Meeting Assistant, AI Notes Assistant, AI Video Recording, Sales Assistant, Transcription, Transcriber, AI Email Writer, AI Short Clips Generator, Recording, Speech-to-Text, AI Customer Service Assistant",
     "slug": "grain",
     "created_at": "14:10:24 04/20/2025"
+  },
+  {
+    "title": "AI Baby Generator",
+    "name": "AI Baby Generator Online Free",
+    "description": "AI tool to generate realistic future baby faces from parent photos.",
+    "website": "https://aibabygenerator.art",
+    "categories": "AI Baby Generator, AI Image Generator, AI Realistic Image Generator, AI Person Generator",
+    "slug": "ai-baby-generator-online-free",
+    "created_at": "14:13:09 06/23/2025"
   },
   {
     "title": "Parental Bot",
