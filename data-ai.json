@@ -1197,6 +1197,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Fenixs",
+    "name": "Fenixs.ai",
+    "description": "AI-powered platform for scriptwriting, storyboarding, and film production.",
+    "website": "https://fenixs.ai",
+    "categories": "AI Script Writing, Storyboard AI, AI Movie Script Generator, AI Creative Writing",
+    "slug": "fenixs-ai",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "CoGuide",
     "name": "CoGuide",
     "description": "AI platform for generating lesson plans and activities.",
@@ -1627,6 +1636,15 @@
     "categories": "AI Code Generator, AI Course, AI Tutorial, AI Code Assistant, AI Quizzes, Code Explanation",
     "slug": "turing-school",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MagicaLCore",
+    "name": "MagicaL Core",
+    "description": "Code-free iPad app for creating and training machine learning image classifiers.",
+    "website": "https://apps.apple.com/es/app/magicalcore/id6466442942",
+    "categories": "AI Developer Tools, AI Models, AI Workflow, AI Productivity Tools",
+    "slug": "magical-core",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "WUI.AI",
@@ -4544,6 +4562,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Fastn UCL",
+    "name": "Fastn UCL",
+    "description": "Enterprise multi-tenant MCP for AI agents, connecting them to any tool.",
+    "website": "https://ucl.dev",
+    "categories": "AI Agent, AI Developer Tools, AI API, AI Workflow",
+    "slug": "fastn-ucl",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "Weavely.ai",
     "name": "Weavely.ai",
     "description": "AI Forms and Surveys",
@@ -6443,6 +6470,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Cekura",
+    "name": "Cekura",
+    "description": "Automates QA, testing, and observability for Conversational AI voice agents.",
+    "website": "https://www.cekura.ai",
+    "categories": "AI Agent, AI Testing, AI Monitor, AI Voice Assistants, AI Developer Tools",
+    "slug": "cekura",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "Prompt Market",
     "name": "PromptHub",
     "description": "Prompt Market is an online platform for engineers to sell unique prompts and inspire creative projects.",
@@ -6729,6 +6765,15 @@
     "categories": "AI Chatbot",
     "slug": "arsturn-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BrandStori",
+    "name": "Brand Stori",
+    "description": "AI platform for tech website messaging audits.",
+    "website": "https://brandstori.ai",
+    "categories": "AI Marketing, AI Copywriting, AI Writing Assistants",
+    "slug": "brand-stori",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "Wondera",
@@ -8657,6 +8702,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Agents Directory",
+    "name": "AI Agents Directory",
+    "description": "Comprehensive directory to discover, compare, and implement AI agent tools.",
+    "website": "https://ai-agents-directory.com",
+    "categories": "AI Tools Directory, AI Agent, AI Search Engine",
+    "slug": "ai-agents-directory",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "AI App Finder",
     "name": "AI App Finder | Explore AI",
     "description": "Discover and explore AI apps easily and quickly.",
@@ -9528,6 +9582,15 @@
     "categories": "AI Product Description Generator, AI Customer Service Assistant, AI Design Generator, Design Assistant",
     "slug": "partykit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hyperfeed.ai",
+    "name": "Hyperfeed.ai",
+    "description": "AI workflow tool for easy content generation and marketing automation.",
+    "website": "https://hyperfeed.ai",
+    "categories": "AI Workflow, AI Social Media, AI Marketing, AI Social Media Post Generator, AI Agent",
+    "slug": "hyperfeed-ai",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "Viddo-Veo3 AI Video Generator",
@@ -11806,6 +11869,15 @@
     "created_at": "14:10:23 06/14/2025"
   },
   {
+    "title": "Crafted",
+    "name": "Crafted™",
+    "description": "Scalable, secure AI solutions and applications for businesses using intelligent agents.",
+    "website": "https://www.we-crafted.com",
+    "categories": "AI Agent, AI Assistant, AI Chatbot, AI Developer Tools, AI For Finance, AI Workflow, Large Language Models (LLMs)",
+    "slug": "crafted",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "Pai",
     "name": "Pai",
     "description": "AI study assistant providing step-by-step solutions",
@@ -12389,6 +12461,15 @@
     "categories": "AI Coaching, AI Chatbot, AI Reviews Assistant, AI Education Assistant",
     "slug": "languatalk",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "Typerdex",
+    "name": "Start-up typerdex",
+    "description": "Typerdex",
+    "website": "https://typerdex.org",
+    "categories": "AI Productivity Tools, AI Assistant, AI Writing Assistants, AI Response Generator",
+    "slug": "start-up-typerdex",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "11Cast",
@@ -14299,6 +14380,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MakeHub",
+    "name": "MakeHub.ai",
+    "description": "AI API load balancer for optimal performance and cost savings.",
+    "website": "https://makehub.ai",
+    "categories": "AI API, AI Models, AI Developer Tools, Large Language Models (LLMs), AI Agent",
+    "slug": "makehub-ai",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "Linux Helper",
     "name": "Linux Helper",
     "description": "Increase system administration efficiency with Linux Helper.",
@@ -14756,6 +14846,15 @@
     "categories": "AI Accounting Assistant",
     "slug": "slayed-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Pythagora",
+    "name": "Pythagora",
+    "description": "AI development platform for building full-stack web apps quickly.",
+    "website": "https://www.pythagora.ai",
+    "categories": "AI Developer Tools, AI App Builder, AI Code Generator, AI Code Assistant, AI Agent, AI Copilot",
+    "slug": "pythagora",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "Upsend",
@@ -16369,6 +16468,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Masonry AI",
+    "name": "Masonry AI",
+    "description": "AI platform for workflow automation and productivity using AI agents.",
+    "website": "https://masonry.so",
+    "categories": "AI Agent, AI Workflow, AI Productivity Tools, AI Task Management, AI Assistant, AI Document Extraction",
+    "slug": "masonry-ai",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "SnapAI",
     "name": "Snap AI",
     "description": "AI assistant for writing, coding, and translation on Mac.",
@@ -16873,6 +16981,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Neocal",
+    "name": "Neocal",
+    "description": "AI-powered calendar app for hassle-free schedule management using natural language.",
+    "website": "https://neocal.ai",
+    "categories": "AI Calendar, AI Scheduling, AI Assistant, AI Schedule Maker",
+    "slug": "neocal",
+    "created_at": "14:12:54 06/25/2025"
+  },
+  {
     "title": "Metric Converter",
     "name": "Metric Converter",
     "description": "Free tool for converting multiple unit measurements.",
@@ -17006,6 +17123,15 @@
     "categories": "AI Analytics Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Hashtag Assistant, AI Repurpose Assistant, Captions or Subtitle, AI Content Generator",
     "slug": "iq-hashtags",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "AI Grammar Check - Corrector",
+    "name": "AI Grammar Checker for iOS",
+    "description": "AI-powered iOS app for grammar, spelling, and writing correction, plus translation.",
+    "website": "https://itunes.apple.com",
+    "categories": "AI Grammar Checker, AI Writing Assistants, AI Paraphraser, AI Spell Check, AI Translate, AI Proofreading, AI Rewriter",
+    "slug": "ai-grammar-checker-for-ios",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "Trivia AI - Guess The Words",
@@ -17150,6 +17276,15 @@
     "categories": "Other",
     "slug": "setupai-co",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Runbear",
+    "name": "Runbear",
+    "description": "DIY AI agents for teams in Slack, Teams, and HubSpot.",
+    "website": "https://runbear.io",
+    "categories": "AI Agent, AI Chatbot, AI Assistant, AI Workflow, No-Code&Low-Code, AI Productivity Tools",
+    "slug": "runbear",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "Tudle",
@@ -17933,6 +18068,15 @@
     "categories": "Other",
     "slug": "clay-earth",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "11.ai",
+    "name": "11ai",
+    "description": "Build and customize personal AI voice assistants with integrations.",
+    "website": "https://11.ai",
+    "categories": "AI Voice Assistants, AI Assistant, AI Agent, AI Voice Cloning, AI Copilot",
+    "slug": "11ai",
+    "created_at": "14:12:54 06/25/2025"
   },
   {
     "title": "SyncSketch",
