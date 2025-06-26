@@ -5913,6 +5913,15 @@
     "created_at": "14:10:54 06/22/2025"
   },
   {
+    "title": "NativeMind",
+    "name": "NativeMind",
+    "description": "Private, on-device AI browser extension powered by Ollama, ensuring no cloud dependency.",
+    "website": "https://nativemind.app",
+    "categories": "AI Assistant, AI Browsers, AI Summarizer, AI Search Engine, AI Translate, Open Source AI Models, Large Language Models (LLMs), AI Research Tool",
+    "slug": "nativemind",
+    "created_at": "14:12:23 06/26/2025"
+  },
+  {
     "title": "Leaderr",
     "name": "Leaderr.io",
     "description": "AI-powered B2B data intelligence, lead generation, and compliance solutions.",
@@ -10223,6 +10232,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "FlashDocs",
+    "name": "FlashDocs API",
+    "description": "API for programmatic generation of Google Slides and PowerPoint decks.",
+    "website": "https://flashdocs.com",
+    "categories": "AI Presentation Generator, AI PPT Maker, AI API, AI Developer Tools",
+    "slug": "flashdocs-api",
+    "created_at": "14:12:23 06/26/2025"
+  },
+  {
     "title": "AI to Data",
     "name": "AI to Data",
     "description": "AI to Data is an AI-powered data generator for generating real and secure data.",
@@ -12212,6 +12230,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "HiMusic",
+    "name": "HiMusic",
+    "description": "AI-powered platform for creating music in seconds.",
+    "website": "https://himusic.io",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Instrumental Generator",
+    "slug": "himusic",
+    "created_at": "14:12:23 06/26/2025"
+  },
+  {
     "title": "DocDocsAI",
     "name": "docdocsai",
     "description": "Create meeting memos and keep everyone on the same page.",
@@ -13317,6 +13344,15 @@
     "categories": "Photo & Image Editor, AI Design Generator, AI Graphic Design, AI Art Generator, Design Assistant, Text to Image, AI Photo Enhancer, AI Customer Service Assistant, AI Image Enhancer",
     "slug": "talktodesign",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "Readdy",
+    "name": "Readdy",
+    "description": "AI website builder",
+    "website": "https://readdy.ai",
+    "categories": "AI Website Builder, AI Website Designer, AI Design Generator, AI Code Generator, AI Landing Page Builder, No-Code&Low-Code",
+    "slug": "readdy",
+    "created_at": "14:12:23 06/26/2025"
   },
   {
     "title": "Ezra",
