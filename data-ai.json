@@ -126,6 +126,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "Upstage AI",
+    "name": "Upstage AI",
+    "description": "AI for LLMs and document processing to transform business workflows.",
+    "website": "https://www.upstage.ai",
+    "categories": "Large Language Models (LLMs), AI Document Extraction, AI OCR, AI API, AI Workflow, AI For Finance, AI Healthcare",
+    "slug": "upstage-ai",
+    "created_at": "02:44:18 06/27/2025"
+  },
+  {
     "title": "Victoria AI",
     "name": "Victoria AI",
     "description": "AI agent automating workflows through chat requests.",
@@ -6615,6 +6624,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ucraft Next",
+    "name": "Ucraft Next",
+    "description": "No-code eCommerce SaaS builder for websites and online stores.",
+    "website": "https://www.ucraft.com",
+    "categories": "AI Website Builder, No-Code&Low-Code, AI Design Generator, AI SEO Tools, AI Customer Service",
+    "slug": "ucraft-next",
+    "created_at": "02:44:18 06/27/2025"
+  },
+  {
     "title": "DocuClipper",
     "name": "DocuClipper",
     "description": "Automated extraction of financial data from various documents.",
@@ -6919,6 +6937,15 @@
     "categories": "Text to Image, AI Art Generator, AI Photo & Image Generator, AI Character, AI Illustration Generator, Image to Image, Photo & Image Editor, AI Image Enhancer, AI Photo Enhancer, AI Cover Generator, AI Background Generator, AI Banner Generator, AI Wallpaper Generator, AI Profile Picture Generator, AI Logo Generator, AI Selfie & Portrait, AI Poster Generator, AI Anime & Cartoon Generator",
     "slug": "ai-art-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "n8n",
+    "name": "n8n",
+    "description": "AI-powered workflow automation platform for technical teams.",
+    "website": "https://n8n.io",
+    "categories": "AI Workflow, AI Agent, No-Code&Low-Code, AI Developer Tools",
+    "slug": "n8n",
+    "created_at": "02:44:18 06/27/2025"
   },
   {
     "title": "Power to the Creator",
@@ -18176,6 +18203,15 @@
     "categories": "AI Search Engine",
     "slug": "raventic",
     "created_at": "02:37:57 06/07/2025"
+  },
+  {
+    "title": "Infatuated AI",
+    "name": "Infatuated AI",
+    "description": "AI girlfriend & companion site for chat, video, voice, and real-time image generation.",
+    "website": "https://infatuated.ai",
+    "categories": "AI Girlfriend, AI Image Generator, AI Boyfriend, AI Chatbot",
+    "slug": "infatuated-ai",
+    "created_at": "02:44:18 06/27/2025"
   },
   {
     "title": "Attrix.ai",
