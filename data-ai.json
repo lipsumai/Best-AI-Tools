@@ -1503,6 +1503,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vitara.ai",
+    "name": "Vitara AI",
+    "description": "AI-powered platform for building full-stack apps with natural language.",
+    "website": "https://vitara.ai",
+    "categories": "AI App Builder, AI Code Generator, AI Code Assistant, AI Developer Tools",
+    "slug": "vitara-ai",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "Bookeeping.ai",
     "name": "Bookeeping.ai",
     "description": "AI-powered bookkeeping service automating financial tasks and workflows",
@@ -3616,6 +3625,15 @@
     "categories": "AI Poem & Poetry Generator, AI Image Recognition",
     "slug": "florami-ai-plant-identifier",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "Replika",
+    "name": "Replika ai",
+    "description": "AI companion for emotional support and companionship.",
+    "website": "https://replika.ai",
+    "categories": "AI Chatbot, AI Mental Health, AI Roleplay, AI Girlfriend, AI Therapist",
+    "slug": "replika-ai",
+    "created_at": "14:12:23 06/27/2025"
   },
   {
     "title": "Flair AI",
@@ -5778,6 +5796,15 @@
     "created_at": "14:12:45 04/23/2025"
   },
   {
+    "title": "Disperse",
+    "name": "Disperse",
+    "description": "AI-assisted 360° site capture and progress tracking for construction.",
+    "website": "https://www.disperse.io",
+    "categories": "AI Project Management, AI Assistant, AI Real Estate, AI Productivity Tools, AI Scanner, AI Monitor",
+    "slug": "disperse",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "Learning Mode AI",
     "name": "Youtube AI - Learning Mode",
     "description": "AI-driven tools enhancing online learning through quizzes and video summaries.",
@@ -6127,6 +6154,15 @@
     "categories": "AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Project Management, No-Code&Low-Code, AI Code Assistant, AI Code Generator",
     "slug": "dhiwise",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "Glia",
+    "name": "Glia",
+    "description": "AI Contact Center Software for unified digital and voice customer experience.",
+    "website": "https://www.glia.com",
+    "categories": "AI Call Center, AI Customer Service, AI Copilot, AI Chatbot, AI Voice Assistants",
+    "slug": "glia",
+    "created_at": "14:12:23 06/27/2025"
   },
   {
     "title": "Body Type Calculator",
@@ -8486,6 +8522,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Mysite.ai",
+    "name": "mysite.ai",
+    "description": "AI-powered website builder for small businesses, no tech skills needed.",
+    "website": "https://mysite.ai",
+    "categories": "AI Website Builder, AI Website Designer, No-Code&Low-Code, AI Assistant",
+    "slug": "mysite-ai",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "ResolveBot",
     "name": "Resolvebot",
     "description": "Streamline email customer service with ResolveBot.",
@@ -10097,6 +10142,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Clarify",
+    "name": "Clarify",
+    "description": "Autonomous AI-native CRM for sales and revenue teams.",
+    "website": "https://clarify.ai",
+    "categories": "AI CRM, AI Sales, AI Sales Assistant, AI Meeting Assistant",
+    "slug": "clarify",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "Content Canvas",
     "name": "Content Canvas",
     "description": "AI tool for quick web content creation",
@@ -11420,6 +11474,15 @@
     "created_at": "14:12:38 05/30/2025"
   },
   {
+    "title": "MoodGallery",
+    "name": "MoodGallery",
+    "description": "Mood tracking app turning emotions into AI-generated art for self-awareness.",
+    "website": "https://moodgallery.app",
+    "categories": "AI Art Generator, AI Mental Health, AI Painting Generator",
+    "slug": "moodgallery-emotions-to-art",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "Hyresynth",
     "name": "Hyresynth",
     "description": "AI recruitment platform with an AI interviewing agent",
@@ -11942,6 +12005,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Zilliz",
+    "name": "Zilliz",
+    "description": "Fully managed, scalable vector database for enterprise AI applications.",
+    "website": "https://zilliz.com",
+    "categories": "AI Developer Tools, AI Search Engine, AI Knowledge Base, Large Language Models (LLMs), AI For Data Analytics",
+    "slug": "zilliz",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "FutureDesk",
     "name": "FureDesk.io",
     "description": "FutureDesk is a chat platform that enables users to interact with AI chatbots and create customized AI characters.",
@@ -12030,6 +12102,15 @@
     "categories": "AI Art Generator, AI Content Generator, AI Creative Writing, AI Story Writing, Writing Assistants, AI Script Writing",
     "slug": "keyboard-404",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PriceIntelGuru",
+    "name": "PriceIntelGuru",
+    "description": "AI-powered platform for price intelligence and product matching.",
+    "website": "https://www.priceintelguru.com",
+    "categories": "AI Marketing, AI For Data Analytics, AI Sales, AI API, AI Digital Marketing",
+    "slug": "priceintelguru",
+    "created_at": "14:12:23 06/27/2025"
   },
   {
     "title": "Scoop Analytics",
@@ -12428,6 +12509,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Augment 1x",
+    "name": "Augment 1x",
+    "description": "Invisible AI companion for assessments, interviews, social moments, self-improvement, and deep work.",
+    "website": "https://www.augmentme.tech",
+    "categories": "AI Interview Assistant, AI Assistant, AI Bypasser, Undetectable AI, AI Copilot",
+    "slug": "augment-1x",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "Respaced.com",
     "name": "Respaced.com",
     "description": "AI-driven UI design tool for product teams.",
@@ -12795,6 +12885,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Sound Effect Generator, AI API",
     "slug": "dreamasmr",
     "created_at": "14:11:59 06/19/2025"
+  },
+  {
+    "title": "Arena",
+    "name": "Arena",
+    "description": "AI-powered platform to build, engage, and monetize online communities.",
+    "website": "https://arena.im",
+    "categories": "AI Agent, AI Chatbot, AI Lead Generation, AI Customer Service",
+    "slug": "arena",
+    "created_at": "14:12:23 06/27/2025"
   },
   {
     "title": "NoteTakers IO",
@@ -13254,6 +13353,15 @@
     "categories": "AI Analytics Assistant, AI Reviews Assistant, AI Productivity Tools, AI Team Collaboration, AI Workflow Management, AI Project Management, Report Writing, AI Code Assistant, AI Code Generator, AI Code Refactoring, AI Monitor & Report Builder, AI Developer Tools",
     "slug": "mendel-lab",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "Autohive",
+    "name": "Autohive",
+    "description": "Platform to build and run AI agents for task automation.",
+    "website": "https://autohive.com",
+    "categories": "AI Agent, AI Productivity Tools, AI Assistant, AI Workflow, No-Code&Low-Code, AI Marketing, AI Customer Service",
+    "slug": "autohive",
+    "created_at": "14:12:23 06/27/2025"
   },
   {
     "title": "Vsub",
@@ -16045,6 +16153,15 @@
     "created_at": "14:10:54 06/22/2025"
   },
   {
+    "title": "InterviewBee",
+    "name": "InterviewBee AI",
+    "description": "AI assistant for live interviews and mock practice.",
+    "website": "https://interviewbee.ai",
+    "categories": "AI Interview Assistant, AI Assistant, AI Coaching",
+    "slug": "interviewbee-ai",
+    "created_at": "14:12:23 06/27/2025"
+  },
+  {
     "title": "Practici",
     "name": "Practici",
     "description": "Transform PDFs into interactive test questions with AI. Efficient studying, seamless practice, better retention.",
@@ -16286,6 +16403,15 @@
     "categories": "AI Content Generator, Writing Assistants",
     "slug": "saystory",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Draft.co",
+    "name": "Draft.co",
+    "description": "On-demand content writing service with vetted human writers and AI tools.",
+    "website": "https://draft.co",
+    "categories": "AI Writing, AI Writing Assistants, AI Copywriting, AI Blog Generator, AI Outline Generator, AI Content Detector, AI Social Media Post Generator, AI Email Writer",
+    "slug": "draft-co",
+    "created_at": "14:12:23 06/27/2025"
   },
   {
     "title": "CareerComposeAI",
