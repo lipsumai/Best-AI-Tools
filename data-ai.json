@@ -2070,6 +2070,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Brat Generator",
+    "name": "Brat Generator",
+    "description": "Free online tool to create Charli XCX \"Brat\" style album covers.",
+    "website": "https://bratgenerator.cc",
+    "categories": "AI Album Cover Generator, AI Image Generator",
+    "slug": "brat-generator",
+    "created_at": "14:10:40 06/28/2025"
+  },
+  {
     "title": "ParseMania.com",
     "name": "ParseMania.com",
     "description": "AI tool for automated document data extraction and processing.",
@@ -4957,6 +4966,15 @@
     "categories": "Translate, Papers, Captions or Subtitle, Summarizer",
     "slug": "translatebase-web-page-pdf-and-subtitle-tranlation-chat-with-pdf",
     "created_at": "14:09:58 05/04/2025"
+  },
+  {
+    "title": "AI Image to Image Generator",
+    "name": "AI Image to Image Generator",
+    "description": "AI tool to transform, edit, and enhance photos using text prompts.",
+    "website": "https://imgtoimggenerator.com",
+    "categories": "Image to Image, AI Image Generator, AI Photo Editor, AI Background Remover, Object Remover AI, AI Photo Restoration, AI Colorize, AI Style Transfer",
+    "slug": "ai-image-to-image-generator",
+    "created_at": "14:10:40 06/28/2025"
   },
   {
     "title": "ProMatch",
