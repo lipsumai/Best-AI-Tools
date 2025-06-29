@@ -1152,6 +1152,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TradingLens",
+    "name": "TradingLens",
+    "description": "AI trading bot and stock analysis platform for investors.",
+    "website": "https://www.tradinglens.ai",
+    "categories": "AI Trading Bot, AI Stock Trading, AI Investing, AI For Finance, AI Predictions",
+    "slug": "tradinglens",
+    "created_at": "14:10:34 06/29/2025"
+  },
+  {
     "title": "11Cast",
     "name": "11Cast",
     "description": "Create studio-quality podcasts with AI and realistic voice-over.",
@@ -1960,6 +1969,15 @@
     "categories": "AI Jobs, AI Resume Builder, AI Cover Letter Generator, AI Interview Assistant, AI Agent",
     "slug": "placed",
     "created_at": "14:12:59 06/09/2025"
+  },
+  {
+    "title": "Vozart AI Music & Lyrics Generator",
+    "name": "Vozart AI Music",
+    "description": "AI-powered platform for music and lyrics generation.",
+    "website": "https://vozart.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Vocal Remover, AI Sound Effect Generator, AI Music Video Generator, AI Stems Splitter",
+    "slug": "vozart-ai-music",
+    "created_at": "14:10:34 06/29/2025"
   },
   {
     "title": "UsageGuard",
@@ -15182,6 +15200,15 @@
     "created_at": "02:24:57 04/23/2025"
   },
   {
+    "title": "Veozon AI Video Generator",
+    "name": "Veozon AI Video Generator",
+    "description": "AI video generator for cinematic text-to-video and image-to-video with audio.",
+    "website": "https://veozon.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "veozon-ai-video-generator",
+    "created_at": "14:10:34 06/29/2025"
+  },
+  {
     "title": "Agent One",
     "name": "Agent One",
     "description": "No-code platform to build and host custom AI chatbots and agents.",
@@ -15989,6 +16016,15 @@
     "categories": "AI Education Assistant",
     "slug": "mathsolverai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "reeyee",
+    "name": "reeyee",
+    "description": "No-code AI-powered platform to build professional dashboard websites.",
+    "website": "https://reeyee.ai",
+    "categories": "AI Website Builder, No-Code&Low-Code, AI Landing Page Builder, AI Charting, AI Design Assistant, AI Image Generator",
+    "slug": "reeyee",
+    "created_at": "14:10:34 06/29/2025"
   },
   {
     "title": "AskSteve",
