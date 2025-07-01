@@ -369,6 +369,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "RightHair",
+    "name": "RightHair",
+    "description": "Free AI hairstyle changer to virtually try on haircuts and colors.",
+    "website": "https://righthair.ai",
+    "categories": "AI Hairstyle, AI Hair Color Changer, Fashion AI, AI Photo Editor",
+    "slug": "righthair",
+    "created_at": "14:12:15 07/01/2025"
+  },
+  {
     "title": "Deep Infra",
     "name": "Deep Infra",
     "description": "Scalable platform for deploying machine learning models and APIs.",
@@ -8468,6 +8477,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Toolify.ai Social Listening",
+    "name": "Toolify.ai Social Listening",
+    "description": "Launching on Product Hunt Today! Go vote for us 🚀",
+    "website": "https://www.producthunt.com/products/toolify-ai/launches/toolify-ai-social-listening",
+    "categories": "Other",
+    "slug": "toolify-ai-social-listening",
+    "created_at": "14:12:15 07/01/2025"
+  },
+  {
     "title": "Stackie.AI (Notes, Tracker, Memo & More)",
     "name": "Stackie.AI (Notes, Tracker, Memo & More)",
     "description": "💯Best logger + generator app with auto-organizing & auto-completion! Stackie proactively logs & thinks for you with unlimited templates and generative AI - turning ramblings into organized, finished tasks",
@@ -9384,6 +9402,15 @@
     "categories": "Resume Builder, AI Productivity Tools",
     "slug": "airesumebuilder-me-create-professional-resumes-free-online",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VoiSpark",
+    "name": "VoiSpark",
+    "description": "AI voice generator for text-to-speech, cloning, and custom voices.",
+    "website": "https://voispark.com",
+    "categories": "AI Voice Generator, AI Text-to-Speech, AI Voice Cloning, AI Voice Changer, AI Speech Synthesis, AI Voice Over",
+    "slug": "voispark",
+    "created_at": "14:12:15 07/01/2025"
   },
   {
     "title": "GPT-Shirt",
@@ -14066,6 +14093,15 @@
     "created_at": "02:21:40 04/03/2025"
   },
   {
+    "title": "VO3 AI",
+    "name": "VO3 AI",
+    "description": "AI video generator for cinematic videos from text/images with audio.",
+    "website": "https://www.vo3ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Lip Sync Generator",
+    "slug": "vo3-ai",
+    "created_at": "14:12:15 07/01/2025"
+  },
+  {
     "title": "SaneBox",
     "name": "SaneBox iOS App",
     "description": "Efficiently manage your email inbox on mobile.",
@@ -16412,6 +16448,15 @@
     "categories": "AI Trip Planner, Life Assistant, Game, Report Writing, AI Charting, AI Maps Generator, AI Code Assistant, AI Monitor & Report Builder, Writing Assistants, AI Content Generator, Code Explanation, AI Code Generator, AI Code Refactoring",
     "slug": "aipy",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "AI Face Swap",
+    "name": "AI Face Swap -",
+    "description": "AI Face Swap is a smart tool that uses artificial intelligence. It can easily switch faces in photos, GIFs, and videos. In just seconds, it creates realistic changes with perfect facial expressions and details.",
+    "website": "https://aifaceswap.app",
+    "categories": "AI Face Swap Generator, AI Image Generator, AI Photo Editor, AI Yearbook, Gender Swap AI, Image to Image, AI Face Swap Video, AI GIF Generator, AI UGC Video Generator",
+    "slug": "ai-face-swap-1",
+    "created_at": "14:12:15 07/01/2025"
   },
   {
     "title": "a0.dev",
