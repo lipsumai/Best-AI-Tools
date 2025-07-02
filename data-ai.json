@@ -747,6 +747,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Free AI PDF Reader",
+    "name": "Free AI PDF Reader",
+    "description": "Read smarter with Free AI PDF Reader! Summarize, analyze, translate, and chat with your PDFs — in seconds and in 80+ languages. Free to use, fast to learn.",
+    "website": "https://aipdfreader.net",
+    "categories": "AI PDF Summarizer",
+    "slug": "free-ai-pdf-reader",
+    "created_at": "02:43:59 07/02/2025"
+  },
+  {
     "title": "Buddies",
     "name": "Buddies",
     "description": "Create virtual AI friends on Buddies platform and engage in meaningful conversations for guidance.",
@@ -1042,6 +1051,15 @@
     "categories": "Summarizer, AI Podcast Assistant, Newsletter",
     "slug": "podmob",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SMART TOOLS",
+    "name": "SMART TOOLS",
+    "description": "Smart Tools",
+    "website": "https://smarttools.smartlifeskills.ai",
+    "categories": "AI Digital Marketing, AI Advertising, AI Email Marketing, AI Lead Generation, AI Marketing, AI Sales, AI Sales Assistant, SEO Writing AI",
+    "slug": "smart-tools",
+    "created_at": "02:43:59 07/02/2025"
   },
   {
     "title": "ChatBusiness.AI",
@@ -1978,6 +1996,15 @@
     "categories": "AI Email Assistant, AI Productivity Tools, Writing Assistants, AI Email Writer, AI Voice Assistants, AI Browsers Builder",
     "slug": "nayla",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "AI Text Summarizer",
+    "name": "AI Text Summarizer-",
+    "description": "Simplify content analysis with our AI Text Summarizer! It sums it up fast, pulls out the important stuff, answers your questions, and can switch to over 80 languages.",
+    "website": "https://aitextsummarizer.net",
+    "categories": "AI Summarizer",
+    "slug": "ai-text-summarizer-1",
+    "created_at": "02:43:59 07/02/2025"
   },
   {
     "title": "Placed App",
@@ -5436,6 +5463,15 @@
     "created_at": "14:11:31 05/08/2025"
   },
   {
+    "title": "Ask AI Questions Online",
+    "name": "Ask AI Questions Online",
+    "description": "Get clear answers to any question with our free AI-powered Q&A tool. No sign-ups, no limits — just smart, real-time help in over 80 languages.",
+    "website": "https://askaiquestions.net",
+    "categories": "AI Answer",
+    "slug": "ask-ai-questions-online",
+    "created_at": "02:43:59 07/02/2025"
+  },
+  {
     "title": "Gethookd",
     "name": "Gethookd",
     "description": "AI platform for optimizing ad creation and performance.",
@@ -6235,6 +6271,15 @@
     "categories": "AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Project Management, No-Code&Low-Code, AI Code Assistant, AI Code Generator",
     "slug": "dhiwise",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "Free AI Article Summarizer",
+    "name": "Free AI Article Summarizer",
+    "description": "Summarize articles, studies, and more in seconds. This free AI Article Summarizer supports 80+ languages, works on any content length, and even answers your questions.",
+    "website": "https://articlesummarizer.com",
+    "categories": "AI Summarizer",
+    "slug": "free-ai-article-summarizer",
+    "created_at": "02:43:59 07/02/2025"
   },
   {
     "title": "Glia",
@@ -8181,6 +8226,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "StayModernAI",
+    "name": "StayModernAI",
+    "description": "AI solutions and expert guidance for small and medium businesses.",
+    "website": "https://www.staymodern.ai",
+    "categories": "AI Consulting, AI Productivity Tools, AI Workflow",
+    "slug": "staymodernai",
+    "created_at": "02:43:59 07/02/2025"
+  },
+  {
     "title": "Dancing Dogs",
     "name": "Dancing Dogs app",
     "description": "AI app turns dog photos into 10-second dance videos.",
@@ -9062,6 +9116,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Devle",
+    "name": "Devle Ai",
+    "description": "AI platform to build apps and websites via chat.",
+    "website": "https://www.devle.ai",
+    "categories": "AI Website Builder, AI App Builder, AI Code Assistant, AI Code Generator, AI Developer Tools, AI Landing Page Builder",
+    "slug": "devle-ai",
+    "created_at": "02:43:59 07/02/2025"
+  },
+  {
     "title": "SEO Bot",
     "name": "SEO Bot",
     "description": "AI-driven SEO automation for busy founders.",
@@ -9260,6 +9323,15 @@
     "created_at": "14:12:59 06/09/2025"
   },
   {
+    "title": "SJinn",
+    "name": "SJinn",
+    "description": "AI Agent for image, video, audio, and 3D content creation.",
+    "website": "https://sjinn.ai",
+    "categories": "AI Agent, AI Video Generator, AI Image Generator, AI 3D Model Generator, AI Ad Generator, AI Photo Restoration, AI Background Remover, AI Podcast",
+    "slug": "sjinn",
+    "created_at": "02:43:59 07/02/2025"
+  },
+  {
     "title": "Lumi Tarot",
     "name": "Lumi Tarot",
     "description": "Lumi Tarot offers personalized tarot readings with interactive 3D experiences and AI insights.",
@@ -9312,6 +9384,15 @@
     "categories": "AI Diagram Generator, AI Charting",
     "slug": "flowcraft-ai-diagrams-whiteboard",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Book Summarizer",
+    "name": "AI Book Summarizer",
+    "description": "Cut through pages of text with our AI Book Summarizer! It breaks down books fast, highlights key points, answers your questions, and works in 80+ languages.",
+    "website": "https://aibooksummarizer.com",
+    "categories": "AI Summarizer",
+    "slug": "ai-book-summarizer",
+    "created_at": "02:43:59 07/02/2025"
   },
   {
     "title": "Tablextract",
@@ -15740,6 +15821,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Littlebird",
+    "name": "Littlebird",
+    "description": "Your always-on, context-aware AI assistant. Meet personalized AI that reads your mind, not just your prompts.",
+    "website": "https://littlebird.ai",
+    "categories": "AI Assistant, AI Copilot, AI Meeting Assistant, AI Monitor, AI Note Taker, AI Productivity Tools, AI Report Generator",
+    "slug": "littlebird",
+    "created_at": "02:43:59 07/02/2025"
+  },
+  {
     "title": "Desklib",
     "name": "Desklib",
     "description": "AI-powered toolkit for academic success and learning enhancement.",
@@ -18473,6 +18563,15 @@
     "categories": "AI Education Assistant, AI Content Generator, AI Course, Homework Helper, AI YouTube Assistant, AI Productivity Tools",
     "slug": "coguide",
     "created_at": "14:12:41 05/20/2025"
+  },
+  {
+    "title": "Social Intents",
+    "name": "Social Intents",
+    "description": "Meet the #1 AI-Powered Live Chat and Website Chatbot backed by your Team in Slack, Microsoft Teams, and Google Chat.",
+    "website": "https://www.socialintents.com",
+    "categories": "AI Chatbot, AI Customer Service, AI Lead Generation, AI Reply",
+    "slug": "social-intents",
+    "created_at": "02:43:59 07/02/2025"
   },
   {
     "title": "Agnaistic",
