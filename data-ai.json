@@ -1980,6 +1980,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "ASMR AI",
+    "name": "ASMR AI",
+    "description": "AI video generator for immersive ASMR content with binaural audio.",
+    "website": "https://asmrai.net",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "asmr-ai",
+    "created_at": "14:12:37 07/02/2025"
+  },
+  {
     "title": "Emblify",
     "name": "Emblify AI",
     "description": "Emblify offers AI-generated Google Doodles for all, using advanced AI technology.",
@@ -3931,6 +3940,15 @@
     "categories": "AI Meeting Assistant, AI Notes Assistant, AI Workflow Management, AI Task Management, AI Project Management",
     "slug": "parker-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Capalyze",
+    "name": "Capalyze",
+    "description": "AI data analytics agent for insights and business decisions.",
+    "website": "https://capalyze.ai",
+    "categories": "AI For Data Analytics, AI Agent, AI Web Scraping, AI Data Mining, AI Report Generator, AI Spreadsheet",
+    "slug": "capalyze",
+    "created_at": "14:12:37 07/02/2025"
   },
   {
     "title": "Basin MCP",
@@ -12914,6 +12932,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image-to-Video Maker",
+    "name": "Image-to-Video Maker",
+    "description": "AI video platform to create 4K videos from text, images, or clips.",
+    "website": "https://imagetovideomaker.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Enhancer, Video to Video",
+    "slug": "image-to-video-maker",
+    "created_at": "14:12:37 07/02/2025"
+  },
+  {
     "title": "BAGEL",
     "name": "Bagel",
     "description": "Open-source unified multimodal AI for understanding, generation, editing.",
@@ -13929,6 +13956,15 @@
     "categories": "AI Photography",
     "slug": "metoo-camera-iphone-app",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Shipable AI",
+    "name": "Shipable AI",
+    "description": "No-code platform to build, launch, and scale AI agents.",
+    "website": "https://www.shipable.ai",
+    "categories": "AI Agent, AI App Builder, No-Code&Low-Code, AI Chatbot",
+    "slug": "shipable-ai",
+    "created_at": "14:12:37 07/02/2025"
   },
   {
     "title": "VidMe AI",
