@@ -1269,6 +1269,15 @@
     "created_at": "14:11:12 04/24/2025"
   },
   {
+    "title": "CareerAI",
+    "name": "All-in-one job hunt AI app for iOS",
+    "description": "AI-powered mobile job search assistant for resumes, cover letters, interviews, and tracking.",
+    "website": "https://apps.apple.com/us/app/careerai-job-resume-tools/id6745417253",
+    "categories": "AI Jobs, AI Resume Builder, AI Cover Letter Generator, AI Interview Assistant, AI Assistant",
+    "slug": "all-in-one-job-hunt-ai-app-for-ios",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "Joyn Chat",
     "name": "Joyn Chat",
     "description": "AI-powered connection platform for networks.",
@@ -3105,6 +3114,15 @@
     "created_at": "02:40:55 06/05/2025"
   },
   {
+    "title": "Zookish",
+    "name": "zookish",
+    "description": "Embeddable conversational AI for websites to engage visitors and generate leads.",
+    "website": "https://zookish.com",
+    "categories": "AI Chatbot, AI Assistant, No-Code&Low-Code, AI Voice Assistants, AI Knowledge Base, AI Customer Service",
+    "slug": "zookish",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "writy.ai",
     "name": "writy.ai",
     "description": "writy.ai helps sales and marketing teams with content creation.",
@@ -3292,6 +3310,15 @@
     "categories": "AI Customer Service Assistant, AI Social Media Assistant, AI Chatbot, E-commerce Assistant, AI Email Writer",
     "slug": "richpanel",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "Dynamic Mockups",
+    "name": "Dynamic Mockups",
+    "description": "Auto-generate realistic product mockups at scale for e-commerce and Print-on-Demand.",
+    "website": "https://dynamicmockups.com",
+    "categories": "AI Mockup Generator, AI Background Generator, AI Product Photography, AI API",
+    "slug": "dynamic-mockups",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "Outlier AI",
@@ -4642,6 +4669,15 @@
     "categories": "AI PDF, AI Document Extraction, AI Spreadsheet, AI Accounting Assistant, Tax Assistant, AI Analytics Assistant",
     "slug": "capyparse",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "tidi.studio",
+    "name": "tidi.studio",
+    "description": "AI-native product design and development studio.",
+    "website": "https://tidi.studio",
+    "categories": "AI Consulting, AI UX Design, AI Agent",
+    "slug": "tidi-studio",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "DeepShare",
@@ -6219,6 +6255,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "RapidChart",
+    "name": "RapidChart.ai",
+    "description": "AI-powered tool for generating technical diagrams from text.",
+    "website": "https://www.rapidcharts.ai",
+    "categories": "AI Diagram Generator, AI Developer Tools, AI Charting",
+    "slug": "rapidchart-ai",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "Potpie",
     "name": "Potpie AI",
     "description": "Build custom AI agents for engineering tasks using your codebase.",
@@ -6462,6 +6507,15 @@
     "created_at": "14:12:41 05/20/2025"
   },
   {
+    "title": "Micro Saas Ideas",
+    "name": "Micro Saas Ideas",
+    "description": "Validated micro SaaS ideas based on real Fiverr demand data.",
+    "website": "https://micro-saas-ideas.com",
+    "categories": "AI Business Ideas Generator, AI Marketing Plan Generator, AI Digital Marketing",
+    "slug": "micro-saas-ideas",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "xActions.co",
     "name": "xActions - ChatGPT in a Better Way",
     "description": "xActions.co offers a browser extension enabling users to utilize ChatGPT, an AI chatbot, on any website.",
@@ -6685,6 +6739,15 @@
     "categories": "No-Code&Low-Code, AI Content Generator, Copywriting, AI Lead Generation, AI Landing Page Builder, AI Email Marketing, AI SEO Assistant, AI Advertising Assistant, AI Ad Creative Assistant, AI CRM Assistant, AI Team Collaboration, Marketing Plan Generator, AI Graphic Design, AI Analytics Assistant, AI Design Generator, AI Website Designer, AI Forms & Surveys, AI Ad Generator, Digital Marketing Generator, AI Email Assistant, Sales Assistant, Design Assistant, AI Email Generator",
     "slug": "leadpages",
     "created_at": "02:19:22 04/05/2025"
+  },
+  {
+    "title": "Biela.dev",
+    "name": "Biela.dev",
+    "description": "AI-powered no-code full-stack builder for websites and apps.",
+    "website": "https://biela.dev",
+    "categories": "AI App Builder, AI Website Builder, AI Code Generator, No-Code&Low-Code",
+    "slug": "biela-dev",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "Pylon",
@@ -8799,6 +8862,15 @@
     "categories": "AI Chatbot",
     "slug": "interactive-tutor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "X-doc AI",
+    "name": "X-doc AI",
+    "description": "X-doc.ai is an advanced AI translation platform offering technical, medical, academic, and regulatory translations in 100+ languages with high accuracy and speed.",
+    "website": "https://x-doc.ai",
+    "categories": "AI Translate",
+    "slug": "x-doc-ai",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "Skills Up",
@@ -12059,6 +12131,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Minicule",
+    "name": "Minicule",
+    "description": "AI-powered research web app for building scientific knowledge graphs.",
+    "website": "https://minicule.com",
+    "categories": "AI Knowledge Graph, AI Research Tool, AI Healthcare, AI For Data Analytics, Graph AI",
+    "slug": "minicule",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "Ditto AI",
     "name": "Ditto AI",
     "description": "Custom LoRA training for personalized AI image generation.",
@@ -12570,6 +12651,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot",
     "slug": "vpihub",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Codev",
+    "name": "co.dev",
+    "description": "AI-powered platform for building full-stack web apps from natural language.",
+    "website": "https://co.dev",
+    "categories": "AI App Builder, AI Code Generator, AI Website Builder, No-Code&Low-Code, AI Developer Tools",
+    "slug": "co-dev",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "Omakase Voice AI",
@@ -14003,6 +14093,15 @@
     "created_at": "14:12:41 05/14/2025"
   },
   {
+    "title": "DocsOrb",
+    "name": "DocsOrb",
+    "description": "AI-powered document management for families, students, and expats, organizing life's essential papers.",
+    "website": "https://docsorb.com",
+    "categories": "AI Knowledge Management, AI Assistant, AI Productivity Tools, AI Scanner",
+    "slug": "docsorb-organise-personal-documents",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "Motionscribe",
     "name": "Motionscribe",
     "description": "Motionscribe is a macOS app that creates promo videos synchronized with music.",
@@ -14145,6 +14244,15 @@
     "categories": "AI Photo Editor, AI Background Remover, AI Photo Enhancer, AI Background Generator, AI Watermark Remover, AI Image Upscaler, Object Remover AI, AI Expand Image",
     "slug": "pxbee",
     "created_at": "14:12:02 05/27/2025"
+  },
+  {
+    "title": "Periplus",
+    "name": "Periplus",
+    "description": "AI learning environment for personalized courses, documents, and flashcards.",
+    "website": "https://periplus.app",
+    "categories": "AI Course, AI Flashcard Maker, AI Quiz Generator, AI Knowledge Base, AI Documents Generator, Large Language Models (LLMs)",
+    "slug": "periplus",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "Style3D AI",
@@ -16477,6 +16585,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "FoodCoach - AI Food Scanner",
+    "name": "FoodCoach",
+    "description": "AI food scanner for dietary needs and instant insights.",
+    "website": "https://apps.apple.com/us/app/foodcoach-ai-food-scanner/id6746601642",
+    "categories": "AI Scanner, AI Fitness, AI Cooking Assistant",
+    "slug": "foodcoach",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "Synapse Tutor",
     "name": "SYNAPSE",
     "description": "Learn AI basics with interactive simulations.",
@@ -16970,6 +17087,15 @@
     "categories": "AI Content Detector, AI Detector, AI Plagiarism Checker",
     "slug": "zerogpt-detector",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Witfy",
+    "name": "Witfy",
+    "description": "AI-powered social media assistant for tailored content and visuals.",
+    "website": "https://witfy.social",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Scheduling, AI Image Generator",
+    "slug": "witfy",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "ExplainIt",
@@ -17881,6 +18007,15 @@
     "created_at": "14:12:58 06/17/2025"
   },
   {
+    "title": "ChopTask",
+    "name": "ChopTask",
+    "description": "Turns vague ideas into structured subtasks and AI prompts for coding.",
+    "website": "https://choptask.com",
+    "categories": "AI Task Management, AI Project Management, AI Prompt Generator, AI Developer Tools, AI Roadmap",
+    "slug": "choptask",
+    "created_at": "14:12:49 07/03/2025"
+  },
+  {
     "title": "Not Diamond",
     "name": "Not Diamond",
     "description": "AI model router for optimized performance and cost-efficiency.",
@@ -18086,6 +18221,15 @@
     "categories": "Healthcare",
     "slug": "vitaler-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI TransPDF",
+    "name": "AI TransPDF",
+    "description": "AI document translation tool preserving format across various file types.",
+    "website": "https://aitranspdf.com",
+    "categories": "AI Translate, AI PDF, AI Summarizer, AI PDF Summarizer, AI OCR",
+    "slug": "ai-transpdf",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "PushUp Pro",
@@ -18356,6 +18500,15 @@
     "categories": "AI Developer Tools, AI Code Assistant, AI Product Description Generator, AI API Design, AI Developer Docs, AI Tools Directory, AI Tutorial",
     "slug": "energeticai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AIBanner",
+    "name": "AI Banner Generator",
+    "description": "AI-powered platform for generating stunning, on-brand marketing banners instantly.",
+    "website": "https://www.aibanner.ai",
+    "categories": "AI Banner Generator, AI Ad Generator, AI Ad Creative, AI Marketing, AI Advertising, AI Design Generator, AI Copywriting",
+    "slug": "ai-banner-generator",
+    "created_at": "14:12:49 07/03/2025"
   },
   {
     "title": "AE Studio",
