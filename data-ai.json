@@ -5256,6 +5256,15 @@
     "created_at": "14:12:41 05/14/2025"
   },
   {
+    "title": "Solvea",
+    "name": "Solvea",
+    "description": "AI-powered virtual agent for automated customer support.",
+    "website": "https://solvea.voc.ai",
+    "categories": "AI Agent, AI Customer Service, AI Assistant, AI Chatbot, AI Sales Assistant, AI Response Generator, Large Language Models (LLMs)",
+    "slug": "solvea",
+    "created_at": "02:44:00 07/04/2025"
+  },
+  {
     "title": "AudioX",
     "name": "AudioX",
     "description": "Anything to Audio - Create Stunning Music and Sound Effects in Minutes",
@@ -9744,6 +9753,15 @@
     "categories": "Large Language Models (LLMs), AI Content Generator, AI Code Assistant, AI Developer Tools",
     "slug": "deepseek-ai-1",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Linkjob.ai",
+    "name": "Linkjob.ai",
+    "description": "Top AI Interview Assistant for Real-Time Responses and Mock Interview Practice |  Linkjob AI",
+    "website": "https://www.linkjob.ai",
+    "categories": "AI Interview Assistant",
+    "slug": "linkjob-ai",
+    "created_at": "02:44:00 07/04/2025"
   },
   {
     "title": "RecapioGPT",
@@ -15828,6 +15846,15 @@
     "categories": "AI Calendar, AI Scheduling, AI Assistant, AI Schedule Maker",
     "slug": "neocal",
     "created_at": "14:12:54 06/25/2025"
+  },
+  {
+    "title": "AI ASMR",
+    "name": "AI ASMR",
+    "description": "AI-powered tool for generating high-quality ASMR videos.",
+    "website": "https://aiasmr.so",
+    "categories": "AI Video Generator, AI Sound Effect Generator, Text to Video, Image to Video",
+    "slug": "ai-asmr",
+    "created_at": "02:44:00 07/04/2025"
   },
   {
     "title": "Resume Yay",
