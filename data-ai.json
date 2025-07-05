@@ -9665,6 +9665,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hints",
+    "name": "Hints",
+    "description": "Update your CRM just by sending voice & text messages",
+    "website": "https://hints.so",
+    "categories": "AI Sales Assistant, AI Sales",
+    "slug": "hints-crm-ai-assistant",
+    "created_at": "02:38:46 07/05/2025"
+  },
+  {
     "title": "Dyad",
     "name": "Dyad",
     "description": "Free, local, open-source AI app builder for no-code development.",
@@ -19139,6 +19148,15 @@
     "categories": "AI Chatbot, AI PDF, Large Language Models (LLMs)",
     "slug": "searchmydocs-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "15Minutes",
+    "name": "15Minutes",
+    "description": "Provides 15-minute book summaries, analysis, and audiobooks for over 10,000 titles.",
+    "website": "https://www.15minutes.ai",
+    "categories": "AI Book Summarizer, AI Summarizer, AI Writing",
+    "slug": "15minutes",
+    "created_at": "02:38:46 07/05/2025"
   },
   {
     "title": "fantaclaus",
