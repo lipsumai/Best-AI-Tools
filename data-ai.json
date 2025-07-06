@@ -432,6 +432,15 @@
     "created_at": "14:12:29 05/13/2025"
   },
   {
+    "title": "Lufe AI Translator",
+    "name": "Lufe AI Translator",
+    "description": "AI-powered bilingual translation extension for web, PDF, and images.",
+    "website": "https://www.lufe.ai",
+    "categories": "AI Translate, AI Image Translator, AI Language Learning, AI PDF",
+    "slug": "lufe-ai-translator",
+    "created_at": "14:10:45 07/06/2025"
+  },
+  {
     "title": "Lopus AI",
     "name": "Lopus AI",
     "description": "AI-driven lead discovery from social media posts.",
@@ -1474,6 +1483,15 @@
     "categories": "AI App Builder, AI Code Generator, No-Code&Low-Code, AI Agent",
     "slug": "macaly",
     "created_at": "14:12:10 05/23/2025"
+  },
+  {
+    "title": "SketchBubble AI Presentation Maker",
+    "name": "SketchBubble AI Presentation Maker",
+    "description": "SketchBubble AI slide maker transforms your ideas into fully-designed slide deck in minutes.",
+    "website": "https://www.sketchbubble.com",
+    "categories": "AI Presentation Generator",
+    "slug": "sketchbubble-ai-presentation-maker",
+    "created_at": "14:10:45 07/06/2025"
   },
   {
     "title": "Descript",
@@ -5679,6 +5697,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Unsloth AI",
+    "name": "Unsloth AI",
+    "description": "Open-source fine-tuning & reinforcement learning for LLMs. 🦥",
+    "website": "https://unsloth.ai",
+    "categories": "Open Source AI Models, AI Github, Large Language Models (LLMs), AI Tools Directory, AI Models, AI Research Tool, AI Research Papers, AI For Data Analytics, AI Productivity Tools, AI Assistant, AI Agent, AI Tutorial, AI Knowledge Base, AI Course, AI Workflow, AI Developer Tools, AI Chat Generator, AI Voice Cloning, AI Voice Changer, AI Text-to-Speech, AI Speech-to-Text, AI OCR, AI Image Segmentation, AI Image Scanning, AI Image Recognition, AI Describe Image, Text to Image, AI Style Transfer, Prompt Engineering, AI Dialogue Generator, AI Creative Writing, Other",
+    "slug": "unsloth-ai",
+    "created_at": "14:10:45 07/06/2025"
+  },
+  {
     "title": "InspNote",
     "name": "InspNote",
     "description": "AI tool for capturing and transforming ideas.",
@@ -7027,6 +7054,15 @@
     "categories": "Large Language Models (LLMs), Writing Assistants, AI Code Assistant, Code Explanation, AI Code Refactoring, AI Testing & QA",
     "slug": "firebase-studio",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Cosmetic Batch Code Checker",
+    "name": "Cosmetic Batch Code Checker",
+    "description": "Free cosmetic batch code checker and expiry date calculator.",
+    "website": "https://cosr.ai",
+    "categories": "AI Checker, AI Beauty",
+    "slug": "cosmetic-batch-code-checker",
+    "created_at": "14:10:45 07/06/2025"
   },
   {
     "title": "Winify AI",
@@ -8934,6 +8970,15 @@
     "categories": "Papers, Essay Writer, AI Rewriter, Paraphraser, AI Detector",
     "slug": "undetectable-wtf",
     "created_at": "02:39:22 05/05/2025"
+  },
+  {
+    "title": "Filtrix AI",
+    "name": "Filtrix AI",
+    "description": "AI image editor & generator for transforming photos into art with custom styles.",
+    "website": "https://www.filtrix.ai",
+    "categories": "AI Image Generator, AI Photo Editor, AI Style Transfer, AI Product Photography, AI Cartoon Generator, AI Landscape Generator, AI Vtuber",
+    "slug": "filtrix-ai",
+    "created_at": "14:10:45 07/06/2025"
   },
   {
     "title": "Avatar Creators",
@@ -14291,6 +14336,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Veo 3 video generator",
+    "name": "Veo 3 video generator",
+    "description": "AI video generator with realistic sound, dialogue, and ambient noise.",
+    "website": "https://3-veo.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Sound Effect Generator, Video to Video, AI Lip Sync Generator, AI Music Generator",
+    "slug": "veo-3-video-generator",
+    "created_at": "14:10:45 07/06/2025"
+  },
+  {
     "title": "HR Convo AI",
     "name": "HR Convo",
     "description": "AI platform for HR professionals",
@@ -18815,6 +18869,15 @@
     "categories": "AI Content Generator, AI Diagram Generator, AI Mind Mapping, AI Project Management, AI Charting",
     "slug": "edraw-software",
     "created_at": "02:22:49 04/11/2025"
+  },
+  {
+    "title": "Minddex.ai",
+    "name": "Minddex.ai",
+    "description": "Minddex is the first platform dedicated to GEO – Generative Engine Optimization.  As millions of users now rely on AI tools like ChatGPT, Gemini, and Perplexity to find information, Minddex helps brands measure and improve their visibility in AI-generated answers.",
+    "website": "https://minddex.ai",
+    "categories": "AI Digital Marketing, AI Advertising, AI Lead Generation, AI Marketing, AI For Data Analytics, AI Research Tool",
+    "slug": "minddex-ai",
+    "created_at": "14:10:45 07/06/2025"
   },
   {
     "title": "BestFaceSwap AI",
