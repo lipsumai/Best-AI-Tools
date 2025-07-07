@@ -4050,6 +4050,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Kuse",
+    "name": "Kuse",
+    "description": "Imagine if ChatGPT, Notion, and a whiteboard had a genius baby. Kuse turns messy inputs into structured deliverables, all on a canvas where your context is visual, editable, and reusable. Chaos in, genius out.",
+    "website": "https://kuse.ai",
+    "categories": "AI Productivity Tools",
+    "slug": "kuse",
+    "created_at": "14:13:23 07/07/2025"
+  },
+  {
     "title": "Brfly",
     "name": "Heenok (Brfly)",
     "description": "AI-powered URL shortener",
@@ -6163,6 +6172,15 @@
     "categories": "Other",
     "slug": "smurf-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Coloring-Pages.APP",
+    "name": "Coloring-Pages.APP",
+    "description": "ColoringPages.app is an AI coloring page generator that turns any photo or text prompt into clean, printable black-and-white line art in seconds. Perfect for teachers, parents, and kids. Supports multiple styles and formats (A4, US Letter), no login required.",
+    "website": "https://www.coloring-pages.app",
+    "categories": "AI Coloring Book Generator, AI Image Generator, AI Painting Generator, AI Pattern Generator, AI Sketch Generator",
+    "slug": "coloring-pages-app",
+    "created_at": "14:13:23 07/07/2025"
   },
   {
     "title": "Thepanel",
@@ -8538,6 +8556,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
     "slug": "seedance-ai-video-generator",
     "created_at": "14:12:50 06/24/2025"
+  },
+  {
+    "title": "Search Console Audit",
+    "name": "Search Console Audit",
+    "description": "Transforms GSC data into actionable SEO insights for more traffic.",
+    "website": "https://searchconsoleaudit.com",
+    "categories": "AI SEO Tools, AI Digital Marketing, AI For Data Analytics, AI Marketing",
+    "slug": "search-console-audit",
+    "created_at": "14:13:23 07/07/2025"
   },
   {
     "title": "Vue.ai",
@@ -11384,6 +11411,15 @@
     "created_at": "02:22:49 04/11/2025"
   },
   {
+    "title": "Gitcord",
+    "name": "Gitcord",
+    "description": "GitHub repo tracker with visuals, insights, and analytics for developers.",
+    "website": "https://gitcord.pro",
+    "categories": "AI Monitor, AI Github, AI Developer Tools, AI For Data Analytics, AI Productivity Tools",
+    "slug": "gitcord",
+    "created_at": "14:13:23 07/07/2025"
+  },
+  {
     "title": "RADiCAL",
     "name": "RADiCAL",
     "description": "AI motion capture and 3D visualization platform.",
@@ -11778,6 +11814,15 @@
     "categories": "AI Photo & Image Generator, AI Content Generator, Image to Image, AI Art Generator",
     "slug": "currentmood-app",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Resume builder for Recruiters",
+    "name": "AI Resume builder for Recruiters",
+    "description": "Reformat resumes into branded PDFs/Word docs in seconds. AI summaries, prompt-based edits, one-click redaction, custom headers/footers & unlimited templates give you full control—effortless, tailored resumes for every client.",
+    "website": "https://www.candidately.com",
+    "categories": "AI Recruiting",
+    "slug": "ai-resume-builder-for-recruiters",
+    "created_at": "14:13:23 07/07/2025"
   },
   {
     "title": "Chat Recap",
@@ -16538,6 +16583,15 @@
     "website": "https://play.google.com/store/apps/details",
     "slug": "veyld-anonymous-messages-with-photos",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ground",
+    "name": "Ground",
+    "description": "AI engine for consumer/DTC brands to drive autonomous revenue growth.",
+    "website": "https://joinground.com",
+    "categories": "AI Marketing, AI Sales, AI Sales Assistant, AI Shopify Store Builder",
+    "slug": "ground",
+    "created_at": "14:13:23 07/07/2025"
   },
   {
     "title": "GiveawayAI",
