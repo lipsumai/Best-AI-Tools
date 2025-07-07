@@ -2124,6 +2124,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI web page translator by pagesection.com",
+    "name": "AI web page translator by pagesection.com",
+    "description": "AI web page translator and HTML editor for content creation.",
+    "website": "https://www.pagesection.com",
+    "categories": "AI Translate, AI Writing Assistants, AI Website Designer",
+    "slug": "ai-web-page-translator-by-pagesection-com",
+    "created_at": "02:50:20 07/07/2025"
+  },
+  {
     "title": "Zeabur",
     "name": "Zeabur",
     "description": "A seamless deployment platform for developers of all languages.",
@@ -6037,6 +6046,15 @@
     "categories": "AI Rewriter, Paraphraser, Writing Assistants",
     "slug": "clearphrase",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Pixfy AI",
+    "name": "Pixfy AI",
+    "description": "Pixfy AI is your all-in-one suite of powerful AI image editing tools. Instantly enhance photo quality, upscale low-resolution images, perform creative face swaps, and much more. Turn your simple photos into professional-quality visuals in seconds, for free.",
+    "website": "https://pixfy.io",
+    "categories": "Image to Image, AI Expand Image, AI Image Enhancer, AI Image Generator, AI Image Upscaler, Text to Image",
+    "slug": "pixfy-ai",
+    "created_at": "02:50:20 07/07/2025"
   },
   {
     "title": "AgentForge",
@@ -11796,6 +11814,15 @@
     "categories": "AI Analytics Assistant, AI Team Collaboration, AI Charting, Report Writing, Writing Assistants, AI Content Generator, AI Monitor & Report Builder, AI Blog Writer, General Writing",
     "slug": "supaboard-ai",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Talents.Kids",
+    "name": "Talents.Kids",
+    "description": "AI-powered platform for child talent discovery and personalized development.",
+    "website": "https://www.talents.kids",
+    "categories": "AI Parenting, AI Assistant, AI Report Generator, AI Agent, AI Quizzes",
+    "slug": "talents-kids",
+    "created_at": "02:50:20 07/07/2025"
   },
   {
     "title": "Personadeck.io",
@@ -18734,6 +18761,15 @@
     "categories": "AI Document Extraction, AI Image Scanning, AI Image Recognition, Speech-to-Text, AI Speech Recognition, AI Education Assistant",
     "slug": "jpg-to-text",
     "created_at": "02:19:38 04/12/2025"
+  },
+  {
+    "title": "Paperpal",
+    "name": "Paperpal",
+    "description": "An AI writing tool for researchers to proofread, paraphrase, generate text, detect plagiarism & cite—all in one. Works on web, Google Docs & Word",
+    "website": "https://paperpal.com",
+    "categories": "AI Writing Assistants, AI Plagiarism Checker, AI Title Generator, AI Writing, Headlines AI, Prompt Engineering, AI Checker, AI Checker Essay, AI Article Summarizer, AI Text Generator, AI Assistant, AI PDF, AI PDF Summarizer, AI Productivity Tools, AI Papers, AI Research Papers, AI Thesis Generator, AI Summarizer, AI Caption Generator, AI Paragraph Generator, AI Copywriting, AI Creative Writing, AI Email Writer, AI Essay Writer, AI Grammar Checker, AI Outline Generator, AI Paraphraser, AI Subtitle Generator, AI Proofreading, AI Report Writing, AI Review Generator, AI Rewriter, AI Sentence Generator, AI Spell Check, AI Research Tool",
+    "slug": "paperpal",
+    "created_at": "02:50:20 07/07/2025"
   },
   {
     "title": "MyPortfolio",
