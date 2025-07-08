@@ -3096,6 +3096,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "PERSO.ai",
+    "name": "PERSO.ai",
+    "description": "All-in-one AI video platform for dubbing, creation, and live chat.",
+    "website": "https://perso.ai",
+    "categories": "AI Dubbing, AI Lip Sync Generator, AI Voice Cloning, AI Video Translator, AI Video Generator, AI Avatar Generator",
+    "slug": "perso-ai",
+    "created_at": "14:12:33 07/08/2025"
+  },
+  {
     "title": "The ChatGPT Chrome Extension - TeamSmart AI",
     "name": "TeamSmart",
     "description": "A Chrome extension that gives one-click access to AI assistants for various tasks.",
@@ -5029,6 +5038,15 @@
     "categories": "AI Email Assistant, AI Email Writer, AI Reply Assistant, AI Response Generator, Writing Assistants",
     "slug": "r-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PrompTessor",
+    "name": "PrompTessor",
+    "description": "AI prompt analysis and optimization tool for better AI outputs.",
+    "website": "https://promptessor.com",
+    "categories": "Prompt Engineering, AI Prompt Generator, AI Productivity Tools, AI Writing Assistants",
+    "slug": "promptessor",
+    "created_at": "14:12:33 07/08/2025"
   },
   {
     "title": "Skyhitz",
@@ -8862,6 +8880,15 @@
     "categories": "Other",
     "slug": "gemini-pro-vs-chat-gpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Userbird",
+    "name": "Userbird",
+    "description": "Userbird is AI powered Google Analytics alternative",
+    "website": "https://userbird.com",
+    "categories": "AI SEO Tools, AI Report Writing, AI Advertising, AI Marketing, AI Marketing Plan Generator, Google Ads AI",
+    "slug": "userbird",
+    "created_at": "14:12:33 07/08/2025"
   },
   {
     "title": "Raycast AI",
@@ -18428,6 +18455,15 @@
     "categories": "AI Character, Large Language Models (LLMs), AI Book Writing, Text-to-Speech, AI Speech Synthesis",
     "slug": "audiobook-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Skyworker.ai",
+    "name": "Skyworker",
+    "description": "AI-powered job platform connecting Ukrainian tech talent with companies.",
+    "website": "https://skyworker.ai",
+    "categories": "AI Jobs, AI Recruiting, AI Assistant",
+    "slug": "skyworker",
+    "created_at": "14:12:33 07/08/2025"
   },
   {
     "title": "OpenCreator",
