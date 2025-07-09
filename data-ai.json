@@ -5823,6 +5823,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Autocoder.cc",
+    "name": "Autocoder.cc",
+    "description": "The 1st full stack vibe coding tool",
+    "website": "https://www.autocoder.cc",
+    "categories": "AI Code Assistant",
+    "slug": "autocoder-cc",
+    "created_at": "02:47:12 07/09/2025"
+  },
+  {
     "title": "Matter AI",
     "name": "Matter AI",
     "description": "Open-source tool for AI-driven code reviews.",
