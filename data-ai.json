@@ -621,6 +621,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Breni",
+    "name": "Breni",
+    "description": "AI-powered platform for personalized courses, adapting to user interests and goals.",
+    "website": "https://breni.xyz",
+    "categories": "AI Course, AI Assistant, AI Lesson Plan Generator, AI Quizzes, AI Language Learning",
+    "slug": "breni",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "Scrapybara",
     "name": "Scrapybara",
     "description": "Remote desktops for AI agents with unified API access.",
@@ -1296,6 +1305,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Gazel AI",
+    "name": "Gazel",
+    "description": "AI tool for instant marketing page analysis and conversion improvement.",
+    "website": "https://gazel.ai",
+    "categories": "AI Marketing, AI Digital Marketing, AI Consulting, AI Report Generator",
+    "slug": "gazel",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "image2poemclip",
     "name": "image2poemclip",
     "description": "Transforms photos into video clips with poems and music.",
@@ -1726,6 +1744,15 @@
     "categories": "AI Productivity Tools, AI Team Collaboration, AI Workflow Management, AI Project Management, No-Code&Low-Code, AI App Builder",
     "slug": "rok-solution",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "TAIX",
+    "name": "TAIX",
+    "description": "AI-powered platform for gaming and streaming content distribution and engagement.",
+    "website": "https://taix.ai",
+    "categories": "AI Games, AI Agent, Blockchain, AI Crypto, AI Developer Tools",
+    "slug": "taix",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "Voyage AI - ChatGPT powered AI Travel Planner",
@@ -2230,6 +2257,15 @@
     "categories": "AI Interview Assistant, AI Meeting Assistant, AI Recruiting",
     "slug": "meetingassistant-co",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Voice Assistant",
+    "name": "Voicebun",
+    "description": "Build no-code AI voice agents for automation and support.",
+    "website": "https://www.voicebun.com",
+    "categories": "AI Voice Assistants, AI Agent, AI Customer Service, AI Chatbot",
+    "slug": "voicebun",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "NerdyTips",
@@ -2932,6 +2968,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "google-gemini-pro-chat-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tile",
+    "name": "Tile",
+    "description": "AI-powered mobile app builder for iOS/Android without code.",
+    "website": "https://www.tile.dev",
+    "categories": "AI App Builder, AI Agent, No-Code&Low-Code, AI Developer Tools",
+    "slug": "tile",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "EaseUS Software",
@@ -6075,6 +6120,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ailight",
+    "name": "ailight",
+    "description": "AI command bar to transform screen content with custom actions.",
+    "website": "https://ailight.app",
+    "categories": "AI Assistant, AI Productivity Tools, AI Copilot, AI Writing Assistants, AI Summarizer, AI Code Assistant, AI Translate",
+    "slug": "ailight",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "ClearPhrase",
     "name": "Clearphrase",
     "description": "ClearPhrase helps users control the tone of their writing with a user-friendly interface and handy tools.",
@@ -6217,6 +6271,15 @@
     "categories": "AI Analytics Assistant, AI Website Builder, AI Website Designer",
     "slug": "thepanel",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lyra - Essay Coach",
+    "name": "Lyra - Essay Coach",
+    "description": "Your AI Co-Pilot for Top MBA Admissions.",
+    "website": "https://uselyra.ai",
+    "categories": "AI Essay Writer",
+    "slug": "lyra-essay-coach",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "Hailo",
@@ -8226,6 +8289,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dubnote",
+    "name": "Dubnote",
+    "description": "Recording app for musicians to organize, transcribe, and process musical ideas.",
+    "website": "https://apps.apple.com/us/app/dubnote-record-music-ideas/id6445849526",
+    "categories": "AI Recording, AI Note Taker, AI Transcription, AI Audio Splitter, AI Speech-to-Text",
+    "slug": "dubnote-capture-organise-music-ideas",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "Bitbucket",
     "name": "Bitbucket",
     "description": "Git solution for teams using Jira to enhance collaboration.",
@@ -8395,6 +8467,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, AI Knowledge Management",
     "slug": "modai",
     "created_at": "14:11:12 04/24/2025"
+  },
+  {
+    "title": "stagewise",
+    "name": "stagewise",
+    "description": "Integrates AI dev agents for visual UI editing with prompts.",
+    "website": "https://stagewise.io",
+    "categories": "AI Agent, AI Developer Tools, AI Code Assistant, AI Design Assistant",
+    "slug": "stagewise",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "Gimme Summary AI",
@@ -9177,6 +9258,15 @@
     "categories": "AI Character, Game, AI Art Generator, AI Story Writing, AI Creative Writing, AI Content Generator, Text to Image, AI Book Writing, Writing Assistants, Novel",
     "slug": "worldsmith-emporium",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "mediaai",
+    "name": "mediaai",
+    "description": "AI platform transforming photos into art and videos.",
+    "website": "https://www.mediaai.art",
+    "categories": "AI Art Generator, AI Image Generator, AI Video Generator, Image to Image, Text to Image, AI Style Transfer, AI Photo Enhancer, AI Photo Restoration, AI Face Swap Generator",
+    "slug": "mediaai",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "Recipeasy",
@@ -10655,6 +10745,15 @@
     "created_at": "14:11:46 05/02/2025"
   },
   {
+    "title": "Thumbspot",
+    "name": "Thumbspot",
+    "description": "AI YouTube thumbnail generator for viral thumbnails and increased CTR.",
+    "website": "https://thumbspot.io",
+    "categories": "AI Youtube Thumbnail Generator, AI Thumbnail Maker, AI Social Media",
+    "slug": "thumbspot",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "BafCloud",
     "name": "BafCloud",
     "description": "Simplify AI development with BafCloud",
@@ -10851,6 +10950,15 @@
     "categories": "AI Analytics Assistant, AI Knowledge Management, AI Productivity Tools, AI Book Writing, Summarizer, Quotes Generator, Writing Assistants, AI Content Generator",
     "slug": "unearthed",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "Mando AI",
+    "name": "Mando AI",
+    "description": "AI-powered platform for SME customer support and AI agent creation.",
+    "website": "https://mando.cx",
+    "categories": "AI Customer Service, AI Agent, AI Chatbot, AI Assistant, AI Knowledge Base",
+    "slug": "mando-ai",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "FlashDocs",
@@ -15218,6 +15326,15 @@
     "created_at": "14:12:38 05/30/2025"
   },
   {
+    "title": "Smackdab",
+    "name": "Smackdab Inc",
+    "description": "AI-powered all-in-one platform for streamlining tasks, managing relationships, and growing businesses.",
+    "website": "https://smackdab.ai",
+    "categories": "AI CRM, AI Email Marketing, AI Productivity Tools, AI Assistant, AI Scheduling",
+    "slug": "smackdab-inc",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "Pegleg.ai",
     "name": "pegleg.ai",
     "description": "Automated web scraping for copyright enforcement.",
@@ -15477,6 +15594,24 @@
     "categories": "AI YouTube Assistant, AI Document Extraction, Research Tool, Captions or Subtitle, Transcription, Transcriber",
     "slug": "youtube-transcript-generator",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "Reaidy.io",
+    "name": "Reaidy.io",
+    "description": "AI-powered job search assistant for faster, more effective hiring.",
+    "website": "https://www.reaidy.io",
+    "categories": "AI Jobs, AI Interview Assistant, AI Recruiting, AI Resume Builder, AI Resume Checker",
+    "slug": "reaidy-io",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
+    "title": "Musicful",
+    "name": "Musicful",
+    "description": "Leaders in Free Royalty Music AI, crafting innovative generative songs that are copyright-free.",
+    "website": "https://www.musicful.ai",
+    "categories": "AI Music Generator, AI Beat Generator, AI Instrumental Generator, AI Lyrics Generator, AI Melody Generator, AI Rap Generator, AI Rap Lyrics Generator, AI Singing Generator, AI Song Cover, AI Song Generator, AI Text-to-Music",
+    "slug": "musicful",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "Polymer",
@@ -17323,6 +17458,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Status AI",
+    "name": "Status AI",
+    "description": "Fanfiction roleplay game app to live dream storylines as any character.",
+    "website": "https://www.statusai.com",
+    "categories": "AI Games, AI Roleplay, AI Character, AI Story Generator, AI Fanfic Generator",
+    "slug": "status-ai",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "adversea",
     "name": "adversea.com",
     "description": "Identify and assess potential risks from cooperation.",
@@ -17501,6 +17645,15 @@
     "categories": "Other",
     "slug": "lite-queen",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "1703 Media",
+    "name": "1703.co",
+    "description": "AI video creation platform for YouTube, transforming ideas into professional videos.",
+    "website": "https://1703.co",
+    "categories": "AI Youtube Video Maker, AI Video Generator, Script To Video AI Generator, AI Video Editor, AI Voice Generator",
+    "slug": "1703-co",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "dende",
@@ -17935,6 +18088,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dawiso",
+    "name": "Dawiso",
+    "description": "Unified data governance platform with AI-powered cataloging and documentation to enable efficient and trusted data use.",
+    "website": "https://www.dawiso.com",
+    "categories": "AI Knowledge Management, AI Contract Management, AI For Finance, AI Knowledge Base, AI Knowledge Graph, AI Copilot, AI Task Management, AI Data Mining, AI For Data Analytics",
+    "slug": "dawiso",
+    "created_at": "14:12:48 07/09/2025"
+  },
+  {
     "title": "Sticker Maker",
     "name": "StickerMaker",
     "description": "Easy custom sticker creation from text",
@@ -18005,6 +18167,15 @@
     "categories": "AI Reply Assistant, AI Product Description Generator, AI Social Media Assistant, AI Response Generator",
     "slug": "product-reply",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Topfreeprompts.com",
+    "name": "TopFreePrompts by LucyBrain",
+    "description": "Free AI prompt library for ChatGPT, Midjourney, Claude & Gemini.",
+    "website": "https://www.topfreeprompts.com",
+    "categories": "AI Prompt Generator, Prompt Engineering, AI Tools Directory, AI Productivity Tools",
+    "slug": "topfreeprompts-by-lucybrain",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "Scheduloid",
@@ -19139,6 +19310,15 @@
     "categories": "AI Design Generator, AI UX Design, AI Code Generator, AI App Builder, AI Website Builder",
     "slug": "stitch",
     "created_at": "14:12:10 05/23/2025"
+  },
+  {
+    "title": "Blogwald",
+    "name": "Blogwald",
+    "description": "Publishes AI-optimized content for LLMs and search engines.",
+    "website": "https://blogwald.com",
+    "categories": "AI Blog Generator, SEO Writing AI, AI SEO Tools, AI Writing",
+    "slug": "blogwald",
+    "created_at": "14:12:48 07/09/2025"
   },
   {
     "title": "Innervu",
