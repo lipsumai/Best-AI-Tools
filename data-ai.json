@@ -261,6 +261,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Face Swap",
+    "name": "AI Face Swap by DRESSXME.com",
+    "description": "AI-Powered Face Swapper with Ultra-Realistic Results. Bring your vision to life with the DRESSX AI face swap tool. Whether you're looking to replace a face in a photo online for free, try out a new look, or just have fun, our tool makes it easy. Simply upload your image and let our seamless face changer do the rest. The result is fast, realistic, and effortless.",
+    "website": "https://dressxme.com",
+    "categories": "AI Face Swap Generator, AI Crop Image, AI Expand Image, AI Image Combiner, AI Image Enhancer, AI Image Generator, AI Image Sharpening, AI Image Upscaler, AI Realistic Image Generator",
+    "slug": "ai-face-swap-by-dressxme-com",
+    "created_at": "02:47:04 07/10/2025"
+  },
+  {
     "title": "Emozi AI",
     "name": "Emozi AI",
     "description": "Emozi AI is the ultimate AI video creation tool that can easily transform your photos, text and videos into amazing content. Whether you want to animate a static image, expand a video, or transform text into a brand new video, Emozi AI can do it instantly. No editing skills are required, just use your creativity!",
@@ -2050,6 +2059,15 @@
     "categories": "AI Ad Generator, AI Banner Generator, AI Logo Generator, AI Profile Picture Generator, AI Selfie & Portrait, AI Advertising Assistant",
     "slug": "emblify-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Linked API",
+    "name": "Linked API",
+    "description": "Secure LinkedIn API for various use cases.",
+    "website": "https://linkedapi.io",
+    "categories": "AI Lead Generation, AI Digital Marketing, AI Email Marketing, AI Marketing, AI Sales, AI Sales Assistant, AI Data Mining",
+    "slug": "linked-api",
+    "created_at": "02:47:04 07/10/2025"
   },
   {
     "title": "Nayla",
@@ -4230,6 +4248,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Token Radar",
+    "name": "Token Radar",
+    "description": "Crypto analytics platform for finding top tokens and market trends.",
+    "website": "https://tokenradar.ai",
+    "categories": "AI Crypto, AI News, AI Summarizer, AI Social Media, AI Investing",
+    "slug": "token-radar",
+    "created_at": "02:47:04 07/10/2025"
+  },
+  {
     "title": "Nutix AI",
     "name": "Nutix AI",
     "description": "No-code platform to automate workflows using AI agents.",
@@ -5173,6 +5200,15 @@
     "categories": "AI YouTube Assistant, Transcription, Transcriber, AI Image Scanning",
     "slug": "klangio",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "Dotlane",
+    "name": "Dotlane",
+    "description": "All-in-one AI assistant for professionals, accessing multiple AI models.",
+    "website": "https://dotlane.ai",
+    "categories": "AI Assistant, AI Models, AI Chatbot, AI Image Generator, AI Search Engine, AI PDF",
+    "slug": "dotlane",
+    "created_at": "02:47:04 07/10/2025"
   },
   {
     "title": "VidMage AI",
@@ -6181,6 +6217,15 @@
     "categories": "AI Content Generator, Cover Letter Generator, Resume Builder, AI Advertising Assistant, AI Cover Generator, AI Email Writer, AI Email Generator, AI Interview Assistant, AI Recruiting",
     "slug": "rezumeify",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Cezanne HR",
+    "name": "Cezanne HR",
+    "description": "AI-driven HRIS to streamline workflows and enhance employee experience.",
+    "website": "https://cezannehr.com",
+    "categories": "AI Assistant, AI Documents Generator, AI Writing Assistants, AI Knowledge Base, AI Productivity Tools, AI Recruiting",
+    "slug": "cezanne-hr",
+    "created_at": "02:47:04 07/10/2025"
   },
   {
     "title": "CrePal AI",
@@ -13328,6 +13373,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Runcell - Jupyter AI Agent",
+    "name": "Runcell - Jupyter AI Agent",
+    "description": "Best code agent for Jupyter users, alternative to cursor in jupyter. Automate understand data and code in notebook, planning next moves and code for you.",
+    "website": "https://www.runcell.dev",
+    "categories": "AI Code Assistant, AI Code Generator, AI Math, AI Agent, AI Assistant, AI Copilot, AI Data Mining, AI For Data Analytics",
+    "slug": "runcell-jupyter-ai-agent",
+    "created_at": "02:47:04 07/10/2025"
+  },
+  {
     "title": "Text2Meme",
     "name": "Text2Meme.io",
     "description": "AI meme generator that turns text into viral memes quickly.",
@@ -18392,6 +18446,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Voice Over",
     "slug": "v03ai",
     "created_at": "02:43:56 06/24/2025"
+  },
+  {
+    "title": "Perplexity Comet",
+    "name": "Perplexity Comet",
+    "description": "An AI-powered browser for enhanced curiosity and productivity.",
+    "website": "https://comet.perplexity.ai",
+    "categories": "AI Browsers, AI Assistant, AI Search Engine, AI Summarizer, AI Copilot, AI Productivity Tools",
+    "slug": "perplexity-comet",
+    "created_at": "02:47:04 07/10/2025"
   },
   {
     "title": "Studydrive",
