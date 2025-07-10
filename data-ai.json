@@ -5562,6 +5562,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Grok 4 - Next-Generation AI Model by xAI",
+    "name": "Grok 4 - Next-Generation AI Model by xAI",
+    "description": "Next-gen AI model by xAI with advanced reasoning, multimodal, and coding features.",
+    "website": "https://grok-4-ai.com",
+    "categories": "AI Models, Large Language Models (LLMs), AI Code Assistant, AI Developer Tools, AI Assistant",
+    "slug": "grok-4-next-generation-ai-model-by-xai",
+    "created_at": "14:13:25 07/10/2025"
+  },
+  {
     "title": "Vita",
     "name": "Vita",
     "description": "Make healthier choices with Vita's detailed food scanning and nutritional breakdowns.",
@@ -14534,6 +14543,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "OpenDream AI",
+    "name": "OpenDream AI",
+    "description": "AI art generator transforming text into stunning images quickly and accessibly.",
+    "website": "https://opendream.art",
+    "categories": "AI Art Generator, AI Image Generator, Text to Image, AI API, AI Logo Generator",
+    "slug": "opendream-ai",
+    "created_at": "14:13:25 07/10/2025"
+  },
+  {
     "title": "Google AI Studio",
     "name": "Google AI Studio",
     "description": "Platform for building with Google's Gemini AI models.",
@@ -14973,6 +14991,15 @@
     "categories": "AI Chatbot, AI Knowledge Base, AI Productivity Tools, AI Team Collaboration, AI Document Extraction, Large Language Models (LLMs)",
     "slug": "helpedby-ai",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Fotol AI",
+    "name": "Fotol AI",
+    "description": "All-in-one AI image & video processing and editing platform.",
+    "website": "https://fotol.ai",
+    "categories": "AI Photo Editor, AI Image Generator, AI Video Editor, AI Video Generator, AI Background Remover, AI Image Enhancer, Object Remover AI, AI Inpainting, AI Expand Image, AI Image Upscaler, AI Photo Restoration, AI Photo Filter",
+    "slug": "fotol-ai",
+    "created_at": "14:13:25 07/10/2025"
   },
   {
     "title": "Ithy",
