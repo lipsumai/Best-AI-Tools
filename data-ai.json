@@ -558,6 +558,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Rorrim - Smart AI Journal",
+    "name": "Rorrim",
+    "description": "AI journal converting voice notes into insights, tracking mood, relationships, and patterns.",
+    "website": "https://apps.apple.com/us/app/rorrim-smart-ai-journal/id6746431537",
+    "categories": "AI Mental Health, AI Assistant, AI Chatbot, AI Writing Assistants, AI Speech Recognition",
+    "slug": "rorrim",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "GoZen",
     "name": "GoZen",
     "description": "AI-powered suite for marketing, sales, and customer support.",
@@ -1566,6 +1575,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "StatStream.ai",
+    "name": "StatStream.ai",
+    "description": "AI-powered maintenance and asset management for industries.",
+    "website": "https://www.statstream.ai",
+    "categories": "AI Productivity Tools, AI Assistant, AI Workflow",
+    "slug": "statstream-ai",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "TopAiContent",
     "name": "TopAiChat",
     "description": "TopAiContent is an online platform that uses AI to help users create content.",
@@ -2079,6 +2097,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "TeqID – Connect",
+    "name": "TeqID - Connect",
+    "description": "AI-powered B2B platform for business opportunities.",
+    "website": "https://teqid.org",
+    "categories": "AI Lead Generation, AI Copilot, AI Sales Assistant, AI Sales",
+    "slug": "teqid-connect",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "AI Text Summarizer",
     "name": "AI Text Summarizer-",
     "description": "Simplify content analysis with our AI Text Summarizer! It sums it up fast, pulls out the important stuff, answers your questions, and can switch to over 80 languages.",
@@ -2113,6 +2140,15 @@
     "categories": "Other",
     "slug": "usageguard",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Pagey",
+    "name": "Pagey",
+    "description": "No-code AI-ready portfolio and resume builder for quick personal pages.",
+    "website": "https://pagey.xyz",
+    "categories": "AI Website Builder, AI Resume Builder, No-Code&Low-Code, AI Landing Page Builder",
+    "slug": "pagey",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "Ciro",
@@ -2646,6 +2682,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Callab AI",
+    "name": "MENA AI-voice Launch",
+    "description": "AI-powered voice agents for automated call handling.",
+    "website": "https://callab.ai",
+    "categories": "AI Call Center, AI Agent, AI Voice Assistants, AI Cold Calling, AI Customer Service, AI Transcription, AI Sales, AI Real Estate, AI Healthcare",
+    "slug": "mena-ai-voice-launch",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "Noteey",
     "name": "Noteey",
     "description": "A visual note-taking app for organizing thoughts creatively.",
@@ -2797,6 +2842,15 @@
     "categories": "AI Forms & Surveys, AI Photography",
     "slug": "noteforms",
     "created_at": "03:40:18 04/13/2025"
+  },
+  {
+    "title": "HeronAI",
+    "name": "HeronAI",
+    "description": "AI analytics platform for growing businesses, providing actionable insights and automated reports.",
+    "website": "https://www.heronai.com",
+    "categories": "AI For Data Analytics, AI For Finance, AI Report Generator, AI Charting",
+    "slug": "heronai",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "Unwatermark AI",
@@ -3519,6 +3573,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "YourAIScroll",
+    "name": "YourAIScroll",
+    "description": "Export and manage AI chat history from multiple platforms.",
+    "website": "https://www.youraiscroll.com",
+    "categories": "AI Knowledge Management, AI Productivity Tools, AI Knowledge Base, AI Research Tool",
+    "slug": "youraiscroll",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "VideoToWords AI",
     "name": "Transcribe Video & Audio to Text Free Online",
     "description": "AI-powered transcription service for audio and video to text conversion.",
@@ -3598,6 +3661,15 @@
     "categories": "AI Art Generator, AI Graphic Design, AI Photo & Image Generator",
     "slug": "lumenis",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VSCO",
+    "name": "VSCO",
+    "description": "Photography and video editing app with creative community and professional tools.",
+    "website": "https://www.vsco.co",
+    "categories": "AI Photo Editor, AI Video Editor, AI Photography, Object Remover AI, AI Recruiting",
+    "slug": "vsco",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "Pagic.io",
@@ -4770,6 +4842,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Weavy",
+    "name": "Weavy",
+    "description": "Node-based AI design platform for creative professionals.",
+    "website": "https://weavy.ai",
+    "categories": "AI Workflow, AI Design Assistant, AI Graphic Design, AI Image Generator, AI Video Generator",
+    "slug": "weavy",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "AI Grammar Check - Corrector",
     "name": "AI Grammar Checker for iOS",
     "description": "AI-powered iOS app for grammar, spelling, and writing correction, plus translation.",
@@ -5524,6 +5605,15 @@
     "categories": "AI Story Writing, AI Creative Writing, AI Content Generator, AI Character, Prompt, Large Language Models (LLMs)",
     "slug": "wizfairy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedance AI",
+    "name": "Seedance AI Video Generator - Professional Videos",
+    "description": "AI video generation platform for professional-grade content.",
+    "website": "https://seedanceai.net",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "seedance-ai-video-generator-professional-videos",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "LimeChat",
@@ -6849,6 +6939,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Veo3.bot",
+    "name": "Veo3.bot",
+    "description": "Veo3.bot provides seamless access to Google Veo 3’s innovative video creation tools.",
+    "website": "https://veo3.bot",
+    "categories": "AI Video Generator, Image to Video, Text to Video",
+    "slug": "veo3-bot-free-access-to-google-veo-3-ai-video-generation-with-native-audio",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "Labelbox",
     "name": "Labelbox",
     "description": "AI data factory for building, operating, and staffing AI data.",
@@ -7227,6 +7326,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Magic Animator",
+    "name": "Lottielab (Magic Animator - now live)",
+    "description": "AI-powered animation generator for designs, exporting to Lottie, GIF, MP4.",
+    "website": "https://magicanimator.com",
+    "categories": "AI Animation Generator, AI Animated Video, Image to Video, AI Video Generator, AI Social Media Post Generator",
+    "slug": "lottielab-magic-animator-now-live",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "Prepostseo",
     "name": "Prepostseo",
     "description": "Free online SEO tools and AI writing assistants.",
@@ -7281,6 +7389,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Utell AI",
+    "name": "Utell AI",
+    "description": "AI accent conversion software for clearer global communication.",
+    "website": "https://utell.ai",
+    "categories": "AI Voice Changer, AI Voice Enhancer, AI Noise Cancellation, AI Audio Enhancer, AI Sales, AI Call Center",
+    "slug": "utell-ai",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "Specgen.ai",
     "name": "Specgen.ai",
     "description": "AI for automated tender responses with confidentiality.",
@@ -7333,6 +7450,15 @@
     "categories": "AI Photo & Image Generator, Photo & Image Editor, AI Photo Enhancer",
     "slug": "stockphoto",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Preso Budget",
+    "name": "Preso Budget",
+    "description": "AI-powered budgeting platform for financial overview and control.",
+    "website": "https://www.presobudget.com",
+    "categories": "AI For Finance, AI Assistant, AI Productivity Tools",
+    "slug": "preso-budget",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "Ittybit",
@@ -7468,6 +7594,15 @@
     "categories": "AI Content Generator, AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator, AI Script Writing, Writing Assistants, AI Creative Writing",
     "slug": "power-to-the-creators",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Uplodio",
+    "name": "Uplodio",
+    "description": "AI influencer manager for scaling creator and affiliate programs.",
+    "website": "https://www.uplodio.com",
+    "categories": "AI Influencer, AI Agent, AI Affiliate Marketing, AI Marketing",
+    "slug": "uplodio",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "SupermodsAI",
@@ -9413,6 +9548,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "iftrue",
+    "name": "iftrue",
+    "description": "AI copilot for engineering management in Slack, optimizing team performance.",
+    "website": "https://iftrue.co",
+    "categories": "AI Developer Tools, AI Assistant, AI Project Management, AI Meeting Assistant",
+    "slug": "iftrue",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "WatermarkRemover",
     "name": "WatermarkRemoverAI",
     "description": "Remove watermarks from images with AI",
@@ -10563,6 +10707,15 @@
     "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator, Prompt",
     "slug": "raphael-ai",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "FeetGen - AI Feet Generator",
+    "name": "FeetGen - AI Feet Generator",
+    "description": "AI tool for generating premium, custom foot imagery for content creators.",
+    "website": "https://feet-gen.com",
+    "categories": "AI Image Generator, AI Realistic Image Generator, AI Anime Generator, Text to Image",
+    "slug": "feetgen-ai-feet-generator",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "ChatScreen AI Assistant",
@@ -12282,6 +12435,15 @@
     "categories": "AI Developer Docs, AI Content Generator",
     "slug": "gitsummarize",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "y2doc",
+    "name": "y2doc",
+    "description": "Youtube-> structured doc, one click",
+    "website": "https://y2doc.com",
+    "categories": "AI Productivity Tools",
+    "slug": "y2doc",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "renu.",
@@ -14813,6 +14975,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Bitchat",
+    "name": "Bitchat",
+    "description": "Decentralized offline messaging app by Jack Dorsey using Bluetooth mesh.",
+    "website": "https://bitchats.app",
+    "categories": "Other",
+    "slug": "bitchat",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "FloatAI",
     "name": "FloatingAI",
     "description": "A versatile, floating GPT helper for app interactions.",
@@ -14820,6 +14991,15 @@
     "categories": "AI App Builder, AI Content Generator, AI Chatbot",
     "slug": "floatingai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Reka",
+    "name": "Reka Vision",
+    "description": "Reka is an agentic multimodal AI platform for visual understanding and data insights.",
+    "website": "https://reka.ai",
+    "categories": "AI Models, Large Language Models (LLMs), Open Source AI Models, AI API, AI Developer Tools, AI Agent, AI Video Search, AI Video Summarizer",
+    "slug": "reka-vision",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "Blureasy",
@@ -14838,6 +15018,15 @@
     "categories": "Other",
     "slug": "popboxgpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Wibe",
+    "name": "Wibe for creators",
+    "description": "AI-powered community platform for creators to build, engage, and monetize.",
+    "website": "https://wibe.so",
+    "categories": "AI Social Media, AI Assistant, AI Marketing, AI Summarizer, AI Email Marketing, AI Affiliate Marketing",
+    "slug": "wibe-for-creators",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "Workik",
@@ -15497,6 +15686,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "Sim Studio",
+    "name": "Sim Studio",
+    "description": "Visual platform for building and deploying AI agents and workflows.",
+    "website": "https://www.simstudio.ai",
+    "categories": "AI Agent, AI Workflow, No-Code&Low-Code, AI Developer Tools",
+    "slug": "sim-studio",
+    "created_at": "14:13:11 07/11/2025"
+  },
+  {
     "title": "Messenger Genie",
     "name": "Messenger Genie",
     "description": "AI extension for generating context-aware messages and comments.",
@@ -15981,6 +16179,15 @@
     "categories": "AI App Builder, AI Content Generator, AI Rewriter, AI Tutorial",
     "slug": "contgpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hablo.pro",
+    "name": "Hablo.pro",
+    "description": "AI language tutor for speaking practice, fluency, vocabulary, and confidence.",
+    "website": "https://hablo.pro",
+    "categories": "AI Language Learning, AI Coaching, AI Assistant, AI Speech Recognition",
+    "slug": "hablo-pro",
+    "created_at": "14:13:11 07/11/2025"
   },
   {
     "title": "FeedAIback",
@@ -19760,5 +19967,14 @@
     "categories": "AI SEO Assistant, AI Blog Writer, Writing Assistants, AI Content Generator",
     "slug": "vermile",
     "created_at": "14:11:31 05/08/2025"
+  },
+  {
+    "title": "Bookshelf AI",
+    "name": "Bookshelf – Turn Newsletters into GPTs",
+    "description": "Turns newsletters into custom GPTs for interactive content and monetization.",
+    "website": "https://bookshelf.diy",
+    "categories": "AI Chatbot, AI Knowledge Base, AI Newsletter, AI Chat Generator",
+    "slug": "bookshelf-turn-newsletters-into-gpts",
+    "created_at": "14:13:11 07/11/2025"
   }
 ]
