@@ -1071,6 +1071,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Z.ai",
+    "name": "Z.ai",
+    "description": "Free AI assistant for presentations, writing, and coding.",
+    "website": "https://chat.z.ai",
+    "categories": "AI Assistant, AI Presentation Generator, AI Writing Assistants, AI Code Assistant, AI Chatbot, AI Search Engine",
+    "slug": "z-ai",
+    "created_at": "14:14:02 07/14/2025"
+  },
+  {
     "title": "InterviewBee",
     "name": "InterviewBee AI",
     "description": "AI assistant for live interviews and mock practice.",
@@ -1681,6 +1690,15 @@
     "categories": "Summarizer",
     "slug": "snapvault",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Mockin",
+    "name": "Mockin",
+    "description": "AI interview simulator for UX/UI and Product Designers.",
+    "website": "https://mockin.work",
+    "categories": "AI Interview Assistant, AI Coaching, AI Resume Checker, Resume AI",
+    "slug": "mockin",
+    "created_at": "14:14:02 07/14/2025"
   },
   {
     "title": "WeWeb",
@@ -5148,6 +5166,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Quoai",
+    "name": "Quoai",
+    "description": "AI-powered platform for generating accurate tech project quotes quickly.",
+    "website": "https://quoai.fr",
+    "categories": "AI Quotes Generator, AI Sales Assistant, AI For Finance, AI Project Management",
+    "slug": "quoai",
+    "created_at": "14:14:02 07/14/2025"
+  },
+  {
     "title": "Armchair.ai",
     "name": "Armchair",
     "description": "Armchair.ai is an AI platform that assists in launching personalized side hustle ideas.",
@@ -5317,6 +5344,15 @@
     "categories": "AI Watermark Remover, Object Remover AI, AI Eraser, AI Inpainting, AI Photo Editor",
     "slug": "ipurix",
     "created_at": "02:50:01 07/12/2025"
+  },
+  {
+    "title": "Postploy",
+    "name": "Postploy",
+    "description": "AI-powered social media management for content creation and scheduling.",
+    "website": "https://postploy.com",
+    "categories": "AI Social Media, AI Social Media Post Generator, AI Schedule Maker, AI UGC Video Generator, AI Assistant",
+    "slug": "postploy",
+    "created_at": "14:14:02 07/14/2025"
   },
   {
     "title": "Sloneek",
@@ -9404,6 +9440,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Google Trends Monitor",
+    "name": "LLM SEO Trends",
+    "description": "Real-time AI search trends monitor with content ideas.",
+    "website": "https://llmseotrends.com",
+    "categories": "AI SEO Tools, AI Monitor, AI Search Engine, AI Marketing",
+    "slug": "llm-seo-trends",
+    "created_at": "14:14:02 07/14/2025"
+  },
+  {
     "title": "Doable.sh",
     "name": "Doable",
     "description": "AI automation tool to enhance user experience in web applications.",
@@ -11067,6 +11112,15 @@
     "categories": "AI Writing, AI Writing Assistants, AI Copywriting, AI Blog Generator, AI Outline Generator, AI Content Detector, AI Social Media Post Generator, AI Email Writer",
     "slug": "draft-co",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "aisongcreator",
+    "name": "aisongcreator",
+    "description": "AI music generator for background music, beats, and vocal songs.",
+    "website": "https://aisongcreator.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Beat Generator, AI Text-to-Music, AI Lyrics Generator, AI Music Video Generator, AI API",
+    "slug": "aisongcreator",
+    "created_at": "14:14:02 07/14/2025"
   },
   {
     "title": "Paper Digest",
@@ -13121,6 +13175,15 @@
     "created_at": "14:12:51 04/16/2025"
   },
   {
+    "title": "Bazaart",
+    "name": "Bazaart",
+    "description": "Free AI photo editing and graphic design app.",
+    "website": "https://www.bazaart.com",
+    "categories": "AI Photo Editor, AI Graphic Design, AI Background Remover, AI Image Generator, Object Remover AI, AI Image Enhancer, AI Background Generator",
+    "slug": "bazaart",
+    "created_at": "14:14:02 07/14/2025"
+  },
+  {
     "title": "Watermelon",
     "name": "Watermelon Pulse",
     "description": "Watermelon is an AI-powered customer service tool that automates support and improves customer experience.",
@@ -13569,6 +13632,15 @@
     "categories": "AI Detector, AI Plagiarism Checker, Homework Helper, AI Quizzes, AI Education Assistant, Research Tool, Paraphraser, Papers, Report Writing, Writing Assistants",
     "slug": "desklib",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "Clideo",
+    "name": "Clideo",
+    "description": "Easy online platform for video, image, and GIF editing.",
+    "website": "https://clideo.com",
+    "categories": "AI Video Editor, AI Subtitle Generator, AI Video Translator, AI Text-to-Speech, AI GIF Generator, AI Video Recording",
+    "slug": "clideo",
+    "created_at": "14:14:02 07/14/2025"
   },
   {
     "title": "Generate Ads AI",
@@ -14864,6 +14936,15 @@
     "categories": "Copywriting, AI Instagram Assistant, Life Assistant, AI Recipe Assistant, AI Trip Planner, AI Dating Assistant, AI Chatbot, AI Tiktok Assistant, AI Facebook Assistant, AI YouTube Assistant, AI Twitter Assistant, AI Advertising Assistant, Essay Writer, Research Tool, AI Maps Generator, AI Photo & Image Generator, Text to Image, AI Book Writing, AI Bio Generator, AI Story Writing, AI Rewriter, Fun Tools",
     "slug": "fluig-ai",
     "created_at": "14:12:29 05/13/2025"
+  },
+  {
+    "title": "Permut",
+    "name": "Permut",
+    "description": "AI platform for customer engagement, feedback, and growth via intelligent agents.",
+    "website": "https://permut.com",
+    "categories": "AI Agent, AI Customer Service, AI Chatbot, AI Assistant, AI Marketing, AI Sales Assistant",
+    "slug": "permut",
+    "created_at": "14:14:02 07/14/2025"
   },
   {
     "title": "rewriteIT",
@@ -16907,6 +16988,15 @@
     "categories": "AI Customer Service, AI Agent, AI Chatbot, AI Copilot, AI Voice Assistants",
     "slug": "cognigy",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "Flux Context AI",
+    "name": "Flux Context AI",
+    "description": "AI image editing & enhancement tool for instant transformation.",
+    "website": "https://fluxcontextai.com",
+    "categories": "AI Photo Editor, AI Image Generator, AI Image Enhancer, AI Style Transfer, AI Watermark Remover, AI Background Remover, AI Photo Restoration, Object Remover AI",
+    "slug": "flux-context-ai",
+    "created_at": "14:14:02 07/14/2025"
   },
   {
     "title": "Style Me AI",
