@@ -927,6 +927,15 @@
     "created_at": "14:11:59 06/19/2025"
   },
   {
+    "title": "Claude Code Router",
+    "name": "Claude Code Router",
+    "description": "Enhances AI coding workflow with flexible model routing and cost optimization.",
+    "website": "https://claudecoderouter.com",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Copilot, AI Workflow, AI Agent",
+    "slug": "claude-code-router",
+    "created_at": "14:13:56 07/15/2025"
+  },
+  {
     "title": "HAND",
     "name": "HAND",
     "description": "HAND is an online platform that offers affordable babysitting services to parents using earned points.",
@@ -4165,6 +4174,15 @@
     "categories": "AI Person Generator, AI Photo Editor, AI Product Photography, AI Influencer, AI Model Instagram, AI Commercial Generator, AI Reel Generator, AI Short Video Generator, AI UGC Video Generator, AI Video Generator, Image to Video, AI Ad Creative",
     "slug": "the-influencer-ai",
     "created_at": "02:40:27 06/06/2025"
+  },
+  {
+    "title": "PDNob Online",
+    "name": "PDNob Online",
+    "description": "PDNob Online is a free online PDF tool that lets you AI OCR, merge, compress, sign, convert and protect PDFs directly in your browser — no install needed.",
+    "website": "https://www.tenorshare.ai",
+    "categories": "AI PDF Editor, AI PDF, AI PDF Summarizer, AI Productivity Tools, AI Scanner",
+    "slug": "pdnob-online",
+    "created_at": "14:13:56 07/15/2025"
   },
   {
     "title": "RightHair",
@@ -8710,6 +8728,15 @@
     "categories": "AI SEO Assistant, AI YouTube Assistant, AI Repurpose Assistant, AI Blog Writer, Copywriting, AI Content Generator, Writing Assistants, AI Social Media Assistant, AI Instagram Assistant",
     "slug": "yt2post-ai",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "SuppCo",
+    "name": "SuppCo",
+    "description": "Make Sense of Supplements.",
+    "website": "https://supp.co",
+    "categories": "AI Healthcare, AI Fitness, Other",
+    "slug": "suppco",
+    "created_at": "14:13:56 07/15/2025"
   },
   {
     "title": "15Minutes",
@@ -16576,6 +16603,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "VUBO",
+    "name": "VUBO",
+    "description": "Generate viral-ready videos in seconds.",
+    "website": "https://vubo.ai",
+    "categories": "AI Short Video Generator, AI Video Generator",
+    "slug": "vubo",
+    "created_at": "14:13:56 07/15/2025"
+  },
+  {
     "title": "Grain",
     "name": "Grain",
     "description": "AI notetaker for meetings with automatic summaries and insights.",
@@ -17656,6 +17692,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "InstantMind",
+    "name": "InstantMind",
+    "description": "AI mind map generator & summarizer for diverse content.",
+    "website": "https://instantmind.ai",
+    "categories": "AI Mind Mapping, AI Summarizer, AI Diagram Generator, AI Productivity Tools, AI Chatbot, AI Presentation Generator, AI Youtube Summary",
+    "slug": "instantmind",
+    "created_at": "14:13:56 07/15/2025"
+  },
+  {
     "title": "Scheduloid",
     "name": "Scheduloid",
     "description": "AI-powered social media management for content creation, scheduling, automation, and analytics.",
@@ -18358,6 +18403,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dot",
+    "name": "Dot",
+    "description": "Your AI Data Analyst for Instant Insights in Slack & Teams",
+    "website": "https://getdot.ai",
+    "categories": "AI For Data Analytics, AI Data Mining, AI Predictions, AI Research Tool",
+    "slug": "dot",
+    "created_at": "14:13:56 07/15/2025"
+  },
+  {
     "title": "Hai Surf",
     "name": "Hai Surf",
     "description": "AI-powered tool to interact with web content.",
@@ -18824,6 +18878,15 @@
     "categories": "AI Website Builder, No-Code&Low-Code",
     "slug": "tilda-publishing",
     "created_at": "14:10:26 06/04/2025"
+  },
+  {
+    "title": "Rotageek",
+    "name": "Rotageek",
+    "description": "AI-powered software for automating and optimizing employee schedules and workforce management.",
+    "website": "https://www.rotageek.com",
+    "categories": "AI Scheduling, AI Schedule Maker, AI Productivity Tools, AI Task Management",
+    "slug": "rotageek",
+    "created_at": "14:13:56 07/15/2025"
   },
   {
     "title": "CometAPI",
@@ -19697,6 +19760,15 @@
     "categories": "Other",
     "slug": "bitchat",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "BeFreed",
+    "name": "BeFreed",
+    "description": "Learn Anything Joyfully - From the Best Sources, Faster",
+    "website": "https://www.befreed.ai",
+    "categories": "AI Knowledge Base, AI Ebook Generator, AI Summarizer, AI Podcast, AI Text-to-Speech, AI Mental Health, AI Book Summarizer, AI Coaching, AI Course, AI Flashcard Maker, AI Knowledge Graph, AI Knowledge Management, AI Mind Mapping, AI Reader, AI Teachers, AI Tutorial",
+    "slug": "befreed",
+    "created_at": "14:13:56 07/15/2025"
   },
   {
     "title": "Lexi",
