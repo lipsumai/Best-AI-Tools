@@ -5220,6 +5220,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Quick Hub",
+    "name": "Quick Hub",
+    "description": "AI-powered marketing automation for small businesses.",
+    "website": "https://www.quickhub.ai",
+    "categories": "AI Marketing, AI Digital Marketing, AI Social Media, AI Advertising, AI CRM, AI Chatbot, AI Agent",
+    "slug": "quick-hub",
+    "created_at": "14:12:04 07/17/2025"
+  },
+  {
     "title": "Quoai",
     "name": "Quoai",
     "description": "AI-powered platform for generating accurate tech project quotes quickly.",
@@ -6444,6 +6453,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Renée Space - Your AI Friend",
+    "name": "Renée Space - Your AI Friend",
+    "description": "Hi, I’m Renée, your emotionally intelligent AI friend. You can talk to me about anything. I’ll grow with you, remember your patterns, and support you through it all, without judgment.",
+    "website": "https://www.reneespace.com",
+    "categories": "AI Mental Health, AI Therapist, AI Healthcare",
+    "slug": "ren-e-space-your-ai-friend",
+    "created_at": "14:12:04 07/17/2025"
+  },
+  {
     "title": "Lumia AI - AI Home Designer",
     "name": "Lumia AI - AI Home Designer",
     "description": "AI app for transforming home interiors and exteriors.",
@@ -6568,6 +6586,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base",
     "slug": "hillda",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Memno",
+    "name": "Memno",
+    "description": "AI-powered executive assistant that remembers, organizes, and handles tasks for everyday life.",
+    "website": "https://www.memno.ai",
+    "categories": "AI Assistant, AI Agent, AI Productivity Tools, AI Knowledge Management, AI Copilot",
+    "slug": "memno",
+    "created_at": "14:12:04 07/17/2025"
   },
   {
     "title": "Notigo",
@@ -6766,6 +6793,15 @@
     "categories": "AI Knowledge Base, AI Knowledge Management",
     "slug": "casc",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Reaady.site",
+    "name": "Reaady.site",
+    "description": "AI-powered platform for creating high-converting landing pages quickly.",
+    "website": "https://reaady.site",
+    "categories": "AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Design Generator, AI Digital Marketing, AI Copywriting",
+    "slug": "reaady-site",
+    "created_at": "14:12:04 07/17/2025"
   },
   {
     "title": "Callbell",
@@ -7470,6 +7506,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Coco AI",
+    "name": "Coco AI",
+    "description": "WhatsApp AI assistant for calendar, reminders, and lists.",
+    "website": "https://textcoco.com",
+    "categories": "AI Assistant, AI Productivity Tools, AI Calendar, AI Task Management, AI Schedule Maker, AI Chatbot",
+    "slug": "coco-ai",
+    "created_at": "14:12:04 07/17/2025"
+  },
+  {
     "title": "Retime AI",
     "name": "Retime AI",
     "description": "AI-driven lead detection from Reddit conversations.",
@@ -7999,6 +8044,15 @@
     "categories": "AI Script Writing, AI Story Writing, AI Content Generator, AI Social Media Assistant, AI YouTube Assistant, AI Tiktok Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Hashtag Assistant",
     "slug": "viral-you-ai",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "Postion",
+    "name": "Postion",
+    "description": "All-in-one content creation and monetization platform for creators.",
+    "website": "https://postion.app",
+    "categories": "AI Website Builder, AI Newsletter Generator, AI SEO Tools, AI Blog Generator",
+    "slug": "postion",
+    "created_at": "14:12:04 07/17/2025"
   },
   {
     "title": "Ace That Application",
@@ -11456,6 +11510,15 @@
     "created_at": "03:40:18 04/13/2025"
   },
   {
+    "title": "Videoinu",
+    "name": "Videoinu",
+    "description": "All-in-one AI video creation platform for transforming ideas into video stories.",
+    "website": "https://videoinu.com",
+    "categories": "AI Video Generator, AI Animated Video, AI Cartoon Video Generator, AI Anime Generator, AI Voice Over, AI Story Generator, AI Youtube Video Maker",
+    "slug": "videoinu",
+    "created_at": "14:12:04 07/17/2025"
+  },
+  {
     "title": "Pipeless Agents",
     "name": "Pipeless Agents",
     "description": "Automate tasks with Vision AI",
@@ -11519,6 +11582,15 @@
     "created_at": "02:37:57 06/07/2025"
   },
   {
+    "title": "Character Alarm",
+    "name": "Character Alarm",
+    "description": "AI alarm app with customizable character voices for personalized wake-ups and daily companionship.",
+    "website": "https://characteralarm.app",
+    "categories": "AI Character, AI Voice Generator, AI Anime Generator, AI Girlfriend, AI Boyfriend, AI Roleplay",
+    "slug": "character-alarm",
+    "created_at": "14:12:04 07/17/2025"
+  },
+  {
     "title": "SnapAI",
     "name": "Snap AI",
     "description": "AI assistant for writing, coding, and translation on Mac.",
@@ -11544,6 +11616,15 @@
     "categories": "Open Source AI Models, AI Github, Large Language Models (LLMs), AI Tools Directory, AI Models, AI Research Tool, AI Research Papers, AI For Data Analytics, AI Productivity Tools, AI Assistant, AI Agent, AI Tutorial, AI Knowledge Base, AI Course, AI Workflow, AI Developer Tools, AI Chat Generator, AI Voice Cloning, AI Voice Changer, AI Text-to-Speech, AI Speech-to-Text, AI OCR, AI Image Segmentation, AI Image Scanning, AI Image Recognition, AI Describe Image, Text to Image, AI Style Transfer, Prompt Engineering, AI Dialogue Generator, AI Creative Writing, Other",
     "slug": "unsloth-ai",
     "created_at": "14:10:45 07/06/2025"
+  },
+  {
+    "title": "Codien",
+    "name": "Codien",
+    "description": "AI agent for migrating Protractor/Selenium tests to Playwright and writing new tests.",
+    "website": "https://codien.ai",
+    "categories": "AI Testing, AI Code Generator, AI Developer Tools, AI Rewriter",
+    "slug": "codien",
+    "created_at": "14:12:04 07/17/2025"
   },
   {
     "title": "Coloring-Pages.APP",
@@ -14740,6 +14821,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vita AI",
+    "name": "Vita AI",
+    "description": "Designs and deploys bespoke multi-agent AI systems for enterprise leaders to orchestrate workflows.",
+    "website": "https://www.vitaai.co.uk",
+    "categories": "AI Agent, AI Consulting, AI Workflow, AI Lead Generation, AI Sales Assistant, AI Course, AI Productivity Tools",
+    "slug": "vita-ai",
+    "created_at": "14:12:04 07/17/2025"
+  },
+  {
     "title": "SpeakingAI",
     "name": "SpeakingAI",
     "description": "Mobile app for practicing and improving spoken language skills with AI.",
@@ -15458,6 +15548,15 @@
     "categories": "AI Music Generator, AI Song Generator, AI Text-to-Music",
     "slug": "lami-ai-free-ai-music-generator-from-text",
     "created_at": "14:12:47 05/26/2025"
+  },
+  {
+    "title": "HackAIGC",
+    "name": "HackAIGC",
+    "description": "AI platform for uncensored chat and image generation with privacy.",
+    "website": "https://www.hackaigc.com",
+    "categories": "AI Image Generator, AI Chatbot, AI Story Generator, NSFW, Text to Image",
+    "slug": "hackaigc",
+    "created_at": "14:12:04 07/17/2025"
   },
   {
     "title": "TaoPrompt",
@@ -16304,6 +16403,15 @@
     "categories": "AI Art Generator, AI Anime Art, Prompt, Text to Image, AI Wallpaper Generator, AI Anime & Cartoon Generator",
     "slug": "girl-cool-anime-wallpaper",
     "created_at": "14:12:39 05/19/2025"
+  },
+  {
+    "title": "Modernbanc",
+    "name": "Modernbanc",
+    "description": "AI-powered online accounting software for startups and businesses.",
+    "website": "https://modernbanc.com",
+    "categories": "AI Accounting, AI For Finance, AI Assistant, AI Chatbot",
+    "slug": "modernbanc",
+    "created_at": "14:12:04 07/17/2025"
   },
   {
     "title": "Content Canvas",
@@ -17267,6 +17375,15 @@
     "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, AI Forms & Surveys, Sales Assistant, E-commerce Assistant, AI Product Description Generator, AI Instagram Assistant, AI Facebook Assistant",
     "slug": "chatblu",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Jokr.bar",
+    "name": "Jokr.bar",
+    "description": "Reduces bounce rates with funny exit-intent banners to boost conversions.",
+    "website": "https://jokr.bar",
+    "categories": "AI Joke, AI Banner Generator, AI Marketing, AI Sales Assistant",
+    "slug": "jokr-bar",
+    "created_at": "14:12:04 07/17/2025"
   },
   {
     "title": "Fashion Concierge",
