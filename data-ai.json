@@ -2619,6 +2619,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "GPT Agent",
+    "name": "GPT Agent",
+    "description": "Proactive, autonomous AI agent for complex task completion.",
+    "website": "https://gptagent.so",
+    "categories": "AI Agent, AI Assistant, AI Task Management, AI Workflow, AI Scheduling, AI Productivity Tools",
+    "slug": "gpt-agent",
+    "created_at": "14:13:39 07/18/2025"
+  },
+  {
     "title": "Single Prompt AI",
     "name": "Single Prompt AI",
     "description": "Loading provides information and services on a specific topic.",
@@ -17366,6 +17375,15 @@
     "categories": "Writing Assistants, AI Content Generator",
     "slug": "divedeck-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Asksia",
+    "name": "Asksia",
+    "description": "AI study copilot for students, offering tutoring and note organization.",
+    "website": "https://www.asksia.ai",
+    "categories": "AI Homework Helper, AI Teachers, AI Essay Writer, AI Math, AI Transcriber, AI Summarizer, AI Note Taker",
+    "slug": "asksia",
+    "created_at": "14:13:39 07/18/2025"
   },
   {
     "title": "Spyper AI - E-Commerce Insights Machine",
