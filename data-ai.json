@@ -6885,6 +6885,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Vibecode",
+    "name": "Vibecode",
+    "description": "AI-powered platform for generating and developing mobile apps quickly.",
+    "website": "https://vibecodeapp.com",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
+    "slug": "vibecode",
+    "created_at": "02:54:14 07/18/2025"
+  },
+  {
     "title": "Cheaprr",
     "name": "Cheaprr",
     "description": "Hire AI freelancers without subscriptions using Volts.",
@@ -10887,6 +10896,15 @@
     "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Ad Creative Assistant, Copywriting, AI Rewriter, Writing Assistants, AI Content Generator",
     "slug": "ogilvy",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Fast3D",
+    "name": "Fast3D",
+    "description": "AI-powered 3D model generator from text or images in seconds.",
+    "website": "https://fast3d.io",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D, AI Texture Generator",
+    "slug": "fast3d",
+    "created_at": "02:54:14 07/18/2025"
   },
   {
     "title": "6figr.com",
@@ -18077,6 +18095,15 @@
     "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, AI Knowledge Management, AI Meeting Assistant, AI Scheduling, AI Voice Assistants, No-Code&Low-Code",
     "slug": "tragal",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "ChatGPT Logo",
+    "name": "ChatGPT Logo",
+    "description": "AI logo generator powered by ChatGPT for custom brand logos.",
+    "website": "https://chatgptlogo.ai",
+    "categories": "AI Logo Generator, AI Graphic Design, AI Design Generator, AI Icon Generator, AI Design Assistant",
+    "slug": "chatgpt-logo",
+    "created_at": "02:54:14 07/18/2025"
   },
   {
     "title": "AsoLift",
