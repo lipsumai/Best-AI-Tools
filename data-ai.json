@@ -13112,6 +13112,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ImagePromptGuru.net",
+    "name": "ImagePromptGuru.net",
+    "description": "Free AI tool generating art prompts from images or text.",
+    "website": "https://imagepromptguru.net",
+    "categories": "AI Prompt Generator, Image to Prompt, AI Image Description Generator, AI Describe Image",
+    "slug": "imagepromptguru-net",
+    "created_at": "14:11:26 07/20/2025"
+  },
+  {
     "title": "FileWork",
     "name": "ChatGPT Desktop App - FaqAI",
     "description": "Effortlessly manage files, fetch website content, execute commands, and query databases using FileWork's intuitive platform.",
