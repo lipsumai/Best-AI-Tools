@@ -1998,6 +1998,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wayde",
+    "name": "Wayde",
+    "description": "Intelligent influencer discovery engine for brands and agencies.",
+    "website": "https://www.wayde.io",
+    "categories": "AI Influencer, AI Marketing, AI Research Tool, AI Search Engine, Large Language Models (LLMs)",
+    "slug": "wayde",
+    "created_at": "03:00:12 07/21/2025"
+  },
+  {
     "title": "Social Media Bio Generator",
     "name": "Social Media Bio Generator",
     "description": "Craft unique and tailored bios with customizable tone, type, and language. Perfect fit for different platforms.",
@@ -6984,6 +6993,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Uncursor",
+    "name": "Uncursor",
+    "description": "AI-powered platform for building apps and websites with natural language.",
+    "website": "https://uncursor.com",
+    "categories": "AI Website Builder, AI Code Generator, AI App Builder, AI Agent, No-Code&Low-Code, AI Logo Generator, AI Name Generator",
+    "slug": "uncursor",
+    "created_at": "03:00:12 07/21/2025"
+  },
+  {
     "title": "clay.earth",
     "name": "clay.earth",
     "description": "Data visualization and analysis platform for insightful decision-making.",
@@ -7882,6 +7900,15 @@
     "categories": "AI Customer Service Assistant",
     "slug": "jorpex-tender-notifications-in-slack",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Snapsnob - Clean Your Gallery",
+    "name": "Snapsnob",
+    "description": "iOS app for fast, private photo gallery cleanup and organization.",
+    "website": "https://apps.apple.com/kz/app/snapsnob-clean-your-gallery/id6748144194",
+    "categories": "AI Productivity Tools, AI Assistant, AI Photo Editor, AI Image Recognition",
+    "slug": "snapsnob",
+    "created_at": "03:00:12 07/21/2025"
   },
   {
     "title": "Free AI (not a) Therapist",
@@ -12455,6 +12482,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "Eat Planner",
+    "name": "Eat Planner",
+    "description": "AI meal planner for personalized plans, smart shopping, and healthy eating.",
+    "website": "https://eat-planner.com",
+    "categories": "AI Recipe, AI Cooking Assistant, AI Shopping Assistant",
+    "slug": "eat-planner",
+    "created_at": "03:00:12 07/21/2025"
+  },
+  {
     "title": "Studydrive",
     "name": "Studydrive",
     "description": "Learning hub for university students",
@@ -13922,6 +13958,15 @@
     "created_at": "14:14:02 07/14/2025"
   },
   {
+    "title": "Bravey",
+    "name": "Bravey",
+    "description": "AI-powered growth engine for automated outreach and scalable distribution.",
+    "website": "https://bravey.co",
+    "categories": "AI Lead Generation, AI Sales Assistant, AI Marketing, AI Cold Calling, AI Advertising, AI Email Generator",
+    "slug": "bravey",
+    "created_at": "03:00:12 07/21/2025"
+  },
+  {
     "title": "Generate Ads AI",
     "name": "Generate Ads AI",
     "description": "AI tool to generate scroll-stopping ads in minutes.",
@@ -13965,6 +14010,15 @@
     "categories": "AI Recruiting",
     "slug": "jd-aid",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Textalyz",
+    "name": "Textalyz",
+    "description": "AI writing assistant for clear, confident communication in Chrome and Slack.",
+    "website": "https://www.textalyz.com",
+    "categories": "AI Writing Assistants, AI Writing, AI Grammar Checker, AI Paraphraser, AI Summarizer, AI Translate, AI Rewriter, AI Email Writer",
+    "slug": "textalyz",
+    "created_at": "03:00:12 07/21/2025"
   },
   {
     "title": "Wraith Docs",
@@ -15044,6 +15098,15 @@
     "categories": "AI Advertising Assistant, AI Email Marketing, AI Lead Generation",
     "slug": "dailyreach",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "UGCReal",
+    "name": "UGCReal",
+    "description": "AI tool for generating ultra-realistic user-generated content (UGC) for mobile apps.",
+    "website": "https://ugcreal.com",
+    "categories": "AI UGC Video Generator, AI Ad Generator, AI Social Media Post Generator, AI Influencer, AI Marketing",
+    "slug": "ugcreal",
+    "created_at": "03:00:12 07/21/2025"
   },
   {
     "title": "Art Flâneur",
@@ -17998,6 +18061,15 @@
     "created_at": "14:12:37 05/22/2025"
   },
   {
+    "title": "Capable",
+    "name": "Capable",
+    "description": "Build and share dynamic AI prompt templates for teams.",
+    "website": "https://www.thecapable.io",
+    "categories": "AI Prompt Generator, AI Productivity Tools, AI Writing Assistants, AI Workflow, AI API",
+    "slug": "capable",
+    "created_at": "03:00:12 07/21/2025"
+  },
+  {
     "title": "Email Assistant",
     "name": "Gmail™ GPT",
     "description": "Streamline email communication with an AI assistant.",
@@ -19276,6 +19348,15 @@
     "created_at": "14:12:01 06/20/2025"
   },
   {
+    "title": "Maestro",
+    "name": "Maestro Studio Desktop Beta",
+    "description": "All-in-one desktop app for automated mobile & web app testing.",
+    "website": "https://maestro.dev",
+    "categories": "AI Testing, AI Developer Tools, AI Assistant, No-Code&Low-Code, AI Chatbot",
+    "slug": "maestro-studio-desktop-beta",
+    "created_at": "03:00:12 07/21/2025"
+  },
+  {
     "title": "Screenify",
     "name": "Screenify",
     "description": "AI platform for automated candidate interviewing and screening.",
@@ -20093,6 +20174,15 @@
     "categories": "AI Presentation Generator, AI PPT Maker, AI Summarizer, AI PDF, AI Mind Mapping, AI Chatbot",
     "slug": "workppt",
     "created_at": "14:12:52 07/16/2025"
+  },
+  {
+    "title": "Bennu AI",
+    "name": "Bennu Agent — Screw Prompts, Run Infra",
+    "description": "Autonomous AI agent for DevOps, infrastructure automation, code deployment, and bug fixing.",
+    "website": "https://www.ai.bennudata.com",
+    "categories": "AI Agent, AI Developer Tools, AI Code Assistant, AI Workflow, AI Copilot",
+    "slug": "bennu-agent-screw-prompts-run-infra",
+    "created_at": "03:00:12 07/21/2025"
   },
   {
     "title": "ReachInbox",
