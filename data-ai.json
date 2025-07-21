@@ -10619,6 +10619,15 @@
     "created_at": "14:13:23 07/07/2025"
   },
   {
+    "title": "LoveFaceSwap",
+    "name": "LoveFaceSwap",
+    "description": "The ultimate free AI face swap tool is here! Transform your photos, videos, and GIFs into viral masterpieces. Fast, free, and incredibly fun.",
+    "website": "https://lovefaceswap.com",
+    "categories": "AI Face Swap Generator, AI Clothing Removal, AI Eraser, AI Headshot Generator, AI Image Enhancer, AI Photo Restoration, AI Face Swap Video, AI Movie Generator, AI Short Video Generator, Image to Video, Text to Video",
+    "slug": "lovefaceswap",
+    "created_at": "14:15:37 07/21/2025"
+  },
+  {
     "title": "Bithoop",
     "name": "bithoop",
     "description": "Proactive knowledge assistant for teams.",
@@ -10851,6 +10860,15 @@
     "categories": "AI Avatar Generator, AI Interview Assistant, AI Coaching, Homework Helper, Sports, Healthcare, Mental Health, Fitness, AI Recruiting, Life Assistant, AI Animated Video, AI Trip Planner, AI Dating Assistant, AI Character, AI YouTube Assistant, AI Consulting Assistant, AI Video Generator, AI Personalized Video Generator, AI Education Assistant",
     "slug": "soul-machines",
     "created_at": "14:46:22 04/01/2025"
+  },
+  {
+    "title": "Laiers.ai",
+    "name": "Laiers.ai",
+    "description": "From linear AI chat chaos to branching clarity",
+    "website": "https://laiers.ai",
+    "categories": "AI Productivity Tools",
+    "slug": "laiers-ai",
+    "created_at": "14:15:37 07/21/2025"
   },
   {
     "title": "MailTester.Ninja",
@@ -13083,6 +13101,15 @@
     "categories": "AI Trip Planner",
     "slug": "travel-bug-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AIShowX",
+    "name": "AIShowX",
+    "description": "All-in-one AI tool for video, image, and audio creation and enhancement.",
+    "website": "https://aishowx.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Video Enhancer, AI Image Enhancer, AI Face Swap Video",
+    "slug": "aishowx",
+    "created_at": "14:15:37 07/21/2025"
   },
   {
     "title": "TypeGenius",
@@ -19850,6 +19877,15 @@
     "categories": "AI Video Recording, AI Video Editor",
     "slug": "easeus-software",
     "created_at": "14:11:41 04/17/2025"
+  },
+  {
+    "title": "Yoink AI",
+    "name": "Yoink AI",
+    "description": "AI that auto-grabs context wherever you are in your Mac, and writes for you",
+    "website": "https://useyoink.ai",
+    "categories": "AI Writing Assistants, AI Email Writer, AI Title Generator, AI Text Message Generator, AI Text Generator, AI Image Description Generator, AI Grammar Checker, AI Essay Writer, AI Description Generator, AI Blog Generator, AI Creative Writing, AI Cover Letter Generator, AI Copywriting, AI Chat Generator, AI Caption Generator, AI Book Writing, Prompt Engineering",
+    "slug": "yoink-ai",
+    "created_at": "14:15:37 07/21/2025"
   },
   {
     "title": "Anxiety Simulator",
