@@ -8640,6 +8640,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Lora",
+    "name": "Lora",
+    "description": "Advanced LoRA AI image generator for custom models and stunning visuals.",
+    "website": "https://loraai.io",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Models, AI Realistic Image Generator, AI Anime Generator",
+    "slug": "lora",
+    "created_at": "02:53:42 07/22/2025"
+  },
+  {
     "title": "Jadebook",
     "name": "Jadebook",
     "description": "A free encrypted journaling platform for personal growth and mental health.",
@@ -9800,6 +9809,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ai Watermark Remover",
+    "name": "Ai Watermark Remover",
+    "description": "AI-powered online tool to remove watermarks, logos, and text from images.",
+    "website": "https://www.aiwatermarkremover.com",
+    "categories": "AI Watermark Remover, Object Remover AI, AI Eraser, AI Photo Editor",
+    "slug": "ai-watermark-remover",
+    "created_at": "02:53:42 07/22/2025"
+  },
+  {
     "title": "Supascout",
     "name": "Supascout",
     "description": "Analyzes App Store reviews for actionable insights.",
@@ -10446,6 +10464,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "supportchat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Virtual Staging",
+    "name": "AI Virtual Staging",
+    "description": "AI virtual staging is a solution for real estate professionals who need stunning property photos fast. This platform specializes in AI virtual staging technology that can furnish empty rooms or restage occupied spaces in just 30 seconds. Real estate agents, photographers, and staging companies can create listing-ready staged images without the traditional costs and delays. Whether you're staging vacant properties or refreshing outdated furniture, AI virtual staging handles the heavy lifting while you focus on closing deals. The platform eliminates the traditional 48-hour wait times and steep staging costs that plague the industry, delivering professional-quality staged results at $0.24 per photo.",
+    "website": "https://aihomedesign.com",
+    "categories": "AI Real Estate, AI Image Generator, AI Photo Editor, AI Design Generator, AI Interior Design",
+    "slug": "ai-virtual-staging",
+    "created_at": "02:53:42 07/22/2025"
   },
   {
     "title": "CreateEasily",
@@ -13787,6 +13814,15 @@
     "created_at": "14:12:10 05/23/2025"
   },
   {
+    "title": "Klyra AI",
+    "name": "Klyra AI",
+    "description": "Your all-in-one creative AI suite for videos, music, voices, avatars, images, and more.",
+    "website": "https://klyra.ai",
+    "categories": "AI Video Generator, AI Social Media Post Generator, AI Speech-to-Text, AI Text-to-Speech, AI Transcriber, AI Transcription, AI Voice Assistants, AI Voice Cloning, AI Voice Over, Audio To Text AI, AI Social Media, AI Twitter, AI Text-to-Music, AI YouTube, AI Youtube Summary, AI Code Assistant, AI Code Generator, AI Avatar Video Generator, Image to Video, Script To Video AI Generator, Text to Video, Video to Video, AI Dubbing, AI Noise Cancellation, AI Essay Writer, AI Eraser, AI Novel, AI Poem Generator, AI Rewriter, AI Script Writing, AI Text Generator, AI Writing, AI Writing Assistants, AI Avatar Generator, AI Background Remover, AI Face Swap Generator, AI Music Generator, AI Image Generator, AI Image Upscaler, AI Inpainting, AI Outpainting, AI Photo Editor, AI Product Photography, AI Realistic Image Generator, Image to Image, Object Remover AI, Text to Image, AI Chatbot",
+    "slug": "klyra-ai",
+    "created_at": "02:53:42 07/22/2025"
+  },
+  {
     "title": "Minea",
     "name": "Minea",
     "description": "E-commerce tool tracking ads to boost sales and profits.",
@@ -15935,6 +15971,15 @@
     "categories": "AI Checker Essay, AI Grammar Checker, Resume Builder, Essay Writer, Papers, Paraphraser, General Writing, Writing Assistants, AI Rewriter",
     "slug": "textgears",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "AI Rizz Generator",
+    "name": "AI Rizz Generator",
+    "description": "The Rizz AI Generator by Greenbot is a free tool that helps you create flirty, bold, or seductive messages in seconds. If you’re texting a crush or roleplaying with an AI character, it gives you fun, confident lines instantly — no creativity required.",
+    "website": "https://www.greenbot.com",
+    "categories": "AI Pick-up Lines Generator",
+    "slug": "ai-rizz-generator",
+    "created_at": "02:53:42 07/22/2025"
   },
   {
     "title": "Capacity",
