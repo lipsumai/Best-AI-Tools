@@ -2079,6 +2079,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Duetoday",
+    "name": "Duetoday",
+    "description": "AI tool for lecture notes, summaries, quizzes, and study materials.",
+    "website": "https://www.duetoday.ai",
+    "categories": "AI Note Taker, AI Flashcard Maker, AI Quiz Generator, AI Summarizer, AI Transcription, AI Presentation Generator, AI Homework Helper, AI Youtube Summary",
+    "slug": "duetoday",
+    "created_at": "14:15:45 07/22/2025"
+  },
+  {
     "title": "Flapico",
     "name": "Flapico",
     "description": "LLMOps platform for prompt management, testing, and evaluation.",
@@ -2662,6 +2671,15 @@
     "categories": "AI Chatbot, Homework Helper, AI Course, AI Education Assistant, AI Tutorial, Writing Assistants",
     "slug": "tivra-your-ai-tutor",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "SampleApp.ai",
+    "name": "sampleapp.ai",
+    "description": "AI platform for fast API/SDK developer onboarding via interactive sample apps.",
+    "website": "https://sampleapp.ai",
+    "categories": "AI App Builder, AI Code Generator, AI Developer Tools",
+    "slug": "sampleapp-ai",
+    "created_at": "14:15:45 07/22/2025"
   },
   {
     "title": "AgentHub",
@@ -6849,6 +6867,15 @@
     "created_at": "02:22:12 04/08/2025"
   },
   {
+    "title": "Outsoci",
+    "name": "Outsoci",
+    "description": "Lead generation tool to legally scrape emails from social media and maps.",
+    "website": "https://outsoci.com",
+    "categories": "AI Lead Generation, AI Web Scraping, AI Social Media, AI Marketing, AI Sales",
+    "slug": "outsoci",
+    "created_at": "14:15:45 07/22/2025"
+  },
+  {
     "title": "Emozi AI",
     "name": "Emozi AI",
     "description": "Emozi AI is the ultimate AI video creation tool that can easily transform your photos, text and videos into amazing content. Whether you want to animate a static image, expand a video, or transform text into a brand new video, Emozi AI can do it instantly. No editing skills are required, just use your creativity!",
@@ -7702,6 +7729,15 @@
     "categories": "AI App Builder, AI Notes Assistant, AI Productivity Tools, AI Developer Tools, AI Tools Directory, AI Files Assistant, AI Knowledge Base",
     "slug": "enote-ai-note-notebook",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Chatbot AI",
+    "name": "Chatbotai.com",
+    "description": "Chat with top AI chatbots in one place.",
+    "website": "https://chatbotai.com",
+    "categories": "AI Chatbot, AI Assistant, AI Models, Large Language Models (LLMs)",
+    "slug": "chatbotai-com",
+    "created_at": "14:15:45 07/22/2025"
   },
   {
     "title": "SpeakShift",
@@ -14453,6 +14489,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Veo 4 ai",
+    "name": "Veo 4 ai",
+    "description": "Free AI video generator for stunning, realistic videos.",
+    "website": "https://veo-4.org",
+    "categories": "AI Video Generator, Text to Video, AI Lip Sync Generator, AI Commercial Generator, AI Music Video Generator, AI Short Video Generator",
+    "slug": "veo-4-ai",
+    "created_at": "14:15:45 07/22/2025"
+  },
+  {
     "title": "Lymio",
     "name": "Lymio",
     "description": "LinkedIn sales assistant for optimizing conversations into sales.",
@@ -14909,6 +14954,15 @@
     "categories": "Translate, AI Course",
     "slug": "memri-se",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Silque AI",
+    "name": "Silque AI - Your Fashion Companion",
+    "description": "AI fashion companion for personalized style, color analysis, and outfit curation.",
+    "website": "https://silque.app",
+    "categories": "AI Color Palette Generator, Fashion AI, AI Outfit Generator, AI Design Assistant",
+    "slug": "silque-ai-your-fashion-companion",
+    "created_at": "14:15:45 07/22/2025"
   },
   {
     "title": "Rapture Parser",
@@ -17224,6 +17278,15 @@
     "created_at": "14:11:12 04/24/2025"
   },
   {
+    "title": "EaseBot",
+    "name": "Easebot AI Booking Bot for GoHighLevel",
+    "description": "AI booking bot for automated scheduling, lead management, and conversion.",
+    "website": "https://easebot.io",
+    "categories": "AI Chatbot, AI Scheduling, AI Lead Generation, AI Sales Assistant",
+    "slug": "easebot-ai-booking-bot-for-gohighlevel",
+    "created_at": "14:15:45 07/22/2025"
+  },
+  {
     "title": "TryVeo3.ai",
     "name": "TryVeo3.ai",
     "description": "Turn ideas into stunning 4K videos with Veo 3 — complete with AI-generated audio and cinematic flair.",
@@ -18734,6 +18797,15 @@
     "categories": "AI Document Extraction",
     "slug": "docsumo",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "MarketMint",
+    "name": "MarketMint",
+    "description": "SaaS discovery platform for tools, startups, and news.",
+    "website": "https://www.marketmint.dev",
+    "categories": "AI Tools Directory, AI News",
+    "slug": "marketmint",
+    "created_at": "14:15:45 07/22/2025"
   },
   {
     "title": "MEJ Sales AI",
@@ -20552,6 +20624,15 @@
     "categories": "AI Story Writing, AI Book Writing, AI Creative Writing, AI Content Generator, Novel, Text-to-Speech, AI Speech Synthesis",
     "slug": "sohri-studio",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Telezen Dashboard",
+    "name": "Telezen Dashboard",
+    "description": "White-label platform for AI voice agencies to manage clients.",
+    "website": "https://www.telezen-ai.com",
+    "categories": "AI Voice Assistants, AI Agent, AI Customer Service, AI Call Center, AI Sales Assistant",
+    "slug": "telezen-dashboard",
+    "created_at": "14:15:45 07/22/2025"
   },
   {
     "title": "StoryStation.ai Content Creation Platform",
