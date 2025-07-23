@@ -243,6 +243,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "Palmier",
+    "name": "Palmier",
+    "description": "Autonomous AI software engineering assistant for development.",
+    "website": "https://www.palmier.io",
+    "categories": "AI Agent, AI Code Assistant, AI Code Review, AI Code Generator, AI Developer Tools, AI Github",
+    "slug": "palmier",
+    "created_at": "14:15:24 07/23/2025"
+  },
+  {
     "title": "ImagineMe - Personal AI Art Generator",
     "name": "Imagine Me",
     "description": "Generate personalized art using AI technology from a text description.",
@@ -5463,6 +5472,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Stakpak",
+    "name": "Stakpak.dev",
+    "description": "Open-source AI DevOps agent for securing, deploying, and maintaining infrastructure.",
+    "website": "https://stakpak.dev",
+    "categories": "AI Agent, AI Developer Tools, Open Source AI Models, AI Copilot",
+    "slug": "stakpak-dev",
+    "created_at": "14:15:24 07/23/2025"
+  },
+  {
     "title": "iPurix",
     "name": "iPurix",
     "description": "AI-powered tool to remove watermarks from images quickly and easily.",
@@ -7371,6 +7389,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Veo 5 AI",
+    "name": "Veo 5 AI",
+    "description": "Next-gen AI video generator for ultra-realistic videos from text prompts.",
+    "website": "https://veo5.org",
+    "categories": "AI Video Generator, Text to Video, AI Short Video Generator, AI Music Video Generator, AI Commercial Generator",
+    "slug": "veo-5-ai",
+    "created_at": "14:15:24 07/23/2025"
+  },
+  {
     "title": "ZippLead",
     "name": "Zipplead",
     "description": "Complete marketing and lead generation platform for businesses.",
@@ -7569,6 +7596,15 @@
     "created_at": "14:12:52 07/16/2025"
   },
   {
+    "title": "Evolvoom",
+    "name": "Evolvoom.io",
+    "description": "AI retention system for e-commerce and dropshipping.",
+    "website": "https://evolvoom.io",
+    "categories": "AI Marketing, AI Sales Assistant, AI Chatbot, AI Sales, AI CRM",
+    "slug": "evolvoom-io",
+    "created_at": "14:15:24 07/23/2025"
+  },
+  {
     "title": "LanguaTalk",
     "name": "LanguaTalk",
     "description": "AI-assisted and tutor-based language learning platform for fluency.",
@@ -7585,6 +7621,15 @@
     "categories": "AI Assistant, AI Browsers, AI Summarizer, AI Search Engine, AI Translate, Open Source AI Models, Large Language Models (LLMs), AI Research Tool",
     "slug": "nativemind",
     "created_at": "14:12:23 06/26/2025"
+  },
+  {
+    "title": "TarotQA",
+    "name": "TarotQA",
+    "description": "AI-powered online platform for tarot readings, horoscopes, and spiritual guidance.",
+    "website": "https://tarotqa.com",
+    "categories": "AI Predictions, AI Answer, AI Assistant",
+    "slug": "tarotqa",
+    "created_at": "14:15:24 07/23/2025"
   },
   {
     "title": "TasteBuddy",
@@ -11085,6 +11130,15 @@
     "categories": "AI Art Generator, Prompt, AI Video Recording, Text to Video, AI Animated Video, AI Video Generator, Image to Video, AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "wan-2-ai",
     "created_at": "02:22:19 04/10/2025"
+  },
+  {
+    "title": "Krepling",
+    "name": "Krepling",
+    "description": "Centralized cloud e-business and hosting platform for entrepreneurs.",
+    "website": "https://krepling.com",
+    "categories": "AI Website Builder, No-Code&Low-Code",
+    "slug": "krepling",
+    "created_at": "14:15:24 07/23/2025"
   },
   {
     "title": "SupermodsAI",
@@ -16682,6 +16736,15 @@
     "categories": "AI Art Generator, AI Anime Art, Prompt, Text to Image, AI Wallpaper Generator, AI Anime & Cartoon Generator",
     "slug": "girl-cool-anime-wallpaper",
     "created_at": "14:12:39 05/19/2025"
+  },
+  {
+    "title": "Buzzwald",
+    "name": "Buzzwald",
+    "description": "AI voice agent for websites to convert visitors into customers.",
+    "website": "https://buzzwald.com",
+    "categories": "AI Agent, AI Sales Assistant, AI Voice Assistants, AI Lead Generation, AI Customer Service, AI Transcription",
+    "slug": "buzzwald",
+    "created_at": "14:15:24 07/23/2025"
   },
   {
     "title": "Modernbanc",
