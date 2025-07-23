@@ -3834,6 +3834,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "Pika - Social AI Video",
+    "name": "Pika - Social AI Video",
+    "description": "AI-only social app for transforming selfies into creative AI videos.",
+    "website": "https://apps.apple.com/gb/app/pika-social-ai-video/id6744712684",
+    "categories": "AI Video Generator, AI Social Media, AI Short Video Generator, Image to Video, AI Avatar Video Generator",
+    "slug": "pika-social-ai-video",
+    "created_at": "02:54:34 07/23/2025"
+  },
+  {
     "title": "SkyPlanner APS",
     "name": "Skyplanner APS",
     "description": "AI-powered software for production scheduling and optimization.",
@@ -10817,6 +10826,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Mexty",
+    "name": "Mexty",
+    "description": "AI-powered tool for creating personalized, interactive e-learning content.",
+    "website": "https://mexty.ai",
+    "categories": "AI Course, AI Quiz Generator, AI Lesson Plan Generator, AI Game Generator, AI Teachers",
+    "slug": "mexty",
+    "created_at": "02:54:34 07/23/2025"
+  },
+  {
     "title": "Vetzi.io",
     "name": "Vetzi.io",
     "description": "AI-driven documentation automation for veterinary clinics.",
@@ -13787,6 +13805,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Xavier AI",
+    "name": "Xavier AI",
+    "description": "AI strategy consultant for quick, strategic presentation and deck generation.",
+    "website": "https://www.xavier.ai",
+    "categories": "AI Presentation Generator, AI Consulting, AI PPT Maker, AI Pitch Deck Generator, AI Marketing, AI Sales",
+    "slug": "xavier-ai",
+    "created_at": "02:54:34 07/23/2025"
+  },
+  {
     "title": "MeaningIn.Chat",
     "name": "MeaningIn.Chat",
     "description": "MeaningIn.Chat is a website that explains chat symbols, emojis, and internet slang.",
@@ -14712,6 +14739,15 @@
     "categories": "AI Dating Assistant, AI Text Message Generator, AI Rizz Generator",
     "slug": "firetexts-1",
     "created_at": "14:12:47 05/26/2025"
+  },
+  {
+    "title": "Free AI Manga Translator",
+    "name": "Free AI Manga Translator",
+    "description": "Free AI tool for translating Japanese manga, Korean manhwa, and Chinese manhua.",
+    "website": "https://freemangatranslator.com",
+    "categories": "AI Translate, AI Image Translator, AI OCR, AI Comic",
+    "slug": "free-ai-manga-translator",
+    "created_at": "02:54:34 07/23/2025"
   },
   {
     "title": "SkinCareLens",
