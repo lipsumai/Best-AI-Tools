@@ -639,6 +639,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ATSResumeGenerator",
+    "name": "ATSResumeGenerator",
+    "description": "ATS-friendly resume builder for job seekers to pass filters.",
+    "website": "https://atsresumegenerator.com",
+    "categories": "AI Resume Builder, Resume AI, AI Cover Letter Generator, AI Resume Checker",
+    "slug": "atsresumegenerator",
+    "created_at": "14:15:19 07/24/2025"
+  },
+  {
     "title": "Proust",
     "name": "Proust",
     "description": "Proust is a transcription tool for YouTube videos that enhances accessibility.",
@@ -709,6 +718,15 @@
     "categories": "AI Chatbot, AI Education Assistant, AI Knowledge Base, AI Knowledge Graph, AI Knowledge Management, AI Product Description Generator, AI Tools Directory, Large Language Models (LLMs)",
     "slug": "pocket-hansei",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Virly",
+    "name": "Virly",
+    "description": "AI writes viral LinkedIn posts and provides 30-day content plans.",
+    "website": "https://virly.ai",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Writing Assistants, AI Lead Generation, AI Scheduling",
+    "slug": "virly",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Quantum Trading Research",
@@ -1287,6 +1305,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Urbalytics",
+    "name": "Urbalytics",
+    "description": "AI-driven real estate data platform for market analysis and investment.",
+    "website": "https://urbalytics.jp",
+    "categories": "AI Real Estate, AI Investing, AI For Finance, AI Predictions, AI API",
+    "slug": "urbalytics",
+    "created_at": "14:15:19 07/24/2025"
+  },
+  {
     "title": "Picsart",
     "name": "Picsart",
     "description": "Comprehensive tool for photo editing and graphic design.",
@@ -1645,6 +1672,15 @@
     "categories": "AI Developer Docs, AI Productivity Tools, AI Meeting Assistant",
     "slug": "docdocsai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "mention.click",
+    "name": "mention.click",
+    "description": "AI tool to find relevant Reddit conversations for business growth.",
+    "website": "https://mention.click",
+    "categories": "AI Lead Generation, AI Social Media, AI Marketing, AI Productivity Tools",
+    "slug": "mention-click",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Dafthunk",
@@ -2583,6 +2619,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Postdit",
+    "name": "Postdit",
+    "description": "AI-powered tool for generating platform-optimized social media content quickly.",
+    "website": "https://postdit.co",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Text Generator, AI Writing Assistants, AI Instagram Caption Generator",
+    "slug": "postdit",
+    "created_at": "14:15:19 07/24/2025"
+  },
+  {
     "title": "Phase",
     "name": "Phase",
     "description": "AI art creation tool for guiding and collaborating with AI.",
@@ -3166,6 +3211,15 @@
     "categories": "Other",
     "slug": "neurocraft",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Banter Messenger",
+    "name": "Banter Messenger",
+    "description": "AI-powered messaging app for meaningful family and friend connections.",
+    "website": "https://apps.apple.com/us/app/banter-messenger/id6745479848",
+    "categories": "AI Message Generator, AI Prompt Generator, AI Assistant, AI Social Media",
+    "slug": "banter-messenger",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Mooonshot.io",
@@ -5731,6 +5785,15 @@
     "categories": "NSFW, AI Story Writing, AI Creative Writing, AI Content Generator, AI Blog Writer",
     "slug": "smutfinder",
     "created_at": "14:12:41 05/20/2025"
+  },
+  {
+    "title": "Codapt",
+    "name": "Codapt",
+    "description": "Vibe code full-stack web apps. No supabase. No limits.",
+    "website": "https://codapt.ai",
+    "categories": "AI Website Builder, AI Developer Tools",
+    "slug": "codapt",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Skills Up",
@@ -8388,6 +8451,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MagicBlocks",
+    "name": "MagicBlocks",
+    "description": "Launch AI sales agents that drive 3X more conversions.",
+    "website": "https://www.magicblocks.ai",
+    "categories": "AI Sales, AI Agent",
+    "slug": "magicblocks",
+    "created_at": "14:15:19 07/24/2025"
+  },
+  {
     "title": "Image to Text Converter",
     "name": "Image to Text Converter IO",
     "description": "An online tool for extracting text from images using OCR technology.",
@@ -8449,6 +8521,15 @@
     "categories": "Other",
     "slug": "automcp-convert-agents-to-mcp-servers",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "SyroShop",
+    "name": "SyroShop",
+    "description": "No-code platform for creators to build, sell, teach, and grow their business.",
+    "website": "https://syro.shop",
+    "categories": "AI Website Builder, No-Code&Low-Code, AI Assistant, AI Writing Assistants, AI Affiliate Marketing, AI Course",
+    "slug": "syroshop",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Fastn UCL",
@@ -11438,6 +11519,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "OCR Markdown",
+    "name": "OCRMD",
+    "description": "Converts images and PDFs to editable Markdown using OCR.",
+    "website": "https://ocrmd.com",
+    "categories": "AI OCR, AI PDF, AI Document Extraction, AI Transcriber",
+    "slug": "ocrmd",
+    "created_at": "14:15:19 07/24/2025"
+  },
+  {
     "title": "SmartlyQ",
     "name": "SmartlyQ",
     "description": "SmartlyQ is your all-in-one AI-powered content creation and scheduling platform built for marketers, agencies, and SaaSpreneurs. From social posts and carousels to blog snippets and email campaigns, SmartlyQ helps you generate high-converting content in seconds — no creative block, no wasted time.  With pre-trained AI assistants, niche-specific templates, and seamless WordPress article scheduling and posting, SmartlyQ automates the entire content workflow so you can focus on growth. Ideal for HighLevel users and anyone looking to scale content without hiring a team.  👉 Try it now at smartlyq.com",
@@ -12057,6 +12147,15 @@
     "categories": "AI Product Description Generator",
     "slug": "talksprout",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Loomr",
+    "name": "Loomr",
+    "description": "AI agent automating first-touch conversations, lead qualification, and info collection.",
+    "website": "https://loomr.co",
+    "categories": "AI Agent, AI Chatbot, AI Lead Generation, AI Assistant, AI Recruiting, No-Code&Low-Code",
+    "slug": "loomr",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Hyperfeed.ai",
@@ -15044,6 +15143,15 @@
     "categories": "Translate, AI Course",
     "slug": "memri-se",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Dream Story",
+    "name": "Dream Story Live - AI Journaling App",
+    "description": "AI-powered journaling app for self-reflection, growth, and community.",
+    "website": "https://www.dreamstorylive.com",
+    "categories": "AI Writing Assistants, AI Assistant, AI Mental Health, AI Productivity Tools",
+    "slug": "dream-story-live-ai-journaling-app",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Silque AI",
@@ -20948,6 +21056,15 @@
     "categories": "AI CRM Assistant, AI Lead Generation, Sales Assistant",
     "slug": "ciro",
     "created_at": "14:11:31 05/08/2025"
+  },
+  {
+    "title": "AstrolGuru",
+    "name": "AstrolGuru",
+    "description": "AI-powered astrology guide for instant personalized insights and birth chart analysis.",
+    "website": "https://astrolguru.com",
+    "categories": "AI Predictions, AI Assistant, AI Chatbot, AI Writing, AI Life",
+    "slug": "astrolguru",
+    "created_at": "14:15:19 07/24/2025"
   },
   {
     "title": "Meshcapade Me",
