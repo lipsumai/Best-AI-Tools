@@ -16036,6 +16036,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "Gpt 5 Ai",
+    "name": "Gpt 5 Ai",
+    "description": "Advanced AI platform for chat, coding, math, and reasoning.",
+    "website": "https://gpt5ai.ai",
+    "categories": "AI Chatbot, AI Code Assistant, AI Developer Tools, AI Code Generator, AI API",
+    "slug": "gpt-5-ai",
+    "created_at": "02:53:42 07/24/2025"
+  },
+  {
     "title": "OpenAI Academy",
     "name": "OpenAI Academy",
     "description": "Free AI resource hub with workshops and videos for all levels.",
