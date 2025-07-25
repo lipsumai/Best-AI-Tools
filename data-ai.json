@@ -2925,6 +2925,15 @@
     "created_at": "02:42:45 06/13/2025"
   },
   {
+    "title": "Tinybird",
+    "name": "Tinybird",
+    "description": "Managed ClickHouse for AI-native developers to build real-time analytics APIs.",
+    "website": "https://www.tinybird.co",
+    "categories": "AI Developer Tools, AI API, AI For Data Analytics, AI Code Assistant",
+    "slug": "tinybird",
+    "created_at": "14:13:12 07/25/2025"
+  },
+  {
     "title": "SMASHING LOGO",
     "name": "SMASHING LOGO",
     "description": "User-friendly logo maker for various industries without design experience.",
@@ -11402,6 +11411,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GoMim Math AI",
+    "name": "GoMim Math AI",
+    "description": "AI math solver providing step-by-step solutions for various math problems.",
+    "website": "https://gomim.com",
+    "categories": "AI Math, AI Homework Helper, AI OCR, AI Image Recognition, AI Assistant",
+    "slug": "gomim-math-ai",
+    "created_at": "14:13:12 07/25/2025"
+  },
+  {
     "title": "Post Perfect",
     "name": "Post Perfect",
     "description": "Automate Discord content workflow with trending stories.",
@@ -12210,6 +12228,15 @@
     "categories": "AI Anime & Cartoon Generator, AI Video Editor, Image to Image, AI Selfie & Portrait, AI Background Remover, AI Profile Picture Generator, Photo & Image Editor, AI Avatar Generator, AI Photo & Image Generator, AI Graphic Design, AI Art Generator, AI Ad Creative Assistant, AI Advertising Assistant, AI Design Generator, AI Photo Enhancer, AI Image Enhancer, Design Assistant, AI Social Media Assistant, AI Ad Generator, AI Instagram Assistant, Digital Marketing Generator, Marketing Plan Generator",
     "slug": "lightx",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Bestever",
+    "name": "Bestever",
+    "description": "AI platform for ad analysis, generation, and optimization.",
+    "website": "https://bestever.ai",
+    "categories": "AI Ad Generator, AI Ad Creative, AI Advertising, AI Marketing, AI Commercial Generator, AI Video Generator",
+    "slug": "bestever",
+    "created_at": "14:13:12 07/25/2025"
   },
   {
     "title": "Tokenomy",
@@ -13814,6 +13841,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Well Embed",
+    "name": "Well Embed",
+    "description": "AI-native infrastructure for automated invoice and receipt retrieval.",
+    "website": "https://embed.wellapp.ai",
+    "categories": "AI API, AI Document Extraction, AI OCR, AI For Finance, AI Developer Tools",
+    "slug": "well-embed",
+    "created_at": "14:13:12 07/25/2025"
+  },
+  {
     "title": "Kawaak",
     "name": "Kawaak",
     "description": "AI-powered tool for viral, personalized LinkedIn content creation and scheduling.",
@@ -14748,6 +14784,15 @@
     "categories": "AI Anime Art, AI Story Writing, AI Lip Sync Generator, AI YouTube Assistant, AI Tiktok Assistant, AI Art Generator, AI 3D Model Generator, Image to 3D Model, AI Video Recording, Captions or Subtitle, AI Script Writing, AI Creative Writing, AI Social Media Assistant, Photo & Image Editor, AI Background Remover, AI Face Swap Generator, AI Anime & Cartoon Generator, AI Video Editor, AI Thumbnail Maker, AI Video Enhancer, AI Image Enhancer, AI Photo Enhancer",
     "slug": "vadoo-ai",
     "created_at": "02:24:57 04/23/2025"
+  },
+  {
+    "title": "Bee",
+    "name": "Bee",
+    "description": "AI-powered wearable for conversation summaries, insights, and reminders.",
+    "website": "https://www.bee.computer",
+    "categories": "AI Assistant, AI Summarizer, AI Transcription, AI Agent",
+    "slug": "bee",
+    "created_at": "14:13:12 07/25/2025"
   },
   {
     "title": "Power to the Creator",
@@ -19859,6 +19904,15 @@
     "categories": "Writing Assistants, AI Content Generator, AI Code Assistant, AI Code Generator",
     "slug": "aide-dev",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Microtica",
+    "name": "Microtica AI Incident Investigator",
+    "description": "AI-powered DevOps platform for cloud infrastructure, pipelines, monitoring, and cost management.",
+    "website": "https://microtica.com",
+    "categories": "AI Developer Tools, AI Agent, AI Assistant, AI Monitor, AI Copilot",
+    "slug": "microtica-ai-incident-investigator",
+    "created_at": "14:13:12 07/25/2025"
   },
   {
     "title": "Typebot",
