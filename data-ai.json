@@ -3042,6 +3042,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Schematic",
+    "name": "Schematic",
+    "description": "Flexible billing & pricing engine for SaaS/AI.",
+    "website": "https://www.schematichq.com",
+    "categories": "AI Developer Tools, AI Sales, AI Productivity Tools, No-Code&Low-Code",
+    "slug": "schematic",
+    "created_at": "02:53:25 07/25/2025"
+  },
+  {
     "title": "CometCore AI",
     "name": "CometCore AI",
     "description": "CometCore AI provides AI-powered chat and creative tools for multimedia and coding.",
@@ -16943,6 +16952,15 @@
     "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Tiktok Assistant, AI Selfie & Portrait, AI Photo & Image Generator",
     "slug": "toyimageai",
     "created_at": "02:39:22 05/05/2025"
+  },
+  {
+    "title": "Fini",
+    "name": "Fini",
+    "description": "AI agents that resolve upto 80% of customer support tickets for enterprises.",
+    "website": "https://www.usefini.com",
+    "categories": "AI Customer Service, AI CRM, AI Chatbot, AI Agent",
+    "slug": "fini",
+    "created_at": "02:53:25 07/25/2025"
   },
   {
     "title": "Gromaply",
