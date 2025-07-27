@@ -2052,6 +2052,15 @@
     "created_at": "03:00:12 07/21/2025"
   },
   {
+    "title": "Runway Aleph",
+    "name": "Runway Aleph",
+    "description": "AI-powered video editor for multi-task video manipulation using natural language.",
+    "website": "https://runwayaleph.ai",
+    "categories": "AI Video Editor, AI Video Generator, Video to Video, Object Remover AI, AI Style Transfer, AI Commercial Generator, AI Short Video Generator",
+    "slug": "runway-aleph",
+    "created_at": "03:03:09 07/27/2025"
+  },
+  {
     "title": "Social Media Bio Generator",
     "name": "Social Media Bio Generator",
     "description": "Craft unique and tailored bios with customizable tone, type, and language. Perfect fit for different platforms.",
@@ -10727,6 +10736,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Unshackled AI",
+    "name": "Unshackled AI",
+    "description": "AI-powered, uncensored chatbot for unrestricted conversations and content generation.",
+    "website": "https://www.unshackled.me",
+    "categories": "AI Chatbot, AI API, AI Chat Generator, AI Assistant",
+    "slug": "unshackled-ai",
+    "created_at": "03:03:09 07/27/2025"
+  },
+  {
     "title": "Omnichat AI",
     "name": "Omnichat AI",
     "description": "An omnichannel platform for chat commerce and customer interaction.",
@@ -11796,6 +11814,15 @@
     "categories": "Other",
     "slug": "hedda-app",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "See Your Soulmate",
+    "name": "See Your Soulmate",
+    "description": "AI-powered platform for personalized soulmate sketches and discovery.",
+    "website": "https://seeyoursoulmate.net",
+    "categories": "AI Sketch Generator, AI Dating Assistant, AI Portrait Generator, AI Quizzes",
+    "slug": "see-your-soulmate",
+    "created_at": "03:03:09 07/27/2025"
   },
   {
     "title": "PolyPal",
@@ -17861,6 +17888,15 @@
     "categories": "AI Graphic Design, Design Assistant, AI Tutorial, AI Education Assistant, AI Video Editor",
     "slug": "wisbox-ai",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "Talk To Locals",
+    "name": "Talk To Locals",
+    "description": "Two-way voice translator that turns your phone into a speaking interpreter",
+    "website": "https://talktolocals.ai",
+    "categories": "AI Voice Translator",
+    "slug": "talk-to-locals",
+    "created_at": "03:03:09 07/27/2025"
   },
   {
     "title": "Sendbird",
