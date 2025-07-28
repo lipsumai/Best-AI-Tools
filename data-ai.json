@@ -1926,6 +1926,15 @@
     "created_at": "14:12:49 07/03/2025"
   },
   {
+    "title": "TarotCards.io",
+    "name": "TarotCards.io",
+    "description": "Free AI tarot readings and psychic chat for life guidance.",
+    "website": "https://tarotcards.io",
+    "categories": "AI Predictions, AI Chatbot",
+    "slug": "tarotcards-io",
+    "created_at": "03:01:29 07/28/2025"
+  },
+  {
     "title": "Ducky",
     "name": "Ducky",
     "description": "Fully managed AI retrieval, RAG, and data indexing platform designed specifically for developers who need to connect fast, accurate search to generative AI applications.",
@@ -9594,6 +9603,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Aluo AI",
+    "name": "Aluo AI",
+    "description": "AI image editing platform for e-commerce, creating professional product images quickly.",
+    "website": "https://aluo.ai",
+    "categories": "AI Product Photography, AI Background Remover, AI Background Generator, AI Photo Editor, AI Design Generator",
+    "slug": "aluo-ai",
+    "created_at": "03:01:29 07/28/2025"
+  },
+  {
     "title": "SeeMuseums",
     "name": "SeeMuseums",
     "description": "AI-powered insights for enriching museum visits and art appreciation.",
@@ -14019,6 +14037,15 @@
     "categories": "AI SEO Assistant, Large Language Models (LLMs), AI Search Engine",
     "slug": "llmrefs",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "Singify Vocal Remover",
+    "name": "Singify Vocal Remover",
+    "description": "Singify AI Vocal Remover online extracts vocals or isolate voice and instruments from any song. Fast, free, and easy to use.",
+    "website": "https://singify.fineshare.com",
+    "categories": "AI Audio Splitter, AI Music Generator",
+    "slug": "singify-vocal-remover",
+    "created_at": "03:01:29 07/28/2025"
   },
   {
     "title": "iOS App of AMA",
