@@ -918,6 +918,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "findable",
+    "name": "findable.",
+    "description": "LLM SEO toolkit to optimize AI search visibility and rankings.",
+    "website": "https://findableapp.com",
+    "categories": "AI SEO Tools, Large Language Models (LLMs), AI Search Engine, SEO Writing AI, AI Marketing",
+    "slug": "findable",
+    "created_at": "14:16:42 07/28/2025"
+  },
+  {
     "title": "renu.",
     "name": "renu. Weight Loss Assistant",
     "description": "Transparent weight loss tracking made easy.",
@@ -943,6 +952,15 @@
     "categories": "AI Developer Tools, AI App Builder, AI Code Generator, AI Code Assistant, AI Agent, AI Copilot",
     "slug": "pythagora",
     "created_at": "14:12:54 06/25/2025"
+  },
+  {
+    "title": "Redesignr Ai - landing page builder and website redesign",
+    "name": "Redesignr Ai - landing page builder and website redesign",
+    "description": "AI platform for building landing pages, redesigning websites, and generating documentation.",
+    "website": "https://redesignr.ai",
+    "categories": "AI Landing Page Builder, AI Website Designer, AI Website Builder, AI Documents Generator",
+    "slug": "redesignr-ai-landing-page-builder-and-website-redesign",
+    "created_at": "14:16:42 07/28/2025"
   },
   {
     "title": "Daetama",
@@ -5400,6 +5418,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "OnSpace.AI",
+    "name": "OnSpace.AI",
+    "description": "Free AI Mobile App Builder, full-stack & monetized.",
+    "website": "https://www.onspace.ai",
+    "categories": "AI App Builder",
+    "slug": "onspace-ai-app-builder-ai-no-code-platform",
+    "created_at": "14:16:42 07/28/2025"
+  },
+  {
     "title": "LiarLiar.ai - AI Lie Detector & Heart Rate Monitor",
     "name": "LiarLiar",
     "description": "\"LiarLiar.ai is an advanced AI tool that detects lies and heart rate changes during video calls.\"",
@@ -9684,6 +9711,15 @@
     "created_at": "02:49:49 06/30/2025"
   },
   {
+    "title": "Suverenum",
+    "name": "Find local AI in 10 secs with Suverenum",
+    "description": "Tool to find and run private local AI models on your laptop.",
+    "website": "https://suverenum.ai",
+    "categories": "AI Tools Directory, AI Search Engine, AI Models",
+    "slug": "find-local-ai-in-10-secs-with-suverenum",
+    "created_at": "14:16:42 07/28/2025"
+  },
+  {
     "title": "Remy",
     "name": "Remy",
     "description": "AI cooking assistant for step-by-step recipe guidance.",
@@ -11778,6 +11814,15 @@
     "categories": "AI Tutorial, AI Course, AI Content Generator, AI Animated Video, AI Video Generator",
     "slug": "studia-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Quicko Pro",
+    "name": "Quicko Pro",
+    "description": "AI-first online practice management software for advisors.",
+    "website": "https://quicko.pro",
+    "categories": "AI Tax Assistant, AI Productivity Tools, AI Assistant, AI Project Management",
+    "slug": "quicko-pro",
+    "created_at": "14:16:42 07/28/2025"
   },
   {
     "title": "GhostCoder",
@@ -13884,6 +13929,15 @@
     "categories": "Sales Assistant, AI Analytics Assistant, AI Lead Generation, Research Tool, Large Language Models (LLMs), Report Writing",
     "slug": "autopitch-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PopResume",
+    "name": "PopResume",
+    "description": "AI-powered platform for resumes, cover letters, and job prep.",
+    "website": "https://www.popresume.com",
+    "categories": "AI Resume Builder, AI Cover Letter Generator, AI Interview Assistant, Resume AI",
+    "slug": "popresume",
+    "created_at": "14:16:42 07/28/2025"
   },
   {
     "title": "Well Embed",
@@ -17402,6 +17456,15 @@
     "categories": "AI Voice Generator, AI Text-to-Speech, AI Writing Assistants",
     "slug": "untitledpen",
     "created_at": "14:12:18 06/13/2025"
+  },
+  {
+    "title": "Bilbo - Metabase AI Assistant",
+    "name": "Bilbo",
+    "description": "AI assistant for Metabase to query, explore, and visualize data.",
+    "website": "https://getbilbo.com",
+    "categories": "AI Assistant, AI For Data Analytics, AI Charting, AI Search Engine",
+    "slug": "bilbo",
+    "created_at": "14:16:42 07/28/2025"
   },
   {
     "title": "Post 5s",
