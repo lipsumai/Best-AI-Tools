@@ -3582,6 +3582,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Edison",
+    "name": "Edison",
+    "description": "AI edits your talking video — removes silence & filler words, auto subtitle & captions, formats for Reels/ Shorts/ TikTok.",
+    "website": "https://getedison.ai",
+    "categories": "AI Video Editor, AI UGC Video Generator",
+    "slug": "edison-say-goodbye-to-video-editing",
+    "created_at": "03:05:08 07/29/2025"
+  },
+  {
     "title": "Rednit",
     "name": "Rednit",
     "description": "The ultimate wingman for engaging, copy and paste conversations.",
@@ -15415,6 +15424,15 @@
     "created_at": "14:12:04 07/17/2025"
   },
   {
+    "title": "Wan 2.2",
+    "name": "Wan 2.2",
+    "description": "AI video generator transforming text & images into stunning videos.",
+    "website": "https://wan2-2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, Open Source AI Models",
+    "slug": "wan-2-2",
+    "created_at": "03:05:08 07/29/2025"
+  },
+  {
     "title": "SpeakingAI",
     "name": "SpeakingAI",
     "description": "Mobile app for practicing and improving spoken language skills with AI.",
@@ -21101,6 +21119,15 @@
     "categories": "AI Interior & Room Design, AI 3D Model Generator",
     "slug": "foyr-neo",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Image to Excel",
+    "name": "Image to Excel",
+    "description": "AI-powered online tool to convert images with tables to Excel.",
+    "website": "https://imagetoexcel.app",
+    "categories": "AI OCR, AI Document Extraction, Excel AI, AI PDF",
+    "slug": "image-to-excel",
+    "created_at": "03:05:08 07/29/2025"
   },
   {
     "title": "Civitai green",
