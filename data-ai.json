@@ -855,6 +855,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "WebAll",
+    "name": "WebAll",
+    "description": "AI answering service for calls, appointments, and info.",
+    "website": "https://weball.ai",
+    "categories": "AI Agent, AI Call Center, AI Assistant, AI Voice Assistants, AI Scheduling, AI Transcriber, AI Customer Service",
+    "slug": "weball",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "Deeper",
     "name": "Deeper app",
     "description": "Deeper generates random relationship questions to foster meaningful conversations with partners.",
@@ -916,6 +925,15 @@
     "categories": "AI Lip Sync Generator, Image to Video, AI Video Generator, AI Animation Generator",
     "slug": "lipsync-video",
     "created_at": "14:12:32 06/05/2025"
+  },
+  {
+    "title": "Pathable",
+    "name": "Pathable",
+    "description": "AI Chrome extension for authentic, engaging X/Twitter content in your unique voice.",
+    "website": "https://pathable.app",
+    "categories": "AI Twitter, AI Tweet Generator, AI Copilot, AI Social Media Post Generator, AI Assistant",
+    "slug": "pathable",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "findable",
@@ -1114,6 +1132,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Models",
     "slug": "fllow-ai",
     "created_at": "14:10:23 05/25/2025"
+  },
+  {
+    "title": "Nitrode",
+    "name": "Nitrode",
+    "description": "AI game engine for rapid 3D game development with AI assistance.",
+    "website": "https://www.nitrode.com",
+    "categories": "AI Developer Tools, AI Game Generator, AI Code Generator, AI Art Generator, AI Assistant",
+    "slug": "nitrode",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "PicAisso.xyz",
@@ -2491,6 +2518,15 @@
     "categories": "AI Workflow, No-Code&Low-Code, AI Agent, AI Sales, AI Lead Generation, AI For Finance",
     "slug": "vue-ai",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "Narra",
+    "name": "Narra",
+    "description": "Find, save, organize, and create viral short-form videos 100x faster.",
+    "website": "https://usenarra.com",
+    "categories": "AI Short Video Generator, AI Tiktok Video Generator, AI Social Media Post Generator, AI Transcription, AI Reel Generator",
+    "slug": "narra",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Dish DJ",
@@ -5904,6 +5940,15 @@
     "created_at": "14:12:38 05/30/2025"
   },
   {
+    "title": "PodClips",
+    "name": "PodClips",
+    "description": "AI tool to create viral video content from podcasts.",
+    "website": "https://podclips.pro",
+    "categories": "AI Podcast Clip Generator, Long Video To Short Video AI, AI Short Video Generator, AI Repurpose, AI Podcast",
+    "slug": "podclips",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "ChoCho | ChooseChosei",
     "name": "ChooseChosei",
     "description": "Transforming design workflow and improving communication process for designers and customers.",
@@ -6552,6 +6597,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VibeBlocks",
+    "name": "VibeBlocks",
+    "description": "AI tool transforming app ideas into structured, spec-driven blueprints.",
+    "website": "https://www.vibeblocks.dev",
+    "categories": "AI Developer Tools, AI App Builder, AI Project Management, No-Code&Low-Code",
+    "slug": "vibeblocks",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "nom3d.studio",
     "name": "nom3d.studio",
     "description": "AI-powered platform for 2D to 3D logo conversion and creation.",
@@ -7126,6 +7180,15 @@
     "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
     "slug": "vibecode",
     "created_at": "02:54:14 07/18/2025"
+  },
+  {
+    "title": "Whappy",
+    "name": "Whappy",
+    "description": "AI-powered WhatsApp automation for lead qualification, conversion, and meeting booking.",
+    "website": "https://whappy.ai",
+    "categories": "AI Agent, AI Chatbot, AI Sales Assistant, AI Lead Generation, AI Scheduling, AI Customer Service",
+    "slug": "whappy",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Cheaprr",
@@ -8514,6 +8577,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "StickerStudio",
+    "name": "StickerStudio",
+    "description": "AI-powered custom stickers from your photos.",
+    "website": "https://stickerstudio.art",
+    "categories": "AI Sticker Generator, AI Portrait Generator, AI Emoji Generator, AI Avatar Generator",
+    "slug": "stickerstudio",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "PressMatchAI",
     "name": "PressMatchAI",
     "description": "Connects users with media opportunities for exposure and backlinks.",
@@ -8593,6 +8665,15 @@
     "categories": "AI Book Writing, AI Content Generator, AI Creative Writing, Novel, AI Story Writing",
     "slug": "books-by-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Convi",
+    "name": "Convi",
+    "description": "AI-powered commerce suite for Shopify merchants.",
+    "website": "https://conviapp.com",
+    "categories": "AI Copilot, AI Sales Assistant, AI Customer Service, AI Chatbot, AI Sales, AI Search Engine",
+    "slug": "convi",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Naptha AI",
@@ -9009,6 +9090,15 @@
     "created_at": "14:11:46 06/21/2025"
   },
   {
+    "title": "Layout",
+    "name": "Layout.dev",
+    "description": "AI platform for instant software prototypes, code, and UI.",
+    "website": "https://layout.dev",
+    "categories": "AI App Builder, AI Website Builder, AI Code Generator, No-Code&Low-Code, AI Developer Tools, AI Code Assistant",
+    "slug": "layout-dev",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "A2E Free and Uncensored AI Videos",
     "name": "A2E Free and Uncensored AI Videos",
     "description": "Free and uncensored AI toolbox for creators including image-to-video, lip-sync, ai videos generator, AI avatars, voice clone, face swap and APIs.",
@@ -9295,6 +9385,15 @@
     "categories": "AI Video Generator, Text to Video, AI Animated Video, Video to Video, AI Video Editor, AI Video Recording, AI Content Generator, AI Script Writing, AI UGC Video Generator",
     "slug": "framepack",
     "created_at": "14:10:50 04/18/2025"
+  },
+  {
+    "title": "Zaia Health AI",
+    "name": "Zaia Health Voice Assistant (iOS App)",
+    "description": "AI voice health companion for habit guidance and health data integration.",
+    "website": "https://www.zaiahealth.ai",
+    "categories": "AI Healthcare, AI Voice Assistants, AI Mental Health, AI Fitness, AI Coaching",
+    "slug": "zaia-health-voice-assistant-ios-app",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "PostPerfect",
@@ -9729,6 +9828,15 @@
     "created_at": "02:49:49 06/30/2025"
   },
   {
+    "title": "Doco",
+    "name": "Doco",
+    "description": "AI writing assistant for Microsoft Word, optimizing structured document workflows.",
+    "website": "https://trydoco.com",
+    "categories": "AI WORD, AI Writing Assistants, AI Assistant, AI Productivity Tools",
+    "slug": "doco",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "Suverenum",
     "name": "Find local AI in 10 secs with Suverenum",
     "description": "Tool to find and run private local AI models on your laptop.",
@@ -9798,6 +9906,15 @@
     "website": "https://play.google.com/store/apps/details",
     "slug": "veyld-anonymous-messages-with-photos",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Open SaaS",
+    "name": "Open SaaS",
+    "description": "Free, open-source full-stack SaaS boilerplate for faster development.",
+    "website": "https://opensaas.sh",
+    "categories": "AI Developer Tools, AI App Builder, AI Website Builder, Open Source AI Models",
+    "slug": "open-saas",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Productboard",
@@ -10169,6 +10286,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Magic Patterns",
+    "name": "Magic Patterns",
+    "description": "AI prototyping platform for faster UI generation and iteration.",
+    "website": "https://www.magicpatterns.com",
+    "categories": "AI UX Design, AI Design Generator, AI Mockup Generator, AI Design Assistant",
+    "slug": "magic-patterns",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "groas",
     "name": "groas",
     "description": "AI platform for optimizing Google Search Ads and funnels.",
@@ -10284,6 +10410,15 @@
     "categories": "Other",
     "slug": "myportfolio",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tabby",
+    "name": "Tabby",
+    "description": "AI-driven bookkeeping for self-employed, automating expenses and tax reports.",
+    "website": "https://usetabby.com",
+    "categories": "AI Accounting, AI Tax Assistant, AI For Finance, AI Report Generator",
+    "slug": "tabby-ai-bookkeeper",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Breef",
@@ -10761,6 +10896,15 @@
     "categories": "AI Podcast Assistant, Newsletter, AI Content Generator, Summarizer",
     "slug": "podpod",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "SynapticAI",
+    "name": "Synaptic AI",
+    "description": "AI learning companion to remember, organize, and recall online content.",
+    "website": "https://synapticai.app",
+    "categories": "AI Assistant, AI Productivity Tools, AI Summarizer, AI Knowledge Management, AI Note Taker, AI Youtube Summary, AI Task Management",
+    "slug": "synaptic-ai",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Callab AI",
@@ -12509,6 +12653,15 @@
     "created_at": "02:40:55 06/05/2025"
   },
   {
+    "title": "TryScribe",
+    "name": "TryScribe",
+    "description": "AI-powered tools for enhanced productivity and streamlined workflows.",
+    "website": "https://tryscribe.in",
+    "categories": "AI Productivity Tools, AI PDF, AI Video Summarizer, AI Color Palette Generator, AI Summarizer",
+    "slug": "tryscribe",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "Fight IQ",
     "name": "Fight IQ",
     "description": "Personalized combat sport coaching",
@@ -12741,6 +12894,15 @@
     "categories": "AI Trading Bot Assistant",
     "slug": "making-invest",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "NexaVoxa",
+    "name": "NexaVoxa",
+    "description": "AI voice agents for automated, human-like business calls, 24/7 support.",
+    "website": "https://nexavoxa.com",
+    "categories": "AI Agent, AI Voice Assistants, AI Call Center, AI Customer Service, AI Lead Generation",
+    "slug": "nexavoxa",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Text Beat - Instant video creator",
@@ -13598,6 +13760,15 @@
     "created_at": "14:13:09 06/23/2025"
   },
   {
+    "title": "Minecraft Plot",
+    "name": "Minecraft Plot",
+    "description": "Free, comprehensive Minecraft tools for players and server owners.",
+    "website": "https://www.minecraftplot.com",
+    "categories": "Minecraft AI, AI Games, AI Assistant, AI Website Builder",
+    "slug": "minecraft-plot",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "AI Old Photo Restoration Online - ImgKit",
     "name": "AI Old Photo Restoration Online - ImgKit",
     "description": "Revitalize old photos with AI restoration tool.",
@@ -14325,6 +14496,15 @@
     "categories": "AI Recruiting, AI Agent, AI Assistant",
     "slug": "zara",
     "created_at": "02:50:01 07/12/2025"
+  },
+  {
+    "title": "Chat Agents",
+    "name": "Chat Agents",
+    "description": "No-code platform for businesses to create AI Chatbots and Agents that delights your customers and users.",
+    "website": "https://www.chatagents.io",
+    "categories": "AI Chatbot, AI Facebook, AI Instagram, AI Tiktok, No-Code&Low-Code, AI CRM, AI Call Center, AI Customer Service, AI Digital Marketing, AI Lead Generation, AI Sales, AI Sales Assistant",
+    "slug": "chat-agents",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Shoplauncher AI",
@@ -15530,6 +15710,15 @@
     "categories": "Other",
     "slug": "business-valuation-expert",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RankYak",
+    "name": "RankYak",
+    "description": "AI agent for automated SEO content, keyword research, article generation, and publishing.",
+    "website": "https://rankyak.com",
+    "categories": "AI SEO Tools, AI Agent, SEO Writing AI",
+    "slug": "rankyak",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "Whattocode",
@@ -17233,6 +17422,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "LinkBird",
+    "name": "Linkbird",
+    "description": "AI-powered LinkedIn automation for safe outreach and lead generation.",
+    "website": "https://linkbird.ai",
+    "categories": "AI Sales Assistant, AI Lead Generation, AI Sales, AI Social Media",
+    "slug": "linkbird",
+    "created_at": "14:14:45 07/30/2025"
+  },
+  {
     "title": "Melodisco - AI Music Player",
     "name": "Melodisco AI Music Player",
     "description": "Discover AI Songs in Melodisco",
@@ -18050,6 +18248,15 @@
     "categories": "AI Advertising Assistant",
     "slug": "venturefy-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Memories.ai",
+    "name": "Memories.ai",
+    "description": "AI that sees, remembers, and analyzes video for insights.",
+    "website": "https://memories.ai",
+    "categories": "AI Video Search, AI Video Summarizer, AI Video Editor, AI Transcriber",
+    "slug": "memories-ai",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "DiveDeck",
@@ -20030,6 +20237,15 @@
     "categories": "AI Art Generator, AI Photo & Image Generator",
     "slug": "face-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RunLLM",
+    "name": "RunLLM",
+    "description": "AI platform for enterprise technical support and issue resolution.",
+    "website": "https://www.runllm.com",
+    "categories": "AI Agent, AI Customer Service, AI Assistant, AI Code Assistant",
+    "slug": "runllm",
+    "created_at": "14:14:45 07/30/2025"
   },
   {
     "title": "EduSphere",
