@@ -1431,6 +1431,15 @@
     "created_at": "14:10:24 04/20/2025"
   },
   {
+    "title": "Chronox AI",
+    "name": "Chronox AI",
+    "description": "Build & Deploy AI Agents, Voice AI Assistant on WhatsApp, Instagram and more for Lead Generation, Customer Support, & beyond.",
+    "website": "https://chronox.ai",
+    "categories": "AI Agent, AI Voice Assistants, AI Instagram, AI Developer Tools, AI Chatbot, AI Email Assistant",
+    "slug": "chronox-ai",
+    "created_at": "03:08:34 08/01/2025"
+  },
+  {
     "title": "BestModelAI",
     "name": "BestModelAI",
     "description": "Automatically routes AI requests to the best model from 100+ options.",
@@ -11015,6 +11024,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Flux Krea",
+    "name": "Flux Krea",
+    "description": "Advanced AI for text-to-image generation.",
+    "website": "https://fluxkrea.co",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Realistic Image Generator",
+    "slug": "flux-krea",
+    "created_at": "03:08:34 08/01/2025"
+  },
+  {
     "title": "Meet Mine AI",
     "name": "Meetmine Ai",
     "description": "AI Characters with expressions and feelings in multiple languages",
@@ -12876,6 +12894,15 @@
     "categories": "Speech-to-Text, Research Tool, Translate, Summarizer, AI Roadmap Generator, AI Knowledge Base, AI Productivity Tools, AI Task Management, AI Project Management, AI Customer Service Assistant, AI Reply Assistant, AI Team Collaboration",
     "slug": "canny-autopilot",
     "created_at": "02:22:59 04/02/2025"
+  },
+  {
+    "title": "Runway Aleph AI",
+    "name": "Runway Aleph AI",
+    "description": "AI-powered platform for video generation and editing.",
+    "website": "https://alephai.app",
+    "categories": "AI Video Generator, AI Video Editor, Video to Video, Image to Video, AI Video Enhancer",
+    "slug": "runway-aleph-ai",
+    "created_at": "03:08:34 08/01/2025"
   },
   {
     "title": "InstaLM",
@@ -18221,6 +18248,15 @@
     "categories": "Large Language Models (LLMs)",
     "slug": "llmule",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Humanizer AI",
+    "name": "Humanizer AI-",
+    "description": "Converts AI text to human-like, undetectable content & detects AI.",
+    "website": "https://humanizerai.com",
+    "categories": "Humanizer AI, Bypass AI, Undetectable AI, AI Paraphraser, AI Detector, AI Rewriter",
+    "slug": "humanizer-ai-1",
+    "created_at": "03:08:34 08/01/2025"
   },
   {
     "title": "Yesr AI Negotiator",
