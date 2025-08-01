@@ -783,6 +783,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AuarAI",
+    "name": "AuarAI",
+    "description": "AI-powered personal stylist for outfit planning and wardrobe management.",
+    "website": "https://apps.apple.com/kz/app/auarai-ai-outfit-planner/id6748826470",
+    "categories": "AI Outfit Generator, AI Assistant, AI Productivity Tools, Fashion AI",
+    "slug": "auarai-ai-outfit-planner",
+    "created_at": "14:15:50 08/01/2025"
+  },
+  {
     "title": "ChatPLG",
     "name": "ChatPLG",
     "description": "On-demand PLG expert powered by Open AI",
@@ -1341,6 +1350,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Peedief",
+    "name": "Peedief",
+    "description": "AI-powered PDF generation from templates for structured documents.",
+    "website": "https://peedief.com",
+    "categories": "AI Documents Generator, AI PDF, AI Workflow, AI Agent, AI API",
+    "slug": "peedief",
+    "created_at": "14:15:50 08/01/2025"
+  },
+  {
     "title": "Personal Relations Manager",
     "name": "Mia PRM",
     "description": "Never miss a chance to nurture connections",
@@ -1861,6 +1879,15 @@
     "categories": "Text-to-Speech, AI Voice Cloning, AI Lyrics Generator, Recording, AI Speech Synthesis, Voice & Audio Editing, AI Singing Generator",
     "slug": "vagabond-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Horizon Alpha",
+    "name": "Horizon Alpha",
+    "description": "Next-gen AI platform for creation, research, and delivery.",
+    "website": "https://horizonalpha.ai",
+    "categories": "Large Language Models (LLMs), AI Chatbot, AI Code Assistant",
+    "slug": "horizon-alpha",
+    "created_at": "14:15:50 08/01/2025"
   },
   {
     "title": "FaceAge AI",
@@ -3022,6 +3049,15 @@
     "categories": "AI Developer Tools, AI API, AI For Data Analytics, AI Code Assistant",
     "slug": "tinybird",
     "created_at": "14:13:12 07/25/2025"
+  },
+  {
+    "title": "PathPair",
+    "name": "PathPair",
+    "description": "From course to career - Seamlessly",
+    "website": "https://www.pathpair.co",
+    "categories": "AI Jobs, Resume AI, AI Homework Helper, AI Resume Builder, AI Resume Checker",
+    "slug": "pathpair",
+    "created_at": "14:15:50 08/01/2025"
   },
   {
     "title": "SMASHING LOGO",
@@ -8991,6 +9027,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Snapventure",
+    "name": "Snapventure",
+    "description": "AI travel planning app for personalized itineraries.",
+    "website": "https://snapventure.app",
+    "categories": "AI Trip Planner, AI Travel, AI Schedule Maker, AI Assistant",
+    "slug": "snapventure",
+    "created_at": "14:15:50 08/01/2025"
+  },
+  {
     "title": "ImgEdify",
     "name": "ImgEdify",
     "description": "AI platform for generating and editing high-quality images.",
@@ -10878,6 +10923,15 @@
     "categories": "AI Chatbot, AI Knowledge Base, AI Tutorial, AI Knowledge Management, AI Developer Docs",
     "slug": "explainit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Staging AI",
+    "name": "Staging AI",
+    "description": "AI for virtual staging and furniture removal in seconds.",
+    "website": "https://stagingai.net",
+    "categories": "AI Interior Design, AI Real Estate, Object Remover AI, AI Photo Editor",
+    "slug": "staging-ai",
+    "created_at": "14:15:50 08/01/2025"
   },
   {
     "title": "slAItor",
@@ -13103,6 +13157,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Navoy",
+    "name": "Navoy",
+    "description": "AI-powered travel agent for personalized trip planning and booking.",
+    "website": "https://navoy.io",
+    "categories": "AI Travel, AI Trip Planner, AI Assistant, AI API",
+    "slug": "navoy",
+    "created_at": "14:15:50 08/01/2025"
+  },
+  {
     "title": "GPTChat",
     "name": "GPTChat",
     "description": "AI chatbot assistant for daily tasks and questions.",
@@ -13877,6 +13940,15 @@
     "created_at": "14:13:09 06/23/2025"
   },
   {
+    "title": "Eliott",
+    "name": "Eliott - Ask anything about your data",
+    "description": "AI marketing co-pilot for instant data insights.",
+    "website": "https://www.askeliott.com",
+    "categories": "AI Agent, AI Copilot, AI For Data Analytics, AI Marketing, AI Assistant",
+    "slug": "eliott-ask-anything-about-your-data",
+    "created_at": "14:15:50 08/01/2025"
+  },
+  {
     "title": "Minecraft Plot",
     "name": "Minecraft Plot",
     "description": "Free, comprehensive Minecraft tools for players and server owners.",
@@ -14055,6 +14127,15 @@
     "categories": "AI Code Assistant, AI Developer Docs, AI Product Description Generator, AI Tutorial",
     "slug": "codex-atlas",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Draftr",
+    "name": "Draftr",
+    "description": "AI email assistant pre-writes replies in your voice, saving hours daily.",
+    "website": "https://draftr.co",
+    "categories": "AI Email Assistant, AI Email Generator, AI Response Generator",
+    "slug": "draftr",
+    "created_at": "14:15:50 08/01/2025"
   },
   {
     "title": "Aitoolbox",
@@ -14622,6 +14703,15 @@
     "categories": "AI Chatbot, AI Facebook, AI Instagram, AI Tiktok, No-Code&Low-Code, AI CRM, AI Call Center, AI Customer Service, AI Digital Marketing, AI Lead Generation, AI Sales, AI Sales Assistant",
     "slug": "chat-agents",
     "created_at": "14:14:45 07/30/2025"
+  },
+  {
+    "title": "Mocha",
+    "name": "Mocha",
+    "description": "AI-powered no-code app builder turning ideas into live websites quickly.",
+    "website": "https://getmocha.com",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code",
+    "slug": "mocha",
+    "created_at": "14:15:50 08/01/2025"
   },
   {
     "title": "Shoplauncher AI",
@@ -15874,6 +15964,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "BrandKiit",
+    "name": "BrandKiit",
+    "description": "AI-powered platform for generating complete brand identities quickly.",
+    "website": "https://brandkiit.com",
+    "categories": "AI Logo Generator, AI Business Name Generator, AI Company Name Generator, AI Slogan Generator, AI Color Palette Generator",
+    "slug": "brandkiit",
+    "created_at": "14:15:50 08/01/2025"
+  },
+  {
     "title": "Winify AI",
     "name": "WinifyAI",
     "description": "AI platform automating security questionnaire and RFP responses.",
@@ -16052,6 +16151,15 @@
     "categories": "Other",
     "slug": "eatlink",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Okibi",
+    "name": "Okibi",
+    "description": "Natural language platform to build AI agents easily.",
+    "website": "https://okibi.ai",
+    "categories": "AI Agent, AI Assistant, No-Code&Low-Code",
+    "slug": "okibi",
+    "created_at": "14:15:50 08/01/2025"
   },
   {
     "title": "Rownd",
@@ -18673,6 +18781,15 @@
     "created_at": "02:43:00 05/01/2025"
   },
   {
+    "title": "Wan 2.2 AI",
+    "name": "Wan 2.2 AI-",
+    "description": "Open-source MoE AI video generation with cinematic control.",
+    "website": "https://wan22.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Open Source AI Models",
+    "slug": "wan-2-2-ai-1",
+    "created_at": "14:15:50 08/01/2025"
+  },
+  {
     "title": "AICosts.ai",
     "name": "AICosts.ai",
     "description": "AICosts.ai is the unified AI cost management platform that helps teams track, analyze, and optimize spending across all AI services. Stop juggling multiple billing portals and cut your AI costs by 30%+ with our comprehensive dashboard that connects OpenAI, Claude, Gemini, n8n, Make, Zapier, and 100+ other AI tools in one place. Trusted by AI-first startups, automation agencies, and enterprise teams to manage their entire AI stack efficiently.",
@@ -18914,6 +19031,15 @@
     "categories": "Design Assistant, AI Website Designer, AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Code Assistant, AI Code Generator, AI App Builder, Writing Assistants, AI Developer Tools",
     "slug": "anima",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "Riveo",
+    "name": "Riveo",
+    "description": "AI-driven video effects editor and composer for mobile and desktop.",
+    "website": "https://www.riveo.app",
+    "categories": "AI Video Editor, AI Subtitle Generator, AI Animation Generator, AI Image Generator, AI Photo Filter",
+    "slug": "riveo",
+    "created_at": "14:15:50 08/01/2025"
   },
   {
     "title": "CSV-AI",
