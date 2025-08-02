@@ -801,6 +801,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Pykaso AI",
+    "name": "Pykaso AI",
+    "description": "Make your AI Character go Viral",
+    "website": "https://www.pykaso.ai",
+    "categories": "AI Avatar Generator, AI Face Swap Generator, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Person Generator, AI Photo Editor, AI Photo Enhancer, AI Style Transfer, Image to Image, Text to Image, AI Reel Generator, AI Video Generator, AI Video Upscaler, Image to Video",
+    "slug": "pykaso-ai",
+    "created_at": "14:11:58 08/02/2025"
+  },
+  {
     "title": "Vidduo",
     "name": "Vidduo",
     "description": "AI video generator for low-cost, high-quality image-to-video and text-to-video.",
@@ -2545,6 +2554,15 @@
     "categories": "AI Content Generator, AI Blog Writer, AI Social Media Assistant, AI Chatbot, Large Language Models (LLMs), Copywriting, Writing Assistants, AI Product Description Generator, AI Rewriter, Transcription, General Writing, Transcriber, Text-to-Speech, Speech-to-Text, AI Speech Synthesis",
     "slug": "copysense-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SAM TTS",
+    "name": "SAM TTS",
+    "description": "Classic Microsoft SAM Text-to-Speech voice in your browser.",
+    "website": "https://samtts.com",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI Speech Synthesis, AI API",
+    "slug": "sam-tts",
+    "created_at": "14:11:58 08/02/2025"
   },
   {
     "title": "PromptPup",
@@ -11519,6 +11537,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Seedream 3",
+    "name": "Seedream 3",
+    "description": "AI image generator for stunning 2K art and photos.",
+    "website": "https://seedream3.ai",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Realistic Image Generator",
+    "slug": "seedream-3",
+    "created_at": "14:11:58 08/02/2025"
+  },
+  {
     "title": "Hedy AI",
     "name": "Hedy 2.0 MacOS App",
     "description": "AI tool for real-time insights in conversations and meetings.",
@@ -19913,6 +19940,15 @@
     "categories": "AI Documents Generator, AI Flashcard Maker, AI Mind Mapping, AI Question Generator, AI Quiz Generator, AI Teachers, AI Homework Helper, AI PDF",
     "slug": "aisheets-study",
     "created_at": "02:47:36 06/09/2025"
+  },
+  {
+    "title": "Fotoria - AI Headshot Generator",
+    "name": "Fotoria - AI Headshot Generator",
+    "description": "AI Headshot Generator for professional headshots from selfies.",
+    "website": "https://www.fotoria.com",
+    "categories": "AI Headshot Generator, AI Linkedin Headshot, AI Profile Picture Generator, AI Portrait Generator",
+    "slug": "fotoria-ai-headshot-generator",
+    "created_at": "14:11:58 08/02/2025"
   },
   {
     "title": "Pagey",
