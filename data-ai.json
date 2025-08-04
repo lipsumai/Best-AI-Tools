@@ -1674,6 +1674,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Grok Imagine",
+    "name": "Grok Imagine",
+    "description": "AI platform for generating photorealistic images and 6-second videos from text.",
+    "website": "https://grokimagine.ai",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Image, AI API",
+    "slug": "grok-imagine",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Wave",
     "name": "Wave",
     "description": "Modular AI agent system for research, content, and web automation.",
@@ -2698,6 +2707,15 @@
     "categories": "AI Tiktok, AI For Data Analytics, AI Digital Marketing",
     "slug": "gloda",
     "created_at": "02:37:41 05/23/2025"
+  },
+  {
+    "title": "Radal",
+    "name": "Radal",
+    "description": "No-code platform for fine-tuning small language models.",
+    "website": "https://radal.ai",
+    "categories": "AI Models, No-Code&Low-Code, Large Language Models (LLMs), AI Developer Tools, AI Copilot",
+    "slug": "radal",
+    "created_at": "14:18:04 08/04/2025"
   },
   {
     "title": "Ghibli AI",
@@ -5031,6 +5049,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SalesRender CRM",
+    "name": "SalesRender",
+    "description": "All-in-one CRM for online sales and call centers.",
+    "website": "https://salesrender.com",
+    "categories": "AI CRM, AI Call Center, AI Sales, AI Transcriber, AI Speech-to-Text",
+    "slug": "salesrender",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Bugster",
     "name": "Bugster",
     "description": "AI testing solution for developers to automate tests and enhance efficiency.",
@@ -7128,6 +7155,15 @@
     "created_at": "14:10:54 06/22/2025"
   },
   {
+    "title": "Hecco.ai",
+    "name": "Hecco AI",
+    "description": "AI-powered platform for personalized healthcare insights and record management.",
+    "website": "https://www.hecco.ai",
+    "categories": "AI Healthcare, AI Assistant, AI Symptom Checker, AI Medical Diagnosis, AI API, AI Developer Tools",
+    "slug": "hecco-ai",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Topfreeprompts.com",
     "name": "TopFreePrompts by LucyBrain",
     "description": "Free AI prompt library for ChatGPT, Midjourney, Claude & Gemini.",
@@ -8244,6 +8280,15 @@
     "created_at": "14:12:48 07/09/2025"
   },
   {
+    "title": "LightLayer",
+    "name": "LightLayer",
+    "description": "Voice-native AI code review workspace for engineers.",
+    "website": "https://www.lightlayer.dev",
+    "categories": "AI Code Review, AI Code Assistant, AI Developer Tools, AI Voice Assistants, AI Github",
+    "slug": "lightlayer",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Bible Chat",
     "name": "Bible Chat",
     "description": "AI faith app for Bible understanding, prayer, and daily encouragement.",
@@ -9018,6 +9063,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Anifun AI",
+    "name": "Anifun AI",
+    "description": "AI platform for creating anime art, comics, and videos.",
+    "website": "https://anifun.ai",
+    "categories": "AI Anime Generator, AI Anime Art, AI Manga Generator, AI Art Generator, AI Comic Generator, AI Story Generator, AI Video Generator, AI Colorize",
+    "slug": "anifun-ai",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "TryOnHaul",
     "name": "TryOnHaul",
     "description": "AI virtual try-on platform for fashion choices",
@@ -9349,6 +9403,15 @@
     "categories": "AI Email Marketing, AI Email Assistant, AI Lead Generation, AI Reply Assistant, AI SEO Assistant, AI Email Generator, AI Response Generator, AI Email Writer",
     "slug": "mailhero-ai-ai-driven-email-warmup",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI JINGLEMAKER",
+    "name": "AI Jingle Maker",
+    "description": "Easy AI-powered creation of custom audio jingles and intros.",
+    "website": "https://www.aijinglemaker.com",
+    "categories": "AI Music Generator, AI Voice Generator, AI Text-to-Speech, AI Podcast, AI Commercial Generator",
+    "slug": "ai-jingle-maker",
+    "created_at": "14:18:04 08/04/2025"
   },
   {
     "title": "Snoika",
@@ -12230,6 +12293,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Doggo Eats",
+    "name": "Doggo Eats",
+    "description": "AI-powered app for dog nutrition, food scanning, and custom recipes.",
+    "website": "https://apps.apple.com/us/app/doggo-food-scanner-recipes/id6743200192",
+    "categories": "AI Scanner, AI Recipe, AI Healthcare",
+    "slug": "doggo-eats",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Qase",
     "name": "Qase",
     "description": "A test management platform for manual and automated QA testing.",
@@ -12716,6 +12788,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "HorizonX",
+    "name": "HorizonX",
+    "description": "AI-powered platform for integrated research workflow and collaboration.",
+    "website": "https://www.horizonx.live",
+    "categories": "AI Research Tool, AI Research Papers, AI Writing Assistants, AI Productivity Tools, AI Project Management, AI Knowledge Management, No-Code&Low-Code",
+    "slug": "horizonx",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Specgen.ai",
     "name": "Specgen.ai",
     "description": "AI for automated tender responses with confidentiality.",
@@ -12869,6 +12950,15 @@
     "created_at": "02:24:12 04/22/2025"
   },
   {
+    "title": "Browserfly",
+    "name": "Browserfly",
+    "description": "AI agent for browser interaction and automation.",
+    "website": "https://browserfly.app",
+    "categories": "AI Agent, AI Browsers, AI Assistant, AI Copilot",
+    "slug": "browserfly",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Journee",
     "name": "MyJournee",
     "description": "Journee is an online journal that helps users gain clarity and achieve their goals through daily emails.",
@@ -12885,6 +12975,15 @@
     "categories": "AI Response Generator, Writing Assistants, AI SQL Query Builder, AI Spreadsheet",
     "slug": "excel-formularizer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Runway Aleph AI",
+    "name": "Runway Aleph AI-",
+    "description": "AI video editor for transforming existing videos.",
+    "website": "https://runwayalephai.ai",
+    "categories": "AI Video Editor, AI Video Generator, Video to Video, Text to Video, Image to Video, Object Remover AI",
+    "slug": "runway-aleph-ai-1",
+    "created_at": "14:18:04 08/04/2025"
   },
   {
     "title": "Mathpix",
@@ -12939,6 +13038,15 @@
     "categories": "AI Website Builder, Domain Name Generator, AI Search Engine, AI Advertising Assistant",
     "slug": "domainwoohoo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ZINQ",
+    "name": "ZINQ AI",
+    "description": "AI-powered platform for creating engaging, conversational forms quickly.",
+    "website": "https://zinq.ai",
+    "categories": "AI Forms, AI Productivity Tools, No-Code&Low-Code, AI Lead Generation",
+    "slug": "zinq-ai",
+    "created_at": "14:18:04 08/04/2025"
   },
   {
     "title": "Whisk AI",
@@ -13823,6 +13931,15 @@
     "created_at": "14:11:16 04/04/2025"
   },
   {
+    "title": "Veo3 JSON Prompt",
+    "name": "Veo3 JSON Prompt",
+    "description": "Rich Veo3 JSON Prompt templates and video generator.",
+    "website": "https://veo3jsonprompt.com",
+    "categories": "AI Video Generator, AI Short Video Generator, Script To Video AI Generator, AI Youtube Video Maker, AI Vtuber, AI Video Search, AI UGC Video Generator, AI Tiktok Video Generator, AI Stock Video Generator, AI Reel Generator, AI Animated Video, AI Music Video Generator, AI Movie Generator, AI Lip Sync Generator, AI Face Swap Video, AI Commercial Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, Text to Video",
+    "slug": "veo3-json-prompt",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Tethered AI",
     "name": "Tethered AI",
     "description": "Tethered AI combines web searches and note-taking for an improved user experience.",
@@ -14100,6 +14217,15 @@
     "categories": "AI Analytics Assistant, AI Email Marketing, AI Lead Generation, AI Chatbot, AI Reply Assistant, Newsletter, AI Email Assistant",
     "slug": "chat-with-your-pages-ai-post-assistant",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hailuo 02 fast",
+    "name": "Hailuo 02 fast",
+    "description": "AI video generator creating stunning videos from text and images.",
+    "website": "https://hailuo2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "hailuo-02-fast",
+    "created_at": "14:18:04 08/04/2025"
   },
   {
     "title": "Victoria AI",
@@ -15542,6 +15668,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dilmach CRM",
+    "name": "DilmachCRM Modern Core for Digital team",
+    "description": "Modern CRM platform for digital teams, streamlining client relationships and deal management.",
+    "website": "https://www.dilmach.com",
+    "categories": "AI CRM, AI Sales, AI Customer Service, AI Sales Assistant, AI API",
+    "slug": "dilmachcrm-modern-core-for-digital-team",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "922 S5 Proxy",
     "name": "922 S5 Proxy",
     "description": "A proxy platform that focuses on providing high-quality residential proxy services.",
@@ -16619,6 +16754,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video",
     "slug": "veozon-ai-video-generator",
     "created_at": "14:10:34 06/29/2025"
+  },
+  {
+    "title": "Lodoy",
+    "name": "Lodoy",
+    "description": "AI market research for idea validation, competitor analysis, and audience testing.",
+    "website": "https://lodoy.ai",
+    "categories": "AI Marketing, AI Research Tool, AI Digital Marketing",
+    "slug": "lodoy",
+    "created_at": "14:18:04 08/04/2025"
   },
   {
     "title": "GIF Face Swap",
@@ -20248,6 +20392,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Colby AI",
+    "name": "Colby AI",
+    "description": "AI sales analyst for Salesforce data entry and lead generation.",
+    "website": "https://getcolby.com",
+    "categories": "AI Sales Assistant, AI Sales, AI Agent, AI CRM, AI Productivity Tools",
+    "slug": "colby-ai",
+    "created_at": "14:18:04 08/04/2025"
+  },
+  {
     "title": "Mutatio",
     "name": "mutatio.dev",
     "description": "Platform for AI engineers to optimize prompts using language models.",
@@ -20840,6 +20993,15 @@
     "categories": "AI Course, AI Education Assistant, AI Reviews Assistant, AI Customer Service Assistant",
     "slug": "legacy-online-school",
     "created_at": "02:43:00 05/01/2025"
+  },
+  {
+    "title": "NTRVSTA",
+    "name": "NTRVSTA",
+    "description": "AI-powered platform for automated, adaptive, and fair live interviews.",
+    "website": "https://www.NTRVSTA.com",
+    "categories": "AI Interview Assistant, AI Recruiting, AI Resume Checker, AI Avatar Generator",
+    "slug": "ntrvsta",
+    "created_at": "14:18:04 08/04/2025"
   },
   {
     "title": "Pawcracy",
