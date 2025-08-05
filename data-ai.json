@@ -11051,6 +11051,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "Voice Isolator",
+    "name": "Voice Isolator",
+    "description": "AI-powered tool to remove background noise and isolate vocals.",
+    "website": "https://www.voiceisolator.org",
+    "categories": "AI Vocal Remover, AI Noise Cancellation, AI Voice Enhancer, AI Audio Enhancer, AI Stems Splitter",
+    "slug": "voice-isolator",
+    "created_at": "03:00:39 08/05/2025"
+  },
+  {
     "title": "LLMO Metrics",
     "name": "LLMO Metrics",
     "description": "Tracks brand presence across AI platforms for optimization.",
@@ -14777,6 +14786,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Qwen Image AI",
+    "name": "Qwen Image AI",
+    "description": "AI image generator for accurate text rendering and advanced editing.",
+    "website": "https://qwenimageai.com",
+    "categories": "AI Image Generator, Text to Image, AI Photo Editor, AI Poster Generator, AI Style Transfer, Open Source AI Models",
+    "slug": "qwen-image-ai",
+    "created_at": "03:00:39 08/05/2025"
+  },
+  {
     "title": "Bosily",
     "name": "Bosily",
     "description": "AI tool for automating SEO blog publishing and optimization.",
@@ -15315,6 +15333,15 @@
     "categories": "AI Lead Generation, AI Customer Service Assistant, AI Chatbot, E-commerce Assistant, Sales Assistant, AI CRM Assistant, AI Advertising Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Instagram Assistant",
     "slug": "the-botmode",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "AI Chatbot Online",
+    "name": "AI Chatbot Online",
+    "description": "Chat with AI characters, create and customize them.",
+    "website": "https://aichatbotonline.com",
+    "categories": "AI Chatbot, AI Character, AI Roleplay, AI Anime Generator",
+    "slug": "ai-chatbot-online",
+    "created_at": "03:00:39 08/05/2025"
   },
   {
     "title": "Veo 3 AI",
@@ -21155,6 +21182,15 @@
     "categories": "AI For Finance, AI Assistant, AI Productivity Tools",
     "slug": "preso-budget",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "Qwen Image",
+    "name": "Qwen Image",
+    "description": "AI for stunning visuals, multilingual text rendering, and precise image editing.",
+    "website": "https://qwenimage.ai",
+    "categories": "AI Image Generator, Text to Image, AI Photo Editor",
+    "slug": "qwen-image",
+    "created_at": "03:00:39 08/05/2025"
   },
   {
     "title": "VerbiAI - AI-Powered SEO description and meta content creation",
