@@ -954,6 +954,15 @@
     "created_at": "14:14:45 07/30/2025"
   },
   {
+    "title": "Math AI",
+    "name": "Math AI Solver Free Online",
+    "description": "AI math solver and homework helper with step-by-step solutions.",
+    "website": "https://math-gpt.ai",
+    "categories": "AI Math, AI Homework Helper, AI Assistant, AI Scanner",
+    "slug": "math-ai-solver-free-online",
+    "created_at": "14:18:27 08/05/2025"
+  },
+  {
     "title": "findable",
     "name": "findable.",
     "description": "LLM SEO toolkit to optimize AI search visibility and rankings.",
@@ -2797,6 +2806,15 @@
     "categories": "AI Forms & Surveys, AI Analytics Assistant, AI Productivity Tools, AI Customer Service Assistant",
     "slug": "feeedbackr",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Qwen Image",
+    "name": "Qwen Image-",
+    "description": "Alibaba's free open-source AI image generator excelling at text rendering for marketing visuals.",
+    "website": "https://qwenimages.org",
+    "categories": "AI Image Generator, Text to Image, AI Marketing, Open Source AI Models, AI Photo Editor, AI API",
+    "slug": "qwen-image-1",
+    "created_at": "14:18:27 08/05/2025"
   },
   {
     "title": "T-Rex Label",
@@ -10331,6 +10349,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Trickle",
+    "name": "Trickle",
+    "description": "Turn your ideas into live apps and websites with AI.",
+    "website": "https://trickle.so",
+    "categories": "AI Website Builder, AI App Builder, No-Code&Low-Code, AI Forms, AI Agent, AI Landing Page Builder, AI Chatbot",
+    "slug": "trickle",
+    "created_at": "14:18:27 08/05/2025"
+  },
+  {
     "title": "EnergeticAI",
     "name": "EnergeticAI",
     "description": "EnergeticAI is a optimized TensorFlow.js for serverless functions with fast cold-start and pre-trained models.",
@@ -11238,6 +11265,15 @@
     "categories": "AI Reply Assistant, AI Product Description Generator, AI Social Media Assistant, AI Response Generator",
     "slug": "product-reply",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "IDEART AI",
+    "name": "IDEART AI",
+    "description": "Complete AI platform for video and image creation.",
+    "website": "https://ideart.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, AI Character, AI Video Editor",
+    "slug": "ideart-ai",
+    "created_at": "14:18:27 08/05/2025"
   },
   {
     "title": "AIDA",
