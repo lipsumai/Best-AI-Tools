@@ -639,6 +639,15 @@
     "created_at": "02:58:57 08/06/2025"
   },
   {
+    "title": "Perspective AI",
+    "name": "Perspective AI",
+    "description": "AI research platform for product, marketing, research, and CX teams.",
+    "website": "https://getperspective.ai",
+    "categories": "AI Interview Assistant, AI Agent, AI Research Tool, AI Customer Service, AI Sales Assistant",
+    "slug": "perspective-ai",
+    "created_at": "14:17:21 08/06/2025"
+  },
+  {
     "title": "GPT Prompt Text Platform",
     "name": "Promptext",
     "description": "The GPT Prompt Text Platform enhances content creation efficiency and reduces costs significantly.",
@@ -3078,6 +3087,15 @@
     "created_at": "02:58:57 08/06/2025"
   },
   {
+    "title": "Verbite",
+    "name": "Verbite",
+    "description": "AI tool for publish-ready, high-ranking SEO content.",
+    "website": "https://verbite.com",
+    "categories": "SEO Writing AI, AI SEO Tools, AI Writing, AI Agent, AI Blog Generator",
+    "slug": "verbite",
+    "created_at": "14:17:21 08/06/2025"
+  },
+  {
     "title": "Swift Reply",
     "name": "Swift Reply",
     "description": "Swift Reply uses ChatGPT and GPT-3.5 to generate personalized and natural comments for LinkedIn.",
@@ -3616,6 +3634,15 @@
     "categories": "AI Content Detector, AI Customer Service Assistant, Large Language Models (LLMs)",
     "slug": "concurrence-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Kanbanq",
+    "name": "Kanbanq",
+    "description": "Minimal AI project management for small teams.",
+    "website": "https://www.kanbanq.app",
+    "categories": "AI Project Management, AI Task Management, AI Productivity Tools, AI Assistant",
+    "slug": "kanbanq-open-alpha",
+    "created_at": "14:17:21 08/06/2025"
   },
   {
     "title": "Humanize AI (HumanizeAI.app)",
@@ -7461,6 +7488,15 @@
     "created_at": "03:00:12 07/21/2025"
   },
   {
+    "title": "Biography Studio AI",
+    "name": "Biography Studio AI",
+    "description": "AI platform turning spoken life stories into books, audiobooks, or podcasts.",
+    "website": "https://www.biographystudio.ai",
+    "categories": "AI Bio Generator, AI Book Writing, AI Story Generator, AI Interview Assistant, AI Podcast",
+    "slug": "biography-studio-ai",
+    "created_at": "14:17:21 08/06/2025"
+  },
+  {
     "title": "clay.earth",
     "name": "clay.earth",
     "description": "Data visualization and analysis platform for insightful decision-making.",
@@ -8856,6 +8892,15 @@
     "created_at": "14:10:54 06/22/2025"
   },
   {
+    "title": "Veo 3 AI Video Generator",
+    "name": "Veo 3 AI Video Generator",
+    "description": "Google's AI tool for generating videos with synchronized audio.",
+    "website": "https://vo3ai.io",
+    "categories": "AI Video Generator, AI Dialogue Generator, AI Short Story Generator, AI Sound Effect Generator, AI Lip Sync Generator, AI Short Video Generator, Image to Video, Text to Video",
+    "slug": "veo-3-ai-video-generator",
+    "created_at": "14:17:21 08/06/2025"
+  },
+  {
     "title": "Meditaia",
     "name": "Meditaia",
     "description": "Transform stress into serenity.",
@@ -9097,6 +9142,15 @@
     "categories": "AI Music Generator",
     "slug": "wondera-ai",
     "created_at": "14:12:11 05/29/2025"
+  },
+  {
+    "title": "AgentSphere",
+    "name": "AgentSphere",
+    "description": "AI-native cloud sandboxes for secure AI agent code execution.",
+    "website": "https://www.agentsphere.run",
+    "categories": "AI Agent, AI Developer Tools, AI Workflow, Large Language Models (LLMs), AI For Data Analytics",
+    "slug": "agentsphere",
+    "created_at": "14:17:21 08/06/2025"
   },
   {
     "title": "Adtwin",
@@ -9619,6 +9673,15 @@
     "categories": "AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "adspawn",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PromptPlex",
+    "name": "PromptPlex",
+    "description": "Ultimate toolkit for organizing and managing AI prompts.",
+    "website": "https://promptplex.app",
+    "categories": "AI Prompt Generator, AI Workflow, AI Productivity Tools, AI Assistant",
+    "slug": "promptplex",
+    "created_at": "14:17:21 08/06/2025"
   },
   {
     "title": "VO3 AI",
@@ -12653,6 +12716,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Webhookify",
+    "name": "Webhookify",
+    "description": "Simplify webhook management with AI alerts and real-time logging.",
+    "website": "https://webhookify.app",
+    "categories": "AI Developer Tools, AI Monitor, AI Productivity Tools, AI Workflow, AI Assistant",
+    "slug": "webhookify",
+    "created_at": "14:17:21 08/06/2025"
+  },
+  {
     "title": "Mc2 - Redact Like Pro",
     "name": "MC2",
     "description": "Efficient tool for local redaction of sensitive data.",
@@ -13227,6 +13299,15 @@
     "categories": "AI Grammar Checker, AI Writing Assistants, AI Paraphraser, AI Spell Check, AI Translate, AI Proofreading, AI Rewriter",
     "slug": "ai-grammar-checker-for-ios",
     "created_at": "14:12:54 06/25/2025"
+  },
+  {
+    "title": "Golpo",
+    "name": "Golpo",
+    "description": "AI video generator for explainer videos, documents, and podcasts.",
+    "website": "https://video.golpoai.com",
+    "categories": "AI Video Generator, AI Animated Video, Script To Video AI Generator, Whiteboard AI, AI API",
+    "slug": "golpo",
+    "created_at": "14:17:21 08/06/2025"
   },
   {
     "title": "The AI Labor Index",
@@ -14165,6 +14246,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Embeddable",
+    "name": "Embeddable",
+    "description": "Build interactive, AI-powered, no-code tools for engagement and lead conversion.",
+    "website": "https://embeddable.co",
+    "categories": "AI Marketing, AI Lead Generation, No-Code&Low-Code, AI Productivity Tools, AI Chatbot",
+    "slug": "embeddable",
+    "created_at": "14:17:21 08/06/2025"
+  },
+  {
     "title": "ImagePromptGuru.net",
     "name": "ImagePromptGuru.net",
     "description": "Free AI tool generating art prompts from images or text.",
@@ -14813,6 +14903,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "Grok Imagine",
+    "name": "Grok Imagine-",
+    "description": "xAI's revolutionary AI video generator for cinematic content.",
+    "website": "https://grok-imagine.art",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator",
+    "slug": "grok-imagine-1",
+    "created_at": "14:17:21 08/06/2025"
+  },
+  {
     "title": "MeetingAssistant.co",
     "name": "MeetingAssistant.co",
     "description": "AI assistant for enhancing job interviews and meetings.",
@@ -15342,6 +15441,15 @@
     "categories": "Large Language Models (LLMs), AI Education Assistant, Prompt, AI Response Generator, AI Chatbot, Homework Helper, Essay Writer, General Writing, Writing Assistants, AI Content Generator",
     "slug": "writesmith",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Frame0",
+    "name": "Frame0",
+    "description": "Sketch app for hand-drawn wireframes and interactive prototypes.",
+    "website": "https://frame0.app",
+    "categories": "AI Mockup Generator, AI Design Generator, AI Diagram Generator, AI Code Generator, AI UX Design",
+    "slug": "frame0",
+    "created_at": "14:17:21 08/06/2025"
   },
   {
     "title": "ProShot",
@@ -16817,6 +16925,15 @@
     "categories": "Other",
     "slug": "dantia",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BrandRadar",
+    "name": "BrandRadar",
+    "description": "AI visibility engine for optimizing brand presence in LLM responses.",
+    "website": "https://www.brandradar.ai",
+    "categories": "AI SEO Tools, AI Marketing, AI Monitor, AI For Data Analytics, AI Digital Marketing",
+    "slug": "brandradar",
+    "created_at": "14:17:21 08/06/2025"
   },
   {
     "title": "Hello Pet Dreams",
@@ -18644,6 +18761,15 @@
     "categories": "Resume Builder",
     "slug": "prmate-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "dehouse.ai",
+    "name": "dehouse.ai",
+    "description": "Best platform to create your own AI twin, AI girlfriend, AI boyfriend and monetize",
+    "website": "https://dehouse.ai",
+    "categories": "AI Girlfriend, AI Anime Girlfriend, AI Boyfriend, AI Character, AI Dating Assistant, AI Roleplay",
+    "slug": "dehouse-ai",
+    "created_at": "14:17:21 08/06/2025"
   },
   {
     "title": "PartyLine",
