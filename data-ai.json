@@ -189,6 +189,15 @@
     "created_at": "14:12:57 06/10/2025"
   },
   {
+    "title": "OhChat",
+    "name": "OhChat",
+    "description": "AI-powered platform for uncensored chat with virtual characters.",
+    "website": "https://ohchat.com",
+    "categories": "AI Girlfriend, AI Chatbot, AI Roleplay, AI Character, NSFW, AI Boyfriend",
+    "slug": "ohchat",
+    "created_at": "02:58:57 08/06/2025"
+  },
+  {
     "title": "IconScout",
     "name": "IconScout",
     "description": "A marketplace for millions of design assets and resources.",
@@ -621,6 +630,15 @@
     "created_at": "14:12:51 06/30/2025"
   },
   {
+    "title": "Eleven Music AI",
+    "name": "Eleven Music AI",
+    "description": "AI music generator for songs, lyrics, and vocal removal.",
+    "website": "https://elevenmusicai.com",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Vocal Remover, AI Instrumental Generator",
+    "slug": "eleven-music-ai",
+    "created_at": "02:58:57 08/06/2025"
+  },
+  {
     "title": "GPT Prompt Text Platform",
     "name": "Promptext",
     "description": "The GPT Prompt Text Platform enhances content creation efficiency and reduces costs significantly.",
@@ -943,6 +961,15 @@
     "categories": "AI Lip Sync Generator, Image to Video, AI Video Generator, AI Animation Generator",
     "slug": "lipsync-video",
     "created_at": "14:12:32 06/05/2025"
+  },
+  {
+    "title": "Stakly.dev",
+    "name": "Stakly.dev",
+    "description": "AI-powered platform to build web apps without coding.",
+    "website": "https://www.stakly.dev",
+    "categories": "AI App Builder, AI Website Builder, AI Code Generator, No-Code&Low-Code, AI Developer Tools",
+    "slug": "stakly-dev",
+    "created_at": "02:58:57 08/06/2025"
   },
   {
     "title": "Pathable",
@@ -3040,6 +3067,15 @@
     "categories": "Legal Assistant, AI Chatbot",
     "slug": "legal-assist-ai-2-0",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "gpt-oss playground",
+    "name": "gpt-oss playground",
+    "description": "Demo platform for OpenAI's open-weight models for developers.",
+    "website": "https://gpt-oss.com",
+    "categories": "Large Language Models (LLMs), AI Models, Open Source AI Models, AI Developer Tools",
+    "slug": "gpt-oss-playground",
+    "created_at": "02:58:57 08/06/2025"
   },
   {
     "title": "Swift Reply",
@@ -9369,6 +9405,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "StreamerSuite",
+    "name": "StreamerSuite",
+    "description": "Toolkit for streamers",
+    "website": "https://streamersuite.com",
+    "categories": "AI Social Media, AI Productivity Tools, AI For Data Analytics, Bio Link, AI Marketing",
+    "slug": "streamersuite",
+    "created_at": "02:58:57 08/06/2025"
+  },
+  {
     "title": "Sommel-ai",
     "name": "Sommel-ai",
     "description": "Perfect wine pairing in seconds!",
@@ -9412,6 +9457,15 @@
     "categories": "AI Speech Recognition",
     "slug": "speechy-1-0",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Runwayaleph.net",
+    "name": "Runwayaleph.net",
+    "description": "Revolutionary AI video model for multi-task visual generation.",
+    "website": "https://runwayaleph.net",
+    "categories": "AI Video Editor, AI Video Generator, Video to Video, AI Prompt Generator, AI Video Enhancer, Image to Video",
+    "slug": "runwayaleph-net",
+    "created_at": "02:58:57 08/06/2025"
   },
   {
     "title": "MailHero",
@@ -9934,6 +9988,15 @@
     "categories": "AI Art Generator, AI Content Generator, AI Illustration Generator, AI Photo & Image Generator, AI Design Generator",
     "slug": "seamless-studio-beta",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "gpt oss",
+    "name": "gpt oss",
+    "description": "OpenAI's open-source GPT models democratizing AI access for reasoning and development.",
+    "website": "https://gpt-oss.free",
+    "categories": "Open Source AI Models, Large Language Models (LLMs), AI Models, AI Developer Tools, AI Text Generator",
+    "slug": "gpt-oss-1",
+    "created_at": "02:58:57 08/06/2025"
   },
   {
     "title": "AI Recipe Generator",
@@ -16144,6 +16207,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GPT-oss",
+    "name": "GPT-oss",
+    "description": "Open-source AI models from OpenAI, free for developers.",
+    "website": "https://gpt-oss.ai",
+    "categories": "Open Source AI Models, Large Language Models (LLMs), AI Developer Tools, AI Code Assistant",
+    "slug": "gpt-oss",
+    "created_at": "02:58:57 08/06/2025"
+  },
+  {
     "title": "Knoiz",
     "name": "Knoiz",
     "description": "Create your next playlist, in seconds",
@@ -17240,6 +17312,15 @@
     "categories": "AI Video Generator, AI Animation Generator, Image to Video",
     "slug": "dancing-dogs-app",
     "created_at": "14:12:51 06/30/2025"
+  },
+  {
+    "title": "Genie 3 World",
+    "name": "Genie 3 World",
+    "description": "Create interactive 3D AI worlds from text prompts with real-time physics.",
+    "website": "https://genie3world.com",
+    "categories": "Text to 3D, AI 3D Model Generator, AI Video Generator, Text to Video, Image to Video",
+    "slug": "genie-3-world",
+    "created_at": "02:58:57 08/06/2025"
   },
   {
     "title": "Udemy Quiz Generator",
@@ -19454,6 +19535,15 @@
     "categories": "AI Social Media, AI Scheduling, AI Social Media Post Generator, AI Assistant, AI Caption Generator, AI Tweet Generator",
     "slug": "scheduloid",
     "created_at": "14:11:59 06/19/2025"
+  },
+  {
+    "title": "Genie 3",
+    "name": "Genie 3",
+    "description": "AI model generating interactive 3D worlds and videos from text prompts.",
+    "website": "https://genie3.ai",
+    "categories": "AI Video Generator, Text to Video, AI Short Video Generator, AI Agent",
+    "slug": "genie-3",
+    "created_at": "02:58:57 08/06/2025"
   },
   {
     "title": "AI Chat",
