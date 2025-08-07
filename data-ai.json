@@ -333,6 +333,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "KIN",
+    "name": "KIN",
+    "description": "Voice-first AI calendar assistant for busy families.",
+    "website": "https://www.kincalendar.com",
+    "categories": "AI Calendar, AI Voice Assistants, AI Scheduling, AI Assistant, AI Speech Recognition, AI OCR",
+    "slug": "kin-family-calendar",
+    "created_at": "14:17:38 08/07/2025"
+  },
+  {
     "title": "Picmojo",
     "name": "Picmojo",
     "description": "Transform ordinary photos into professional headshots.",
@@ -3157,6 +3166,15 @@
     "categories": "AI Analytics Assistant, AI Presentation Generator, AI Spreadsheet, AI PDF, Blockchain, Web3",
     "slug": "easysushii",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Eleven Music",
+    "name": "Eleven Music",
+    "description": "AI music generator for unique, royalty-free songs.",
+    "website": "https://elevenmusic.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Instrumental Generator, AI Voice Generator",
+    "slug": "eleven-music",
+    "created_at": "14:17:39 08/07/2025"
   },
   {
     "title": "fluxcontext.app",
@@ -6300,6 +6318,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "B150",
+    "name": "B150",
+    "description": "Professional network for Gen AI builders to learn, collaborate, and launch.",
+    "website": "https://b150.ai",
+    "categories": "AI Social Media, AI Tools Directory, AI News, AI Jobs",
+    "slug": "b150",
+    "created_at": "14:17:39 08/07/2025"
+  },
+  {
     "title": "Thunai",
     "name": "Thunai",
     "description": "AI platform turning org knowledge into smart agents for automation.",
@@ -8035,6 +8062,15 @@
     "categories": "Fitness, AI Music Generator",
     "slug": "listify-music-ai",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "AutoForm",
+    "name": "AutoForm",
+    "description": "AI agent converts messy files to structured data, auto-fills forms.",
+    "website": "https://autoform.ai",
+    "categories": "AI Agent, AI Document Extraction, AI Forms, AI Data Mining, AI API",
+    "slug": "autoform",
+    "created_at": "14:17:38 08/07/2025"
   },
   {
     "title": "Artwo",
@@ -12885,6 +12921,15 @@
     "categories": "AI Code Assistant",
     "slug": "autocoder-cc",
     "created_at": "02:47:12 07/09/2025"
+  },
+  {
+    "title": "AutoLaunched",
+    "name": "AutoLaunched",
+    "description": "AI-powered tool for fast, cheap startup directory submissions.",
+    "website": "https://autolaunched.com",
+    "categories": "AI SEO Tools, AI Agent, AI Marketing",
+    "slug": "autolaunched",
+    "created_at": "14:17:38 08/07/2025"
   },
   {
     "title": "resume-ai",
