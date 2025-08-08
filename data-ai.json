@@ -720,6 +720,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MakeGirl",
+    "name": "MakeGirl",
+    "description": "AI chatbot & image generator for customizable AI characters and spicy companionship.",
+    "website": "https://www.makegirl.ai",
+    "categories": "AI Girlfriend, AI Chatbot, AI Image Generator, AI Character, AI Roleplay, AI Boyfriend, AI Anime Generator",
+    "slug": "makegirl",
+    "created_at": "14:15:59 08/08/2025"
+  },
+  {
     "title": "Portal by 20Vision",
     "name": "Portal by 20Vision",
     "description": "Free AI tool for instant image and video transformation.",
@@ -1816,6 +1825,15 @@
     "categories": "Domain Name Generator",
     "slug": "fast-domain",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Eleven Music",
+    "name": "Eleven Music-",
+    "description": "AI Music Generator for custom, professional-grade, copyright-free songs.",
+    "website": "https://elevenmusicai.io",
+    "categories": "AI Music Generator, AI Song Generator, AI Text-to-Music, AI Cover Generator, AI Instrumental Generator",
+    "slug": "eleven-music-1",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "DocDocsAI",
@@ -2950,6 +2968,15 @@
     "categories": "Other",
     "slug": "single-prompt-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Floot",
+    "name": "Floot",
+    "description": "AI-powered platform for non-coders to build web apps quickly.",
+    "website": "https://floot.com",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Code Generator",
+    "slug": "floot",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "Tivra",
@@ -5146,6 +5173,15 @@
     "categories": "AI Course",
     "slug": "goodlearns",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ImaginePro",
+    "name": "ImaginePro",
+    "description": "AI-powered platform for generating and editing stunning images and designs.",
+    "website": "https://www.imaginepro.ai",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Background Remover, AI Design Generator, AI Photo Editor, AI API",
+    "slug": "imaginepro",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "Groopub",
@@ -10394,6 +10430,15 @@
     "created_at": "14:12:23 06/27/2025"
   },
   {
+    "title": "Syndy.ai",
+    "name": "Syndy.ai",
+    "description": "AI co-pilot for LinkedIn thought-leadership content, preserving unique voice.",
+    "website": "https://syndy.ai",
+    "categories": "AI Copywriting, AI Writing Assistants, AI Social Media Post Generator, AI Social Media",
+    "slug": "syndy-ai",
+    "created_at": "14:15:59 08/08/2025"
+  },
+  {
     "title": "Mancoding",
     "name": "Mancoding",
     "description": "Mancoding is an AI tool that turns text into stunning artwork in seconds.",
@@ -10860,6 +10905,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI API",
     "slug": "wan-2-2-1",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "FaceSwapVideo",
+    "name": "FaceSwapVideo",
+    "description": "Free AI tool for face swapping in videos, photos, and GIFs.",
+    "website": "https://faceswapvideo.ai",
+    "categories": "AI Face Swap Video, AI Face Swap Generator, AI GIF Generator, AI Photo Editor",
+    "slug": "faceswapvideo",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "WorkRamp LMS",
@@ -13625,6 +13679,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "Ideogram Character",
+    "name": "Ideogram Character",
+    "description": "AI tool for consistent character generation from single images.",
+    "website": "https://ideogramcharacter.ai",
+    "categories": "AI Character, AI Person Generator, AI Image Generator, Image to Image, AI Art Generator, AI Avatar Generator, Text to Image",
+    "slug": "ideogram-character",
+    "created_at": "14:15:59 08/08/2025"
+  },
+  {
     "title": "Eat Planner",
     "name": "Eat Planner",
     "description": "AI meal planner for personalized plans, smart shopping, and healthy eating.",
@@ -14426,6 +14489,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "RapidNative",
+    "name": "RapidNative",
+    "description": "AI to convert prompts into React Native & Expo apps.",
+    "website": "https://www.rapidnative.com",
+    "categories": "AI App Builder, AI Code Generator, AI Developer Tools, AI Code Assistant",
+    "slug": "rapidnative",
+    "created_at": "14:15:59 08/08/2025"
+  },
+  {
     "title": "Stockaivisor",
     "name": "Stockaivisor",
     "description": "AI-driven investment analysis and portfolio management tools.",
@@ -14937,6 +15009,15 @@
     "categories": "AI Presentation Generator, AI Consulting, AI PPT Maker, AI Pitch Deck Generator, AI Marketing, AI Sales",
     "slug": "xavier-ai",
     "created_at": "02:54:34 07/23/2025"
+  },
+  {
+    "title": "Grok Video AI",
+    "name": "Grok Video AI",
+    "description": "AI video generator",
+    "website": "https://grokvideo.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
+    "slug": "grok-video-ai",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "MeaningIn.Chat",
@@ -17530,6 +17611,15 @@
     "created_at": "14:11:17 06/11/2025"
   },
   {
+    "title": "xpander.ai",
+    "name": "xpander.ai",
+    "description": "BaaS for deploying and managing AI agents in Slack.",
+    "website": "https://slack.xpander.ai",
+    "categories": "AI Agent, AI Developer Tools, No-Code&Low-Code, AI Assistant, AI Chatbot",
+    "slug": "xpander-ai",
+    "created_at": "14:15:59 08/08/2025"
+  },
+  {
     "title": "VisionCare",
     "name": "VisionCare",
     "description": "Comprehensive eye care exams with advanced technology.",
@@ -17600,6 +17690,15 @@
     "categories": "AI YouTube Assistant, AI Chatbot, AI Content Generator, AI Podcast Assistant",
     "slug": "podulateai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "IdolCrush.ai",
+    "name": "IdolCrush.ai",
+    "description": "IdolCrush.ai — a new interactive AI idol experience where users become producers, create and chat with your dream idols & compete in arena.",
+    "website": "https://idolcrush.ai",
+    "categories": "AI Games, AI Chat Generator, AI Image Generator",
+    "slug": "idolcrush-ai",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "FenPost",
@@ -18167,6 +18266,15 @@
     "categories": "Large Language Models (LLMs), AI Document Extraction, AI OCR, AI API, AI Workflow, AI For Finance, AI Healthcare",
     "slug": "upstage-ai",
     "created_at": "02:44:18 06/27/2025"
+  },
+  {
+    "title": "Grok imagine",
+    "name": "Grok imagine - AI Video Generator",
+    "description": "Free AI video generator by xAI, transforms text into videos instantly.",
+    "website": "https://grokimagineai.ai",
+    "categories": "AI Video Generator, Text to Video, AI API",
+    "slug": "grok-imagine-ai-video-generator",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "askInput",
@@ -20032,6 +20140,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SpotBOI",
+    "name": "SpotBOI",
+    "description": "AI-powered platform for social media content, strategy, and scheduling.",
+    "website": "https://spotboi.ai",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Caption Generator, AI Schedule Maker",
+    "slug": "spotboi",
+    "created_at": "14:15:59 08/08/2025"
+  },
+  {
     "title": "iMean",
     "name": "iMean – AI Travel Planner",
     "description": "Free AI travel planner for personalized itineraries.",
@@ -21562,6 +21679,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "MindVideo AI",
+    "name": "MindVideo AI",
+    "description": "MindVideo is a free AI video generator that transforms text or images into high-quality videos, making it easy to create professional content for personal, corporate, or social media use.",
+    "website": "https://www.mindvideo.ai",
+    "categories": "AI Video Generator, AI Tiktok Video Generator, AI Video Editor, AI Video Enhancer, AI Video Upscaler, Image to Video, Text to Video, Video to Video",
+    "slug": "mindvideo-ai",
+    "created_at": "14:15:59 08/08/2025"
+  },
+  {
     "title": "Yoink AI",
     "name": "Yoink AI",
     "description": "AI that auto-grabs context wherever you are in your Mac, and writes for you",
@@ -22226,6 +22352,15 @@
     "categories": "AI Quizzes, AI Education Assistant, AI Productivity Tools, AI Notes Assistant, Translate, Summarizer, Transcription, Transcriber, AI Image Scanning, Recording, Speech-to-Text, AI Speech Recognition, AI YouTube Assistant",
     "slug": "notato",
     "created_at": "14:12:41 05/20/2025"
+  },
+  {
+    "title": "Genie 3-Al-Powered 3D WorldGenerator",
+    "name": "Genie 3-Al-Powered 3D WorldGenerator",
+    "description": "AI-powered 3D virtual world generator from text.",
+    "website": "https://www.aigenie3.net",
+    "categories": "AI 3D Model Generator, Text to 3D, AI Landscape Generator",
+    "slug": "genie-3-al-powered-3d-worldgenerator",
+    "created_at": "14:15:59 08/08/2025"
   },
   {
     "title": "Docyt",
