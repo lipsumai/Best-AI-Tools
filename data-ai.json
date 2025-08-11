@@ -10033,6 +10033,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Plexigen AI - AI Video Generator with Sound & Effects",
+    "name": "Plexigen AI - AI Video Generator with Sound & Effects",
+    "description": "AI video generator with sound from text & images.",
+    "website": "https://plexigen.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Sound Effect Generator, AI Voice Generator",
+    "slug": "plexigen-ai-ai-video-generator-with-sound-effects",
+    "created_at": "14:15:26 08/11/2025"
+  },
+  {
     "title": "OpenSynaps AI - Your safe place, never feel alone anymore",
     "name": "OpenSynaps AI - Your safe place, never feel alone anymore",
     "description": "OpenSynaps AI is your safe place for never feeling alone anymore. Talk with your AI psychologist, follow your personalized hypnosis & sophrology sessions, share with the community and a lot more!",
@@ -10850,6 +10859,15 @@
     "categories": "AI Analytics Assistant, AI Charting, AI Customer Service Assistant, AI Data Mining, AI Product Description Generator, AI Lead Generation",
     "slug": "data-science-kit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Shotva",
+    "name": "Shotva",
+    "description": "Transforms screenshots into polished, share-ready visuals with AI.",
+    "website": "https://shotva.com",
+    "categories": "AI Photo Editor, AI Ad Generator, AI Graphic Design, AI Design Assistant",
+    "slug": "shotva",
+    "created_at": "14:15:26 08/11/2025"
   },
   {
     "title": "Snack AI",
@@ -12020,6 +12038,15 @@
     "categories": "AI Agent, Web3, AI Crypto, AI Investing, AI Predictions",
     "slug": "adex-aura",
     "created_at": "14:12:10 05/23/2025"
+  },
+  {
+    "title": "ZapForm",
+    "name": "ZapForm",
+    "description": "AI-powered forms for lead capture, qualification, and conversion.",
+    "website": "https://www.zapform.ai",
+    "categories": "AI Forms, AI Lead Generation, No-Code&Low-Code, AI Marketing",
+    "slug": "zapform",
+    "created_at": "14:15:26 08/11/2025"
   },
   {
     "title": "Foyr Neo",
@@ -17485,6 +17512,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Gaslighting Check",
+    "name": "Gaslighting Check",
+    "description": "Gaslighting Check uses advanced AI to help you detect manipulation and gaslighting in your conversations. Analyze text or audio, get instant insights, and receive personalized support to regain confidence and clarity.",
+    "website": "https://www.gaslightingcheck.com",
+    "categories": "AI Mental Health, AI Text Classifier, AI Therapist, AI Chatbot",
+    "slug": "gaslighting-check",
+    "created_at": "14:15:26 08/11/2025"
+  },
+  {
     "title": "Prezi",
     "name": "Prezi",
     "description": "AI-powered software for engaging presentations, videos, and infographics.",
@@ -18628,6 +18664,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "VibeScan",
+    "name": "VibeScan",
+    "description": "Scan, find, and fix issues in AI-generated code for confident shipping.",
+    "website": "https://vibescan.io",
+    "categories": "AI Code Review, AI Code Assistant, AI Testing, AI Developer Tools",
+    "slug": "vibescan",
+    "created_at": "14:15:26 08/11/2025"
+  },
+  {
     "title": "scraps",
     "name": "scraps",
     "description": "AI-native sketchbook for ideation, creative thinking, and personal knowledge base.",
@@ -18959,6 +19004,15 @@
     "categories": "AI Social Media Assistant, Large Language Models (LLMs), Writing Assistants, AI Content Generator, AI Hashtag Assistant, AI Script Writing, Copywriting, Captions or Subtitle, General Writing",
     "slug": "buzzr",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MoodyTunes",
+    "name": "MoodyTunes",
+    "description": "AI-powered music assistant for videos and content creation.",
+    "website": "https://www.moodytunes.io",
+    "categories": "AI Assistant, AI Chatbot, AI Productivity Tools",
+    "slug": "moodytunes",
+    "created_at": "14:15:26 08/11/2025"
   },
   {
     "title": "1Stroke",
