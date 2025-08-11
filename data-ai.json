@@ -810,6 +810,15 @@
     "created_at": "14:11:59 06/19/2025"
   },
   {
+    "title": "OdysseyGPT",
+    "name": "OdysseyGPT",
+    "description": "AI for document comprehension, summarization, and data extraction.",
+    "website": "https://odysseygpt.ai",
+    "categories": "AI PDF, AI Chatbot, AI Summarizer, AI Document Extraction, AI Research Tool",
+    "slug": "odysseygpt",
+    "created_at": "02:58:17 08/11/2025"
+  },
+  {
     "title": "DataExtraction",
     "name": "Data Extraction",
     "description": "Convert the chaos of images and documents into organized, usable information.",
@@ -1843,6 +1852,15 @@
     "categories": "AI Analytics Assistant, AI Code Assistant, AI Data Mining, AI Developer Tools, AI SQL Query Builder, Code Explanation, AI Code Generator",
     "slug": "probeai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Serif",
+    "name": "Serif",
+    "description": "AI executive assistant for email and admin tasks.",
+    "website": "https://www.serif.ai",
+    "categories": "AI Email Assistant, AI Assistant, AI Email Writer, AI Scheduling",
+    "slug": "serif",
+    "created_at": "02:58:17 08/11/2025"
   },
   {
     "title": "NativeBI",
@@ -3903,6 +3921,15 @@
     "categories": "AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Workflow Management, AI Project Management, AI Accounting Assistant",
     "slug": "datawisr",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ImageFx",
+    "name": "ImageFx",
+    "description": "Professional AI image generator for stunning digital art, illustrations, and photo-realistic images.",
+    "website": "https://imgfx.dev",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Inpainting, AI Outpainting, AI Background Remover, AI Anime Generator",
+    "slug": "imagefx",
+    "created_at": "02:58:17 08/11/2025"
   },
   {
     "title": "Dawiso",
@@ -13291,6 +13318,15 @@
     "created_at": "02:43:59 07/02/2025"
   },
   {
+    "title": "History Sleep",
+    "name": "History Sleep",
+    "description": "AI-generated boring history lectures for natural sleep.",
+    "website": "https://www.historysleep.com",
+    "categories": "AI Story Generator, AI Mental Health, AI Text-to-Speech, AI Podcast",
+    "slug": "history-sleep",
+    "created_at": "02:58:17 08/11/2025"
+  },
+  {
     "title": "TranslateBase - Web Page, PDF and Subtitle Tranlation | Chat with PDF",
     "name": "TranslateBase - Web Page, PDF and Subtitle Tranlation | Chat with PDF",
     "description": "TranslateBase.net is your all-in-one AI content processing platform, supporting translation for various formats like web pages, PDFs, and subtitles. It also allows intelligent PDF chat, where you can ask questions directly and get answers quickly and efficiently. With integrated models like ChatGPT, DeepSeek, Gemini, Claude, we provide a more professional and flexible translation and comprehension experience.  📄 No more worries about foreign-language papers! We not only support intelligent summarization of research papers but also enable you to easily convert complex two-column papers into clear, single-column formats, greatly improving reading efficiency. Whether you're a student, researcher, or working across borders, TranslateBase is your ultimate tool for boosting content processing efficiency.",
@@ -14000,6 +14036,15 @@
     "categories": "Translate, AI Presentation Generator, AI WORD, AI PDF, AI Document Extraction, AI Documents Assistant, AI Files Assistant",
     "slug": "molku-ai-autofill-pdfs-in-seconds-by-transferring-data-from-another-docs",
     "created_at": "14:12:24 05/05/2025"
+  },
+  {
+    "title": "Endex AI Agent",
+    "name": "Endex AI Agent",
+    "description": "Excel-native AI agent for financial modeling and data analysis automation.",
+    "website": "https://endex.ai",
+    "categories": "AI Agent, Excel AI, AI For Finance, AI Spreadsheet, AI For Data Analytics, AI Assistant",
+    "slug": "endex-ai-agent",
+    "created_at": "02:58:17 08/11/2025"
   },
   {
     "title": "aigirlfriend",
@@ -15098,6 +15143,15 @@
     "categories": "No-Code&Low-Code, AI Developer Tools, AI App Builder, Text-to-Speech, Speech-to-Text, AI Speech Synthesis, AI Voice Assistants, Sales Assistant, AI Chatbot, AI Team Collaboration, Large Language Models (LLMs)",
     "slug": "powered-by-agency",
     "created_at": "02:37:23 05/08/2025"
+  },
+  {
+    "title": "imgenhancer",
+    "name": "imgenhancer",
+    "description": "AI-powered platform for image enhancement, upscaling, transformation, and generation.",
+    "website": "https://imgenhancer.ai",
+    "categories": "AI Image Enhancer, AI Image Upscaler, AI Photo Enhancer, AI Image Generator, AI Photo Editor",
+    "slug": "imgenhancer",
+    "created_at": "02:58:17 08/11/2025"
   },
   {
     "title": "dende",
@@ -16268,6 +16322,15 @@
     "categories": "NSFW, Image to Video, AI Animated Video, Text to Image, AI Photo & Image Generator, AI Avatar Generator, AI Photography, AI Selfie & Portrait",
     "slug": "xmode-ai",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Tako",
+    "name": "Tako AI",
+    "description": "AI platform for real-time, trusted data and visual knowledge cards.",
+    "website": "https://trytako.com",
+    "categories": "AI Knowledge Graph, AI API, AI Search Engine, AI Agent, AI For Data Analytics",
+    "slug": "tako-ai",
+    "created_at": "02:58:17 08/11/2025"
   },
   {
     "title": "Hack Answers",
@@ -19103,6 +19166,15 @@
     "categories": "AI Content Generator, AI Script Writing",
     "slug": "scenecraftr",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Animate Image",
+    "name": "AI Animate Image",
+    "description": "AI tool to animate static images into stunning videos.",
+    "website": "https://www.aianimateimage.org",
+    "categories": "AI Animation Generator, Image to Video, AI Animated Video, AI Video Generator, Text to Video",
+    "slug": "ai-animate-image",
+    "created_at": "02:58:17 08/11/2025"
   },
   {
     "title": "Raindrop",
