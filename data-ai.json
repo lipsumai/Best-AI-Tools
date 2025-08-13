@@ -1845,6 +1845,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GStory AI",
+    "name": "GStory AI",
+    "description": "All-in-one AI tool for smart video and photo editing.",
+    "website": "https://www.gstory.ai",
+    "categories": "AI Video Editor, AI Photo Editor, AI Watermark Remover, AI Background Remover, AI Photo Enhancer, AI Subtitle Generator, AI Video Enhancer, AI Video Translator",
+    "slug": "gstory-ai",
+    "created_at": "14:14:05 08/13/2025"
+  },
+  {
     "title": "Watermelon",
     "name": "Watermelon Pulse",
     "description": "Watermelon is an AI-powered customer service tool that automates support and improves customer experience.",
@@ -2391,6 +2400,15 @@
     "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Vocal Remover, AI Instrumental Generator",
     "slug": "eleven-music-ai",
     "created_at": "02:58:57 08/06/2025"
+  },
+  {
+    "title": "What To Build",
+    "name": "What To Build",
+    "description": "AI-powered platform for project ideas, GitHub tools, and developer comparison.",
+    "website": "https://wtd.niladri.tech",
+    "categories": "AI Developer Tools, AI Github, AI Business Ideas Generator",
+    "slug": "what-to-build",
+    "created_at": "14:14:05 08/13/2025"
   },
   {
     "title": "PromptPup",
@@ -4263,6 +4281,15 @@
     "categories": "Healthcare, Legal Assistant, AI Productivity Tools, AI Meeting Assistant, AI Video Recording, Research Tool, AI Education Assistant, Captions or Subtitle, Summarizer, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition",
     "slug": "rev",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "AI Pixel Art Converter For Wplace",
+    "name": "AI Pixel Art Converter For Wplace",
+    "description": "AI platform for text-in-image generation and pixel art conversion.",
+    "website": "https://www.wplace.pro",
+    "categories": "AI Image Generator, AI Pixel Art, Text to Image, AI Poster Generator, AI Social Media Post Generator, AI Graphic Design, AI API",
+    "slug": "ai-pixel-art-converter-for-wplace",
+    "created_at": "14:14:05 08/13/2025"
   },
   {
     "title": "MonArt",
@@ -6236,6 +6263,15 @@
     "created_at": "14:12:44 06/12/2025"
   },
   {
+    "title": "SocialRails",
+    "name": "SocialRails",
+    "description": "Social media management, scheduling, content creation, and analytics tool.",
+    "website": "https://socialrails.com",
+    "categories": "AI Social Media, AI Social Media Post Generator, AI Scheduling, AI Short Video Generator, AI Marketing",
+    "slug": "socialrails",
+    "created_at": "14:14:05 08/13/2025"
+  },
+  {
     "title": "Doco",
     "name": "Doco",
     "description": "AI writing assistant for Microsoft Word, optimizing structured document workflows.",
@@ -6423,6 +6459,15 @@
     "categories": "AI Agent, AI Chatbot, AI Lead Generation, AI Customer Service",
     "slug": "arena",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "Cobot",
+    "name": "Cobot",
+    "description": "AI teammate automating tasks across existing apps for productivity.",
+    "website": "https://cobot.co",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Workflow, AI Task Management, AI Copilot, AI Meeting Assistant",
+    "slug": "cobot",
+    "created_at": "14:14:05 08/13/2025"
   },
   {
     "title": "Bio Links Tool",
@@ -8836,6 +8881,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "nFactorial AI",
+    "name": "nFactorial AI",
+    "description": "AI platform for personalized Zoom tutoring with world's best minds.",
+    "website": "https://nfactorialai.com",
+    "categories": "AI Teachers, AI Roleplay, AI Coaching, AI Course",
+    "slug": "nfactorial-ai",
+    "created_at": "14:14:05 08/13/2025"
+  },
+  {
     "title": "Hello Pet Dreams",
     "name": "Hello Pet Dreams",
     "description": "AI platform transforming pet photos into high-res digital art in 30+ styles.",
@@ -9311,6 +9365,15 @@
     "categories": "AI Product Description Generator, Healthcare",
     "slug": "vita-food-scanner",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Clacky",
+    "name": "Clacky",
+    "description": "ClackyAI",
+    "website": "https://clacky.ai",
+    "categories": "No-Code&Low-Code, AI Code Assistant, AI Code Generator",
+    "slug": "clacky",
+    "created_at": "14:14:05 08/13/2025"
   },
   {
     "title": "Uncursor",
@@ -16952,6 +17015,15 @@
     "categories": "AI Ad Generator, AI Banner Generator, AI Logo Generator, AI Profile Picture Generator, AI Selfie & Portrait, AI Advertising Assistant",
     "slug": "emblify-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Matrix Game 2",
+    "name": "Matrix Game 2",
+    "description": "AI platform for interactive worlds and video generation.",
+    "website": "https://matrixgame2.ai",
+    "categories": "AI Video Generator, Text to Video, AI Lip Sync Generator, AI Commercial Generator, AI Marketing, AI Music Video Generator",
+    "slug": "matrix-game-2",
+    "created_at": "14:14:05 08/13/2025"
   },
   {
     "title": "KawniX",
