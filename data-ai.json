@@ -1170,6 +1170,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Podcast 2 Newsletter",
+    "name": "Podcast to Newsletter Generator",
+    "description": "AI tool converting podcast episodes into engaging newsletters quickly.",
+    "website": "https://www.podcast2newsletter.com",
+    "categories": "AI Newsletter Generator, AI Podcast, AI Repurpose, AI Summarizer, AI Transcription",
+    "slug": "podcast-to-newsletter-generator",
+    "created_at": "14:13:14 08/14/2025"
+  },
+  {
     "title": "Pi Labs",
     "name": "Pi Copilot",
     "description": "AI platform for building custom evaluation and scoring systems for LLMs.",
@@ -1429,6 +1438,15 @@
     "categories": "AI Video Generator, AI Image Generator, Image to Video, AI Animation Generator, AI Photo Editor, NSFW",
     "slug": "unlucid-ai",
     "created_at": "02:45:25 07/08/2025"
+  },
+  {
+    "title": "Reeroll",
+    "name": "Reeroll",
+    "description": "AI video editor for quick, engaging videos via chat.",
+    "website": "https://reeroll.com",
+    "categories": "AI Video Generator, AI Video Editor, AI Short Video Generator, AI Marketing, AI Social Media",
+    "slug": "reeroll",
+    "created_at": "14:13:14 08/14/2025"
   },
   {
     "title": "Tremello - Market Research on Steroids",
@@ -5570,6 +5588,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Splash AI",
+    "name": "Data Visualization and Analysis with AI",
+    "description": "AI-powered data science and analytics platform, no coding.",
+    "website": "https://aisplash.me",
+    "categories": "AI For Data Analytics, AI Charting, AI Report Generator, AI Code Generator, No-Code&Low-Code",
+    "slug": "data-visualization-and-analysis-with-ai",
+    "created_at": "14:13:14 08/14/2025"
+  },
+  {
     "title": "AI Face Swap",
     "name": "AI Face Swap -",
     "description": "AI Face Swap is a smart tool that uses artificial intelligence. It can easily switch faces in photos, GIFs, and videos. In just seconds, it creates realistic changes with perfect facial expressions and details.",
@@ -7781,6 +7808,15 @@
     "categories": "AI Assistant, AI Productivity Tools, AI Calendar, AI Task Management, AI Schedule Maker, AI Chatbot",
     "slug": "coco-ai",
     "created_at": "14:12:04 07/17/2025"
+  },
+  {
+    "title": "SunoAPI",
+    "name": "SunoAPI",
+    "description": "AI Music API for generating studio-quality, commercially-usable songs.",
+    "website": "https://sunoapi.com",
+    "categories": "AI Music Generator, AI API, AI Song Generator, AI Instrumental Generator, AI Stems Splitter",
+    "slug": "sunoapi",
+    "created_at": "14:13:14 08/14/2025"
   },
   {
     "title": "Coloring-Pages.APP",
@@ -12661,6 +12697,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Compozy",
+    "name": "Compozy",
+    "description": "Platform for orchestrating scalable multi-agent AI systems with YAML workflows.",
+    "website": "https://compozy.com",
+    "categories": "AI Agent, AI Workflow, AI Developer Tools, AI Task Management",
+    "slug": "compozy",
+    "created_at": "14:13:14 08/14/2025"
+  },
+  {
     "title": "Giststack",
     "name": "Giststack",
     "description": "AI tool for curating content and generating on-brand social media posts.",
@@ -15856,6 +15901,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AIVector",
+    "name": "AIVector",
+    "description": "AIVector is a free online tool that uses advanced artificial intelligence to convert PNG/JPG/WEBP images into high-quality, scalable SVG files instantly. The service is fast, easy to use, and requires no registration or watermarks, making it perfect for designers, developers, and anyone needing to vectorize their graphics.",
+    "website": "https://aivector.ai",
+    "categories": "AI Vector Graphics, AI Image Generator, AI Style Transfer, Image to Image",
+    "slug": "aivector",
+    "created_at": "14:13:14 08/14/2025"
+  },
+  {
     "title": "PDF.co",
     "name": "PDF.co",
     "description": "API for extracting, editing, converting, and managing PDF documents.",
@@ -17978,6 +18032,15 @@
     "categories": "AI Logo Generator, AI Business Name Generator, AI Company Name Generator, AI Slogan Generator, AI Color Palette Generator",
     "slug": "brandkiit",
     "created_at": "14:15:50 08/01/2025"
+  },
+  {
+    "title": "mcp-use",
+    "name": "mcp-use",
+    "description": "Open-source platform for building and deploying AI agents and MCP servers.",
+    "website": "https://mcp-use.com",
+    "categories": "AI Developer Tools, AI API, AI Agent, Large Language Models (LLMs)",
+    "slug": "mcp-use",
+    "created_at": "14:13:14 08/14/2025"
   },
   {
     "title": "CatAIVisualizer",
