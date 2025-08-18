@@ -9367,6 +9367,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "Fixiol",
+    "name": "Fixiol",
+    "description": "AI platform for roof damage detection, analysis, and reporting.",
+    "website": "https://fixiol.com",
+    "categories": "AI Detector, AI Report Generator, AI Real Estate, AI Image Recognition",
+    "slug": "fixiol",
+    "created_at": "14:14:14 08/18/2025"
+  },
+  {
     "title": "Laterbase",
     "name": "Laterbase",
     "description": "AI-powered bookmark manager and chat-powered insights.",
@@ -12454,6 +12463,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Bhindi",
+    "name": "Bhindi AI",
+    "description": "AI platform for unified app interaction and automated workflows via natural language.",
+    "website": "https://bhindi.io",
+    "categories": "AI Agent, AI Workflow, AI Assistant, AI Productivity Tools, AI Task Management",
+    "slug": "bhindi-ai",
+    "created_at": "14:14:14 08/18/2025"
+  },
+  {
     "title": "museclip.ai",
     "name": "Character Design By Museclip",
     "description": "Transform 3D base models into realistic characters in real-time.",
@@ -13397,6 +13415,15 @@
     "categories": "Large Language Models (LLMs), Writing Assistants, AI Content Generator, Copywriting",
     "slug": "pacifis-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Postel",
+    "name": "Postel",
+    "description": "AI-powered assistant for X content ideation, creation, and scheduling.",
+    "website": "https://postel.app",
+    "categories": "AI Tweet Generator, AI Twitter, AI Social Media Post Generator, AI Scheduling, AI Repurpose",
+    "slug": "postel",
+    "created_at": "14:14:14 08/18/2025"
   },
   {
     "title": "AI Art Generator And AI Art Search Engine",
