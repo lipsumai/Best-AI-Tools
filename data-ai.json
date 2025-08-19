@@ -2160,6 +2160,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Stormy AI",
+    "name": "Stormy",
+    "description": "AI agent for end-to-end influencer marketing automation, finding creators, outreach, and campaign management.",
+    "website": "https://stormy.ai",
+    "categories": "AI Agent, AI Marketing, AI Digital Marketing, AI Social Media",
+    "slug": "stormy",
+    "created_at": "14:12:36 08/19/2025"
+  },
+  {
     "title": "FlowCraft",
     "name": "FlowCraft - AI DIagrams & Whiteboard",
     "description": "AI-powered diagram generation tool.",
@@ -3633,6 +3642,15 @@
     "categories": "AI Content Generator, AI Product Description Generator, AI Grammar Checker, AI Chatbot, AI Productivity Tools",
     "slug": "typegenius-ai-keyboard-app-for-iphone",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Psynth AI",
+    "name": "Psynth AI",
+    "description": "AI software for psychological report writing, reducing hours to minutes.",
+    "website": "https://www.psynth.ai",
+    "categories": "AI Report Generator, AI Report Writing, AI Mental Health, AI Healthcare, AI Writing Assistants",
+    "slug": "psynth-ai",
+    "created_at": "14:12:36 08/19/2025"
   },
   {
     "title": "Octopyd",
@@ -6468,6 +6486,15 @@
     "categories": "AI Art Generator, AI Anime Art, AI Photo & Image Generator, AI Illustration Generator",
     "slug": "ghibli-art-generator",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Extra Thursday",
+    "name": "Extra Thursday",
+    "description": "Voice-powered AI assistant for email management and daily planning.",
+    "website": "https://www.extrathursday.com",
+    "categories": "AI Voice Assistants, AI Email Assistant, AI Scheduling, AI Productivity Tools",
+    "slug": "extra-thursday",
+    "created_at": "14:12:36 08/19/2025"
   },
   {
     "title": "LLM SEO Monitor",
@@ -10823,6 +10850,15 @@
     "categories": "AI Marketing, AI Sales, AI Video Enhancer",
     "slug": "reelup",
     "created_at": "14:12:47 05/26/2025"
+  },
+  {
+    "title": "Autosana",
+    "name": "Autosana",
+    "description": "AI-powered QA agent for mobile app end-to-end testing.",
+    "website": "https://autosana.ai",
+    "categories": "AI Agent, AI Testing, AI Developer Tools, No-Code&Low-Code",
+    "slug": "autosana",
+    "created_at": "14:12:36 08/19/2025"
   },
   {
     "title": "ChillMail",
@@ -16855,6 +16891,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Anything - AI app builder",
+    "name": "Anything",
+    "description": "AI agent for building mobile and web apps without coding.",
+    "website": "https://www.createanything.com",
+    "categories": "AI App Builder, AI Website Builder, AI Agent, No-Code&Low-Code, AI Code Generator",
+    "slug": "anything",
+    "created_at": "14:12:36 08/19/2025"
+  },
+  {
     "title": "Airbyte",
     "name": "Airbyte",
     "description": "Open-source data integration platform for seamless data movement",
@@ -18853,6 +18898,15 @@
     "created_at": "14:12:51 04/16/2025"
   },
   {
+    "title": "Gitmore",
+    "name": "Gitmore",
+    "description": "AI-powered Git reporting automation for GitHub & Bitbucket insights.",
+    "website": "https://gitmore.io",
+    "categories": "AI Report Generator, AI Github, AI Developer Tools, AI Agent, Large Language Models (LLMs)",
+    "slug": "gitmore",
+    "created_at": "14:12:36 08/19/2025"
+  },
+  {
     "title": "Spakfly",
     "name": "Spakfly",
     "description": "Spakfly is software that converts text into natural-sounding voiceovers for various purposes.",
@@ -20473,6 +20527,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Macaron AI",
+    "name": "Macaron AI",
+    "description": "Personal AI agent creating custom tools with deep memory.",
+    "website": "https://macaron.im",
+    "categories": "AI Agent, AI Assistant, AI Life, Large Language Models (LLMs)",
+    "slug": "macaron-ai",
+    "created_at": "14:12:36 08/19/2025"
+  },
+  {
     "title": "WonderShare ToMoviee AI",
     "name": "WonderShare ToMoviee AI",
     "description": "All-in-one AI creative studio for video, image, music, and sound generation.",
@@ -20714,6 +20777,15 @@
     "categories": "AI Website Builder, AI Resume Builder, No-Code&Low-Code, AI Landing Page Builder",
     "slug": "pagey",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "Fanvaiy",
+    "name": "Fanvaiy",
+    "description": "Modern blogging platform for writers, storytellers, and makers to publish SEO-optimized content.",
+    "website": "https://fanvaiy.com",
+    "categories": "AI Blog Generator, AI Writing, AI Writing Assistants, AI SEO Tools",
+    "slug": "fanvaiy",
+    "created_at": "14:12:36 08/19/2025"
   },
   {
     "title": "Leoline",
@@ -21569,6 +21641,15 @@
     "categories": "AI SEO Tools, AI Marketing, AI Monitor, AI For Data Analytics, AI Digital Marketing",
     "slug": "brandradar",
     "created_at": "14:17:21 08/06/2025"
+  },
+  {
+    "title": "AI Image Editor",
+    "name": "AI Image Editor-",
+    "description": "AI-powered online image editor for text-prompt photo transformation.",
+    "website": "https://aiimageeditor.ai",
+    "categories": "AI Photo Editor, AI Image Enhancer, Image to Image, AI Style Transfer, AI Background Remover, AI Image Upscaler, AI Image Generator",
+    "slug": "ai-image-editor-1",
+    "created_at": "14:12:36 08/19/2025"
   },
   {
     "title": "Porsia",
@@ -23315,6 +23396,15 @@
     "categories": "Other",
     "slug": "bookled",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Gowanus.ai",
+    "name": "Gowanus",
+    "description": "AI agents monitor billing flows to prevent lost revenue.",
+    "website": "https://gowanus.ai",
+    "categories": "AI Agent, AI Monitor, AI Testing, AI For Finance",
+    "slug": "gowanus",
+    "created_at": "14:12:36 08/19/2025"
   },
   {
     "title": "Mathos | AI Math Solver & Calculator",
