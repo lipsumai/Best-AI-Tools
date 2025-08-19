@@ -1674,6 +1674,15 @@
     "created_at": "14:12:41 05/20/2025"
   },
   {
+    "title": "SiliconFlow",
+    "name": "SiliconFlow",
+    "description": "Lightning-fast AI platform for developers. Deploy, fine-tune, and run 200+ optimized LLMs and multimodal models with simple APIs",
+    "website": "https://www.siliconflow.com",
+    "categories": "AI Developer Tools, AI API, AI Models",
+    "slug": "siliconflow",
+    "created_at": "02:28:34 08/19/2025"
+  },
+  {
     "title": "Proofs.io",
     "name": "Proofs - AI Agents for Sales Engineering",
     "description": "AI Agents build full-stack PoCs faster, cheaper, and customized for sales.",
@@ -3833,6 +3842,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Workbookly",
+    "name": "Workbookly",
+    "description": "Transforms YouTube videos into interactive worksheets and PDFs.",
+    "website": "https://workbookly.app",
+    "categories": "AI Question Generator, AI Quiz Generator, AI PDF, AI Youtube Summary",
+    "slug": "workbookly",
+    "created_at": "02:28:34 08/19/2025"
+  },
+  {
     "title": "Prompt Overflow",
     "name": "Prompt Overflow",
     "description": "Get expert prompts for AI images every week.",
@@ -5280,6 +5298,15 @@
     "categories": "Sales Assistant, Digital Marketing Generator, AI Tools Directory",
     "slug": "reditus",
     "created_at": "14:11:21 05/01/2025"
+  },
+  {
+    "title": "ValueSense",
+    "name": "ValueSense",
+    "description": "Invest like Hedge Funds | Insights & Visuals",
+    "website": "https://valuesense.io",
+    "categories": "AI Investing, AI For Finance, AI Stock Trading, AI Research Tool",
+    "slug": "valuesense",
+    "created_at": "02:28:34 08/19/2025"
   },
   {
     "title": "Deeper",
@@ -7691,6 +7718,15 @@
     "categories": "Long Video To Short Video AI, AI Social Media, AI Social Media Post Generator, AI YouTube",
     "slug": "overlap-1",
     "created_at": "02:51:19 08/17/2025"
+  },
+  {
+    "title": "Tella",
+    "name": "Tella",
+    "description": "All-in-one screen recorder with AI editing for demos, tutorials, and courses.",
+    "website": "https://www.tella.com",
+    "categories": "AI Video Editor, AI Video Recording, AI Recording, AI Transcriber, AI Video Enhancer",
+    "slug": "tella",
+    "created_at": "02:28:34 08/19/2025"
   },
   {
     "title": "StarSense",
@@ -14245,6 +14281,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hairstyle AI",
+    "name": "Hairstyle AI",
+    "description": "AI tool for virtual hairstyle and color try-on.",
+    "website": "https://hairstyleai.ai",
+    "categories": "AI Hairstyle, AI Hair Color Changer, AI Beauty",
+    "slug": "hairstyle-ai",
+    "created_at": "02:28:34 08/19/2025"
+  },
+  {
     "title": "Japanese Name Generator",
     "name": "Japanese Name Generator",
     "description": "Generate authentic Japanese names with AI.",
@@ -19978,6 +20023,15 @@
     "created_at": "02:56:28 07/14/2025"
   },
   {
+    "title": "Dabe",
+    "name": "Dabe Agents",
+    "description": "AI agent platform for no-code automation across 350+ apps.",
+    "website": "https://dabe.io",
+    "categories": "AI Agent, No-Code&Low-Code, AI Workflow, AI Productivity Tools, AI Assistant",
+    "slug": "dabe-agents",
+    "created_at": "02:28:34 08/19/2025"
+  },
+  {
     "title": "Albert AI",
     "name": "Albert AI",
     "description": "Use AI in Slack with Albert AI.",
@@ -21029,6 +21083,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
     "slug": "seedance-ai-video-generator-professional-videos",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "PersonaRoll",
+    "name": "PersonaRoll",
+    "description": "AI platform turning photos into viral social media content.",
+    "website": "https://personaroll.ai",
+    "categories": "AI Social Media Post Generator, AI Writing Assistants, AI Social Media, AI Writing",
+    "slug": "personaroll",
+    "created_at": "02:28:34 08/19/2025"
   },
   {
     "title": "AI Monitor",
@@ -22496,6 +22559,15 @@
     "categories": "AI Code Generator, AI Code Assistant, AI Developer Tools, AI Profile Picture Generator, AI Selfie & Portrait, No-Code&Low-Code",
     "slug": "screenshot2code-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Relyable",
+    "name": "Relyable",
+    "description": "Automated testing and monitoring for AI Voice Agents.",
+    "website": "https://relyable.ai",
+    "categories": "AI Testing, AI Monitor, AI Voice Assistants, AI Agent",
+    "slug": "relyable",
+    "created_at": "02:28:34 08/19/2025"
   },
   {
     "title": "Veo3.bot",
