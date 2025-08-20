@@ -873,6 +873,15 @@
     "created_at": "02:19:38 04/12/2025"
   },
   {
+    "title": "VoxDeck",
+    "name": "VoxDeck",
+    "description": "AI presentation maker leading the visual revolution",
+    "website": "https://www.voxdeck.ai",
+    "categories": "AI Agent, AI Presentation Generator, AI Productivity Tools",
+    "slug": "voxdeck",
+    "created_at": "14:12:59 08/20/2025"
+  },
+  {
     "title": "iftrue",
     "name": "iftrue",
     "description": "AI copilot for engineering management in Slack, optimizing team performance.",
@@ -4598,6 +4607,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "CrawlChat",
+    "name": "CrawlChat",
+    "description": "AI chatbot for documentation, support, and analytics.",
+    "website": "https://crawlchat.app",
+    "categories": "AI Chatbot, AI Customer Service, AI Knowledge Base",
+    "slug": "crawlchat",
+    "created_at": "14:12:59 08/20/2025"
+  },
+  {
     "title": "Influee",
     "name": "Influee",
     "description": "UGC platform connecting brands with a creator network for content creation.",
@@ -7594,6 +7612,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Uluch",
+    "name": "Uluch",
+    "description": "Uluch offers free AI tools for unblurring images and creating transparent PNG images.",
+    "website": "https://uluch.com",
+    "categories": "AI Unblur Image, AI Background Remover, AI Image Enhancer, AI Photo Enhancer",
+    "slug": "uluch",
+    "created_at": "14:12:59 08/20/2025"
+  },
+  {
     "title": "PDNob Online",
     "name": "PDNob Online",
     "description": "PDNob Online is a free online PDF tool that lets you AI OCR, merge, compress, sign, convert and protect PDFs directly in your browser — no install needed.",
@@ -7988,6 +8015,15 @@
     "categories": "AI Coloring Book Generator, AI Image Generator, AI Painting Generator, AI Pattern Generator, AI Sketch Generator",
     "slug": "coloring-pages-app",
     "created_at": "14:13:23 07/07/2025"
+  },
+  {
+    "title": "Mumble Note",
+    "name": "Mumble Note",
+    "description": "AI voice notetaker for instant notes, tasks, and ideas.",
+    "website": "https://www.mumblenote.com",
+    "categories": "AI Note Taker, AI Meeting Assistant, AI Transcription, AI Summarizer, AI Speech-to-Text",
+    "slug": "mumble-note",
+    "created_at": "14:12:59 08/20/2025"
   },
   {
     "title": "Qwikrank",
@@ -12292,6 +12328,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Tely AI powered by TeleGPT",
+    "name": "Tely AI powered by TeleGPT",
+    "description": "TeleGPT is a Telegram-based AI assistant built to supercharge your messaging. It’s designed for both personal and professional communication, helping you cut through the noise and focus on what matters most.",
+    "website": "https://telegpt.org",
+    "categories": "AI Assistant",
+    "slug": "tely-ai-powered-by-telegpt",
+    "created_at": "14:12:59 08/20/2025"
+  },
+  {
     "title": "Talents.Kids",
     "name": "Talents.Kids",
     "description": "AI-powered platform for child talent discovery and personalized development.",
@@ -13424,6 +13469,15 @@
     "categories": "AI Graphic Design, Design Assistant, AI Tutorial, AI Education Assistant, AI Video Editor",
     "slug": "wisbox-ai",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "Snowglobe",
+    "name": "Snowglobe",
+    "description": "AI simulation environment for testing LLM apps at scale.",
+    "website": "https://snowglobe.so",
+    "categories": "AI Testing, AI Chatbot, AI Developer Tools, Large Language Models (LLMs)",
+    "slug": "snowglobe",
+    "created_at": "14:12:59 08/20/2025"
   },
   {
     "title": "PrompTune",
@@ -16061,6 +16115,15 @@
     "categories": "Writing Assistants",
     "slug": "getmagicnow-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Fume",
+    "name": "Fume",
+    "description": "AI QA team creating and maintaining Playwright browser tests from video.",
+    "website": "https://fumedev.com",
+    "categories": "AI Testing, AI Agent, AI Developer Tools, AI Code Generator",
+    "slug": "fume",
+    "created_at": "14:12:59 08/20/2025"
   },
   {
     "title": "ChatoGhibli",
