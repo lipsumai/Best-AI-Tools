@@ -5714,6 +5714,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "Base44",
+    "name": "Base44",
+    "description": "AI-powered platform to build fully-functional apps in minutes with no code.",
+    "website": "https://base44.com",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
+    "slug": "base44",
+    "created_at": "02:26:41 08/20/2025"
+  },
+  {
     "title": "renu.",
     "name": "renu. Weight Loss Assistant",
     "description": "Transparent weight loss tracking made easy.",
@@ -8447,6 +8456,15 @@
     "categories": "AI Chatbot",
     "slug": "pawcracy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Feedback Kit",
+    "name": "Feedback Kit",
+    "description": "Meet your AI Feedback Partner – Intelligent Feedback Tool built for fast-moving solopreneurs",
+    "website": "https://www.feedbackkit.app",
+    "categories": "AI Productivity Tools, AI Workflow, AI Coaching",
+    "slug": "feedback-kit",
+    "created_at": "02:26:41 08/20/2025"
   },
   {
     "title": "LoveFaceSwap",
@@ -11329,6 +11347,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI-PRO.org",
+    "name": "AI-PRO.org",
+    "description": "All-in-one AI platform for learning, tools, and assistance.",
+    "website": "https://ai-pro.org",
+    "categories": "AI Tools Directory, AI Chatbot, AI Art Generator, AI Writing, AI Productivity Tools, AI Course, AI Image Generator",
+    "slug": "ai-pro-org",
+    "created_at": "02:26:41 08/20/2025"
+  },
+  {
     "title": "Veo 3",
     "name": "Veo 3",
     "description": "AI video generator with native audio and precise control.",
@@ -14072,6 +14099,15 @@
     "categories": "AI Course",
     "slug": "goodlearns",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Digen AI",
+    "name": "Digen AI",
+    "description": "Free AI video generator transforming images into professional videos with lip-sync and multilingual support.",
+    "website": "https://digen.ai",
+    "categories": "AI Video Generator, Image to Video, AI Lip Sync Generator, AI Short Video Generator",
+    "slug": "digen-ai",
+    "created_at": "02:26:41 08/20/2025"
   },
   {
     "title": "AdFreeMusic.online",
@@ -18257,6 +18293,15 @@
     "categories": "AI Interview Assistant, AI Quizzes",
     "slug": "aceunlock-ai",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "qwen-image-edit",
+    "name": "qwen-image-edit",
+    "description": "AI-powered image editing model with semantic, appearance, and text editing.",
+    "website": "https://qwen-image-edit.org",
+    "categories": "AI Photo Editor, Open Source AI Models, AI Inpainting",
+    "slug": "qwen-image-edit",
+    "created_at": "02:26:41 08/20/2025"
   },
   {
     "title": "BrandKiit",
