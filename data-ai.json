@@ -4337,6 +4337,15 @@
     "created_at": "14:15:43 07/31/2025"
   },
   {
+    "title": "Sesterce Cloud",
+    "name": "Sesterce Cloud",
+    "description": "European GPU cloud platform delivering high-performance, sovereign, and energy-efficient infrastructure for AI training, inference, and HPC.",
+    "website": "https://cloud.sesterce.com",
+    "categories": "AI Developer Tools",
+    "slug": "sesterce-cloud",
+    "created_at": "14:13:19 08/21/2025"
+  },
+  {
     "title": "Ghibli Style Image Transformer",
     "name": "Ghibli Style Image Transformer",
     "description": "AI tool for transforming images into Ghibli-style art",
@@ -4641,6 +4650,15 @@
     "categories": "AI App Builder, AI Product Description Generator, AI Image Scanning, AI Analytics Assistant, AI Data Mining, AI Charting",
     "slug": "neonfin",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vidfly",
+    "name": "Vidfly",
+    "description": "An all-in-one AI video creation platform to turn your ideas into stunning videos with ease.",
+    "website": "https://vidfly.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI API, AI Animated Video, AI Animation Generator, AI Music Video Generator, AI Short Video Generator, AI Video Editor, AI Video Enhancer, AI Video Upscaler, Image to Video, Script To Video AI Generator, Text to Video, Video to Video, AI Productivity Tools",
+    "slug": "vidfly",
+    "created_at": "14:13:19 08/21/2025"
   },
   {
     "title": "UntitledPen",
@@ -5703,6 +5721,15 @@
     "categories": "AI Tutorial, AI Course, AI Content Generator, AI Animated Video, AI Video Generator",
     "slug": "studia-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nano Banana AI",
+    "name": "Nano Banana AI",
+    "description": "Nano Banana AI is a free AI image editor and generator that delivers fast, accurate, and consistent results. It allows users to create, edit, and enhance images directly in the browser, making it an ideal tool for both casual and professional creators.",
+    "website": "https://nanobananaart.ai",
+    "categories": "AI Image Generator, AI Photo Editor, AI Style Transfer, Image to Image, Text to Image",
+    "slug": "nano-banana-ai-free-ai-image-editor",
+    "created_at": "14:13:19 08/21/2025"
   },
   {
     "title": "Splash AI",
@@ -7513,6 +7540,15 @@
     "created_at": "14:12:48 07/09/2025"
   },
   {
+    "title": "Transcriptly",
+    "name": "Transcriptly",
+    "description": "Audio and Video to Text Converter - Free Online Transcription Platform. Extract, edit, and download transcripts from YouTube videos or uploaded files in seconds. Perfect for content creators, students, researchers, and professionals who need fast, reliable transcription services.",
+    "website": "https://transcriptly.org",
+    "categories": "AI Transcription, AI Description Generator, AI Outline Generator, AI Subtitle Generator, AI Summarizer, Audio To Text AI",
+    "slug": "transcriptly",
+    "created_at": "14:13:19 08/21/2025"
+  },
+  {
     "title": "Local Art",
     "name": "Local Art",
     "description": "Local AI art generation iOS app",
@@ -8753,6 +8789,15 @@
     "categories": "AI CRM Assistant, AI Recruiting, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Workflow Management, AI Project Management",
     "slug": "smartsuite",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Song Agent AI",
+    "name": "Song Agent AI",
+    "description": "AI Song Agent for professional music creation, composition, and album production.",
+    "website": "https://songagent.com",
+    "categories": "AI Song Generator, AI Music Generator, AI Text-to-Music, AI Melody Generator, AI Agent",
+    "slug": "song-agent-ai",
+    "created_at": "14:13:19 08/21/2025"
   },
   {
     "title": "Qaprix Intelligence",
@@ -13921,6 +13966,15 @@
     "created_at": "02:51:35 07/16/2025"
   },
   {
+    "title": "Glotera AI",
+    "name": "Glotera AI",
+    "description": "A smart, macOS-native translation assistant",
+    "website": "https://glotera.ai",
+    "categories": "AI Translate",
+    "slug": "glotera-ai",
+    "created_at": "14:13:19 08/21/2025"
+  },
+  {
     "title": "Img2Sheet",
     "name": "Img2Sheet",
     "description": "Automates data entry from images to Google Sheets using AI.",
@@ -15062,6 +15116,15 @@
     "categories": "AI Presentation Generator, AI Consulting, AI PPT Maker, AI Pitch Deck Generator, AI Marketing, AI Sales",
     "slug": "xavier-ai",
     "created_at": "02:54:34 07/23/2025"
+  },
+  {
+    "title": "Nano Banana AI",
+    "name": "Nano Banana AI",
+    "description": "AI-powered image generator & editor for stunning visuals.",
+    "website": "https://ainanobanana.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Realistic Image Generator, AI Portrait Generator, AI API",
+    "slug": "nano-banana-ai",
+    "created_at": "14:13:19 08/21/2025"
   },
   {
     "title": "TeqID – Connect",
@@ -19814,6 +19877,15 @@
     "categories": "AI Productivity Tools, AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Testing & QA, AI Developer Tools",
     "slug": "windsurf",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "refont.ai",
+    "name": "refont.ai",
+    "description": "AI Font Generator for calligraphy, signatures, and fancy text.",
+    "website": "https://refont.ai",
+    "categories": "AI Font Generator, AI Signature Generator, Text to Handwriting, AI Logo Generator",
+    "slug": "refont-ai",
+    "created_at": "14:13:19 08/21/2025"
   },
   {
     "title": "LLM API Costs Widget",
