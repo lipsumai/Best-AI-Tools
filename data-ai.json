@@ -2043,6 +2043,15 @@
     "created_at": "02:49:25 06/08/2025"
   },
   {
+    "title": "Explee",
+    "name": "Explee",
+    "description": "Start outreach RIGHT NOW with single-line description of your ICP",
+    "website": "https://go.explee.com",
+    "categories": "AI Sales, AI Research Tool",
+    "slug": "explee",
+    "created_at": "14:12:12 08/22/2025"
+  },
+  {
     "title": "Arcadium",
     "name": "Arcadium",
     "description": "AI-powered online 3D house design tool for floor plans and interior design.",
@@ -2257,6 +2266,15 @@
     "categories": "Copywriting, AI Email Writer, AI Content Detector, AI Grammar Checker, AI Plagiarism Checker, AI Checker Essay, AI Detector, AI Product Description Generator, AI Content Generator, Essay Writer, Writing Assistants, General Writing, Paraphraser, AI Book Writing, AI Story Writing, AI Script Writing, AI Rewriter, AI Tools Directory",
     "slug": "aceessay-ai",
     "created_at": "14:12:45 04/23/2025"
+  },
+  {
+    "title": "Daymi",
+    "name": "Daymi",
+    "description": "AI clone and companion mirroring your style for personal life management.",
+    "website": "https://daymi.ai",
+    "categories": "AI Assistant, AI Character, AI Life, AI Chatbot, AI Scheduling",
+    "slug": "daymi",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "Dooray!",
@@ -2544,6 +2562,15 @@
     "categories": "AI Copywriting, AI Writing Assistants, AI Social Media Post Generator, AI Social Media",
     "slug": "syndy-ai",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Claudia - AI ADHD Personal Assistant",
+    "name": "Neuro (ADHD)",
+    "description": "AI personal assistant for ADHD adults, organizing thoughts into action.",
+    "website": "https://www.neuro-notion.com",
+    "categories": "AI Assistant, AI Productivity Tools, AI Task Management, AI Mental Health, AI Voice Assistants",
+    "slug": "neuro-adhd",
+    "created_at": "14:12:11 08/22/2025"
   },
   {
     "title": "Breef",
@@ -4283,6 +4310,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Widgens",
+    "name": "Widgens",
+    "description": "First visual-first general-purpose AI for browsing, searching, learning, inspiration, and content generation.",
+    "website": "https://widgens.com",
+    "categories": "AI Assistant, AI Search Engine, AI Productivity Tools, AI Image Generator, AI Website Builder, AI Game Generator, AI Summarizer, AI Flashcard Maker",
+    "slug": "widgens",
+    "created_at": "14:12:12 08/22/2025"
+  },
+  {
     "title": "Comfy Deploy",
     "name": "Comfy Deploy",
     "description": "Collaborative platform for ComfyUI workflow deployment and management.",
@@ -4686,6 +4722,15 @@
     "categories": "Other",
     "slug": "automate-github-pr-analysis",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ReadyBase",
+    "name": "ReadyBase",
+    "description": "Transforms raw intelligence, data, and insights into polished, presentation-ready PDFs.",
+    "website": "https://readybase.ai",
+    "categories": "AI Documents Generator, AI Report Generator, AI Presentation Generator, AI PDF, AI Workflow",
+    "slug": "readybase",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "Powtoon",
@@ -7900,6 +7945,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "CoreViz",
+    "name": "CoreViz",
+    "description": "AI-powered visual search and analysis for teams.",
+    "website": "https://coreviz.io",
+    "categories": "AI Search Engine, AI Image Recognition, AI Video Search, AI Photo Editor, AI API",
+    "slug": "coreviz",
+    "created_at": "14:12:12 08/22/2025"
+  },
+  {
     "title": "BAGEL",
     "name": "Bagel",
     "description": "Open-source unified multimodal AI for understanding, generation, editing.",
@@ -8375,6 +8429,15 @@
     "categories": "Fitness, AI Music Generator",
     "slug": "listify-music-ai",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Surf",
+    "name": "Surf",
+    "description": "Surf, the ultimate crypto AI—institution-grade research and execution in one command center.",
+    "website": "https://asksurf.ai",
+    "categories": "AI Crypto, AI Copywriting, AI Creative Writing, AI For Finance, AI Investing, AI Trading Bot, Blockchain, NFTs, Web3, AI Agent, AI For Data Analytics, AI Predictions, AI Research Papers, AI Research Tool",
+    "slug": "surf",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "RepoNotes",
@@ -8897,6 +8960,15 @@
     "categories": "AI Customer Service Assistant, AI Reply Assistant, AI Response Generator",
     "slug": "ai-typing-assistant",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Quiklearn",
+    "name": "Quiklearn",
+    "description": "AI-powered flashcards and quizzes from PDFs for smarter study.",
+    "website": "https://quiklearn.app",
+    "categories": "AI Flashcard Maker, AI Quiz Generator, AI Homework Helper, AI Quizzes, AI PDF",
+    "slug": "quiklearn",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "Arti.pics",
@@ -11482,6 +11554,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Shockvue",
+    "name": "Shockvue",
+    "description": "AI image editor for magic-like edits, describe and speak edits, instant visuals.",
+    "website": "https://www.shockvueapp.com",
+    "categories": "AI Photo Editor, AI Interior Design, AI Outfit Generator, Object Remover AI",
+    "slug": "shockvue",
+    "created_at": "14:12:12 08/22/2025"
+  },
+  {
     "title": "BestFaceSwap AI",
     "name": "BestFaceSwap AI",
     "description": "AI face swap platform for videos and photos.",
@@ -13739,6 +13820,15 @@
     "categories": "AI Content Generator, AI Productivity Tools, AI Product Description Generator, AI Response Generator",
     "slug": "post-perfect",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Voyage Pet AI",
+    "name": "Voyage Pet AI",
+    "description": "AI app for total pet wellness, health records, and personalized care.",
+    "website": "https://www.thevoyage.ai",
+    "categories": "AI Assistant, AI Healthcare, AI Chatbot, AI Scheduling",
+    "slug": "voyage-pet-ai",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "CopyOwl.ai",
@@ -16270,6 +16360,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Disco.dev",
+    "name": "Disco.dev",
+    "description": "Easiest way to spin up, test, and remix open-source MCP servers for AI agents.",
+    "website": "https://disco.dev",
+    "categories": "AI Developer Tools, AI Agent, AI API, No-Code&Low-Code, AI Workflow",
+    "slug": "disco-dev",
+    "created_at": "14:12:12 08/22/2025"
+  },
+  {
     "title": "SpeechPro",
     "name": "SpeechPro",
     "description": "AI tool for presentation feedback on performance and content.",
@@ -16927,6 +17026,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Mocke",
+    "name": "Mocke",
+    "description": "AI agent for mock email campaigns, providing instant insights into performance.",
+    "website": "https://mocke.co",
+    "categories": "AI Email Marketing, AI Predictions, AI Agent, AI Sales Assistant",
+    "slug": "mocke",
+    "created_at": "14:12:12 08/22/2025"
+  },
+  {
     "title": "ChatBlu",
     "name": "ChatBlu",
     "description": "AI chatbot for customer support and increasing Shopify conversions.",
@@ -17006,6 +17114,15 @@
     "categories": "AI Chatbot, AI App Builder, AI Code Assistant, AI Data Mining, AI Developer Tools, AI Image Recognition, AI API Design",
     "slug": "askhn-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Moimobi",
+    "name": "Moimobi",
+    "description": "Cloud Android automation for secure multi-account management and marketing.",
+    "website": "https://www.moimobi.com",
+    "categories": "AI Marketing, AI Social Media, AI Digital Marketing, AI Advertising, AI Sales",
+    "slug": "moimobi",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "Clado",
@@ -17987,6 +18104,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
     "slug": "grok-video-ai",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "NoDocs",
+    "name": "NoDocs",
+    "description": "No-code documentation builder for products and APIs, designed for makers.",
+    "website": "https://nodocs.io",
+    "categories": "AI Documents Generator, No-Code&Low-Code, AI Knowledge Base, AI Writing Assistants",
+    "slug": "nodocs",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "Apptrop",
@@ -21229,6 +21355,15 @@
     "created_at": "14:12:48 07/09/2025"
   },
   {
+    "title": "Sidenty",
+    "name": "Sidenty",
+    "description": "Safeguards digital identity, enforces copyright, and protects online presence for creators and businesses.",
+    "website": "https://sidenty.com",
+    "categories": "AI Only Fans, AI Legal Assistant",
+    "slug": "sidenty",
+    "created_at": "14:12:12 08/22/2025"
+  },
+  {
     "title": "Video Tap",
     "name": "Video Tap",
     "description": "Repurpose and optimize videos with AI. Try for FREE.",
@@ -22514,6 +22649,15 @@
     "categories": "AI Grammar Checker, AI Chatbot, AI Interview Assistant, AI Coaching, AI Education Assistant, AI Meeting Assistant, AI Video Recording, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition",
     "slug": "pronounce",
     "created_at": "02:26:48 04/14/2025"
+  },
+  {
+    "title": "Rebolt",
+    "name": "Rebolt",
+    "description": "No-code AI platform to build apps and agents by speaking with AI.",
+    "website": "https://rebolt.ai",
+    "categories": "AI App Builder, AI Agent, No-Code&Low-Code, AI Workflow",
+    "slug": "rebolt",
+    "created_at": "14:12:12 08/22/2025"
   },
   {
     "title": "SocioSim",
