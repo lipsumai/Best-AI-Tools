@@ -6308,6 +6308,15 @@
     "created_at": "14:10:24 04/20/2025"
   },
   {
+    "title": "WriteVoice",
+    "name": "WriteVoice",
+    "description": "Super-accurate, fast voice-to-text for teams & professionals. Privacy-first",
+    "website": "https://www.writevoice.io",
+    "categories": "AI Writing Assistants, AI Paraphraser, AI Title Generator, AI Thesis Generator, AI Text Message Generator, AI Text Generator, AI Spell Check, AI Script Writing, AI Rewriter, AI Report Writing, AI Proofreading, AI Prompt Generator, AI Product Description Generator, AI Paragraph Generator, AI Creative Writing, AI Outline Generator, AI Newsletter Generator, AI Name Generator, AI Movie Script Generator, AI Message Generator, AI Love Letter Generator, AI Letter Writer, AI Job Description Generator, AI Grammar Checker, AI Essay Writer, AI Dialogue Generator, AI Writing",
+    "slug": "writevoice",
+    "created_at": "14:10:11 08/23/2025"
+  },
+  {
     "title": "Makeform",
     "name": "Makeform",
     "description": "AI-powered platform for effortless form, survey, quiz, and poll creation.",
@@ -15127,6 +15136,15 @@
     "created_at": "14:12:23 06/27/2025"
   },
   {
+    "title": "GeminiGenAI",
+    "name": "GeminiGenAI",
+    "description": "Multi-modal AI content generation for images, videos, and speech.",
+    "website": "https://geminigen.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Text-to-Speech, Text to Image, Text to Video",
+    "slug": "geminigenai",
+    "created_at": "14:10:11 08/23/2025"
+  },
+  {
     "title": "Wisdom Gate | AI API",
     "name": "Wisdom Gate | AI API",
     "description": "Unified interface and aggregator for multiple LLMs.",
@@ -15728,6 +15746,15 @@
     "categories": "AI Chatbot",
     "slug": "chat-fu",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nine Star Ki Mystical Astrology",
+    "name": "Nine Star Ki Mystical Astrology",
+    "description": "Nine Star Ki AI blends Japanese astrology with modern AI. Based on your birth date, it creates a personalized chart and offers insights into personality, relationships, and future opportunities—ancient wisdom made simple and instant.",
+    "website": "https://www.uranao.ai",
+    "categories": "AI Dream Interpreter, AI God, AI Chatbot, AI Dating Assistant",
+    "slug": "nine-star-ki-mystical-astrology",
+    "created_at": "14:10:11 08/23/2025"
   },
   {
     "title": "NexaVoxa",
@@ -18680,6 +18707,15 @@
     "categories": "AI Selfie & Portrait",
     "slug": "face-shape-detector",
     "created_at": "02:43:20 05/19/2025"
+  },
+  {
+    "title": "Movely AI",
+    "name": "Movely AI",
+    "description": "AI video generator & photo editor for dynamic content.",
+    "website": "https://movelyai.com",
+    "categories": "AI Video Generator, AI Photo Editor, Image to Video, AI Animation Generator, Gender Swap AI",
+    "slug": "movely-ai",
+    "created_at": "14:10:11 08/23/2025"
   },
   {
     "title": "Easygoing",
