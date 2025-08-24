@@ -4085,6 +4085,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TransGull",
+    "name": "TransGull",
+    "description": "AI translation for conversations, live speech, images & videos.",
+    "website": "https://transgull.com",
+    "categories": "AI Translate, AI Image Translator, AI Video Translator, AI Voice Translator",
+    "slug": "transgull",
+    "created_at": "14:10:14 08/24/2025"
+  },
+  {
     "title": "ImageFx",
     "name": "ImageFx",
     "description": "Professional AI image generator for stunning digital art, illustrations, and photo-realistic images.",
@@ -7359,6 +7368,15 @@
     "categories": "Other",
     "slug": "birthdayai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Rewrait",
+    "name": "Rewrait",
+    "description": "AI detector & writing assistant, better than Grammarly & QuillBot, with native app.",
+    "website": "https://rewrait.com",
+    "categories": "AI Detector, AI Writing Assistants, AI Rewriter, AI Content Detector, AI Grammar Checker, AI Paraphraser, AI Plagiarism Checker, AI Translate",
+    "slug": "rewrait",
+    "created_at": "14:10:14 08/24/2025"
   },
   {
     "title": "Italian Brainrot Generator",
