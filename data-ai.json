@@ -5345,6 +5345,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ChatIn",
+    "name": "ChatIn",
+    "description": "AI-powered multi-agent system for customer support and sales.",
+    "website": "https://chatin.support",
+    "categories": "AI Customer Service, AI Chatbot, AI Agent, AI Sales Assistant, AI Assistant",
+    "slug": "chatin",
+    "created_at": "14:12:48 08/25/2025"
+  },
+  {
     "title": "Hireduce",
     "name": "Hireduce",
     "description": "AI tool that optimizes the recruitment process for efficiency.",
@@ -5964,6 +5973,15 @@
     "categories": "AI Course, AI Interior & Room Design",
     "slug": "ai-design-training",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Fiesta",
+    "name": "AI Fiesta",
+    "description": "Access and compare top AI models under one subscription.",
+    "website": "https://aifiesta.ai",
+    "categories": "AI Chatbot, Large Language Models (LLMs), AI Assistant, AI Productivity Tools, AI Transcriber, AI Image Generator",
+    "slug": "ai-fiesta",
+    "created_at": "14:12:48 08/25/2025"
   },
   {
     "title": "Ace That Application",
@@ -7037,6 +7055,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "The SMS City",
+    "name": "The SMS City",
+    "description": "Messaging automation platform for WhatsApp & SMS business operations.",
+    "website": "https://thesmscity.com",
+    "categories": "AI Chatbot, AI Marketing, AI Sales Assistant, AI Customer Service, AI Text Message Generator, AI Workflow",
+    "slug": "the-sms-city",
+    "created_at": "14:12:48 08/25/2025"
+  },
+  {
     "title": "Awesome Repositories",
     "name": "Awesome Repositories",
     "description": "AI-powered search engine for finding cool repositories",
@@ -7999,6 +8026,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Omnara",
+    "name": "Omnara",
+    "description": "Unified command center to monitor, manage, and collaborate with AI agents.",
+    "website": "https://omnara.com",
+    "categories": "AI Agent, AI Monitor, AI Developer Tools",
+    "slug": "omnara",
+    "created_at": "14:12:48 08/25/2025"
+  },
+  {
     "title": "Clasely",
     "name": "Clasely V1",
     "description": "AI study buddy turning PDFs into interactive, character-guided learning experiences.",
@@ -8699,6 +8735,15 @@
     "categories": "AI SEO Tools, AI Workflow, SEO Writing AI, No-Code&Low-Code",
     "slug": "moonlit-platform",
     "created_at": "14:12:57 06/10/2025"
+  },
+  {
+    "title": "SEO45 AI",
+    "name": "SEO45™ AI",
+    "description": "Automated AI platform for daily SEO blog content creation and publishing.",
+    "website": "https://seo45.com",
+    "categories": "AI SEO Tools, AI Blog Generator, SEO Writing AI, AI Writing",
+    "slug": "seo45-ai",
+    "created_at": "14:12:48 08/25/2025"
   },
   {
     "title": "AudioX",
@@ -19996,6 +20041,15 @@
     "created_at": "14:12:44 06/12/2025"
   },
   {
+    "title": "Madespace",
+    "name": "Madespace",
+    "description": "AI-powered interior design app for everyone to design, shop, and get expert help.",
+    "website": "https://madespace.ai",
+    "categories": "AI Interior Design, AI Design Generator, AI Room Planner, AI Design Assistant",
+    "slug": "madespace",
+    "created_at": "14:12:48 08/25/2025"
+  },
+  {
     "title": "Neuwo",
     "name": "Neuwo",
     "description": "Neuwo is an AI service that improves content classification and brand safety for effective contextual advertising.",
@@ -20372,6 +20426,15 @@
     "categories": "Large Language Models (LLMs), AI Content Generator, AI Code Assistant, AI Developer Tools",
     "slug": "deepseek-ai-1",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Deforge",
+    "name": "Deforge",
+    "description": "Visual no-code platform for building and deploying AI agents.",
+    "website": "https://deforge.io",
+    "categories": "AI Agent, No-Code&Low-Code, AI Chatbot, AI Workflow, Web3",
+    "slug": "deforge",
+    "created_at": "14:12:48 08/25/2025"
   },
   {
     "title": "Dreamik AI",
