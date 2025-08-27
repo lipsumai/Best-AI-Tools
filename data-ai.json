@@ -2357,6 +2357,15 @@
     "created_at": "14:11:31 05/08/2025"
   },
   {
+    "title": "Qoder",
+    "name": "Qoder",
+    "description": "Agentic coding platform for real software development with AI agents.",
+    "website": "https://qoder.com",
+    "categories": "AI Code Assistant, AI Agent, AI Developer Tools, AI Code Generator, AI Copilot",
+    "slug": "qoder",
+    "created_at": "14:12:15 08/27/2025"
+  },
+  {
     "title": "MagiCan",
     "name": "MagiCan",
     "description": "AI-powered infinite canvas for creative collaboration and storytelling.",
@@ -4164,6 +4173,15 @@
     "categories": "AI Scheduling, AI Meeting Assistant, AI Email Assistant, AI Productivity Tools, AI Assistant",
     "slug": "meet-ting",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "Octayne PSA",
+    "name": "Octayne PSA",
+    "description": "AI-powered PSA for time tracking, expenses, and invoicing.",
+    "website": "https://octayne.ai",
+    "categories": "AI Project Management, AI Accounting, AI Productivity Tools, AI Legal Assistant",
+    "slug": "octayne-psa",
+    "created_at": "14:12:15 08/27/2025"
   },
   {
     "title": "GetAnswer",
@@ -9970,6 +9988,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Revyu AI",
+    "name": "Revyu.AI - Smart Hotel Booking",
+    "description": "Free AI Chrome extension for instant hotel review summaries and answers.",
+    "website": "https://revyu.ai",
+    "categories": "AI Reviews, AI Travel, AI Summarizer, AI Search Engine, AI Assistant",
+    "slug": "revyu-ai-smart-hotel-booking",
+    "created_at": "14:12:15 08/27/2025"
+  },
+  {
     "title": "Leaderr",
     "name": "Leaderr.io",
     "description": "AI-powered B2B data intelligence, lead generation, and compliance solutions.",
@@ -12281,6 +12308,15 @@
     "categories": "Other",
     "slug": "ask-steve",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sayfone",
+    "name": "Sayfone",
+    "description": "Sayfone is the ultimate Skype replacement - cheap, fast, and reliable calls worldwide.",
+    "website": "https://www.sayfone.com",
+    "categories": "AI Travel, AI Marketing, AI Sales",
+    "slug": "sayfone",
+    "created_at": "14:12:15 08/27/2025"
   },
   {
     "title": "Superify",
@@ -21571,6 +21607,15 @@
     "created_at": "14:10:34 06/29/2025"
   },
   {
+    "title": "Traceroot.AI",
+    "name": "TraceRoot.AI",
+    "description": "AI-native, open-source observability for automated bug fixing and debugging.",
+    "website": "https://traceroot.ai",
+    "categories": "AI Developer Tools, AI Agent, AI Code Assistant, AI Monitor, Log Management",
+    "slug": "traceroot-ai",
+    "created_at": "14:12:15 08/27/2025"
+  },
+  {
     "title": "Minddex.ai",
     "name": "Minddex.ai",
     "description": "Minddex is the first platform dedicated to GEO – Generative Engine Optimization.  As millions of users now rely on AI tools like ChatGPT, Gemini, and Perplexity to find information, Minddex helps brands measure and improve their visibility in AI-generated answers.",
@@ -22822,6 +22867,15 @@
     "created_at": "02:26:48 04/14/2025"
   },
   {
+    "title": "Rexpt AI",
+    "name": "Rexpt - AI Receptionist Service",
+    "description": "Smart AI receptionist for 24/7 call handling, lead nurturing, and front-desk management.",
+    "website": "https://rxpt.us",
+    "categories": "AI Call Center, AI Customer Service, AI Agent, AI Voice Assistants, AI Scheduling, AI Sales Assistant",
+    "slug": "rexpt-ai-receptionist-service",
+    "created_at": "14:12:15 08/27/2025"
+  },
+  {
     "title": "Rebolt",
     "name": "Rebolt",
     "description": "No-code AI platform to build apps and agents by speaking with AI.",
@@ -23666,6 +23720,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Healthcare, AI Education Assistant, AI Meeting Assistant, AI Notes Assistant, Summarizer, Transcription, Writing Assistants, Transcriber, Speech-to-Text, AI Speech Recognition, AI Coaching",
     "slug": "hedy-2-0-macos-app",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "Streamdown",
+    "name": "Streamdown",
+    "description": "A drop-in react-markdown replacement for AI-powered streaming.",
+    "website": "https://streamdown.ai",
+    "categories": "AI Developer Tools, AI Chatbot",
+    "slug": "streamdown",
+    "created_at": "14:12:15 08/27/2025"
   },
   {
     "title": "Zero",
