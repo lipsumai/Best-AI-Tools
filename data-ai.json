@@ -17908,6 +17908,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "WAN 2.2-S2V",
+    "name": "WAN 2.2-S2V",
+    "description": "AI platform transforming speech into cinematic videos with avatars.",
+    "website": "https://wan-s2v.com",
+    "categories": "AI Video Generator, AI Avatar Video Generator, AI Speech Recognition, AI Lip Sync Generator",
+    "slug": "wan-2-2-s2v",
+    "created_at": "02:22:28 08/27/2025"
+  },
+  {
     "title": "AI Blood Test Analysis",
     "name": "AI Blood Test Analysis",
     "description": "AI-powered platform for analyzing blood test results.",
@@ -20626,6 +20635,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Geordy AI",
+    "name": "Geordy AI",
+    "description": "Automates structured content delivery for enhanced AI visibility and search optimization.",
+    "website": "https://www.geordy.ai",
+    "categories": "AI SEO Tools, AI Marketing, AI Digital Marketing, AI Productivity Tools",
+    "slug": "geordy-ai",
+    "created_at": "02:22:28 08/27/2025"
+  },
+  {
     "title": "Raycast AI",
     "name": "Raycast AI Lite",
     "description": "AI platform with powerful extensions on your OS.",
@@ -20642,6 +20660,15 @@
     "categories": "Paraphraser, AI Rewriter, Writing Assistants, Essay Writer, Papers, General Writing, AI Content Generator, AI Blog Writer, Report Writing, Summarizer, AI Story Writing, AI Creative Writing, AI Book Writing, Copywriting",
     "slug": "aithor",
     "created_at": "02:29:14 05/07/2025"
+  },
+  {
+    "title": "Nano-Banana AI",
+    "name": "Nano-Banana AI",
+    "description": "AI image editor using natural language for fast, consistent edits.",
+    "website": "https://nanobanana.im",
+    "categories": "AI Photo Editor, Text to Image, AI Image Generator, AI Influencer",
+    "slug": "nano-banana-ai-1",
+    "created_at": "02:22:28 08/27/2025"
   },
   {
     "title": "V7 Lab",
@@ -22021,6 +22048,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "nano banana",
+    "name": "nano banana-",
+    "description": "AI image editor and generator with natural language understanding and character consistency.",
+    "website": "https://www.nano-banana.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image",
+    "slug": "nano-banana-1",
+    "created_at": "02:22:28 08/27/2025"
+  },
+  {
     "title": "Veo3Video",
     "name": "Veo3Video",
     "description": "AI video generation with synchronized audio and lip-sync, powered by Google Veo3.",
@@ -22622,6 +22658,15 @@
     "categories": "AI Audio Editing, AI Video Editor, AI Subtitle Generator, AI Transcription",
     "slug": "beepthatout",
     "created_at": "14:12:11 07/04/2025"
+  },
+  {
+    "title": "RichlyAI",
+    "name": "RichlyAI",
+    "description": "AI platform for content, images, voice, and social media.",
+    "website": "https://richlyai.com",
+    "categories": "AI Writing Assistants, AI Text Generator, AI Image Generator, AI Social Media, AI Writing, AI Code Generator, AI Chatbot",
+    "slug": "richlyai",
+    "created_at": "02:22:28 08/27/2025"
   },
   {
     "title": "Novi AI",
