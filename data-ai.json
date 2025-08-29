@@ -1467,6 +1467,15 @@
     "created_at": "02:58:57 08/06/2025"
   },
   {
+    "title": "Roark",
+    "name": "Roark",
+    "description": "QA and observability platform for reliable Voice AI agents.",
+    "website": "https://roark.ai",
+    "categories": "AI Voice Assistants, AI Monitor, AI Testing, AI Developer Tools, AI Agent",
+    "slug": "roark",
+    "created_at": "14:12:01 08/29/2025"
+  },
+  {
     "title": "Macaly",
     "name": "Macaly",
     "description": "AI coding assistant turning words into working apps instantly.",
@@ -3958,6 +3967,15 @@
     "categories": "AI App Builder, AI Agent, AI Code Generator, AI Workflow",
     "slug": "solar",
     "created_at": "14:12:56 06/16/2025"
+  },
+  {
+    "title": "AI SEO Content Generator",
+    "name": "AI SEO Content Generator",
+    "description": "All-in-one AI platform for SEO content, image, video, and 500+ AI tools.",
+    "website": "https://i10x.ai",
+    "categories": "SEO Writing AI, AI SEO Tools, AI Writing, AI Blog Generator, AI Product Description Generator",
+    "slug": "ai-seo-content-generator",
+    "created_at": "14:12:01 08/29/2025"
   },
   {
     "title": "Deforge",
@@ -7019,6 +7037,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Artevia",
+    "name": "Artevia",
+    "description": "AI-powered platform for instant interior redesign from photos.",
+    "website": "https://artevia.ai",
+    "categories": "AI Interior Design, AI Room Planner, AI Design Generator, AI Style Transfer, AI Inpainting",
+    "slug": "artevia",
+    "created_at": "14:12:01 08/29/2025"
+  },
+  {
     "title": "Leaves - Life Stories",
     "name": "Leaves - Life Stories",
     "description": "Tell, share, and preserve life stories and special memories.",
@@ -7746,6 +7773,15 @@
     "categories": "AI Photo & Image Generator, Photo & Image Editor",
     "slug": "spatial-media-toolkit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Animon",
+    "name": "Animon",
+    "description": "The world's top free anime  AI models",
+    "website": "https://www.animon.ai",
+    "categories": "AI Animation Generator, AI Image Generator, Text to Image, Image to Video, Text to Video",
+    "slug": "animon",
+    "created_at": "14:12:01 08/29/2025"
   },
   {
     "title": "OpenAI Academy",
@@ -8493,6 +8529,15 @@
     "categories": "AI Assistant, AI Productivity Tools, AI Coaching",
     "slug": "lock-in",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "First Answer AI",
+    "name": "First Answer",
+    "description": "Platform to track and optimize brand visibility in AI answers.",
+    "website": "https://firstanswer.ai",
+    "categories": "AI SEO Tools, AI Marketing, AI Search Engine, AI Monitor",
+    "slug": "first-answer",
+    "created_at": "14:12:01 08/29/2025"
   },
   {
     "title": "Genie 3-Al-Powered 3D WorldGenerator",
@@ -10410,6 +10455,15 @@
     "categories": "AI Content Detector",
     "slug": "noodle4-ai-content-review-assistant",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FlashPaper",
+    "name": "FlashPaper",
+    "description": "An AI writing tool for researchers and students to search for papers online and download to knowledge base, chat with PDF, generate topics and outlines, generate text, paraphrase, detect plagiarism & cite – all in one.",
+    "website": "https://flashpaper.ai",
+    "categories": "AI Thesis Generator, AI Grammar Checker, AI Spell Check, AI Writing, AI Writing Assistants, AI Bypasser, AI Detector, AI Plagiarism Checker, Humanizer AI, AI PDF Summarizer, AI Papers, AI Research Papers, AI Research Tool",
+    "slug": "flashpaper",
+    "created_at": "14:12:01 08/29/2025"
   },
   {
     "title": "Futudo",
@@ -14120,6 +14174,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "Drawnaq",
+    "name": "Drawnaq",
+    "description": "AI-powered design suite for professional visuals and brand assets.",
+    "website": "https://drawnaq.com",
+    "categories": "AI Design Generator, AI Interior Design, AI Graphic Design, AI Social Media Post Generator, AI Product Photography, AI Logo Generator",
+    "slug": "drawnaq",
+    "created_at": "14:12:01 08/29/2025"
+  },
+  {
     "title": "Vita AI",
     "name": "Vita AI",
     "description": "Designs and deploys bespoke multi-agent AI systems for enterprise leaders to orchestrate workflows.",
@@ -14793,6 +14856,15 @@
     "categories": "AI Code Generator, No-Code&Low-Code, AI Landing Page Builder, AI Website Builder, AI DevOps Assistant",
     "slug": "launchpad-stack",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Rube by Composio",
+    "name": "Rube",
+    "description": "Universal MCP for AI chat to act across 600+ apps.",
+    "website": "https://rube.app",
+    "categories": "AI Agent, AI Workflow, AI Productivity Tools, No-Code&Low-Code, AI API",
+    "slug": "rube",
+    "created_at": "14:12:01 08/29/2025"
   },
   {
     "title": "GStory AI",
@@ -18215,6 +18287,15 @@
     "created_at": "02:44:54 08/13/2025"
   },
   {
+    "title": "nano banana",
+    "name": "nano-banana",
+    "description": "Ultra-fast AI image editor with precise local control and multi-image fusion.",
+    "website": "https://nano-banana.io",
+    "categories": "AI Photo Editor, AI Image Generator, AI Art Generator, Text to Image, AI Background Remover, AI Inpainting, AI Drawing",
+    "slug": "nano-banana-2",
+    "created_at": "14:12:01 08/29/2025"
+  },
+  {
     "title": "Pronounce",
     "name": "Pronounce",
     "description": "AI speech checker for improved English pronunciation and communication.",
@@ -20022,6 +20103,15 @@
     "categories": "AI API, AI Models, AI Developer Tools, Large Language Models (LLMs), AI Agent",
     "slug": "makehub-ai",
     "created_at": "14:12:54 06/25/2025"
+  },
+  {
+    "title": "Nano Banana AI",
+    "name": "Nano-Banana-AI",
+    "description": "AI-powered image editing platform for photorealistic results with text prompts.",
+    "website": "https://nanobananaai.tech",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Image Enhancer, Object Remover AI",
+    "slug": "nano-banana-ai-3",
+    "created_at": "14:12:01 08/29/2025"
   },
   {
     "title": "Thunder.vc",
