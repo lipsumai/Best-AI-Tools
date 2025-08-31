@@ -5274,6 +5274,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nano Banana Games",
+    "name": "Nano Banana Games",
+    "description": "Free AI image playground for instant transformations and art creation.",
+    "website": "https://nanobanana.games",
+    "categories": "AI Image Generator, AI Photo Editor, AI Face Swap Generator, AI Background Generator, Image to Image, AI Art Generator",
+    "slug": "nano-banana-games",
+    "created_at": "02:27:46 08/31/2025"
+  },
+  {
     "title": "Owl AI",
     "name": "OWL AI",
     "description": "Simplified logo creation tool",
@@ -5481,6 +5490,15 @@
     "created_at": "14:12:37 05/22/2025"
   },
   {
+    "title": "nano banana",
+    "name": "nano banana google",
+    "description": "AI image processing platform for stunning visuals and professional content.",
+    "website": "https://nanobananagoogle.com",
+    "categories": "AI Image Generator, AI Image Enhancer, Text to Image, AI Style Transfer, Image to Image, AI Photo Enhancer",
+    "slug": "nano-banana-google",
+    "created_at": "02:27:46 08/31/2025"
+  },
+  {
     "title": "Aimi Sync",
     "name": "Aimi Sync",
     "description": "Aimi Sync automatically analyzes any video and generates royalty‑free, perfectly timed soundtracks—plus optional AI voice‑overs—via a simple web app. No editing, no licensing headaches, just upload and go.",
@@ -5605,6 +5623,15 @@
     "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator",
     "slug": "rork",
     "created_at": "14:13:07 05/28/2025"
+  },
+  {
+    "title": "Claspo",
+    "name": "Claspo",
+    "description": "An all-in-one, no-code widget builder designed to help businesses optimize their website funnels with pop-ups, forms, banners.",
+    "website": "https://claspo.io",
+    "categories": "AI Digital Marketing, AI Email Marketing, AI Marketing, AI Website Designer",
+    "slug": "claspo",
+    "created_at": "02:27:46 08/31/2025"
   },
   {
     "title": "Resonance Studio",
@@ -7350,6 +7377,15 @@
     "categories": "AI Content Generator, AI Product Description Generator, AI Rewriter, Large Language Models (LLMs), AI Productivity Tools, AI Tools Directory, AI Advertising Assistant, AI Photo & Image Generator, AI SEO Assistant",
     "slug": "intelligence-lab-ai-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Celebrity AI",
+    "name": "Celebrity AI",
+    "description": "AI generator for realistic celebrity videos, voice cloning, and messages.",
+    "website": "https://celebrityai.club",
+    "categories": "AI Video Generator, AI Voice Cloning, AI Celebrity Voice Generator, Text to Video, AI Voice Generator, AI Text-to-Speech",
+    "slug": "celebrity-ai",
+    "created_at": "02:27:46 08/31/2025"
   },
   {
     "title": "Backlsh",
@@ -22623,6 +22659,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot, AI Knowledge Base, AI Knowledge Management, AI Productivity Tools, AI Tutorial, AI SOP, AI Analytics Assistant, AI SEO Assistant",
     "slug": "helpjuice",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Nano Banana",
+    "name": "Nano Banana - AI Image Generator",
+    "description": "AI image generator and editor with chat for consistent results.",
+    "website": "https://nanobanana.org",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Inpainting, AI Background Remover, AI Realistic Image Generator",
+    "slug": "nano-banana-ai-image-generator",
+    "created_at": "02:27:46 08/31/2025"
   },
   {
     "title": "Tokenomy",
