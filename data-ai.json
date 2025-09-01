@@ -22697,6 +22697,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Backlink Manager",
+    "name": "Backlink Manager",
+    "description": "Backlink Manager is a powerful SEO tool that helps you manage backlinks smarter. It lets you build a high-quality backlink library, track every submission, and prevent duplicates with ease.",
+    "website": "https://backlinkmanager.net",
+    "categories": "AI SEO Tools, AI CRM, AI Digital Marketing",
+    "slug": "backlink-manager",
+    "created_at": "02:48:12 09/01/2025"
+  },
+  {
     "title": "Pi Labs",
     "name": "Pi Copilot",
     "description": "AI platform for building custom evaluation and scoring systems for LLMs.",
@@ -23649,6 +23658,15 @@
     "categories": "AI Analytics Assistant, AI SEO Assistant, AI Blog Writer, AI Content Generator, Writing Assistants, AI Photo & Image Generator, General Writing, Copywriting",
     "slug": "qwikrank",
     "created_at": "14:12:51 04/16/2025"
+  },
+  {
+    "title": "Textideo",
+    "name": "Textideo",
+    "description": "AI video and image generator for content creators and influencers.",
+    "website": "https://textideo.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Video to Video, AI Movie Generator, Image to Image, AI Script Writing, AI Lip Sync Generator",
+    "slug": "textideo",
+    "created_at": "02:48:12 09/01/2025"
   },
   {
     "title": "Porsia",
