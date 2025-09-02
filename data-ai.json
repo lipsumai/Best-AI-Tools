@@ -4185,6 +4185,15 @@
     "created_at": "02:24:12 04/22/2025"
   },
   {
+    "title": "Nuraform",
+    "name": "Nuraform",
+    "description": "AI-powered form builder for beautiful, smart, high-converting forms with insights and tracking.",
+    "website": "https://www.nuraform.com",
+    "categories": "AI Forms, AI Productivity Tools, AI Assistant",
+    "slug": "nuraform",
+    "created_at": "14:12:42 09/02/2025"
+  },
+  {
     "title": "Hailabs",
     "name": "Hello AI - HAILabs.ai",
     "description": "Hailabs empowers children with AI and data science education through personalized self-learning and gamification.",
@@ -9476,6 +9485,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Avoid.so",
+    "name": "Avoid.so",
+    "description": "AI humanizer to bypass AI detection with 99.8% success.",
+    "website": "https://www.avoid.so",
+    "categories": "AI Bypasser, Bypass AI, Undetectable AI, Humanizer AI, AI Rewriter",
+    "slug": "avoid-so",
+    "created_at": "14:12:42 09/02/2025"
+  },
+  {
     "title": "Genbaz",
     "name": "Genbaz",
     "description": "AI-powered platform for creating diverse apps and content.",
@@ -9762,6 +9780,15 @@
     "categories": "AI Digital Marketing, AI Advertising, AI Email Marketing, AI Lead Generation, AI Marketing, AI Sales, AI Sales Assistant, SEO Writing AI",
     "slug": "smart-tools",
     "created_at": "02:43:59 07/02/2025"
+  },
+  {
+    "title": "Peony",
+    "name": "Peony",
+    "description": "All-in-one AI platform for secure document sharing, e-signatures, and collaboration.",
+    "website": "https://peony.ink",
+    "categories": "AI Files, AI Knowledge Management, AI Productivity Tools, AI Assistant, AI Search Engine, AI Documents Generator",
+    "slug": "peony",
+    "created_at": "14:12:42 09/02/2025"
   },
   {
     "title": "Explee",
@@ -10878,6 +10905,15 @@
     "categories": "AI SEO Assistant, AI Website Designer, AI Website Builder, AI Content Generator, AI Landing Page Builder",
     "slug": "lkin",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "Checkpoints for Claude Code",
+    "name": "Never lose your work again",
+    "description": "Automatic version control and checkpoint management for Claude AI code projects.",
+    "website": "https://claude-checkpoints.com",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Productivity Tools",
+    "slug": "never-lose-your-work-again",
+    "created_at": "14:12:42 09/02/2025"
   },
   {
     "title": "Higher Site AI Powered Digital Agency",
@@ -18053,6 +18089,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "UseArticle",
+    "name": "UseArticle",
+    "description": "AI-powered platform for building affiliate websites and content.",
+    "website": "https://usearticle.com",
+    "categories": "AI Affiliate Marketing, AI Website Builder, AI Blog Generator, AI SEO Tools",
+    "slug": "usearticle",
+    "created_at": "14:12:42 09/02/2025"
+  },
+  {
     "title": "Balbee",
     "name": "Balbee",
     "description": "AI-powered journaling app for mood tracking and personalization.",
@@ -20429,6 +20474,15 @@
     "created_at": "14:11:52 09/01/2025"
   },
   {
+    "title": "coloringstore",
+    "name": "coloringstore",
+    "description": "AI-powered generator for unique, printable coloring pages from text or images.",
+    "website": "https://coloringstore.com",
+    "categories": "AI Coloring Book Generator, AI Art Generator, AI Illustration Generator, Text to Image",
+    "slug": "coloringstore",
+    "created_at": "14:12:42 09/02/2025"
+  },
+  {
     "title": "AI Powered Resume Checker",
     "name": "AI Resume Checker",
     "description": "AI Powered Resume Checker analyzes your resume using AI to provide personalized tips for improvement.",
@@ -20445,6 +20499,15 @@
     "categories": "AI Business Ideas Generator, AI Tools Directory",
     "slug": "openchat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MCP Showcase",
+    "name": "MCP Showcase",
+    "description": "Interactive platform for exploring, testing, and integrating MCP APIs.",
+    "website": "https://mcpshowcase.com",
+    "categories": "AI API, AI Developer Tools, No-Code&Low-Code",
+    "slug": "mcp-showcase",
+    "created_at": "14:12:42 09/02/2025"
   },
   {
     "title": "AI Powered Interview Preparation",
@@ -23478,6 +23541,15 @@
     "categories": "Image to Image, AI Image Generator, AI Photo Editor, AI Background Remover, AI Image Upscaler, AI Photo Restoration",
     "slug": "image-to-image-ai",
     "created_at": "02:50:38 07/11/2025"
+  },
+  {
+    "title": "Lumi.new",
+    "name": "Lumi.new",
+    "description": "All in one platform to build your websites.",
+    "website": "https://lumi.new",
+    "categories": "AI Website Builder, AI App Builder, AI Code Assistant, AI Code Generator, AI Developer Tools, AI Landing Page Builder, No-Code&Low-Code",
+    "slug": "lumi-new",
+    "created_at": "14:12:42 09/02/2025"
   },
   {
     "title": "supOS",
