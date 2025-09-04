@@ -6587,6 +6587,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AskNova Astrocartography",
+    "name": "AskNova Astrocartography",
+    "description": "Astrocartography.io (by AskNova) turns your birth details into an interactive world map of planetary lines, with clear explanations and relocation charts to show how a place might feel for career, love, or life in general.",
+    "website": "https://www.astrocartography.io",
+    "categories": "AI Charting, AI Map Generator, AI Assistant, AI Report Generator, AI Predictions",
+    "slug": "asknova-astrocartography",
+    "created_at": "14:12:12 09/04/2025"
+  },
+  {
     "title": "Ibuyprompts - AI Freelance Marketplace",
     "name": "ibuyprompts",
     "description": "Ibuyprompts connects AI freelancers and clients for buying and selling AI prompts and services.",
@@ -7647,6 +7656,15 @@
     "categories": "AI Photo & Image Generator, AI Image Enhancer, Photo & Image Editor",
     "slug": "image-upscaler-upscale-your-photo-for-free-with-ai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "imini AI",
+    "name": "imini AI",
+    "description": "All-In-One Super AI Agent",
+    "website": "https://imini.com",
+    "categories": "AI Report Writing, AI Documents Generator, Ad Copy, SEO Writing AI, AI Agent, AI Assistant, AI Copilot, AI Document Extraction, AI Files, AI Marketing Plan Generator, AI Life, AI Note Taker, AI Presentation Generator, AI Productivity Tools, AI Report Generator, AI For Data Analytics, AI Papers, AI Pitch Deck Generator, Text to Video, AI Blog Generator, AI Writing, AI Book Writing, AI Chat Generator, AI Copywriting, AI Cover Letter Generator, AI Creative Writing, AI Dialogue Generator, AI Essay Writer, AI Writing Assistants, AI Video Generator, AI Age Progression, AI Image Generator, AI Outpainting, Text to Image, AI Animated Video, AI Animation Generator, AI Avatar Video Generator, AI Research Tool",
+    "slug": "imini-ai",
+    "created_at": "14:12:12 09/04/2025"
   },
   {
     "title": "MockFlow",
@@ -13938,6 +13956,15 @@
     "categories": "NSFW, AI Advertising Assistant",
     "slug": "never-have-i-ever",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nanobanana.co",
+    "name": "Nanobanana.co",
+    "description": "AI image editor powered by Google's Gemini Flash Image for text-to-image transformation.",
+    "website": "https://nanobanana.co",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, Image to Image, AI Art Generator",
+    "slug": "nanobanana-co",
+    "created_at": "14:12:12 09/04/2025"
   },
   {
     "title": "Deal Protectors",
@@ -23748,6 +23775,15 @@
     "categories": "AI Detector, AI Content Detector, AI Workflow Management, AI Productivity Tools, AI Content Generator, AI Lead Generation, Writing Assistants, AI Customer Service Assistant",
     "slug": "hastewire",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Runable",
+    "name": "Runable",
+    "description": "General automation agent for any digital task on a computer.",
+    "website": "https://runable.com",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Workflow, AI Website Builder, AI Presentation Generator, AI Report Generator",
+    "slug": "runable",
+    "created_at": "14:12:12 09/04/2025"
   },
   {
     "title": "Mia",
