@@ -9035,6 +9035,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nano Banana AI Image Generator & Editor",
+    "name": "Nano Banana AI Image Generator & Editor",
+    "description": "AI image editor for photos with text or image prompts.",
+    "website": "https://supermaker.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Art Generator",
+    "slug": "nano-banana-ai-image-generator-editor",
+    "created_at": "02:19:13 09/05/2025"
+  },
+  {
     "title": "AcquireAi",
     "name": "Aiquare",
     "description": "Platform for discovering, buying, building, and selling AI projects, fostering collaboration.",
@@ -15378,6 +15387,15 @@
     "categories": "AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Project Management, No-Code&Low-Code, AI Code Assistant, AI Code Generator",
     "slug": "dhiwise",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "Nano Banana",
+    "name": "Nano Banana - Google AI Image Editor",
+    "description": "AI image editor and generator for personalized, high-quality images.",
+    "website": "https://banana-nano.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image",
+    "slug": "nano-banana-google-ai-image-editor",
+    "created_at": "02:19:13 09/05/2025"
   },
   {
     "title": "Rubii AI",
@@ -22488,6 +22506,15 @@
     "categories": "Web Scraping",
     "slug": "pegleg-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PXZ AI",
+    "name": "PXZ AI",
+    "description": "Ideal for marketers, designers, agencies,  or creators—pxz.ai empowers your storytelling with smart visual content.",
+    "website": "https://pxz.ai",
+    "categories": "AI Image Enhancer, AI Image Combiner, AI Image Generator, AI Image Sharpening, AI Image Upscaler",
+    "slug": "pxz-ai",
+    "created_at": "02:19:13 09/05/2025"
   },
   {
     "title": "Namique",
