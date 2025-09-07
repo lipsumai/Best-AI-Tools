@@ -5121,6 +5121,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Seedream 4.0",
+    "name": "Seedream 4.0",
+    "description": "AI Image Generator & Editor for professional visuals.",
+    "website": "https://seedream4.org",
+    "categories": "AI Image Generator, AI Photo Editor, AI Image Enhancer, Text to Image, Image to Image",
+    "slug": "seedream-4-0",
+    "created_at": "02:23:05 09/07/2025"
+  },
+  {
     "title": "Profioilo",
     "name": "Profiolio",
     "description": "AI analysis for SaaS ideas and market opportunities",
@@ -7134,6 +7143,15 @@
     "categories": "AI Hairstyle, AI Hair Color Changer, AI Design Generator",
     "slug": "buzzcuts-me-free-forever-hair-style-generator",
     "created_at": "02:47:36 06/09/2025"
+  },
+  {
+    "title": "YouArt",
+    "name": "YouArt",
+    "description": "All-in-one AI Creative Studio for image and video generation.",
+    "website": "https://youart.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Art Generator, Text to Image, Text to Video, Image to Video",
+    "slug": "youart",
+    "created_at": "02:23:05 09/07/2025"
   },
   {
     "title": "tribefii",
@@ -17396,6 +17414,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "BPM Finder",
+    "name": "BPM Finder",
+    "description": "Fast, accurate, privacy-first BPM analysis tool for audio files and tap tempo.",
+    "website": "https://bpm-finder.net",
+    "categories": "Other",
+    "slug": "bpm-finder",
+    "created_at": "02:23:05 09/07/2025"
+  },
+  {
     "title": "AI Rizz Generator",
     "name": "AI Rizz Generator",
     "description": "The Rizz AI Generator by Greenbot is a free tool that helps you create flirty, bold, or seductive messages in seconds. If you’re texting a crush or roleplaying with an AI character, it gives you fun, confident lines instantly — no creativity required.",
@@ -19995,6 +20022,15 @@
     "categories": "AI Short Video Generator, AI Video Generator, Text to Video, AI Dubbing, AI Video Translator, Long Video To Short Video AI, AI Voice Changer, AI Video Editor, AI Voice Generator, AI Subtitle Generator, AI Tiktok Video Generator, AI Youtube Video Maker, AI Text Message Generator",
     "slug": "create-viral-video-clips-with-ai",
     "created_at": "14:12:32 06/05/2025"
+  },
+  {
+    "title": "SeeDream 4",
+    "name": "SeeDream 4",
+    "description": "Ultra-fast 2K multi-modal AI for image generation, editing, and batch creation.",
+    "website": "https://seedream4.app",
+    "categories": "AI Image Generator, Text to Image, AI Photo Editor, AI Art Generator, AI Image Enhancer",
+    "slug": "seedream-4",
+    "created_at": "02:23:05 09/07/2025"
   },
   {
     "title": "Data Nuts",
@@ -22965,6 +23001,15 @@
     "categories": "AI For Data Analytics, AI Jobs, AI Research Tool, AI Predictions",
     "slug": "the-ai-labor-index",
     "created_at": "14:11:59 06/19/2025"
+  },
+  {
+    "title": "InvoiceClip",
+    "name": "InvoiceClip",
+    "description": "AI OCR app for instant invoice and receipt data extraction.",
+    "website": "https://invoiceclip.com",
+    "categories": "AI Scanner, AI Accounting, AI OCR, AI Document Extraction",
+    "slug": "invoiceclip",
+    "created_at": "02:23:05 09/07/2025"
   },
   {
     "title": "Lumi Tarot",
