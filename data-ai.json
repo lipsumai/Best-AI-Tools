@@ -864,6 +864,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Lipsync AI",
+    "name": "Lipsync AI",
+    "description": "AI tool for realistic talking avatars and speech animations.",
+    "website": "https://lipsyncai.net",
+    "categories": "AI Lip Sync Generator, AI Avatar Video Generator, AI Avatar Generator, AI Video Generator",
+    "slug": "lipsync-ai",
+    "created_at": "02:24:31 09/08/2025"
+  },
+  {
     "title": "PartyLine",
     "name": "PartyLine",
     "description": "An AI newsletter for your circle of friends and family.",
@@ -3699,6 +3708,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "Winter Comics",
+    "name": "Winter Comics",
+    "description": "AI platform for creating consistent comics, characters, and animations.",
+    "website": "https://wintercomics.com",
+    "categories": "AI Comic Generator, AI Manga Generator, AI Character, AI Animation Generator, AI Image Generator, AI Anime Generator",
+    "slug": "winter-comics",
+    "created_at": "02:24:31 09/08/2025"
+  },
+  {
     "title": "Binko Chat",
     "name": "Binko Chat",
     "description": "Break language barriers with AI-powered translation.",
@@ -4264,6 +4282,15 @@
     "categories": "AI Code Generator, AI Developer Tools, AI Script Writing, AI Tiktok Assistant",
     "slug": "script-pro",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Suno",
+    "name": "Suno",
+    "description": "AI music generator for creating, editing, and sharing original songs.",
+    "website": "https://suno.com",
+    "categories": "AI Music Generator, AI Song Generator, AI Beat Generator, AI Song Remixer, AI Stems Splitter",
+    "slug": "suno",
+    "created_at": "02:24:31 09/08/2025"
   },
   {
     "title": "Sincerely Karen | Complaint Email Generator",
@@ -4876,6 +4903,15 @@
     "categories": "Other",
     "slug": "practici",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MagicVest",
+    "name": "MagicVest",
+    "description": "The only AI that predicts Pumps and detects Rug Pulls",
+    "website": "https://magicvest.ai",
+    "categories": "AI Crypto, AI For Finance, AI Stock Trading, AI Trading Bot",
+    "slug": "magicvest",
+    "created_at": "02:24:31 09/08/2025"
   },
   {
     "title": "BrAIs",
@@ -16802,6 +16838,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "NanoBananas AI",
+    "name": "NanoBananas AI",
+    "description": "AI photo editing and image generation tool for stunning visuals.",
+    "website": "https://nanobananas.ai",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI Image Enhancer, AI Background Remover, Image to Image",
+    "slug": "nanobananas-ai",
+    "created_at": "02:24:31 09/08/2025"
+  },
+  {
     "title": "Documentation.new",
     "name": "documentation.new",
     "description": "AI-driven platform for quick product documentation generation.",
@@ -18330,6 +18375,15 @@
     "categories": "AI Interview Assistant, AI Quizzes",
     "slug": "aceunlock-ai",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "TattooAI",
+    "name": "TattooAI",
+    "description": "AI tool to create custom tattoo designs from text prompts.",
+    "website": "https://aitattoogenerator.co",
+    "categories": "AI Tattoo Generator, AI Design Generator, Text to Image, AI Art Generator",
+    "slug": "tattooai",
+    "created_at": "02:24:31 09/08/2025"
   },
   {
     "title": "iSlide",
