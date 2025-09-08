@@ -4833,6 +4833,15 @@
     "created_at": "14:12:51 06/30/2025"
   },
   {
+    "title": "Mew Design",
+    "name": "Mew Design",
+    "description": "Your AI Design Agent for Flawless Text & Visuals",
+    "website": "https://mew.design",
+    "categories": "AI Design Assistant, Image to Image, Text to Image, AI Design Generator, AI Graphic Design, AI Poster Generator",
+    "slug": "mew-design",
+    "created_at": "14:12:58 09/08/2025"
+  },
+  {
     "title": "Maxel AI",
     "name": "Maxel AI",
     "description": "Cloud-based platform for automated 3D print preparation and G-code generation.",
@@ -10115,6 +10124,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "MixHub AI",
+    "name": "MixHub AI",
+    "description": "Mixhub AI is a free all-in-one platform for AI Chat, Image, and Video generation.For AI Chat, the platform offers unlimited free access to the latest and most comprehensive chat models such as GPT, Gemini, Claude, and more. For AI Image generation, it supports both text-to-image and image-to-image workflows, integrated with cutting-edge models including Nano Banana, Flux, WAN, and GPT-Image-1, empowering users to create diverse, high-quality visuals with ease. For AI Video creation, Mixhub AI enables text-to-video and image-to-video generation through leading models like Hailuo, Kling, and Seedance, making video production faster and more accessible than ever.With Mixhub AI, you can seamlessly explore the latest AI technologies and transform your ideas into engaging conversations, stunning images, and dynamic videos—all in one place, all for free.",
+    "website": "https://mixhubai.com",
+    "categories": "AI Video Generator, AI Image Generator, AI Photo Editor, Image to Image, Text to Image, AI Voice Generator, Image to Video, Text to Video, Video to Video, AI Chatbot",
+    "slug": "mixhub-ai",
+    "created_at": "14:12:58 09/08/2025"
+  },
+  {
     "title": "Diya",
     "name": "Diyva",
     "description": "AI-powered virtual assistant for engaging website visitors.",
@@ -10905,6 +10923,15 @@
     "categories": "AI Developer Tools, AI Github, AI Business Ideas Generator",
     "slug": "what-to-build",
     "created_at": "14:14:05 08/13/2025"
+  },
+  {
+    "title": "Kissgen AI",
+    "name": "Kissgen AI",
+    "description": "AI tool to generate personalized, lifelike kissing videos from photos.",
+    "website": "https://www.kissgenai.com",
+    "categories": "AI Video Generator, Image to Video, AI Image Generator, AI Face Swap Generator, AI Background Remover, AI Image Enhancer",
+    "slug": "kissgen-ai",
+    "created_at": "14:12:58 09/08/2025"
   },
   {
     "title": "CapyParse",
@@ -24225,6 +24252,15 @@
     "categories": "Fitness, AI Coaching, Writing Assistants",
     "slug": "calorica",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Loveon AI - Bring Your Fantasies into Real Life",
+    "name": "Loveon AI - Bring Your Fantasies into Real Life",
+    "description": "Loveon AI is your gateway to meaningful conversations, creativity, and self-expression. Whether you’re seeking companionship after a long day, looking for inspiration, or simply want a safe place to share your thoughts, Loveon AI is designed to bring your imagination to life. With a variety of unique characters and endless conversation styles, you can explore new ideas, connect emotionally, and enjoy a space that’s always there for you.",
+    "website": "https://loveon.chat",
+    "categories": "AI Roleplay, AI Chatbot, AI Dating Assistant, AI Girlfriend",
+    "slug": "loveon-ai-bring-your-fantasies-into-real-life",
+    "created_at": "14:12:58 09/08/2025"
   },
   {
     "title": "OpenAI Article Summarizer",
