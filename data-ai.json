@@ -6614,6 +6614,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "InfiniteTalk AI",
+    "name": "InfiniteTalk AI",
+    "description": "AI-powered audio-driven full-body video dubbing and generation.",
+    "website": "https://www.infinitetalk.net",
+    "categories": "AI Dubbing, AI Lip Sync Generator, AI Video Generator, Image to Video, AI Voice Over",
+    "slug": "infinitetalk-ai",
+    "created_at": "14:11:34 09/10/2025"
+  },
+  {
     "title": "MyWallAI",
     "name": "My Wall AI",
     "description": "A customizable wall-decorating tool powered by AI to beautify walls.",
@@ -15245,6 +15254,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ColorArt",
+    "name": "ColorArt",
+    "description": "Welcome to ColorArt.AI, a platform born from a father’s love for his kids and a passion for creativity.  The idea for ColorArt.AI sparked from a simple but heartfelt moment. My 3-year-old son and 9-year-old daughter adore coloring—whether it’s cartoons, animals, or anything they can get their hands on. Every so often, they’d come to me with a photo or a picture and ask, “Can you turn this into a coloring page so we can color it?” To my surprise, there wasn’t an easy solution online that could do just that.  Determined to bring their imaginations to life, I set out to solve this problem myself. I trained an AI model hundreds of times, fine-tuning it to create smooth, detailed line art from any image. It was a month-long journey of trial and error, but the result was worth it—a tool that understands and delivers exactly what we envisioned.",
+    "website": "https://colorart.ai",
+    "categories": "AI Coloring Book Generator",
+    "slug": "colorart",
+    "created_at": "14:11:34 09/10/2025"
+  },
+  {
     "title": "Feedback Kit",
     "name": "Feedback Kit",
     "description": "Meet your AI Feedback Partner – Intelligent Feedback Tool built for fast-moving solopreneurs",
@@ -16703,6 +16721,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Uxia",
+    "name": "Uxia",
+    "description": "AI-powered user testing platform for fast, reliable UX/UI insights.",
+    "website": "https://www.uxia.app",
+    "categories": "AI Testing, AI UX Design, AI Design Assistant, AI Productivity Tools",
+    "slug": "uxia",
+    "created_at": "14:11:34 09/10/2025"
+  },
+  {
     "title": "Packfiles Warp",
     "name": "Packfiles Warp",
     "description": "Fast migration to GitHub with streamlined planning and execution.",
@@ -17052,6 +17079,15 @@
     "categories": "AI Image Recognition, AI Search Engine",
     "slug": "find-that-photo-find-photos-fast",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PhotoFox AI",
+    "name": "PhotoFox AI",
+    "description": "AI platform for instant, studio-quality product photos, videos, and ads.",
+    "website": "https://photofox.ai",
+    "categories": "AI Product Photography, AI Video Generator, AI Ad Generator, AI Ad Creative, AI Photography",
+    "slug": "photofox-ai",
+    "created_at": "14:11:34 09/10/2025"
   },
   {
     "title": "Meilisearch",
@@ -17925,6 +17961,15 @@
     "categories": "AI Course, AI Copywriting, AI Creative Writing, AI Essay Writer, AI Summarizer, AI Image Generator, Text to Image, AI Teachers",
     "slug": "teachfloor",
     "created_at": "02:29:38 05/27/2025"
+  },
+  {
+    "title": "SEO Mega Report",
+    "name": "SEO Mega Report",
+    "description": "GPT-5 powered all-in-one SEO report for ChatGPT and Google with comprehensive analysis.",
+    "website": "https://seomegareport.com",
+    "categories": "AI SEO Tools, AI Report Generator, SEO Writing AI",
+    "slug": "seo-mega-report",
+    "created_at": "14:11:34 09/10/2025"
   },
   {
     "title": "BlazeGard",
@@ -19205,6 +19250,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Solid",
+    "name": "Solid",
+    "description": "AI platform for building real, scalable full-stack web apps with production-grade code.",
+    "website": "https://Trysolid.com",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Code Generator",
+    "slug": "solid",
+    "created_at": "14:11:34 09/10/2025"
+  },
+  {
     "title": "AI Face Swap",
     "name": "AI Face Swap by DRESSXME.com",
     "description": "AI-Powered Face Swapper with Ultra-Realistic Results. Bring your vision to life with the DRESSX AI face swap tool. Whether you're looking to replace a face in a photo online for free, try out a new look, or just have fun, our tool makes it easy. Simply upload your image and let our seamless face changer do the rest. The result is fast, realistic, and effortless.",
@@ -20312,6 +20366,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Creao AI",
+    "name": "CREAO",
+    "description": "Build custom AI apps and copilots with natural language.",
+    "website": "https://www.creao.ai",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Copilot, AI Workflow, AI Assistant",
+    "slug": "creao",
+    "created_at": "14:11:34 09/10/2025"
+  },
+  {
     "title": "Eleven Music AI",
     "name": "Eleven Music AI",
     "description": "AI music generator for songs, lyrics, and vocal removal.",
@@ -20967,6 +21030,15 @@
     "categories": "AI Chatbot, Legal Assistant, AI Contract Management, AI Documents Assistant, Writing Assistants",
     "slug": "monavocat-ai",
     "created_at": "14:11:41 04/17/2025"
+  },
+  {
+    "title": "Katalog",
+    "name": "Katalog",
+    "description": "AI-powered read-it-later app for listening to articles with high-quality narration and voice interaction.",
+    "website": "https://usekatalog.com",
+    "categories": "AI Text-to-Speech, AI Reader, AI Voice Generator, AI Speech Synthesis",
+    "slug": "katalog",
+    "created_at": "14:11:34 09/10/2025"
   },
   {
     "title": "AI Song",
@@ -24416,6 +24488,15 @@
     "created_at": "02:28:54 04/21/2025"
   },
   {
+    "title": "YouMind",
+    "name": "YouMind",
+    "description": "AI Creation Studio for turning ideas into diverse content.",
+    "website": "https://youmind.com",
+    "categories": "AI Writing Assistants, AI Writing, AI Research Tool, AI Summarizer, AI Productivity Tools, AI Knowledge Management",
+    "slug": "youmind",
+    "created_at": "14:11:34 09/10/2025"
+  },
+  {
     "title": "My Better AI",
     "name": "My Better AI for iOS",
     "description": "Simplifies generative AI for everyone, no prompt engineering needed.",
@@ -24585,6 +24666,15 @@
     "categories": "AI Customer Service Assistant, AI Product Description Generator, AI Roadmap Generator, AI Knowledge Base",
     "slug": "deskday",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "100 Vibe Coding",
+    "name": "100 Vibe Coding",
+    "description": "Learn to build projects fast with AI using 100 coding challenges.",
+    "website": "https://www.100vibecoding.com",
+    "categories": "AI Course, AI Code Assistant, AI Code Generator, AI Developer Tools",
+    "slug": "100-vibe-coding",
+    "created_at": "14:11:34 09/10/2025"
   },
   {
     "title": "Eleven Music",
