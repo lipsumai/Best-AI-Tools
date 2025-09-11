@@ -10781,6 +10781,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nana Banana",
+    "name": "Nana Banana",
+    "description": "Advanced AI image generator and editor powered by Google Gemini 2.5 Flash.",
+    "website": "https://nanabanana.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Art Generator, AI Background Generator",
+    "slug": "nana-banana",
+    "created_at": "14:12:43 09/11/2025"
+  },
+  {
     "title": "Health Insurance AI",
     "name": "Health Insurance AI",
     "description": "Get clarity on health insurance policies and understand the fine print with our smart insurance reader.",
@@ -13425,6 +13434,15 @@
     "categories": "Healthcare",
     "slug": "vitaler-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FaceSeek - AI Face Search",
+    "name": "FaceSeek - AI Face Search",
+    "description": "AI-powered platform for reverse face search, identity verification, and creative AI tools.",
+    "website": "https://faceseek.online",
+    "categories": "AI Face Recognition, AI Search Engine, AI Video Generator, AI Image Generator, AI Headshot Generator",
+    "slug": "faceseek-ai-face-search",
+    "created_at": "14:12:43 09/11/2025"
   },
   {
     "title": "Quick Resume - AI Resume Creation Tool",
@@ -17954,6 +17972,15 @@
     "created_at": "14:18:04 08/04/2025"
   },
   {
+    "title": "Nano Banana Image AI",
+    "name": "Nano Banana Image AI",
+    "description": "AI-powered platform for creating and editing images and videos.",
+    "website": "https://bananaimg.ai",
+    "categories": "AI Image Generator, AI Photo Editor, AI Video Generator, Text to Image, Image to Image, AI Background Remover, AI Chatbot",
+    "slug": "nano-banana-image-ai",
+    "created_at": "14:12:43 09/11/2025"
+  },
+  {
     "title": "Teachfloor",
     "name": "Teachfloor",
     "description": "Teachfloor is an AI-powered LMS that helps instructors automate course creation, personalize learning, and streamline feedback using generative tools designed for education and training.",
@@ -19995,6 +20022,15 @@
     "categories": "AI Speech Recognition",
     "slug": "speechy-1-0",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Xole AI Image Generator",
+    "name": "Xole AI Image Generator",
+    "description": "An all-in-one AI platform for image generation, photo editing, and creating videos from text or images.",
+    "website": "https://xole.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Image to Image, Text to Image, AI Video Generator, Image to Video, Text to Video",
+    "slug": "xole-ai-image-generator",
+    "created_at": "14:12:43 09/11/2025"
   },
   {
     "title": "CreaTweet",
@@ -22605,6 +22641,15 @@
     "categories": "AI Video Editor, AI Video Recording, AI Script Writing, AI Voice Generator, AI Subtitle Generator, AI Text-to-Speech",
     "slug": "camtasia",
     "created_at": "02:59:02 08/07/2025"
+  },
+  {
+    "title": "Meloflow AI",
+    "name": "Meloflow AI",
+    "description": "AI music generator for royalty-free, professional music.",
+    "website": "https://meloflow.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Cover Generator, AI Beat Generator, AI Lyrics Generator",
+    "slug": "meloflow-ai",
+    "created_at": "14:12:43 09/11/2025"
   },
   {
     "title": "Social AF",
