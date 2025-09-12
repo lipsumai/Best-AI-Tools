@@ -756,6 +756,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "Seedream 4.0",
+    "name": "Seedream-4.0",
+    "description": "Seedream 4.0 is a next-generation multi-modal AI image Generator & Editor",
+    "website": "https://seedream-4.io",
+    "categories": "AI Photo Editor, AI Image Generator, AI Photo Restoration, Image to Image, Text to Image",
+    "slug": "seedream-4-0-1",
+    "created_at": "14:12:00 09/12/2025"
+  },
+  {
     "title": "SelfLoveLetter",
     "name": "SelfLoveLetter",
     "description": "Website SelfLoveLetter provides personalized love letters for confidence, validation, and happiness.",
@@ -7136,6 +7145,15 @@
     "created_at": "14:13:56 07/15/2025"
   },
   {
+    "title": "Rendera.ai",
+    "name": "Rendera.ai",
+    "description": "AI tool for landscape, interior, and exterior design.",
+    "website": "https://www.rendera.ai",
+    "categories": "AI Interior Design, AI Landscape Generator, AI Design Generator, AI Room Planner, AI Backyard Design",
+    "slug": "rendera-ai",
+    "created_at": "14:12:00 09/12/2025"
+  },
+  {
     "title": "Patee.io",
     "name": "Patee.io - Thai Transcription Service",
     "description": "Efficient AI-powered speech-to-text platform.",
@@ -7269,6 +7287,15 @@
     "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, Healthcare, AI Scheduling, Sales Assistant, AI Email Writer",
     "slug": "scottie",
     "created_at": "02:41:26 05/12/2025"
+  },
+  {
+    "title": "yesTool AI",
+    "name": "yesTool AI",
+    "description": "All-in-one AI platform for video, image, and music generation.",
+    "website": "https://yestool.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, Text to Video, Text to Image, AI Animation Generator, AI Voice Over",
+    "slug": "yestool-ai",
+    "created_at": "14:12:00 09/12/2025"
   },
   {
     "title": "Onri AI",
@@ -7692,6 +7719,15 @@
     "categories": "AI Chatbot, Life Assistant, AI Productivity Tools, Writing Assistants, AI Content Generator, General Writing, Copywriting",
     "slug": "manus-ai-app",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "Lumro",
+    "name": "Lumro",
+    "description": "AI platform for custom sales and support agents.",
+    "website": "https://www.lumro.co",
+    "categories": "AI Agent, AI Customer Service, AI Sales Assistant, AI Chatbot, AI Sales, AI Lead Generation, AI Scheduling",
+    "slug": "lumro",
+    "created_at": "14:12:00 09/12/2025"
   },
   {
     "title": "Breef",
@@ -8270,6 +8306,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "Nano Banana AI — AI Image Generator & Editor",
+    "name": "Nano Banana AI — AI Image Generator & Editor",
+    "description": "AI image generator and editor powered by Google Gemini 2.5 Flash.",
+    "website": "https://ainanobanana.co",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Photo Restoration, AI Colorize, AI Floor Plan Generator, AI Background Remover",
+    "slug": "nano-banana-ai-ai-image-generator-editor",
+    "created_at": "14:12:00 09/12/2025"
+  },
+  {
     "title": "Seamless Studio",
     "name": "Seamless Studio (Beta)",
     "description": "Seamless Studio is an AI-powered mockup generator for creating premium original mockups.",
@@ -8747,6 +8792,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Aikido",
+    "name": "Aikido Security",
+    "description": "All-in-one AI security platform for code, cloud, and runtime.",
+    "website": "https://aikido.dev",
+    "categories": "AI Code Review, AI Code Assistant, AI Testing, AI Developer Tools",
+    "slug": "aikido-security",
+    "created_at": "14:12:00 09/12/2025"
+  },
+  {
     "title": "Solvea",
     "name": "Solvea",
     "description": "AI-powered virtual agent for automated customer support.",
@@ -9150,6 +9204,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Art Generator",
     "slug": "nano-banana-ai-image-generator-editor",
     "created_at": "02:19:13 09/05/2025"
+  },
+  {
+    "title": "Nonverbia",
+    "name": "Nonverbia",
+    "description": "Nonverbia turns video meetings into clear, actionable insights. We decode body language, attention, and speaking dynamics so sales teams know what landed, what missed, and what to do next.",
+    "website": "https://nonverbia.com",
+    "categories": "AI Sales Assistant, AI Sales, AI Coaching, AI Agent, AI Assistant",
+    "slug": "nonverbia",
+    "created_at": "14:12:00 09/12/2025"
   },
   {
     "title": "AcquireAi",
@@ -9834,6 +9897,15 @@
     "categories": "AI Productivity Tools",
     "slug": "cua",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Incredible",
+    "name": "Incredible Small 1.0 by Incredible",
+    "description": "Next-gen Agentic AI for work, automating tasks across hundreds of apps.",
+    "website": "https://incredible.one",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Models",
+    "slug": "incredible-small-1-0-by-incredible",
+    "created_at": "14:12:00 09/12/2025"
   },
   {
     "title": "HiMusic",
@@ -19149,6 +19221,15 @@
     "categories": "AI SEO Assistant, AI Trip Planner, Research Tool, AI Productivity Tools, Essay Writer, Papers, Report Writing, Writing Assistants, AI Content Generator, AI Blog Writer, General Writing, Copywriting",
     "slug": "copyowl-ai",
     "created_at": "02:24:06 04/17/2025"
+  },
+  {
+    "title": "Trylli AI",
+    "name": "Trylli AI",
+    "description": "Multilingual AI calling system for automated sales, support, and customer interactions.",
+    "website": "https://trylli.ai",
+    "categories": "AI Call Center, AI Cold Calling, AI Agent, AI Sales Assistant, AI Voice Assistants",
+    "slug": "trylli-ai",
+    "created_at": "14:12:00 09/12/2025"
   },
   {
     "title": "SEOmator",
