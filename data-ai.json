@@ -351,6 +351,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tattoomind AI",
+    "name": "Tattoomind AI",
+    "description": "AI tattoo generator for custom designs, virtual try-on & inspiration.",
+    "website": "https://tattoomind.co",
+    "categories": "AI Tattoo Generator, AI Design Generator, AI Image Generator, AI Art Generator",
+    "slug": "tattoomind-ai",
+    "created_at": "14:08:51 09/13/2025"
+  },
+  {
     "title": "TOPIQ",
     "name": "Topiq",
     "description": "AI News Tracking for Companies",
@@ -583,6 +592,15 @@
     "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Realistic Image Generator",
     "slug": "flux-krea",
     "created_at": "03:08:34 08/01/2025"
+  },
+  {
+    "title": "dmwithme",
+    "name": "dmwithme",
+    "description": "Realistic AI girl and virtual companion",
+    "website": "https://dmwithme.com",
+    "categories": "AI Character, AI Anime Girlfriend, AI Chatbot, AI Girlfriend, AI Roleplay",
+    "slug": "dmwithme",
+    "created_at": "14:08:51 09/13/2025"
   },
   {
     "title": "Page Canary",
@@ -8720,6 +8738,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "Free AI Face Swap",
+    "name": "Free AI Face Swap-",
+    "description": "AI tool for realistic face swaps in photos and videos.",
+    "website": "https://wephoto.top",
+    "categories": "AI Face Swap Generator, AI Face Swap Video",
+    "slug": "free-ai-face-swap-1",
+    "created_at": "14:08:51 09/13/2025"
+  },
+  {
     "title": "TypeGenius",
     "name": "TypeGenius",
     "description": "AI writing assistant with spell checker, paragraph writer, and more.",
@@ -9546,6 +9573,15 @@
     "categories": "AI Productivity Tools, AI PDF, AI Video Summarizer, AI Color Palette Generator, AI Summarizer",
     "slug": "tryscribe",
     "created_at": "14:14:45 07/30/2025"
+  },
+  {
+    "title": "Imagable AI Image Editor",
+    "name": "Imagable AI Image Editor",
+    "description": "AI image editor and generator for photo enhancement and transformation.",
+    "website": "https://imagable.ai",
+    "categories": "AI Photo Editor, AI Image Generator, AI Image Enhancer, AI Image Upscaler, AI Background Remover, AI Style Transfer, Text to Image, Image to Prompt",
+    "slug": "imagable-ai-image-editor",
+    "created_at": "14:08:51 09/13/2025"
   },
   {
     "title": "Doco",
@@ -12075,6 +12111,15 @@
     "categories": "AI Art Generator, Prompt, Text to Image, AI Photo & Image Generator, AI Face Swap Generator",
     "slug": "supermodsai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI music video generator",
+    "name": "AI music video generator",
+    "description": "AI music video generator for musicians with audio-reactive, customizable 4K videos.",
+    "website": "https://www.neuralframes.com",
+    "categories": "AI Music Video Generator, AI Video Generator, AI Animation Generator, Text to Video, Image to Video, AI Video Editor",
+    "slug": "ai-music-video-generator",
+    "created_at": "14:08:51 09/13/2025"
   },
   {
     "title": "Free AI Video Maker & Generator",
@@ -24414,6 +24459,15 @@
     "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
     "slug": "base44",
     "created_at": "02:26:41 08/20/2025"
+  },
+  {
+    "title": "Fableoo",
+    "name": "Fableoo",
+    "description": "AI-powered interactive storytelling for kids to develop creativity and tech literacy.",
+    "website": "https://www.fableoo.com",
+    "categories": "AI Story Generator, AI Creative Writing, AI Short Story Generator, AI Book Writing",
+    "slug": "fableoo",
+    "created_at": "14:08:51 09/13/2025"
   },
   {
     "title": "SafeWrite AI",
