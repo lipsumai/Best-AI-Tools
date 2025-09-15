@@ -3294,6 +3294,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "Denote",
+    "name": "Denote",
+    "description": "AI-powered platform to save, analyze, and generate social media ads.",
+    "website": "https://denote.net",
+    "categories": "AI Advertising, AI Ad Creative, AI Ad Generator, AI Marketing, AI Script Writing",
+    "slug": "denote",
+    "created_at": "14:12:58 09/15/2025"
+  },
+  {
     "title": "Marketing Guide AI",
     "name": "Marketing Guide AI",
     "description": "AI-powered marketing plan and document generator.",
@@ -5948,6 +5957,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "OsoDesign",
+    "name": "OsoDesign",
+    "description": "AI-powered design studio with unlimited revisions, fast turnarounds, and fixed monthly retainer.",
+    "website": "https://www.osodesign.com",
+    "categories": "AI Graphic Design, AI Design Assistant, AI Website Designer, AI UX Design",
+    "slug": "osodesign",
+    "created_at": "14:12:58 09/15/2025"
+  },
+  {
     "title": "Hautech.AI",
     "name": "Hautech.AI",
     "description": "AI platform for generating stunning fashion visuals.",
@@ -7397,6 +7415,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "10X PPC",
+    "name": "10X PPC",
+    "description": "AI agent for automated, high-converting PPC keyword research.",
+    "website": "https://10xppc.com",
+    "categories": "AI Advertising, AI Marketing, AI Digital Marketing, AI Productivity Tools",
+    "slug": "10x-ppc",
+    "created_at": "14:12:58 09/15/2025"
+  },
+  {
     "title": "SayStory AI",
     "name": "saystory",
     "description": "Voice-to-AI platform for thought leadership content creation",
@@ -8781,6 +8808,15 @@
     "categories": "AI Drawing, AI Sketch Generator, AI Art Generator, Image to Image, AI Painting Generator",
     "slug": "picture-to-drawing",
     "created_at": "14:12:53 09/03/2025"
+  },
+  {
+    "title": "Rocket Journal",
+    "name": "Rocket Journal",
+    "description": "AI-powered voice journal app for mental health.",
+    "website": "https://www.rocketjournal.app",
+    "categories": "AI Mental Health, AI Therapist, AI Assistant, AI Voice Assistants",
+    "slug": "rocket-journal",
+    "created_at": "14:12:58 09/15/2025"
   },
   {
     "title": "Runwayaleph.net",
@@ -12275,6 +12311,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Career Steer",
+    "name": "Career Steer",
+    "description": "AI-powered platform for career guidance, job search, and talent matching.",
+    "website": "https://www.careersteer.com",
+    "categories": "AI Jobs, AI Assistant, AI Recruiting",
+    "slug": "career-steer",
+    "created_at": "14:12:58 09/15/2025"
+  },
+  {
     "title": "NoFilterGPT",
     "name": "NoFilterGpt.com",
     "description": "Unfiltered, uncensored, anonymous AI chat service with absolute privacy.",
@@ -14433,6 +14478,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, E-commerce Assistant, Captions or Subtitle, AI Script Writing, AI Video Editor, AI UGC Video Generator",
     "slug": "influee",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "viral.app",
+    "name": "viral.app",
+    "description": "Leading tracking & analytics tool for viral short-form marketing and UGC campaigns.",
+    "website": "https://viral.app",
+    "categories": "AI Marketing, AI Social Media, AI For Data Analytics, AI Copilot, AI Instagram, AI YouTube",
+    "slug": "viral-app",
+    "created_at": "14:12:58 09/15/2025"
   },
   {
     "title": "Flux Context AI",
