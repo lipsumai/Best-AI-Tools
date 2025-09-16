@@ -3672,6 +3672,15 @@
     "created_at": "14:13:23 08/12/2025"
   },
   {
+    "title": "NextDocs",
+    "name": "NextDocs",
+    "description": "AI-powered platform for instant document and slide creation.",
+    "website": "https://www.nextdocs.io",
+    "categories": "AI Documents Generator, AI Presentation Generator, AI PPT Maker, AI Report Generator, AI Writing Assistants, AI Contract Generator, AI Resume Builder",
+    "slug": "nextdocs",
+    "created_at": "02:16:32 09/16/2025"
+  },
+  {
     "title": "Lóre AI",
     "name": "Lóre AI",
     "description": "AI-powered PDF to editable Word conversion and translation.",
@@ -10833,6 +10842,15 @@
     "categories": "AI Question Generator, AI Quiz Generator, AI PDF, AI Youtube Summary",
     "slug": "workbookly",
     "created_at": "02:28:34 08/19/2025"
+  },
+  {
+    "title": "Copilot4DevOps",
+    "name": "Copilot4DevOps",
+    "description": "AI-powered assistant for Azure DevOps to automate tasks and boost productivity.",
+    "website": "https://copilot4devops.com",
+    "categories": "AI Assistant, AI Copilot, AI Developer Tools, AI Productivity Tools, AI Workflow",
+    "slug": "copilot4devops",
+    "created_at": "02:16:32 09/16/2025"
   },
   {
     "title": "Arvow",
