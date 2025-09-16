@@ -11699,6 +11699,15 @@
     "created_at": "02:43:13 06/19/2025"
   },
   {
+    "title": "Crevas",
+    "name": "Crevas",
+    "description": "AI Video Canvas for Filmmakers",
+    "website": "https://crevas.ai",
+    "categories": "AI Video Generator, Image to Video, Text to Video",
+    "slug": "crevas-ai-video-figma",
+    "created_at": "14:12:40 09/16/2025"
+  },
+  {
     "title": "AI Clothes Changer",
     "name": "AI Clothes Changer",
     "description": "Transform your look in seconds with AI Clothes Changer — the easiest way to try on stylish outfits without changing your clothes. Whether you're browsing fashion ideas or planning your next photoshoot, this AI-powered tool helps you explore new styles instantly.",
@@ -14739,6 +14748,15 @@
     "categories": "AI Analytics Assistant, AI Email Generator, AI Email Marketing, AI Lead Generation, AI Email Writer, AI Content Generator",
     "slug": "chillmail",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "SoundWise.ai",
+    "name": "SoundWise.ai",
+    "description": "Transform Speech to Text, Instantly and Freely, NO sign-up, NO software downloading, safety",
+    "website": "https://soundwise.ai",
+    "categories": "AI Speech-to-Text, AI Transcriber, Audio To Text AI",
+    "slug": "soundwise-ai",
+    "created_at": "14:12:40 09/16/2025"
   },
   {
     "title": "Business Card Scanner",
@@ -18114,6 +18132,15 @@
     "categories": "AI Course, AI Tutorial, AI Education Assistant, AI Content Generator",
     "slug": "everlearns-studio",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SalesTable AI",
+    "name": "SalesTable AI",
+    "description": "AI-driven Sales Enablement Platform for high-performing sales teams.",
+    "website": "https://salestable.ai",
+    "categories": "AI Sales Assistant, AI Sales, AI Coaching, AI Agent, AI Roleplay",
+    "slug": "salestable-ai",
+    "created_at": "14:12:40 09/16/2025"
   },
   {
     "title": "Motion Cut – Video Service Provider",
