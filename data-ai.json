@@ -360,6 +360,15 @@
     "created_at": "14:08:51 09/13/2025"
   },
   {
+    "title": "OddsGPT – AI Odds Analysis Tool",
+    "name": "OddsGPT – AI Odds Analysis Tool",
+    "description": "AI-powered tool for sports betting arbitrage and value betting.",
+    "website": "https://www.oddsgpt.com",
+    "categories": "AI Sports Betting, AI Sports Predictions, AI Sports, AI Predictions",
+    "slug": "oddsgpt-ai-odds-analysis-tool",
+    "created_at": "14:12:01 09/17/2025"
+  },
+  {
     "title": "TOPIQ",
     "name": "Topiq",
     "description": "AI News Tracking for Companies",
@@ -403,6 +412,15 @@
     "categories": "AI Copilot, AI Sales Assistant, AI Sales",
     "slug": "nomi",
     "created_at": "14:12:11 05/29/2025"
+  },
+  {
+    "title": "AI Omnigen",
+    "name": "AI Omnigen",
+    "description": "AI design tool for generating images, videos, and visual content.",
+    "website": "https://aiomnigen.com",
+    "categories": "AI Image Generator, AI Video Generator, AI Design Generator, AI Ad Creative, AI Photo Editor, AI Colorize, AI Photo Restoration, AI Product Photography, Image to Prompt, AI Prompt Generator",
+    "slug": "ai-omnigen",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "CSV-AI",
@@ -2293,6 +2311,15 @@
     "categories": "Investing Assistant, Research Tool, Report Writing, AI Analytics Assistant",
     "slug": "theanalystai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Ascn",
+    "name": "Ascn",
+    "description": "Ascn.ai offers a robust AI assistant focused on the crypto market, providing swift analyses, news, and on-chain data. It aggregates insights from thousands of services into a single, user-friendly tool, enabling users to make informed investment decisions swiftly and effortlessly.",
+    "website": "https://ascn.ai",
+    "categories": "AI Crypto, AI Knowledge Base, AI Assistant, AI For Data Analytics, AI Research Tool",
+    "slug": "ascn",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "Miniflow.ai",
@@ -4401,6 +4428,15 @@
     "created_at": "02:40:55 06/05/2025"
   },
   {
+    "title": "Munch Studio",
+    "name": "Munch Studio",
+    "description": "AI platform for done-for-you social media management for small businesses.",
+    "website": "https://www.munchstudio.com",
+    "categories": "AI Social Media, AI Marketing, AI Social Media Post Generator, AI Repurpose, AI Scheduling",
+    "slug": "munch-studio",
+    "created_at": "14:12:01 09/17/2025"
+  },
+  {
     "title": "SocioSim",
     "name": "SocioSim",
     "description": "The AI survey platform that provides instant, simulated responses from any audience.",
@@ -5821,6 +5857,15 @@
     "categories": "AI Digital Marketing, AI Email Marketing, AI Marketing, AI Website Designer",
     "slug": "claspo",
     "created_at": "02:27:46 08/31/2025"
+  },
+  {
+    "title": "Cognitora",
+    "name": "Cognitora",
+    "description": "Cloud platform for executing AI-generated code and automating intelligent workloads.",
+    "website": "https://cognitora.dev",
+    "categories": "AI Agent, AI API, AI Developer Tools",
+    "slug": "cognitora",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "Resonance Studio",
@@ -9899,6 +9944,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Frugal",
+    "name": "Frugal",
+    "description": "Frugal – AI-powered Application Cost Engineering platform",
+    "website": "https://www.frugal.co",
+    "categories": "AI Developer Tools, AI Code Assistant, AI Code Review, AI For Finance",
+    "slug": "frugal",
+    "created_at": "14:12:01 09/17/2025"
+  },
+  {
     "title": "Illustro – AI Illustration Generator",
     "name": "Illustro – AI Illustration Generator",
     "description": "AI illustration generator and AI illustration editor for modern vectorial illustrations.",
@@ -11553,6 +11607,15 @@
     "categories": "Other",
     "slug": "iirc-if-i-recall-correctly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Auron AI",
+    "name": "Auron",
+    "description": "AI desktop companion for task management, automation, and natural communication.",
+    "website": "https://tryauron.com",
+    "categories": "AI Assistant, AI Copilot, AI Voice Assistants, AI Productivity Tools, AI Task Management",
+    "slug": "auron",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "Bhava - AI-Powered Diagram Editor",
@@ -13364,6 +13427,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "Do it free AI",
+    "name": "Do it free AI",
+    "description": "Discover free tools and resources to achieve your ambitions.",
+    "website": "https://tools.topicindetail.com",
+    "categories": "AI Tools Directory",
+    "slug": "do-it-free-ai",
+    "created_at": "14:12:01 09/17/2025"
+  },
+  {
     "title": "SeeMuseums",
     "name": "SeeMuseums",
     "description": "AI-powered insights for enriching museum visits and art appreciation.",
@@ -14705,6 +14777,15 @@
     "created_at": "14:11:41 07/19/2025"
   },
   {
+    "title": "Bito",
+    "name": "Bito",
+    "description": "Codebase-aware AI Code Reviews in Git and IDE.",
+    "website": "https://bito.ai",
+    "categories": "AI Code Review, AI Code Assistant, AI Developer Tools",
+    "slug": "bito",
+    "created_at": "14:12:01 09/17/2025"
+  },
+  {
     "title": "NexaVoxa",
     "name": "NexaVoxa",
     "description": "AI voice agents for automated, human-like business calls, 24/7 support.",
@@ -15747,6 +15828,15 @@
     "categories": "AI Analytics Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Repurpose Assistant, AI Scheduling, AI Content Generator",
     "slug": "publora",
     "created_at": "02:26:12 04/30/2025"
+  },
+  {
+    "title": "WisPaper",
+    "name": "WisPaper",
+    "description": "Screen 1,000 papers to just 20 core studies in 10 seconds",
+    "website": "https://www.wispaper.ai",
+    "categories": "AI Research Tool",
+    "slug": "wispaper",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "Youfitness",
@@ -17583,6 +17673,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Watermark Remover, AI Image Upscaler, Image to Prompt",
     "slug": "seedream-4-0-free-advanced-bytedance-s-ai-image-editor",
     "created_at": "02:15:29 09/10/2025"
+  },
+  {
+    "title": "Seedream 4.0",
+    "name": "Seedream 4.0-",
+    "description": "ByteDance's AI image editor for professional 2K/4K visuals with multi-modal capabilities.",
+    "website": "https://seedream4ai.co",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image",
+    "slug": "seedream-4-0-2",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "Pipedata AI",
@@ -19646,6 +19745,15 @@
     "created_at": "14:11:16 04/04/2025"
   },
   {
+    "title": "Seedream 4.0",
+    "name": "Seedream 4.0 - Advanced AI Image Editor",
+    "description": "Advanced AI image editor & generator powered by ByteDance.",
+    "website": "https://seedream-4.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Realistic Image Generator, Image to Image",
+    "slug": "seedream-4-0-advanced-ai-image-editor",
+    "created_at": "14:12:01 09/17/2025"
+  },
+  {
     "title": "Callbell",
     "name": "Callbell",
     "description": "Centralized communication for customer support across messaging apps.",
@@ -20526,6 +20634,15 @@
     "categories": "AI SEO Assistant, AI Content Generator",
     "slug": "imagetoseo-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tambo AI",
+    "name": "tambo",
+    "description": "Open-source AI orchestration framework for React front ends.",
+    "website": "https://tambo.co",
+    "categories": "AI Developer Tools, Open Source AI Models, AI Agent, AI Copilot, AI Assistant, AI UX Design",
+    "slug": "tambo",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "Fight IQ",
@@ -23874,6 +23991,15 @@
     "categories": "AI Web Scraping",
     "slug": "922-s5-proxy",
     "created_at": "14:12:10 05/23/2025"
+  },
+  {
+    "title": "Bazaar",
+    "name": "Bazaar V3",
+    "description": "AI motion graphics for software demos from screenshots and prompts.",
+    "website": "https://www.Bazaar.it",
+    "categories": "AI Video Generator, AI Animation Generator, AI Animated Video, Text to Video, AI Graphic Design",
+    "slug": "bazaar-v3",
+    "created_at": "14:12:01 09/17/2025"
   },
   {
     "title": "Arti.pics",
