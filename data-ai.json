@@ -3816,6 +3816,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Reve Image",
+    "name": "Reve Image",
+    "description": "AI image generator and creative tool with natural-language editing.",
+    "website": "https://app.reve.com",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Photo Editor",
+    "slug": "reve-image",
+    "created_at": "02:18:10 09/18/2025"
+  },
+  {
     "title": "Ultralytics",
     "name": "Ultralytics",
     "description": "AI platform for creating and deploying vision models without coding.",
@@ -13013,6 +13022,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "FloorDesign",
+    "name": "FloorDesign",
+    "description": "Free AI tool for instant floor design and visualization.",
+    "website": "https://floordesign.ai",
+    "categories": "AI Floor Plan Generator, AI Interior Design, AI Room Planner, AI Design Generator, Text to Image, Image to Image",
+    "slug": "floordesign",
+    "created_at": "02:18:10 09/18/2025"
+  },
+  {
     "title": "Scholtz",
     "name": "Scholtz",
     "description": "AI-powered people search engine for business connections and growth.",
@@ -19646,6 +19664,15 @@
     "created_at": "02:57:39 07/30/2025"
   },
   {
+    "title": "Neo AI Presentation Maker",
+    "name": "Neo AI Presentation Maker",
+    "description": "Neo is an Agentic AI platform for presentations that empowers you to create professional-grade slides effortlessly. By leveraging AI-powered templates, Neo mimics human workflows to guide you through the process of building presentations. Whether you’re starting from scratch or repurposing existing content, Neo automates key aspects like template selection, content population, and theme adjustments, allowing you to focus on delivering impactful presentations with ease.",
+    "website": "https://slideuplift.com",
+    "categories": "AI PPT Maker, AI Agent, AI Presentation Generator, AI Productivity Tools",
+    "slug": "neo-ai-presentation-maker",
+    "created_at": "02:18:10 09/18/2025"
+  },
+  {
     "title": "Jungle",
     "name": "Jungle AI",
     "description": "AI flashcards & questions generator for effective studying",
@@ -19689,6 +19716,15 @@
     "categories": "AI Blog Writer, AI Business Ideas Generator, AI Plagiarism Checker, AI Email Marketing, AI Email Generator, AI Email Assistant, Digital Marketing Generator, Marketing Plan Generator, AI Ad Generator, AI Ad Creative Assistant, AI SEO Assistant, AI Advertising Assistant, AI Photo & Image Generator, Translate, Text to Image, AI Email Writer, AI Content Generator, AI Creative Writing, Writing Assistants, Summarizer, Paraphraser, AI Bio Generator, AI Story Writing, Copywriting, Prompt",
     "slug": "smartlyq",
     "created_at": "02:39:22 05/05/2025"
+  },
+  {
+    "title": "Home Design AI",
+    "name": "Home Design AI",
+    "description": "Free AI interior design tool for instant home plans and layouts.",
+    "website": "https://home-design.ai",
+    "categories": "AI Interior Design, AI Design Generator, AI Room Planner, Text to Image, Image to Image",
+    "slug": "home-design-ai",
+    "created_at": "02:18:10 09/18/2025"
   },
   {
     "title": "Writegenic AI",
@@ -20589,6 +20625,15 @@
     "categories": "AI Trading Bot Assistant",
     "slug": "themis-for-crypto",
     "created_at": "02:42:53 05/04/2025"
+  },
+  {
+    "title": "Regi AI",
+    "name": "Regi AI",
+    "description": "AI-powered platform for image editing and content creation.",
+    "website": "https://regiai.com",
+    "categories": "AI Photo Editor, AI Watermark Remover, AI Face Swap Generator, AI Headshot Generator, AI Photo Restoration, AI Background Remover, AI Unblur Image, AI Crop Image",
+    "slug": "regi-ai",
+    "created_at": "02:18:10 09/18/2025"
   },
   {
     "title": "Callio",
@@ -24054,6 +24099,15 @@
     "categories": "AI Video Generator, AI Avatar Video Generator, AI Speech Recognition, AI Lip Sync Generator",
     "slug": "wan-2-2-s2v",
     "created_at": "02:22:28 08/27/2025"
+  },
+  {
+    "title": "Floor Plan AI",
+    "name": "Floor Plan AI",
+    "description": "AI-powered tool for designing and generating floor plans.",
+    "website": "https://floor-plan.ai",
+    "categories": "AI Floor Plan Generator, AI Interior Design, AI Room Planner, AI Design Generator",
+    "slug": "floor-plan-ai",
+    "created_at": "02:18:10 09/18/2025"
   },
   {
     "title": "Gabber.dev",
