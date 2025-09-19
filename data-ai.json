@@ -855,6 +855,15 @@
     "created_at": "14:12:49 07/03/2025"
   },
   {
+    "title": "Lure Machina AI Companion",
+    "name": "Lure Machina AI Companion",
+    "description": "Ultimate AI companion for deep connections, meaningful conversations, and personalized experiences.",
+    "website": "https://luremachina.com",
+    "categories": "AI Girlfriend, AI Chatbot, AI Roleplay, AI Character, Text to Image, Large Language Models (LLMs)",
+    "slug": "lure-machina-ai-companion",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "SketchBubble AI Presentation Maker",
     "name": "SketchBubble AI Presentation Maker",
     "description": "SketchBubble AI slide maker transforms your ideas into fully-designed slide deck in minutes.",
@@ -1330,6 +1339,15 @@
     "categories": "AI Marketing, AI Research Tool, AI Digital Marketing",
     "slug": "lodoy",
     "created_at": "14:18:04 08/04/2025"
+  },
+  {
+    "title": "NanoBananaX",
+    "name": "NanoBananaX",
+    "description": "AI-powered image generation and editing platform.",
+    "website": "https://nanobananax.com",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI Background Remover, AI Face Swap Generator, AI Outfit Generator, Object Remover AI, AI Hairstyle, AI Age Progression, AI Baby Generator, Gender Swap AI",
+    "slug": "nanobananax",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "Bryckel",
@@ -3852,6 +3870,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hyperlink by Nexa AI",
+    "name": "Hyperlink by Nexa AI",
+    "description": "Offline, private AI agent for document search & understanding.",
+    "website": "https://hyperlink.nexa.ai",
+    "categories": "AI Agent, AI Assistant, AI Search Engine, AI Files, AI Knowledge Management, AI OCR, AI Summarizer",
+    "slug": "hyperlink-by-nexa-ai",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "AI Recipe Generator",
     "name": "Granny cooks for me",
     "description": "AI tool to generate recipes from your ingredients.",
@@ -5067,6 +5094,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Envelope",
+    "name": "Envelope",
+    "description": "AI agent for event planning, guest management, and registration.",
+    "website": "https://envelope.so",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Email Generator, AI Website Builder",
+    "slug": "envelope",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "1703 Media",
     "name": "1703.co",
     "description": "AI video creation platform for YouTube, transforming ideas into professional videos.",
@@ -6243,6 +6279,15 @@
     "categories": "AI Assistant, AI Presentation Generator, AI Writing Assistants, AI Code Assistant, AI Chatbot, AI Search Engine",
     "slug": "z-ai",
     "created_at": "14:14:02 07/14/2025"
+  },
+  {
+    "title": "Dora Studio",
+    "name": "Dora Studio",
+    "description": "AI Video Motion Graphics - Turn Text to Motion Video",
+    "website": "https://dora.studio",
+    "categories": "AI Video Generator, AI Animated Video, AI Video Editor, Image to Video, Text to Video",
+    "slug": "dora-studio",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "Augment 1x",
@@ -8126,6 +8171,15 @@
     "created_at": "14:14:05 08/13/2025"
   },
   {
+    "title": "Nexa SDK",
+    "name": "Nexa SDK",
+    "description": "Run any AI model locally - text, speech, vision understanding and image generation",
+    "website": "https://sdk.nexa.ai",
+    "categories": "AI Developer Tools, AI Chat Generator",
+    "slug": "nexa-sdk",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "No Code Hero",
     "name": "No Code Hero",
     "description": "Launch your startup in days",
@@ -9566,6 +9620,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Nextbroswer",
+    "name": "Nextbroswer",
+    "description": "Automate logins, scraping, outreach, and more — just by chatting with AI.",
+    "website": "https://nextbrowser.com",
+    "categories": "AI Agent, AI Browsers, AI Web Scraping, AI Project Management, AI Workflow, AI Marketing, AI Assistant, AI Copilot, AI Productivity Tools, AI Task Management",
+    "slug": "nextbroswer",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "Newt",
     "name": "Newt",
     "description": "A comprehensive platform for reading, writing, and listening to stories.",
@@ -10484,6 +10547,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Landbase",
+    "name": "Landbase",
+    "description": "Landbase is an AI-powered go-to-market platform that automates both outbound sales and inbound marketing, positioning itself as a full-funnel GTM solutio. It uses agentic AI to find and engage prospects on your behalf – eliminating tedious tasks of lead generation, cold outreach, and even manual social posting. Landbase discovers ideal B2B prospects, writes personalized emails and messages, and can even publish thought-leadership posts to build your brand, filling your sales pipeline 24/7. Businesses leverage Landbase to launch campaigns in minutes instead of months, accelerating growth with AI-driven efficiency.",
+    "website": "https://www.landbase.com",
+    "categories": "AI Sales, AI Cold Calling, AI Email Generator, AI Email Marketing, AI Lead Generation, AI Marketing",
+    "slug": "landbase",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "Prompt Market",
     "name": "PromptHub",
     "description": "Prompt Market is an online platform for engineers to sell unique prompts and inspire creative projects.",
@@ -10986,6 +11058,15 @@
     "categories": "Captions or Subtitle, Photo & Image Editor, AI Background Remover, AI Image Segmentation, AI Video Editor, AI Noise Cancellation, AI Video Recording, Text to Image, Image to Image",
     "slug": "cloudstudio",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vibe3D",
+    "name": "Vibe3D.ai",
+    "description": "AI-powered rendering tool for designers, generating ultra-realistic 3D renders quickly.",
+    "website": "https://vibe3d.ai",
+    "categories": "AI Interior Design, AI Realistic Image Generator, AI Design Generator, AI Design Assistant",
+    "slug": "vibe3d-ai",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "Smith.ai",
@@ -11922,6 +12003,15 @@
     "categories": "Life Assistant, Healthcare",
     "slug": "ask-medical",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Breezi",
+    "name": "Mental health app that plans your week!",
+    "description": "AI therapy companion for personalized reflection, growth, and mental health support.",
+    "website": "https://talktobreezi.com",
+    "categories": "AI Therapist, AI Mental Health, AI Chatbot, AI Note Taker",
+    "slug": "mental-health-app-that-plans-your-week",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "AI JINGLEMAKER",
@@ -14255,6 +14345,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Sudo",
+    "name": "Sudo AI",
+    "description": "Unified API for LLMs and AI monetization platform.",
+    "website": "https://sudoapp.dev",
+    "categories": "AI API, AI Developer Tools, AI Advertising",
+    "slug": "sudo-ai",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "QRev",
     "name": "QRev AI",
     "description": "AI-driven Salesforce alternative",
@@ -15182,6 +15281,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Lucy Edit",
+    "name": "Lucy Edit",
+    "description": "Lucy Edit AI is the world's first text-guided video editing platform that transforms videos using simple text prompts while preserving original motion and timing. Edit clothing, characters, backgrounds, and objects with professional-quality results through advanced AI technology.",
+    "website": "https://lucyeditai.ai",
+    "categories": "AI Video Editor, AI Video Recording, Text to Video, Script To Video AI Generator, Long Video To Short Video AI, Image to Video, AI Youtube Video Maker, AI Video Upscaler, AI Video Summarizer, AI Video Search, AI Video Generator, AI Animated Video, AI Video Enhancer, AI UGC Video Generator, AI Tiktok Video Generator, AI Stock Video Generator, AI Short Video Generator, AI Music Video Generator, AI Face Swap Video, AI Cartoon Video Generator, AI Avatar Video Generator, Video to Video",
+    "slug": "lucy-edit",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "TraceFuse",
     "name": "TraceFuse",
     "description": "AI-driven service to remove negative Amazon reviews compliant with Amazon ToS.",
@@ -15459,6 +15567,15 @@
     "categories": "AI Photography",
     "slug": "metoo-camera-iphone-app",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Framia",
+    "name": "Framia",
+    "description": "Create videos by talking to an AI editor, just like with a human - from explainer videos to UGC ads, made with the most advanced AI models.",
+    "website": "https://framia.pro",
+    "categories": "AI Video Generator, AI Audio Editing, AI Audio Enhancer, AI Influencer, AI Instagram, AI Animated Video, AI Animation Generator, AI Avatar Video Generator, AI Reel Generator, AI Short Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, AI Video Editor, AI Video Enhancer",
+    "slug": "framia",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "VPIHub",
@@ -15900,6 +16017,15 @@
     "categories": "Fitness",
     "slug": "youfitness",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "DeepTagger",
+    "name": "DeepTagger",
+    "description": "No-code AI platform for scalable, precise document data extraction.",
+    "website": "https://deeptagger.com",
+    "categories": "AI Document Extraction, Large Language Models (LLMs), No-Code&Low-Code, AI Data Mining, AI OCR",
+    "slug": "deeptagger",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "AI Summarizer for YouTube (Mac App Store)",
@@ -19664,6 +19790,15 @@
     "created_at": "02:21:58 08/28/2025"
   },
   {
+    "title": "Blink AI",
+    "name": "Blink AI",
+    "description": "AI agents for social media automation and content creation.",
+    "website": "https://www.blinklabs.ai",
+    "categories": "AI Agent, AI Social Media, AI Social Media Post Generator, AI Twitter, AI Tweet Generator, AI Marketing",
+    "slug": "blink-ai",
+    "created_at": "14:11:58 09/19/2025"
+  },
+  {
     "title": "SortBird",
     "name": "Sortbird",
     "description": "High-quality Twitter analytics made simple.",
@@ -19698,6 +19833,15 @@
     "categories": "AI Product Description Generator, AI Tutorial, AI Charting",
     "slug": "cart-buddy-gpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Korna",
+    "name": "Korna",
+    "description": "AI-powered blog platform for sharing knowledge and earning.",
+    "website": "https://korna.io",
+    "categories": "AI Blog Generator, AI Writing, AI Writing Assistants",
+    "slug": "korna",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "VoiceAIWrapper",
@@ -19797,6 +19941,15 @@
     "categories": "AI Documents Generator, AI Copywriting, AI Project Management, AI Writing, AI Ad Generator, AI Social Media Post Generator, AI Email Generator",
     "slug": "writegenic-ai",
     "created_at": "14:12:38 05/30/2025"
+  },
+  {
+    "title": "Macroscope",
+    "name": "Macroscope",
+    "description": "AI agent for codebase analysis, summaries, bug detection, and PR review.",
+    "website": "https://macroscope.com",
+    "categories": "AI Code Assistant, AI Code Review, AI Developer Tools, AI Productivity Tools, AI Summarizer",
+    "slug": "macroscope",
+    "created_at": "14:11:58 09/19/2025"
   },
   {
     "title": "SpotRank",
