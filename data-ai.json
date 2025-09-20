@@ -666,6 +666,15 @@
     "created_at": "14:12:15 08/27/2025"
   },
   {
+    "title": "Chatronix",
+    "name": "Chatronix",
+    "description": "AI assistant with 550+ prompts, access to multiple AI models.",
+    "website": "https://chatronix.ai",
+    "categories": "AI Assistant, AI Prompt Generator, AI Productivity Tools, AI Copywriting, AI Marketing, AI Image Generator, AI Code Generator",
+    "slug": "chatronix",
+    "created_at": "14:09:56 09/20/2025"
+  },
+  {
     "title": "WPSummarize",
     "name": "WPSummarize",
     "description": "Automates AI summaries for WordPress blogs to enhance engagement.",
@@ -1996,6 +2005,15 @@
     "categories": "Writing Assistants, AI Content Generator, AI Code Assistant, AI Code Generator",
     "slug": "aide-dev",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Lucy Edit AI",
+    "name": "Lucy Edit AI",
+    "description": "First AI foundation model for text-guided video editing and transformation.",
+    "website": "https://lucyedit.co",
+    "categories": "AI Video Editor, Video to Video, AI Clothing Generator, AI Character",
+    "slug": "lucy-edit-ai",
+    "created_at": "14:09:56 09/20/2025"
   },
   {
     "title": "AiLuvio",
@@ -5112,6 +5130,15 @@
     "created_at": "14:12:48 07/09/2025"
   },
   {
+    "title": "Ray3",
+    "name": "Ray3",
+    "description": "AI video model with 16-bit HDR, reasoning, and voice cloning.",
+    "website": "https://ray3.run",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Voice Cloning",
+    "slug": "ray3",
+    "created_at": "14:09:56 09/20/2025"
+  },
+  {
     "title": "UserStudy",
     "name": "UserStudy",
     "description": "UserStudy provides actionable insights to enhance products and services through UX research.",
@@ -6830,6 +6857,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "ChatBetter",
+    "name": "ChatBetter",
+    "description": "Unified AI platform with automatic model selection for best answers.",
+    "website": "https://www.chatbetter.com",
+    "categories": "AI Chatbot, AI Assistant, Large Language Models (LLMs), AI Productivity Tools, AI Agent",
+    "slug": "chatbetter",
+    "created_at": "14:09:56 09/20/2025"
+  },
+  {
     "title": "Flowstep",
     "name": "Flowstep",
     "description": "AI design assistant for UI, wireframes, and user flows.",
@@ -7404,6 +7440,15 @@
     "categories": "AI Hairstyle, AI Hair Color Changer, AI Design Generator",
     "slug": "buzzcuts-me-free-forever-hair-style-generator",
     "created_at": "02:47:36 06/09/2025"
+  },
+  {
+    "title": "Clever AI Humanizer",
+    "name": "Clever AI Humanizer",
+    "description": "This simple website changes text created by computers to sound like a person wrote it, it is available without charge. It works to keep the original idea clear, but gets rid of writing that sounds like a machine wrote it. We want writing that sounds like a person created it, keeps readers interested, avoids standing out as written by a computer.",
+    "website": "https://aihumanizer.net",
+    "categories": "Humanizer AI",
+    "slug": "clever-ai-humanizer",
+    "created_at": "14:09:56 09/20/2025"
   },
   {
     "title": "YouArt",
@@ -13488,6 +13533,15 @@
     "categories": "Papers, Copywriting, Essay Writer, Report Writing, AI Rewriter, Paraphraser, Writing Assistants, AI Productivity Tools",
     "slug": "free-paraphrasing-tool-toolsmart",
     "created_at": "14:12:45 04/23/2025"
+  },
+  {
+    "title": "Ray 3 AI Video",
+    "name": "Ray 3 AI Video",
+    "description": "World's first HDR AI video generator with character consistency.",
+    "website": "https://ray3aivideo.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Upscaler, AI Video Enhancer",
+    "slug": "ray-3-ai-video",
+    "created_at": "14:09:56 09/20/2025"
   },
   {
     "title": "ScanIt",
