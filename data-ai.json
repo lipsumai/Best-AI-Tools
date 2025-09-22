@@ -7244,6 +7244,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "insMind Image to Video Converter",
+    "name": "insMind Image to Video Converter",
+    "description": "Turn your photos into fun, engaging videos with insMind Image to Video Converter. From animating portraits to adding viral AI effects, you can bring any static image to life in just seconds—no editing skills required.",
+    "website": "https://www.insmind.com",
+    "categories": "Image to Video, AI Animated Video, AI Video Generator",
+    "slug": "insmind-image-to-video-converter",
+    "created_at": "14:13:05 09/22/2025"
+  },
+  {
     "title": "InstaSnippet",
     "name": "InstaSnippet",
     "description": "Create and share interactive React snippets within chats.",
@@ -13787,6 +13796,15 @@
     "created_at": "14:18:27 08/05/2025"
   },
   {
+    "title": "Nano Banana AI",
+    "name": "Nano Banana AI - Free Gemini 2.5 Flash Image Editor and Generator",
+    "description": "Free AI tool for image creation and editing with natural language prompts.",
+    "website": "https://nanobananaai.org",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Art Generator, Image to Image, AI Avatar Generator, AI Anime Generator",
+    "slug": "nano-banana-ai-free-gemini-2-5-flash-image-editor-and-generator",
+    "created_at": "14:13:05 09/22/2025"
+  },
+  {
     "title": "Runway Aleph AI",
     "name": "Runway Aleph AI-",
     "description": "AI video editor for transforming existing videos.",
@@ -19205,6 +19223,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Luma Ray3AI",
+    "name": "Luma Ray3AI",
+    "description": "World's first reasoning AI video model for studio-grade 4K HDR content.",
+    "website": "https://ray3.co",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "luma-ray3ai",
+    "created_at": "14:13:05 09/22/2025"
+  },
+  {
     "title": "Windsurf",
     "name": "Windsurf",
     "description": "AI-powered code editor enhancing developer productivity through proactive assistance.",
@@ -20445,6 +20472,15 @@
     "categories": "Writing Assistants, AI Code Assistant, AI Code Generator, AI Developer Tools, AI Response Generator, Large Language Models (LLMs)",
     "slug": "gaidme",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Bubio.ai",
+    "name": "Bubio.ai",
+    "description": "AI platform for discovering, creating, and chatting with diverse characters.",
+    "website": "https://bubio.ai",
+    "categories": "AI Roleplay, AI Character, AI Girlfriend, AI Boyfriend, AI Anime Generator, NSFW, AI Therapist",
+    "slug": "bubio-ai",
+    "created_at": "14:13:05 09/22/2025"
   },
   {
     "title": "GhostMeet",
@@ -22794,6 +22830,15 @@
     "categories": "AI Agent, AI Assistant, AI Call Center, AI Religion, AI Voice Assistants",
     "slug": "churchcalls-ai",
     "created_at": "14:12:18 06/13/2025"
+  },
+  {
+    "title": "Seedream 4.0",
+    "name": "Seedream 4.0",
+    "description": "ByteDance's next-gen multi-modal AI for image generation and editing.",
+    "website": "https://seedream4.io",
+    "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, AI Style Transfer, AI Poster Generator",
+    "slug": "seedream-4-0-next-generation-multi-modal-ai-image-generator",
+    "created_at": "14:13:05 09/22/2025"
   },
   {
     "title": "Pollystack",
@@ -25736,6 +25781,15 @@
     "categories": "Summarizer",
     "slug": "snapvault",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FluxAPI.ai",
+    "name": "FluxAPI.ai",
+    "description": "FluxAPI.ai provides developers with affordable API access to the entire FLUX.1 and Kontext model family for both text-to-image and image-to-image generation.",
+    "website": "https://fluxapi.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Image to Image, Text to Image",
+    "slug": "fluxapi-ai-affordable-multi-model-flux-1-image-generation-api",
+    "created_at": "14:13:05 09/22/2025"
   },
   {
     "title": "Revyu AI",
