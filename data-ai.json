@@ -3177,6 +3177,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI LandingPage",
+    "name": "AI LandingPage",
+    "description": "AI platform for building high-converting landing pages and websites.",
+    "website": "https://ailandingpage.ai",
+    "categories": "AI Landing Page Builder, AI Website Builder, AI Design Generator, AI SEO Tools",
+    "slug": "ai-landingpage",
+    "created_at": "14:12:34 09/23/2025"
+  },
+  {
     "title": "Florami",
     "name": "Florami – AI Plant Identifier",
     "description": "AI app identifying plants with poetic meanings.",
@@ -6434,6 +6443,15 @@
     "created_at": "14:12:38 05/30/2025"
   },
   {
+    "title": "LongHair",
+    "name": "LongHair",
+    "description": "Free AI tool to virtually try on long hairstyles.",
+    "website": "https://longhair.ai",
+    "categories": "AI Hairstyle, AI Photo Editor, AI Beauty, AI Hair Color Changer",
+    "slug": "longhair",
+    "created_at": "14:12:34 09/23/2025"
+  },
+  {
     "title": "AI Avatar Maker",
     "name": "PosterAIzed",
     "description": "Transform uploaded images into cool avatars with AI-powered image maker.",
@@ -7937,6 +7955,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VeoE AI Video Agent",
+    "name": "VeoE AI Video Agent",
+    "description": "Free AI video generator with audio, powered by Google Veo 3.",
+    "website": "https://veoe.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Youtube Video Maker, AI Tiktok Video Generator",
+    "slug": "veoe-ai-video-agent",
+    "created_at": "14:12:34 09/23/2025"
+  },
+  {
     "title": "20Paths",
     "name": "20Paths",
     "description": "Create interactive demos and guides that convert and simplify documentation process.",
@@ -8790,6 +8817,15 @@
     "categories": "AI Customer Service, AI Agent, AI Chatbot, AI Copilot, AI Voice Assistants",
     "slug": "cognigy",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "VisualGPT",
+    "name": "VisualGPT",
+    "description": "All-in-one AI platform for image generation, editing, and enhancement.",
+    "website": "https://visualgpt.io",
+    "categories": "AI Image Generator, AI Photo Editor, AI Design Generator, AI Background Remover, AI Image Upscaler, AI Room Planner, AI Interior Design, AI Image Enhancer, AI Mind Mapping, AI Infographic Generator",
+    "slug": "visualgpt",
+    "created_at": "14:12:34 09/23/2025"
   },
   {
     "title": "iCook",
@@ -10664,6 +10700,15 @@
     "created_at": "14:12:48 08/25/2025"
   },
   {
+    "title": "iMideo",
+    "name": "iMideo",
+    "description": "AI platform transforming images and text into high-quality videos with minimal effort.",
+    "website": "https://imideo.net",
+    "categories": "AI Video Generator, Image to Video, Text to Video, AI Short Video Generator, AI Video Enhancer, AI Watermark Remover",
+    "slug": "imideo",
+    "created_at": "14:12:34 09/23/2025"
+  },
+  {
     "title": "Seedream 3",
     "name": "Seedream 3",
     "description": "AI image generator for stunning 2K art and photos.",
@@ -10896,6 +10941,15 @@
     "categories": "Writing Assistants",
     "slug": "upwork-business-developer-mydevagents",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BrainHost",
+    "name": "BrainHost",
+    "description": "High-performance KVM VPS hosting with advanced management.",
+    "website": "https://brainhost.ai",
+    "categories": "Other",
+    "slug": "brainhost",
+    "created_at": "14:12:34 09/23/2025"
   },
   {
     "title": "Choosier",
@@ -11778,6 +11832,15 @@
     "categories": "AI SEO Assistant, AI Chatbot, AI Content Generator, AI Landing Page Builder, AI Website Builder, AI Website Designer",
     "slug": "appearonai",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "AudioConvert",
+    "name": "AudioConvert",
+    "description": "Instantly convert your audio into accurate, searchable text with world-class AI.",
+    "website": "https://audioconvert.ai",
+    "categories": "Audio To Text AI",
+    "slug": "audioconvert",
+    "created_at": "14:12:34 09/23/2025"
   },
   {
     "title": "IIRC",
@@ -13220,6 +13283,15 @@
     "created_at": "14:12:38 05/30/2025"
   },
   {
+    "title": "Wan Animate AI - Wan 2.2 Animate AI Video Generator",
+    "name": "Wan Animate AI - Wan 2.2 Animate AI Video Generator",
+    "description": "AI video generator for professional character and avatar animation.",
+    "website": "https://wananimate.ai",
+    "categories": "AI Video Generator, AI Animation Generator, Image to Video, AI Avatar Video Generator, Text to Video, AI Image Generator",
+    "slug": "wan-animate-ai-wan-2-2-animate-ai-video-generator",
+    "created_at": "14:12:34 09/23/2025"
+  },
+  {
     "title": "Earth Zoom Out AI",
     "name": "Earth Zoom Out AI",
     "description": "AI video generator transforming images into cosmic Earth zoom-out videos.",
@@ -13470,6 +13542,15 @@
     "categories": "Prompt Engineering, AI Prompt Generator, AI Productivity Tools, AI Writing Assistants",
     "slug": "promptessor",
     "created_at": "14:12:33 07/08/2025"
+  },
+  {
+    "title": "Vidux AI",
+    "name": "Vidux AI",
+    "description": "AI-powered platform for professional video generation, processing, and enhancement.",
+    "website": "https://vidux.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Enhancer, AI Video Upscaler, AI Subtitle Generator",
+    "slug": "vidux-ai",
+    "created_at": "14:12:34 09/23/2025"
   },
   {
     "title": "Movie Gen",
@@ -19817,6 +19898,15 @@
     "created_at": "14:12:00 09/12/2025"
   },
   {
+    "title": "LandingPage AI",
+    "name": "LandingPage AI",
+    "description": "AI tool for fast, free, and powerful landing page and website creation.",
+    "website": "https://landing-page.io",
+    "categories": "AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Design Generator",
+    "slug": "landingpage-ai",
+    "created_at": "14:12:34 09/23/2025"
+  },
+  {
     "title": "SEOmator",
     "name": "SEOmator",
     "description": "AI-driven platform for SEO and SEM optimization.",
@@ -20211,6 +20301,15 @@
     "categories": "AI Celebrity Voice Generator, AI Speech Synthesis, AI Voice Cloning, Text-to-Speech, AI Audio Enhancer, AI Product Description Generator, AI Speech Recognition, AI Video Generator, Speech-to-Text",
     "slug": "vaanee-ai-engine",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ray 3 AI",
+    "name": "Ray 3 AI",
+    "description": "Luma's first Video AI for reasoning, creating high-end HDR videos for film and advertising.",
+    "website": "https://ray-3.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Advertising",
+    "slug": "ray-3-ai",
+    "created_at": "14:12:34 09/23/2025"
   },
   {
     "title": "Yaseen AI",
@@ -22767,6 +22866,15 @@
     "categories": "AI Book Writing, AI Content Generator, AI Creative Writing, Novel, AI Story Writing",
     "slug": "books-by-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "buzz-cut",
+    "name": "buzz-cut",
+    "description": "AI tool to virtually try buzz cut styles.",
+    "website": "https://buzz-cut.ai",
+    "categories": "AI Hairstyle, AI Photo Filter, AI Photo Editor",
+    "slug": "buzz-cut",
+    "created_at": "14:12:34 09/23/2025"
   },
   {
     "title": "Humbird AI",
