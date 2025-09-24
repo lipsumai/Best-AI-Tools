@@ -6515,6 +6515,15 @@
     "created_at": "02:44:54 08/13/2025"
   },
   {
+    "title": "Pola Browser",
+    "name": "Pola Browser",
+    "description": "A productivity browser for Mac with smart organization and privacy features.",
+    "website": "https://polabrowser.com",
+    "categories": "AI Browsers, AI Productivity Tools, AI Assistant, AI Research Tool, AI Summarizer",
+    "slug": "pola-browser",
+    "created_at": "14:10:08 09/24/2025"
+  },
+  {
     "title": "Ultralgo",
     "name": "Ultralgo",
     "description": "Breaking barriers between Wall Street & retail",
@@ -7071,6 +7080,15 @@
     "categories": "Summarizer, AI PDF, AI Video Recording",
     "slug": "lilys-ai",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Kling 2.5 AI",
+    "name": "Kling 2.5 AI",
+    "description": "AI video generator with advanced reasoning for studio-grade, cost-efficient content.",
+    "website": "https://kling25.co",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video",
+    "slug": "kling-2-5-ai",
+    "created_at": "14:10:08 09/24/2025"
   },
   {
     "title": "Jadebook",
@@ -11960,6 +11978,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Free video face swap - NovaImg AI",
+    "name": "Free video face swap - NovaImg AI",
+    "description": "Free online AI tool for realistic video face swaps.",
+    "website": "https://novaimg.io",
+    "categories": "AI Face Swap Video, AI Face Swap Generator, AI Video Editor",
+    "slug": "free-video-face-swap-novaimg-ai",
+    "created_at": "14:10:08 09/24/2025"
+  },
+  {
     "title": "XBuddy",
     "name": "XBuddy",
     "description": "Customize your virtual friend with XBuddy, your dream buddy by your side.",
@@ -11976,6 +12003,15 @@
     "categories": "AI Cooking Assistant, AI Recipe Assistant, Healthcare, AI Image Scanning, AI Image Recognition, Life Assistant",
     "slug": "allerwell",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Pie",
+    "name": "Pie",
+    "description": "Autonomous AI QA platform for fast, comprehensive E2E testing.",
+    "website": "https://pie.inc",
+    "categories": "AI Testing, AI Agent, AI Developer Tools, No-Code&Low-Code",
+    "slug": "pie",
+    "created_at": "14:10:08 09/24/2025"
   },
   {
     "title": "Flowie – Custom Webflow Solutions",
@@ -12975,6 +13011,15 @@
     "categories": "Other",
     "slug": "blureasy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Destiny Matrix",
+    "name": "Destiny Matrix",
+    "description": "Free numerology tool for self-discovery, life path, karmic patterns, and chakra analysis.",
+    "website": "https://destiny-matrix.cc",
+    "categories": "AI Life, AI Predictions, AI Religion, AI Charting",
+    "slug": "destiny-matrix",
+    "created_at": "14:10:08 09/24/2025"
   },
   {
     "title": "Gather",
@@ -21410,6 +21455,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "Seedream 4.0",
+    "name": "Seedream 4.0 - AI Image Generator",
+    "description": "AI image generator and editor with advanced features.",
+    "website": "https://www.seedream40.com",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Image Enhancer",
+    "slug": "seedream-4-0-ai-image-generator",
+    "created_at": "14:10:08 09/24/2025"
+  },
+  {
     "title": "Image FX",
     "name": "Image FX",
     "description": "Google-powered AI image generator creating stunning visuals from text.",
@@ -23406,6 +23460,15 @@
     "categories": "AI Knowledge Graph, AI API, AI Search Engine, AI Agent, AI For Data Analytics",
     "slug": "tako-ai",
     "created_at": "02:58:17 08/11/2025"
+  },
+  {
+    "title": "SEORCE",
+    "name": "SEORCE",
+    "description": "AI Search Visibility Platform for brand presence across major AI platforms.",
+    "website": "https://www.seorce.com",
+    "categories": "AI SEO Tools, AI Monitor, AI Marketing, AI Search Engine",
+    "slug": "seorce",
+    "created_at": "14:10:08 09/24/2025"
   },
   {
     "title": "Nano Banana AI",
