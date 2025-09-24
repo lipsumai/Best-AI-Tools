@@ -693,6 +693,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Character Generator",
+    "name": "AI Character Generator-",
+    "description": "AI tool to effortlessly create unique, detailed characters for stories, games, and roleplay.",
+    "website": "https://aicharactergenerator.ai",
+    "categories": "AI Character, AI Roleplay, AI Story Generator, AI Creative Writing",
+    "slug": "ai-character-generator-1",
+    "created_at": "02:18:17 09/24/2025"
+  },
+  {
     "title": "MyDreamTeam",
     "name": "My Dream Team",
     "description": "AI-powered virtual dream team for human-like conversations and sharing wisdom",
@@ -2185,6 +2194,15 @@
     "categories": "AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Workflow Management, AI Project Management, AI Forms & Surveys, AI Documents Assistant, AI Content Generator, Writing Assistants",
     "slug": "zavimo",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "TripTap",
+    "name": "TripTap",
+    "description": "For travelers planning trips with others, TripTap is the AI-native platform that turns ideas into complete, bookable itineraries — flights, stays, dining, and activities — all in one place.",
+    "website": "https://triptap.com",
+    "categories": "AI Trip Planner, AI Travel, AI Agent, AI Assistant",
+    "slug": "triptap",
+    "created_at": "02:18:17 09/24/2025"
   },
   {
     "title": "Lumenis",
@@ -25001,6 +25019,15 @@
     "created_at": "14:12:42 09/02/2025"
   },
   {
+    "title": "Gen3D - AI 3D Generator",
+    "name": "Gen3D - AI 3D Generator",
+    "description": "AI 3D Generator-Image to 3D & Text to 3D in Seconds | Gen3D",
+    "website": "https://gen3d.pro",
+    "categories": "AI 3D Model Generator, AI Image Generator, Image to Image, Text to Image, Image to 3D Model, Text to 3D",
+    "slug": "gen3d-ai-3d-generator",
+    "created_at": "02:18:17 09/24/2025"
+  },
+  {
     "title": "supOS",
     "name": "supOS",
     "description": "All-in-one IIoT platform for seamless industrial data integration.",
@@ -25790,6 +25817,15 @@
     "categories": "AI Analytics Assistant, AI Roadmap Generator",
     "slug": "insightq",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Wan 2.2 Animate",
+    "name": "Wan 2.2 Animate",
+    "description": "Free online AI tool for character animation and replacement.",
+    "website": "https://wan22animate.org",
+    "categories": "AI Animation Generator, AI Character, AI Animated Video, Video to Video",
+    "slug": "wan-2-2-animate",
+    "created_at": "02:18:17 09/24/2025"
   },
   {
     "title": "LightLayer",
