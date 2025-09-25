@@ -45,6 +45,15 @@
     "created_at": "14:12:01 08/29/2025"
   },
   {
+    "title": "Nano Banana Image AI",
+    "name": "Nano Banana Image AI-",
+    "description": "Advanced AI image editor for natural language editing and generation.",
+    "website": "https://nanoimg.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image",
+    "slug": "nano-banana-image-ai-1",
+    "created_at": "14:12:34 09/25/2025"
+  },
+  {
     "title": "Google Trends Monitor",
     "name": "LLM SEO Trends",
     "description": "Real-time AI search trends monitor with content ideas.",
@@ -4515,6 +4524,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Enhancer, AI Video Upscaler, AI Subtitle Generator",
     "slug": "vidux-ai",
     "created_at": "14:12:34 09/23/2025"
+  },
+  {
+    "title": "Lucy Edit by Decart",
+    "name": "Lucy Edit by Decart",
+    "description": "AI text-guided video editing for character and scene transformation.",
+    "website": "https://platform.decart.ai",
+    "categories": "AI Video Editor, Text to Video, AI Clothing Generator, AI API, Open Source AI Models",
+    "slug": "lucy-edit-by-decart",
+    "created_at": "14:12:34 09/25/2025"
   },
   {
     "title": "Pr-Mate",
@@ -9682,6 +9700,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "AI ASMR Generator- Create Viral Videos Instantly",
+    "name": "AI ASMR Generator- Create Viral Videos Instantly",
+    "description": "AI ASMR video generator for viral social media content.",
+    "website": "https://www.ai-asmr.co",
+    "categories": "AI Video Generator, AI Short Video Generator, AI Tiktok Video Generator, AI Youtube Video Maker, AI Social Media Post Generator",
+    "slug": "ai-asmr-generator-create-viral-videos-instantly",
+    "created_at": "14:12:34 09/25/2025"
+  },
+  {
     "title": "Omi AI",
     "name": "omiGPT",
     "description": "An AI assistant that integrates with 100+ apps for productivity.",
@@ -13606,6 +13633,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "HiClip",
+    "name": "HiClip",
+    "description": "AI agent turns long videos into trending short clips.",
+    "website": "https://app.hiclip.ai",
+    "categories": "AI Short Video Generator, Long Video To Short Video AI, AI Video Editor, AI Reel Generator, AI Tiktok Video Generator, AI Repurpose, AI Subtitle Generator",
+    "slug": "hiclip",
+    "created_at": "14:12:34 09/25/2025"
+  },
+  {
     "title": "CoGuide",
     "name": "CoGuide",
     "description": "AI platform for generating lesson plans and activities.",
@@ -16126,6 +16162,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "FindHackers",
+    "name": "FindHackers",
+    "description": "Platform for builders to showcase projects, get hired, and discover opportunities with AI assistance.",
+    "website": "https://www.findhackers.co",
+    "categories": "AI Recruiting, AI Jobs, AI Assistant",
+    "slug": "findhackers",
+    "created_at": "14:12:34 09/25/2025"
+  },
+  {
     "title": "Free AI Article Summarizer",
     "name": "Free AI Article Summarizer",
     "description": "Summarize articles, studies, and more in seconds. This free AI Article Summarizer supports 80+ languages, works on any content length, and even answers your questions.",
@@ -16286,6 +16331,15 @@
     "categories": "AI WORD, AI Productivity Tools, Report Writing, Speech-to-Text",
     "slug": "opusense",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "Wan 2.5 AI",
+    "name": "Wan 2.5 AI",
+    "description": "Wan 2.5 AI Video Generator - text to video & image to video cinematic creation",
+    "website": "https://wan25.co",
+    "categories": "AI Video Generator, AI Face Swap Generator, AI Headshot Generator, AI Image Generator, Image to Image, Text to Image, AI Design Assistant, AI Design Generator, AI Animated Video, AI Commercial Generator, AI Movie Generator, AI Music Video Generator, Image to Video, Text to Video, AI Marketing",
+    "slug": "wan-2-5-ai",
+    "created_at": "14:12:34 09/25/2025"
   },
   {
     "title": "Career Automate",
@@ -16837,6 +16891,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "Creamoda AI",
+    "name": "Creamoda AI",
+    "description": "Creamoda AI helps eCommerce sellers and fashion designers create professional product photos, realistic model try-ons, lifestyle visuals, and outfit design concepts in minutes – no studio or photoshoot required.",
+    "website": "https://creamoda.ai",
+    "categories": "Fashion AI, AI Image Description Generator, Image to Image, Text to Image, AI Design Generator, AI Commercial Generator",
+    "slug": "creamoda-ai",
+    "created_at": "14:12:34 09/25/2025"
+  },
+  {
     "title": "Productboard",
     "name": "Productboard",
     "description": "Product management software for understanding customer needs and prioritizing features.",
@@ -16988,6 +17051,15 @@
     "categories": "Copywriting, AI Content Generator, Writing Assistants, AI Rewriter, Paraphraser, General Writing, AI Email Writer, AI Product Description Generator",
     "slug": "scripe-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Grapevine",
+    "name": "Grapevine",
+    "description": "Internal company GPT for unified data search.",
+    "website": "https://getgrapevine.ai",
+    "categories": "AI Agent, AI Knowledge Management, AI Assistant, AI Search Engine, AI Chatbot",
+    "slug": "grapevine",
+    "created_at": "14:12:34 09/25/2025"
   },
   {
     "title": "1703 Media",
@@ -17699,6 +17771,15 @@
     "categories": "Life Assistant, Writing Assistants, AI Content Generator",
     "slug": "qoop-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Loop",
+    "name": "Loop MCP by SimpliflowAI",
+    "description": "Unified MCP gateway for connecting AI apps to tools and solving tool limits.",
+    "website": "https://www.simpliflowai.com",
+    "categories": "AI Agent, AI Tools Directory, AI Developer Tools, AI Workflow",
+    "slug": "loop-mcp-by-simpliflowai",
+    "created_at": "14:12:34 09/25/2025"
   },
   {
     "title": "SynapticAI",
@@ -20903,6 +20984,15 @@
     "categories": "AI Monitor, AI Github, AI Developer Tools, AI For Data Analytics, AI Productivity Tools",
     "slug": "gitcord",
     "created_at": "14:13:23 07/07/2025"
+  },
+  {
+    "title": "Huxe",
+    "name": "Huxe",
+    "description": "Personalized audio intelligence transforming daily information into interactive audio content.",
+    "website": "https://www.huxe.com",
+    "categories": "AI Podcast, AI Voice Assistants, AI News, AI Assistant",
+    "slug": "huxe",
+    "created_at": "14:12:34 09/25/2025"
   },
   {
     "title": "DeepSeek AI",
@@ -24485,6 +24575,15 @@
     "categories": "AI Advertising Assistant, AI Content Generator, AI Tools Directory, AI Product Description Generator, AI SEO Assistant, AI Social Media Assistant",
     "slug": "ai-tools-for-your-everyday-use",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BlabbyAI Speech to text",
+    "name": "BlabbyAI Speech to text",
+    "description": "Write with your voice on any website, with 99% accuracy, in over 90 languages.",
+    "website": "https://www.blabby.ai",
+    "categories": "AI Speech-to-Text, AI Writing Assistants, AI Speech Recognition, AI Productivity Tools",
+    "slug": "blabbyai-speech-to-text",
+    "created_at": "14:12:34 09/25/2025"
   },
   {
     "title": "Summarizer",
