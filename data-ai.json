@@ -7217,6 +7217,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Talking Photo - LipSync",
+    "name": "Talking Photo - LipSync",
+    "description": "AI tool to animate photos with speech and lifelike expressions.",
+    "website": "https://lipsync.video",
+    "categories": "AI Avatar Video Generator, Image to Video, AI Video Generator, AI Lip Sync Generator, AI Animation Generator, AI Text-to-Speech",
+    "slug": "talking-photo-lipsync",
+    "created_at": "14:10:41 09/26/2025"
+  },
+  {
     "title": "ailight",
     "name": "ailight",
     "description": "AI command bar to transform screen content with custom actions.",
@@ -9734,6 +9743,15 @@
     "categories": "AI 3D Model Generator, AI Image Generator, Image to Image, Text to Image, Image to 3D Model, Text to 3D",
     "slug": "gen3d-ai-3d-generator",
     "created_at": "02:18:17 09/24/2025"
+  },
+  {
+    "title": "Voice Changer",
+    "name": "Voice Changer",
+    "description": "Free online AI tool for voice and language transformation.",
+    "website": "https://voicechanger.video",
+    "categories": "AI Voice Changer, AI Voice Generator, AI Dubbing, AI Voice Over, AI Text-to-Speech",
+    "slug": "voice-changer",
+    "created_at": "14:10:41 09/26/2025"
   },
   {
     "title": "Witty QR Art",
@@ -17710,6 +17728,15 @@
     "created_at": "02:28:54 05/09/2025"
   },
   {
+    "title": "Retro Image Prompt - Nano Banana Retro Image Prompt Generator",
+    "name": "Retro Image Prompt - Nano Banana Retro Image Prompt Generator",
+    "description": "AI tool for crafting retro image prompts and vintage AI art.",
+    "website": "https://retroimageprompt.com",
+    "categories": "AI Image Generator, AI Art Generator, AI Prompt Generator, Text to Image, Image to Image",
+    "slug": "retro-image-prompt-nano-banana-retro-image-prompt-generator",
+    "created_at": "14:10:41 09/26/2025"
+  },
+  {
     "title": "ItsBot",
     "name": "Its Bot",
     "description": "AI chatbot solutions for customer engagement",
@@ -17735,6 +17762,15 @@
     "categories": "AI Document Extraction, Translate, AI Rewriter",
     "slug": "translateair",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "ChatGPT Pulse",
+    "name": "ChatGPT Pulse",
+    "description": "Proactive AI briefing engine curating daily personalized updates.",
+    "website": "https://gptpulse.org",
+    "categories": "AI News, AI Assistant, AI Summarizer, AI Productivity Tools, AI Agent",
+    "slug": "chatgpt-pulse",
+    "created_at": "14:10:41 09/26/2025"
   },
   {
     "title": "InvoiceClip",
@@ -18284,6 +18320,15 @@
     "categories": "AI Project Management, AI Search Engine, AI Workflow Management, AI Task Management, AI Tools Directory",
     "slug": "onri-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Midjourney TV",
+    "name": "Midjourney TV",
+    "description": "Experimental platform showcasing highly-ranked Midjourney community videos.",
+    "website": "https://www.midjourney.tv",
+    "categories": "AI Video Generator, AI Art Generator, Text to Video",
+    "slug": "midjourney-tv",
+    "created_at": "14:10:41 09/26/2025"
   },
   {
     "title": "Tabby",
