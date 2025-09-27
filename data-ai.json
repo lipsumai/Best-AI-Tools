@@ -2565,6 +2565,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Suno V5",
+    "name": "Suno V5",
+    "description": "Advanced AI music generator for professional-quality songs.",
+    "website": "https://suno5.co",
+    "categories": "AI Music Generator, AI Song Generator, AI Instrumental Generator",
+    "slug": "suno-v5",
+    "created_at": "14:09:43 09/27/2025"
+  },
+  {
     "title": "EverLearns",
     "name": "EverLearns Studio",
     "description": "Create courses in minutes",
@@ -15019,6 +15028,15 @@
     "created_at": "14:11:46 05/02/2025"
   },
   {
+    "title": "Geekflare Connect",
+    "name": "Geekflare Connect",
+    "description": "Multi Chat AI Workspace (BYOK)",
+    "website": "https://geekflare.com",
+    "categories": "AI Chatbot, AI Chat Generator, AI Text Generator, AI Assistant",
+    "slug": "geekflare-connect",
+    "created_at": "14:09:43 09/27/2025"
+  },
+  {
     "title": "Becomechad.ai",
     "name": "AI Merged Dating Profile Photos",
     "description": "Put your face on high-resolution dating app profile pictures.",
@@ -18194,6 +18212,15 @@
     "categories": "AI Lead Generation",
     "slug": "leadhunt-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Webjourney",
+    "name": "Webjourney",
+    "description": "AI website builder for stunning, production-ready sites in minutes, no coding.",
+    "website": "https://webjourney.pro",
+    "categories": "AI Website Builder, AI Landing Page Builder, No-Code&Low-Code, AI Website Designer",
+    "slug": "webjourney",
+    "created_at": "14:09:43 09/27/2025"
   },
   {
     "title": "WeWeb",
