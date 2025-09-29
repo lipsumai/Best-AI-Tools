@@ -10240,6 +10240,15 @@
     "created_at": "02:18:17 09/24/2025"
   },
   {
+    "title": "Scream AI",
+    "name": "Scream AI",
+    "description": "Transforms photos into Y2K horror movie posters with Ghostface.",
+    "website": "https://screamai.net",
+    "categories": "AI Poster Generator, AI Movie Poster, AI Photo Editor, AI Style Transfer",
+    "slug": "scream-ai",
+    "created_at": "14:12:42 09/29/2025"
+  },
+  {
     "title": "Dereference AI Codetabs",
     "name": "Dereference",
     "description": "Prompt-first IDE for AI power users with parallel sessions and atomic branching.",
@@ -24820,6 +24829,15 @@
     "created_at": "02:44:54 08/13/2025"
   },
   {
+    "title": "Sketch To",
+    "name": "Sketch To",
+    "description": "AI tool for converting images to sketches and sketches to images.",
+    "website": "https://www.sketchto.com",
+    "categories": "AI Sketch Generator, Image to Image, AI Realistic Image Generator, AI Art Generator",
+    "slug": "sketch-to",
+    "created_at": "14:12:42 09/29/2025"
+  },
+  {
     "title": "Eadlyn",
     "name": "Eadlyn",
     "description": "Revolutionizing voice and portrait cloning",
@@ -25313,6 +25331,15 @@
     "categories": "Other",
     "slug": "meditaia",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Ghostface",
+    "name": "AI Ghostface",
+    "description": "AI image generator for Y2K Ghostface portraits and viral content.",
+    "website": "https://aighostface.com",
+    "categories": "AI Image Generator, AI Art Generator, AI Portrait Generator, Text to Image",
+    "slug": "ai-ghostface",
+    "created_at": "14:12:42 09/29/2025"
   },
   {
     "title": "AIEnhancer - Free AI Photo Enhancer",
@@ -26150,6 +26177,15 @@
     "categories": "AI Chatbot",
     "slug": "chatgpt5-so-free-gpt-5-online-with-no-login",
     "created_at": "02:44:24 08/09/2025"
+  },
+  {
+    "title": "MidJourney API (Unofficial)",
+    "name": "MidJourney API (Unofficial)",
+    "description": "MidAPI.ai provides the best unofficial MidJourney API with stable access to all major models, including MidJourney V7 and the V1 Video Model. Generate high-quality images and videos, test online for free, and integrate easily into your workflow.",
+    "website": "https://midapi.ai",
+    "categories": "AI API, AI Image Generator, Image to Image, Text to Image",
+    "slug": "midjourney-api-unofficial",
+    "created_at": "14:12:42 09/29/2025"
   },
   {
     "title": "MyDreamTeam",
