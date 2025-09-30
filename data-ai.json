@@ -684,6 +684,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TranslateManga",
+    "name": "TranslateManga",
+    "description": "AI-powered tool for translating manga images into multiple languages.",
+    "website": "https://translatemanga.net",
+    "categories": "AI Image Translator, AI OCR, AI Manga Generator, AI Translate",
+    "slug": "translatemanga",
+    "created_at": "02:17:27 09/30/2025"
+  },
+  {
     "title": "make.ad",
     "name": "Make.ad",
     "description": "AI platform for creating high-converting ads from text.",
@@ -9278,6 +9287,15 @@
     "created_at": "14:14:45 07/30/2025"
   },
   {
+    "title": "Tab - The Automated Blog",
+    "name": "Tab",
+    "description": "Automated AI blog writing for search engine ranking.",
+    "website": "https://withtab.blog",
+    "categories": "AI Blog Generator, AI SEO Tools, AI Writing, AI Writing Assistants",
+    "slug": "tab",
+    "created_at": "02:17:27 09/30/2025"
+  },
+  {
     "title": "VO3 AI",
     "name": "VO3 AI",
     "description": "AI video generator for cinematic videos from text/images with audio.",
@@ -11075,6 +11093,15 @@
     "categories": "AI Face Recognition, AI OCR, AI Document Extraction, AI For Finance",
     "slug": "alice-biometrics",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "HYI.AI",
+    "name": "HYI.AI",
+    "description": "Virtual Assistant Platform connecting talent with companies and offering GCC solutions.",
+    "website": "https://hyi.ai",
+    "categories": "AI Recruiting, AI Jobs, AI Assistant, AI Resume Builder, AI Interview Assistant, AI Project Management, AI Consulting",
+    "slug": "hyi-ai",
+    "created_at": "02:17:27 09/30/2025"
   },
   {
     "title": "AI Age",
@@ -17746,6 +17773,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image Translator",
+    "name": "Image Translator-",
+    "description": "Advanced AI-powered image translation that preserves context and formatting. Translate text within images instantly with high accuracy across 130+ languages.",
+    "website": "https://imagetranslator.com",
+    "categories": "AI Translate",
+    "slug": "image-translator-1",
+    "created_at": "02:17:27 09/30/2025"
+  },
+  {
     "title": "AI-PRO.org",
     "name": "AI-PRO.org",
     "description": "All-in-one AI platform for learning, tools, and assistance.",
@@ -19501,6 +19537,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "Multiplayer",
+    "name": "Multiplayer",
+    "description": "Full Stack Session Recordings",
+    "website": "https://www.multiplayer.app",
+    "categories": "AI Developer Tools",
+    "slug": "multiplayer",
+    "created_at": "02:17:27 09/30/2025"
+  },
+  {
     "title": "Tavern of Tales",
     "name": "Tavern of Tales",
     "description": "App for creating and sharing fantasy heroes and stories.",
@@ -20768,6 +20813,15 @@
     "categories": "AI Social Media, AI Social Media Post Generator, AI Scheduling, AI Short Video Generator, AI Marketing",
     "slug": "socialrails",
     "created_at": "14:14:05 08/13/2025"
+  },
+  {
+    "title": "PDF Translator",
+    "name": "PDF Translator",
+    "description": "Professional AI-powered pdf document translation, supporting multiple languages, accurate and fast",
+    "website": "https://pdftranslator.org",
+    "categories": "AI Translate",
+    "slug": "pdf-translator",
+    "created_at": "02:17:27 09/30/2025"
   },
   {
     "title": "Plano",
