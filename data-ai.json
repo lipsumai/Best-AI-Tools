@@ -171,6 +171,15 @@
     "created_at": "02:40:57 08/25/2025"
   },
   {
+    "title": "Manga Translator",
+    "name": "Free online AI Manga Translator | Manhwa Translator",
+    "description": "AI tool for instant, accurate manga translation with original layout preserved.",
+    "website": "https://mangatranslator.io",
+    "categories": "AI Image Translator, AI Translate, AI OCR",
+    "slug": "free-online-ai-manga-translator-manhwa-translator",
+    "created_at": "14:12:48 09/30/2025"
+  },
+  {
     "title": "BrandKiit",
     "name": "BrandKiit",
     "description": "AI-powered platform for generating complete brand identities quickly.",
@@ -12742,6 +12751,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Nano Banana | Nanana AI",
+    "name": "Nano Banana | Nanana AI",
+    "description": "Nanana AI is a professional AI image generator and AI image editor powered by Google's Nano Banana model. Key features include industry-leading 94% text rendering accuracy, lightning-fast processing in seconds, comprehensive history management with custom folder organization, and commercial-ready outputs (royalty-free, watermark-free). Experience superior Nano Banana technology with free trial access - no registration required, making it the most accessible and feature-rich AI image generator available.",
+    "website": "https://nanana.app",
+    "categories": "AI Image Generator, AI Texture Generator, AI Photo Filter, AI Photo Restoration, AI Product Photography, AI Profile Picture Generator, AI QR Code Generator, AI Realistic Image Generator, AI Signature Generator, AI Style Transfer, AI Unblur Image, AI Photo Editor, AI Waifu Generator, AI Wallpaper Generator, AI Watermark Remover, AI Yearbook, Gender Swap AI, Image to Image, Object Remover AI, Text to Handwriting, AI Photo Enhancer, AI Person Generator, AI Age Progression, AI Expand Image, AI Avatar Generator, AI Background Generator, AI Background Remover, AI Clothing Removal, AI Colorize, AI Cosplay Generator, AI Crop Image, AI Eraser, AI Face Swap Generator, AI Passport Photo, AI Headshot Generator, AI Image Combiner, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler, AI Inpainting, AI Map Generator, AI Outpainting, Text to Image",
+    "slug": "nano-banana-nanana-ai",
+    "created_at": "14:12:48 09/30/2025"
+  },
+  {
     "title": "Dub",
     "name": "dub.io",
     "description": "AI-powered blog automation tool",
@@ -15692,6 +15710,15 @@
     "categories": "AI Analytics Assistant, AI Productivity Tools, E-commerce Assistant",
     "slug": "nifty-ai",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "DryVocal",
+    "name": "DryVocal",
+    "description": "DryVocal is a free, lightweight AI-powered software that extracts clean vocals from any audio. Separate voices from background music, multi-speaker recordings, or noisy environments with ease.",
+    "website": "https://dryvocal.com",
+    "categories": "AI Audio Splitter, AI Audio Enhancer",
+    "slug": "dryvocal",
+    "created_at": "14:12:48 09/30/2025"
   },
   {
     "title": "DeskDay",
