@@ -3483,6 +3483,15 @@
     "created_at": "02:37:57 06/07/2025"
   },
   {
+    "title": "Nano Photo AI",
+    "name": "Nano Photo AI",
+    "description": "Professional AI photo editor for editing, generation, conversion, and compression.",
+    "website": "https://nanophoto.ai",
+    "categories": "AI Photo Editor, AI Image Generator, AI Photo Restoration, AI Hairstyle, AI Hair Color Changer",
+    "slug": "nano-photo-ai",
+    "created_at": "02:16:29 10/02/2025"
+  },
+  {
     "title": "WPSummarize",
     "name": "WPSummarize",
     "description": "Automates AI summaries for WordPress blogs to enhance engagement.",
@@ -9950,6 +9959,15 @@
     "categories": "Copywriting, AI Ad Creative Assistant, AI Ad Generator, AI Advertising Assistant",
     "slug": "write-label",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sora 2 AI",
+    "name": "Sora 2 AI",
+    "description": "AI video generator with realistic physics, synchronized audio, and 1080p output.",
+    "website": "https://sora2-ai.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Marketing, AI Social Media",
+    "slug": "sora-2-ai",
+    "created_at": "02:16:29 10/02/2025"
   },
   {
     "title": "WriteMyEssay.ai",
@@ -22424,6 +22442,15 @@
     "categories": "AI Art Generator, AI Photo & Image Generator, AI Video Generator, Text to Image, Prompt, Large Language Models (LLMs)",
     "slug": "mancoding",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Sora 2 Video",
+    "name": "AI Sora 2 Video",
+    "description": "AI platform for photorealistic video and audio generation.",
+    "website": "https://aisora2.video",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Realistic Image Generator, AI API",
+    "slug": "ai-sora-2-video",
+    "created_at": "02:16:29 10/02/2025"
   },
   {
     "title": "wan ai video generator",
