@@ -3060,6 +3060,15 @@
     "created_at": "14:15:45 07/22/2025"
   },
   {
+    "title": "Sora 2",
+    "name": "Sora-2",
+    "description": "OpenAI's AI video generator for stunning, realistic videos up to 20s at 1080p.",
+    "website": "https://sora-2.co",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "sora-2-1",
+    "created_at": "02:16:02 10/03/2025"
+  },
+  {
     "title": "Image to Excel",
     "name": "Image to Excel",
     "description": "AI-powered online tool to convert images with tables to Excel.",
@@ -24712,6 +24721,15 @@
     "created_at": "14:15:19 07/24/2025"
   },
   {
+    "title": "Vidthis",
+    "name": "Vidthis",
+    "description": "All-in-one AI platform for video and image generation with no filters.",
+    "website": "https://vidthis.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video",
+    "slug": "vidthis-all-in-one-ai-video-generator",
+    "created_at": "02:16:02 10/03/2025"
+  },
+  {
     "title": "KlydaAI",
     "name": "Product hunt Pilot",
     "description": "AI tools for simplified personal branding and content creation.",
@@ -26267,6 +26285,15 @@
     "categories": "Humanizer AI, AI Text Generator, AI Detector, AI Checker Essay, AI Checker, AI Bypasser, AI Writing Assistants, AI Writing, AI Summarizer, AI Blog Generator, AI Rewriter, AI Paraphraser, AI Letter Writer, AI Grammar Checker, AI Essay Writer, AI Email Writer, AI Creative Writing, SEO Writing AI",
     "slug": "humanize-ai-humanizeai-app",
     "created_at": "02:40:27 06/06/2025"
+  },
+  {
+    "title": "Sora2 AI Video",
+    "name": "Sora2 AI Video",
+    "description": "AI video generator for viral content from text/images.",
+    "website": "https://www.sora2ai.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "sora2-ai-video",
+    "created_at": "02:16:02 10/03/2025"
   },
   {
     "title": "MonoKit",
