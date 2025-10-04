@@ -16153,6 +16153,15 @@
     "created_at": "02:23:05 09/07/2025"
   },
   {
+    "title": "Sora 2",
+    "name": "Sora 2-AI",
+    "description": "OpenAI's advanced AI for physics-accurate video and audio generation.",
+    "website": "https://sora2video.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Anime Generator",
+    "slug": "sora-2-ai-1",
+    "created_at": "02:10:58 10/04/2025"
+  },
+  {
     "title": "Pylon",
     "name": "Pylon",
     "description": "Modern B2B support platform unifying ticketing, AI, knowledge base, and customer portal.",
@@ -20185,6 +20194,15 @@
     "created_at": "14:11:34 09/10/2025"
   },
   {
+    "title": "Sora2 Pro",
+    "name": "Sora2 Pro",
+    "description": "AI video generator for stunning cinematic videos with UltraThink optimization.",
+    "website": "https://sora2.pro",
+    "categories": "AI Video Generator, Text to Video, AI Video Editor, AI Movie Generator",
+    "slug": "sora2-pro",
+    "created_at": "02:10:58 10/04/2025"
+  },
+  {
     "title": "Doable.sh",
     "name": "Doable",
     "description": "AI automation tool to enhance user experience in web applications.",
@@ -21704,6 +21722,15 @@
     "categories": "Other",
     "slug": "hyrproz",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nano Image AI",
+    "name": "Nano Image AI",
+    "description": "Ultimate AI image editor and generator online for professional results and privacy.",
+    "website": "https://nanoimage.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Background Remover, AI Image Enhancer, AI Image Upscaler, Object Remover AI",
+    "slug": "nano-image-ai",
+    "created_at": "02:10:58 10/04/2025"
   },
   {
     "title": "QuickQuest",
@@ -26222,6 +26249,15 @@
     "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Customer Service Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, AI Coaching, Research Tool, E-commerce Assistant, AI Product Description Generator",
     "slug": "minea",
     "created_at": "14:11:12 04/24/2025"
+  },
+  {
+    "title": "AI Architectures",
+    "name": "AI Architectures",
+    "description": "AI platform for architectural design, rendering, and floor plans.",
+    "website": "https://ai-architectures.com",
+    "categories": "AI Design Generator, AI Floor Plan Generator, AI Interior Design, AI Realistic Image Generator, AI Landscape Generator",
+    "slug": "ai-architectures",
+    "created_at": "02:10:58 10/04/2025"
   },
   {
     "title": "Linkjob.ai",
