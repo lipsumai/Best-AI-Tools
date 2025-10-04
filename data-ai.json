@@ -3851,6 +3851,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Mocku",
+    "name": "Mocku",
+    "description": "AI-powered mockup generator for realistic apparel, device, and video mockups.",
+    "website": "https://mocku.co",
+    "categories": "AI Mockup Generator, AI Design Generator, AI Video Generator, AI Clothing Generator",
+    "slug": "mocku",
+    "created_at": "14:09:34 10/04/2025"
+  },
+  {
     "title": "Arti.pics",
     "name": "Arti.pics",
     "description": "AI-powered avatar maker generates 200+ cool avatars from your photos.",
@@ -13336,6 +13345,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "Sora2 AI",
+    "name": "Sora2 Video Generator - Create Viral Character Consistent Videos",
+    "description": "AI video generator for viral, identity consistent, voice synchronized videos.",
+    "website": "https://www.sora2.cloud",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Commercial Generator",
+    "slug": "sora2-video-generator-create-viral-character-consistent-videos",
+    "created_at": "14:09:34 10/04/2025"
+  },
+  {
     "title": "A2E Free and Uncensored AI Videos",
     "name": "A2E Free and Uncensored AI Videos",
     "description": "Free and uncensored AI toolbox for creators including image-to-video, lip-sync, ai videos generator, AI avatars, voice clone, face swap and APIs.",
@@ -15845,6 +15863,15 @@
     "categories": "AI Analytics Assistant, AI Chatbot, AI Workflow Management, AI Scheduling, No-Code&Low-Code, AI Code Assistant, Code Explanation, AI Code Generator, AI Monitor & Report Builder, AI Data Mining, AI SQL Query Builder, AI App Builder",
     "slug": "dgi",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Vertech Academy",
+    "name": "Vertech Academy",
+    "description": "AI prompts for students and teachers to learn and teach effectively.",
+    "website": "https://www.vertechacademy.ca",
+    "categories": "AI Teachers, AI Homework Helper, AI Lesson Plan Generator, AI Quiz Generator",
+    "slug": "vertech-academy",
+    "created_at": "14:09:34 10/04/2025"
   },
   {
     "title": "Echovox Studio",
@@ -22885,6 +22912,15 @@
     "created_at": "14:11:52 09/01/2025"
   },
   {
+    "title": "Sora 2 AI",
+    "name": "Sora 2 AI Video Generator | 4K & Synced Audio",
+    "description": "Advanced AI video generator for 4K, synced, physics-accurate videos.",
+    "website": "https://sora2aivideo.net",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "sora-2-ai-video-generator-4k-synced-audio",
+    "created_at": "14:09:34 10/04/2025"
+  },
+  {
     "title": "Sindo",
     "name": "Sindo",
     "description": "AI platform for automating customer reviews and social proof.",
@@ -23522,6 +23558,15 @@
     "categories": "AI Art Generator, AI Image Generator, AI Video Generator, Image to 3D Model, Text to Image, Text to Video, Image to Image",
     "slug": "haimeta",
     "created_at": "02:58:34 08/08/2025"
+  },
+  {
+    "title": "Ovi AI",
+    "name": "Ovi AI",
+    "description": "Advanced AI video generator for physics-accurate, professional videos.",
+    "website": "https://ovi.video",
+    "categories": "AI Video Generator, Text to Video",
+    "slug": "ovi-ai",
+    "created_at": "14:09:34 10/04/2025"
   },
   {
     "title": "Artifactory",
