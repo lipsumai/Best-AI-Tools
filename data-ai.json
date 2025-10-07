@@ -18628,6 +18628,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GPTSora",
+    "name": "GPTSora",
+    "description": "Advanced AI video generation platform using OpenAI Sora 2.",
+    "website": "https://www.gptsora.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Advertising",
+    "slug": "gptsora",
+    "created_at": "02:17:28 10/07/2025"
+  },
+  {
     "title": "Sup! Standup Bot",
     "name": "Sup Standup Bot",
     "description": "Streamlined daily routine updates and improved productivity for hybrid teams.",
