@@ -11851,6 +11851,15 @@
     "created_at": "14:12:36 08/19/2025"
   },
   {
+    "title": "SoraShorts",
+    "name": "SoraShorts",
+    "description": "AI tool for generating professional Sora 2 video prompts.",
+    "website": "https://www.sorashorts.ai",
+    "categories": "AI Prompt Generator, AI Script Writing, Prompt Engineering",
+    "slug": "sorashorts",
+    "created_at": "14:14:05 10/07/2025"
+  },
+  {
     "title": "Brat Generator",
     "name": "Brat Generator",
     "description": "Free online tool to create Charli XCX \"Brat\" style album covers.",
@@ -22541,6 +22550,15 @@
     "categories": "AI Analytics Assistant, AI Forms & Surveys",
     "slug": "remote-insight",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Toolution AI",
+    "name": "Toolution AI",
+    "description": "AI video generator using OpenAI Sora 2 for cinematic, physics-accurate videos.",
+    "website": "https://sora2video.best",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "toolution-ai",
+    "created_at": "14:14:05 10/07/2025"
   },
   {
     "title": "TarotQA",
