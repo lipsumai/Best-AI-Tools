@@ -7631,6 +7631,15 @@
     "created_at": "14:12:29 05/13/2025"
   },
   {
+    "title": "Sora 2 Web",
+    "name": "Sora 2 Web",
+    "description": "Sora 2 Web",
+    "website": "https://sora2web.net",
+    "categories": "AI Video Generator, AI Animation Generator, AI Cartoon Video Generator, AI Movie Generator, AI Short Video Generator, Image to Video, Text to Video",
+    "slug": "sora-2-web",
+    "created_at": "14:12:46 10/08/2025"
+  },
+  {
     "title": "Namique",
     "name": "Namique",
     "description": "AI-powered name generator",
@@ -10240,6 +10249,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "WebNovel AI",
+    "name": "WebNovel AI",
+    "description": "AI platform for structured web novel planning and drafting.",
+    "website": "https://webnovelai.io",
+    "categories": "AI Novel, AI Story Generator, AI Book Writing, AI Writing Assistants, AI Plot Generator, AI Outline Generator",
+    "slug": "webnovel-ai",
+    "created_at": "14:12:46 10/08/2025"
+  },
+  {
     "title": "PostGenius",
     "name": "Post Genius",
     "description": "PostGenius is a time-saving tool that boosts engagement on social media with high-quality posts.",
@@ -11516,6 +11534,15 @@
     "categories": "AI Analytics Assistant, AI Team Collaboration, AI Project Management, AI Monitor & Report Builder, AI Log Management, AI Developer Tools, AI Code Assistant",
     "slug": "instalog",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "TripleTen Career Aptitude Test",
+    "name": "TripleTen Career Aptitude Test",
+    "description": "Discover your ideal tech career path with the Career Aptitude test – an AI-powered assessment that reveals strengths, work style, and best-fit roles.",
+    "website": "https://tripleten.com",
+    "categories": "AI Quizzes, AI Coaching, AI Jobs",
+    "slug": "tripleten-career-aptitude-test",
+    "created_at": "14:12:46 10/08/2025"
   },
   {
     "title": "Lkin",
@@ -13858,6 +13885,15 @@
     "created_at": "14:11:34 09/10/2025"
   },
   {
+    "title": "banane nano ai",
+    "name": "banane nano ai",
+    "description": "Ultimate AI image tools for generation, transformation, and enhancement.",
+    "website": "https://bananananoai.net",
+    "categories": "AI Image Generator, AI Photo Editor, AI Background Remover, AI Face Swap Generator, AI Photo Restoration, Text to Image",
+    "slug": "banane-nano-ai",
+    "created_at": "14:12:46 10/08/2025"
+  },
+  {
     "title": "V7 Lab",
     "name": "V7 Lab",
     "description": "AI solutions for document processing and data labeling.",
@@ -15269,6 +15305,15 @@
     "categories": "AI Content Generator, AI Logo Generator, Image to Video, Text to Video, AI Social Media Assistant, AI Design Generator, AI Instagram Assistant, AI Ad Creative Assistant",
     "slug": "best-creator",
     "created_at": "14:11:46 05/02/2025"
+  },
+  {
+    "title": "Geneo",
+    "name": "Geneo",
+    "description": "Optimize brand presence and visibility in AI search results.",
+    "website": "https://geneo.app",
+    "categories": "AI SEO Tools, AI Search Engine, AI Monitor, AI Marketing",
+    "slug": "geneo",
+    "created_at": "14:12:46 10/08/2025"
   },
   {
     "title": "Geekflare Connect",
@@ -17629,6 +17674,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Progressier",
+    "name": "Progressier",
+    "description": "Toolkit for building fully-featured PWAs with universal installation and push notifications.",
+    "website": "https://progressier.com",
+    "categories": "AI Developer Tools, AI App Builder, No-Code&Low-Code",
+    "slug": "progressier",
+    "created_at": "14:12:46 10/08/2025"
+  },
+  {
     "title": "SupportChat",
     "name": "SupportChat",
     "description": "SupportChat offers custom chatbot training services for businesses.",
@@ -18635,6 +18689,15 @@
     "categories": "Other",
     "slug": "blureasy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Discmeet",
+    "name": "Discmeet",
+    "description": "AI Discord bot for voice transcription, meeting notes & DnD.",
+    "website": "https://discmeet.com",
+    "categories": "AI Note Taker, AI Transcriber, AI Meeting Assistant, AI Summarizer, AI Speech-to-Text",
+    "slug": "discmeet",
+    "created_at": "14:12:46 10/08/2025"
   },
   {
     "title": "GPTSora",
