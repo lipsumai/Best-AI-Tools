@@ -4328,6 +4328,15 @@
     "created_at": "14:11:59 06/19/2025"
   },
   {
+    "title": "4 Fashion AI",
+    "name": "4 Fashion AI",
+    "description": "AI-powered platform for fashion design, virtual try-on, and model generation.",
+    "website": "https://4fashionai.com",
+    "categories": "Fashion AI, AI Clothing Generator, AI Outfit Generator, AI Photo Editor, AI Ad Creative",
+    "slug": "4-fashion-ai",
+    "created_at": "02:18:58 10/09/2025"
+  },
+  {
     "title": "Regi AI",
     "name": "Regi AI",
     "description": "AI-powered platform for image editing and content creation.",
@@ -23126,6 +23135,15 @@
     "categories": "AI Voice Assistants, AI Agent, AI Customer Service, AI Call Center, AI Sales Assistant",
     "slug": "telezen-dashboard",
     "created_at": "14:15:45 07/22/2025"
+  },
+  {
+    "title": "WriteABookAI",
+    "name": "WriteABookAI",
+    "description": "Turn your Knowledge into a Published Book",
+    "website": "https://WriteABookAI.com",
+    "categories": "AI Book Writing, AI Ebook Generator, AI Writing",
+    "slug": "writeabookai",
+    "created_at": "02:18:58 10/09/2025"
   },
   {
     "title": "Behind SaaS",
