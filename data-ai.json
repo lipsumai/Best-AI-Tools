@@ -2871,6 +2871,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Veo 3.1",
+    "name": "Veo 3.1 AI",
+    "description": "AI video generator for 1-minute cinematic videos",
+    "website": "https://veo3-1.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Commercial Generator",
+    "slug": "veo-3-1-ai",
+    "created_at": "02:19:21 10/10/2025"
+  },
+  {
     "title": "Lecturio",
     "name": "Lecturio",
     "description": "An all-in-one health education platform for medical and nursing students.",
@@ -7190,6 +7199,15 @@
     "created_at": "14:15:43 07/31/2025"
   },
   {
+    "title": "Hey Dream AI",
+    "name": "Hey Dream AI",
+    "description": "Free AI platform for video and image generation.",
+    "website": "https://heydream.im",
+    "categories": "AI Video Generator, AI Image Generator, Image to Video, Text to Image",
+    "slug": "hey-dream-ai",
+    "created_at": "02:19:21 10/10/2025"
+  },
+  {
     "title": "IDEART AI",
     "name": "IDEART AI",
     "description": "Complete AI platform for video and image creation.",
@@ -10096,6 +10114,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MockAnything AI",
+    "name": "MockAnything AI",
+    "description": "MockAnything AI - turn any idea into a realistic, lifestyle mockup",
+    "website": "https://dynamicmockups.com",
+    "categories": "AI Mockup Generator, AI Image Description Generator, Text to Image",
+    "slug": "mockanything-ai",
+    "created_at": "02:19:21 10/10/2025"
+  },
+  {
     "title": "Sora 2 AI",
     "name": "Sora 2 AI",
     "description": "AI video generator with realistic physics, synchronized audio, and 1080p output.",
@@ -12623,6 +12650,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder",
     "slug": "hireduce",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Song Maker",
+    "name": "AI Song Maker",
+    "description": "Ready to stop struggling to make music? Automusic, the AI Song Maker, turns lyrics or prompts into songs or pure tracks—fast, simple, free to start.",
+    "website": "https://automusic.ai",
+    "categories": "AI Song Generator, AI Lyrics Generator, AI Melody Generator, AI Music Generator, AI Rap Generator, AI Text-to-Music",
+    "slug": "ai-song-maker-your-ai-music-generator-automusic",
+    "created_at": "02:19:21 10/10/2025"
   },
   {
     "title": "MeetingAssistant.co",
