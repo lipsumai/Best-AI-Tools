@@ -243,6 +243,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Pocket Squats",
+    "name": "Pocket Squats",
+    "description": "AI personal trainer for personalized, adaptive workout plans.",
+    "website": "https://www.pocketsquats.com",
+    "categories": "AI Fitness, AI Coaching, AI Assistant, AI Schedule Maker",
+    "slug": "pocket-squats",
+    "created_at": "14:09:14 10/11/2025"
+  },
+  {
     "title": "Vertate",
     "name": "Vertate",
     "description": "AI-driven sound library for producers and creators.",
@@ -934,6 +943,15 @@
     "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Instrumental Generator",
     "slug": "himusic",
     "created_at": "14:12:23 06/26/2025"
+  },
+  {
+    "title": "Nyra AI",
+    "name": "Nyra AI",
+    "description": "AI-powered growth stack for ad creation, optimization, and marketing automation.",
+    "website": "https://www.getnyra.ai",
+    "categories": "AI Marketing, AI Advertising, AI Ad Generator, AI SEO Tools",
+    "slug": "nyra-ai",
+    "created_at": "14:09:14 10/11/2025"
   },
   {
     "title": "ImaginePro",
@@ -5912,6 +5930,15 @@
     "created_at": "03:00:12 07/21/2025"
   },
   {
+    "title": "NuggetFinder",
+    "name": "NuggetFinder",
+    "description": "AI platform for validated startup ideas and market analysis.",
+    "website": "https://nuggetfinder.ai",
+    "categories": "AI Business Ideas Generator, AI Research Tool, AI Predictions",
+    "slug": "nuggetfinder",
+    "created_at": "14:09:14 10/11/2025"
+  },
+  {
     "title": "SpeakingAI",
     "name": "SpeakingAI",
     "description": "Mobile app for practicing and improving spoken language skills with AI.",
@@ -8808,6 +8835,15 @@
     "categories": "AI Homework Helper, AI Teachers, AI Essay Writer, AI Math, AI Transcriber, AI Summarizer, AI Note Taker",
     "slug": "asksia",
     "created_at": "14:13:39 07/18/2025"
+  },
+  {
+    "title": "ProhostAI",
+    "name": "ProhostAI",
+    "description": "All-in-one AI assistant for stress-free vacation rental management.",
+    "website": "https://www.prohost.ai",
+    "categories": "AI Assistant, AI Real Estate, AI Customer Service, AI Reply, AI Review Generator",
+    "slug": "prohostai",
+    "created_at": "14:09:14 10/11/2025"
   },
   {
     "title": "Ledger",
@@ -13399,6 +13435,15 @@
     "created_at": "02:50:20 07/07/2025"
   },
   {
+    "title": "ai face swap",
+    "name": "ai face swap-",
+    "description": "Free AI tool for HD face swaps in photos, GIFs, and videos.",
+    "website": "https://faceswapai.com",
+    "categories": "AI Face Swap Generator, AI Face Swap Video, AI Baby Generator, Image to Video, Text to Video",
+    "slug": "ai-face-swap-2",
+    "created_at": "14:09:14 10/11/2025"
+  },
+  {
     "title": "Clearscope",
     "name": "Clearscope",
     "description": "Content-first SEO platform for optimized marketing.",
@@ -14567,6 +14612,15 @@
     "categories": "AI Video Generator, AI Dialogue Generator, AI Sound Effect Generator, AI Lip Sync Generator, AI Short Video Generator, Image to Video, Text to Video",
     "slug": "aivo3-com",
     "created_at": "14:11:21 08/10/2025"
+  },
+  {
+    "title": "Wondershare Filmora",
+    "name": "Wondershare Filmora",
+    "description": "AI video editor with tools for all skill levels and creative assets.",
+    "website": "https://filmora.wondershare.com",
+    "categories": "AI Video Editor, AI Video Enhancer, Long Video To Short Video AI, AI Music Generator, AI Vocal Remover, AI Text-to-Speech, AI Speech-to-Text",
+    "slug": "wondershare-filmora",
+    "created_at": "14:09:14 10/11/2025"
   },
   {
     "title": "AI Drive",
@@ -18790,6 +18844,15 @@
     "created_at": "14:12:53 09/03/2025"
   },
   {
+    "title": "SUPERHANDS",
+    "name": "Stencil by SUPERHANDS",
+    "description": "Copy UI from web to prototypes instantly.",
+    "website": "https://superhands.ai",
+    "categories": "AI Developer Tools, AI Assistant, AI Productivity Tools",
+    "slug": "stencil-by-superhands",
+    "created_at": "14:09:14 10/11/2025"
+  },
+  {
     "title": "Mailteorite",
     "name": "Mailteorite",
     "description": "AI email template generator for professional results.",
@@ -19031,6 +19094,15 @@
     "categories": "AI YouTube Assistant, AI Graphic Design, AI Design Generator, AI Logo Generator",
     "slug": "ai-logo-maker-io",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "BestStock",
+    "name": "BestStock",
+    "description": "AI-powered platform for smarter stock analysis and investment decisions.",
+    "website": "https://beststock.ai",
+    "categories": "AI Investing, AI Stock Trading, AI For Finance, AI For Data Analytics",
+    "slug": "beststock",
+    "created_at": "14:09:14 10/11/2025"
   },
   {
     "title": "Dream Story",
@@ -20183,6 +20255,15 @@
     "categories": "AI Photo & Image Generator",
     "slug": "grably",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tight Studio",
+    "name": "Tight Studio",
+    "description": "Create impressive product demos from screen recordings in minutes.",
+    "website": "https://tight.studio",
+    "categories": "AI Video Generator, AI Video Editor, AI Voice Generator, AI Voice Over, AI Subtitle Generator",
+    "slug": "tight-studio",
+    "created_at": "14:09:14 10/11/2025"
   },
   {
     "title": "Supascout",
@@ -25700,6 +25781,15 @@
     "categories": "Other",
     "slug": "popboxgpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sora 2 AI Video Generator – Text & Image to Video Online by insMind",
+    "name": "Sora 2 AI Video Generator – Text & Image to Video Online by insMind",
+    "description": "Sora 2 AI Video Generator – Text & Image to Video Online by insMind turns imagination into cinematic reality. Powered by OpenAI’s next-generation model, it lets anyone create stunning, high-definition videos from text or images in seconds — no filming, editing, or special equipment required. Whether you’re a storyteller, content creator, educator, or brand marketer, Sora 2 transforms your ideas into emotionally engaging, visually rich motion.",
+    "website": "https://www.insmind.com",
+    "categories": "AI Video Generator, AI Animated Video, AI Animation Generator, AI Avatar Video Generator, AI Cartoon Video Generator, AI Movie Generator, AI Music Video Generator, AI Reel Generator, AI Short Video Generator, AI Tiktok Video Generator, AI Youtube Video Maker, Image to Video, Text to Video",
+    "slug": "sora-2-ai-video-generator-text-image-to-video-online-by-insmind",
+    "created_at": "14:09:14 10/11/2025"
   },
   {
     "title": "Publora",
