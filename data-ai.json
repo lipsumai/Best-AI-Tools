@@ -2736,6 +2736,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Soar2",
+    "name": "Soar2",
+    "description": "AI video and image generator powered by OpenAI Sora 2.",
+    "website": "https://soar2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "soar2",
+    "created_at": "14:09:39 10/12/2025"
+  },
+  {
     "title": "Tella",
     "name": "Tella",
     "description": "All-in-one screen recorder with AI editing for demos, tutorials, and courses.",
@@ -16918,6 +16927,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "AI Formatter",
+    "name": "AI Formatter",
+    "description": "**AI Formatter** is a cutting-edge AI-powered document formatting platform that revolutionizes how professionals, job seekers, and businesses create polished documents. Transform raw text and uploaded files into professionally formatted documents instantly with AI-powered formatting technology and access to over 100+ premium templates.",
+    "website": "https://aiformatter.net",
+    "categories": "AI Productivity Tools, Resume AI, AI Documents Generator, AI Files, AI WORD",
+    "slug": "ai-formatter",
+    "created_at": "14:09:39 10/12/2025"
+  },
+  {
     "title": "SumsItUp",
     "name": "SumsItUp!",
     "description": "Use AI to summarize the Internet in any language, format, length, and style.",
@@ -25351,6 +25369,15 @@
     "created_at": "02:16:02 10/03/2025"
   },
   {
+    "title": "Make Movie AI",
+    "name": "Make Movie AI",
+    "description": "MakeMovieAI is an all-in-one AI video creation platform that combines the power of Kling AI, Flux, Perplexity, Haygen, and Leonardo AI into one seamless tool. Designed for creators, marketers, and filmmakers, MakeMovieAI lets you instantly turn text into cinematic videos, movie trailers, short films, and UGC-style content — all without any editing skills.  Built to help users generate passive income on YouTube and TikTok, MakeMovieAI offers fast rendering, realistic visuals, and advanced AI editing powered by next-generation technology. Whether you’re making viral social videos, storytelling content, or full-scale movie concepts, MakeMovieAI delivers studio-quality results in minutes.  🎬 Key Features",
+    "website": "https://makemovie.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Realistic Image Generator, Image to Image, Text to Image, AI UGC Video Generator, AI Youtube Video Maker, Image to Video, Text to Video",
+    "slug": "make-movie-ai",
+    "created_at": "14:09:39 10/12/2025"
+  },
+  {
     "title": "KlydaAI",
     "name": "Product hunt Pilot",
     "description": "AI tools for simplified personal branding and content creation.",
@@ -26449,6 +26476,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "sora 2 app",
+    "name": "sora 2 app",
+    "description": "AI video generator for cinematic clips with native audio.",
+    "website": "https://sora2app.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator",
+    "slug": "sora-2-app",
+    "created_at": "14:09:39 10/12/2025"
+  },
+  {
     "title": "Free AI (not a) Therapist",
     "name": "Free AI (not a) Therapist",
     "description": "AI chatbot for mental health support without judgment.",
@@ -26753,6 +26789,15 @@
     "categories": "AI Chatbot, AI Tools Directory, Large Language Models (LLMs)",
     "slug": "chatofai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "kat dev",
+    "name": "kat dev",
+    "description": "AI-driven code intelligence models for software engineering and coding tasks.",
+    "website": "https://kat-dev.dev",
+    "categories": "AI Code Assistant, AI Code Generator, Large Language Models (LLMs), Open Source AI Models, AI Developer Tools",
+    "slug": "kat-dev",
+    "created_at": "14:09:39 10/12/2025"
   },
   {
     "title": "Compar.ai",
