@@ -4850,6 +4850,15 @@
     "created_at": "14:15:45 07/22/2025"
   },
   {
+    "title": "Hitem3D",
+    "name": "Hitem3D",
+    "description": "An AI-powered tool to generate 3D models from a single image.",
+    "website": "https://hitem3d.ai",
+    "categories": "AI 3D Model Generator, AI Texture Generator, Image to 3D Model",
+    "slug": "hitem3d",
+    "created_at": "02:26:10 10/13/2025"
+  },
+  {
     "title": "Vita",
     "name": "Vita",
     "description": "Make healthier choices with Vita's detailed food scanning and nutritional breakdowns.",
@@ -16745,6 +16754,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Realistic Image Generator, Image to Image",
     "slug": "seedream-4-0-advanced-ai-image-editor",
     "created_at": "14:12:01 09/17/2025"
+  },
+  {
+    "title": "Ai Sora2",
+    "name": "Ai Sora2",
+    "description": "AI video generator for stunning, photorealistic videos from text/images.",
+    "website": "https://aisora2.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Voice Over, AI Subtitle Generator, AI Animation Generator, AI Voice Generator, AI Anime Generator",
+    "slug": "ai-sora2",
+    "created_at": "02:26:10 10/13/2025"
   },
   {
     "title": "Watermelon",
