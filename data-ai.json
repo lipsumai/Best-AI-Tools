@@ -5444,6 +5444,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Blai",
+    "name": "blai",
+    "description": "AI crypto advisor for smarter trades and market insights.",
+    "website": "https://blaiapp.io",
+    "categories": "AI Crypto, AI Assistant, AI Investing, AI Predictions",
+    "slug": "blai",
+    "created_at": "14:13:05 10/14/2025"
+  },
+  {
     "title": "Deep Nostalgia AI",
     "name": "Deep Nostalgia AI COM",
     "description": "AI tool for animating old photos into lifelike videos.",
@@ -8772,6 +8781,15 @@
     "categories": "AI App Builder, AI Agent, No-Code&Low-Code, AI Workflow",
     "slug": "rebolt",
     "created_at": "14:12:12 08/22/2025"
+  },
+  {
+    "title": "soro2",
+    "name": "soro2",
+    "description": "AI video generator powered by OpenAI Sora 2 for cinematic content.",
+    "website": "https://soro2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "soro2",
+    "created_at": "14:13:05 10/14/2025"
   },
   {
     "title": "Asyntai",
@@ -12463,6 +12481,15 @@
     "created_at": "02:39:10 05/28/2025"
   },
   {
+    "title": "Percify",
+    "name": "Percify",
+    "description": "Create realistic AI avatars and talking videos from images.",
+    "website": "https://percify.io",
+    "categories": "AI Avatar Generator, AI Avatar Video Generator, AI Video Generator, AI Voice Cloning, AI Lip Sync Generator, Image to Video",
+    "slug": "percify",
+    "created_at": "14:13:05 10/14/2025"
+  },
+  {
     "title": "Cluely AI",
     "name": "Cluely AI",
     "description": "AI Sales Copilot for real-time sales support.",
@@ -13210,6 +13237,15 @@
     "created_at": "02:56:28 07/14/2025"
   },
   {
+    "title": "Figure AI",
+    "name": "FigureAI",
+    "description": "AI robotics company creating general purpose humanoid robots.",
+    "website": "https://figure.ai",
+    "categories": "AI Robot, AI Assistant, AI Agent",
+    "slug": "figureai",
+    "created_at": "14:13:05 10/14/2025"
+  },
+  {
     "title": "Nayla",
     "name": "Nayla",
     "description": "AI companion for browsing and task automation.",
@@ -13550,6 +13586,15 @@
     "categories": "AI Interior & Room Design",
     "slug": "deco-ai-room-design",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Traycer",
+    "name": "Traycer AI",
+    "description": "AI coding assistant for spec-driven development, planning, and code verification.",
+    "website": "https://traycer.ai",
+    "categories": "AI Code Assistant, AI Copilot, AI Agent, AI Developer Tools, AI Code Review",
+    "slug": "traycer-ai",
+    "created_at": "14:13:05 10/14/2025"
   },
   {
     "title": "Nano Banana AI",
@@ -14099,6 +14144,15 @@
     "categories": "Summarizer, Newsletter",
     "slug": "blaze-feeds",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Chalet",
+    "name": "Chalet",
+    "description": "Connects investors with Airbnb rental experts, tools, and STR resources.",
+    "website": "https://www.getchalet.com",
+    "categories": "AI Real Estate, AI Investing, AI For Data Analytics, AI Predictions",
+    "slug": "chalet",
+    "created_at": "14:13:05 10/14/2025"
   },
   {
     "title": "Video Tap",
@@ -15818,6 +15872,15 @@
     "categories": "AI T Shirt Design, AI Image Generator, Image to Image, Text to Image, AI Anime Generator, AI Cartoon Generator, AI Design Generator, AI Graphic Design, AI Illustration Generator, Fashion AI",
     "slug": "youwear",
     "created_at": "14:12:52 07/16/2025"
+  },
+  {
+    "title": "Androidify",
+    "name": "Androidify",
+    "description": "AI-powered tool to customize Android bots from selfies or text.",
+    "website": "https://www.androidify.com",
+    "categories": "AI Avatar Generator, AI Image Generator, AI Character, Text to Image, AI Robot",
+    "slug": "androidify",
+    "created_at": "14:13:05 10/14/2025"
   },
   {
     "title": "GPT Prompt Text Platform",
@@ -18520,6 +18583,15 @@
     "created_at": "02:23:05 09/07/2025"
   },
   {
+    "title": "UGC Maker",
+    "name": "UGC Maker",
+    "description": "UGC Maker",
+    "website": "https://ugcmaker.io",
+    "categories": "AI UGC Video Generator, Long Video To Short Video AI, AI Video Translator, Ad Copy, AI Lead Generation, AI Advertising, AI Ad Generator, AI Ad Creative, AI Product Manager, Video to Video, Text to Video, Script To Video AI Generator, Image to Video, AI Product Description Generator, AI Youtube Video Maker, AI Video Upscaler, AI Video Editor, AI Tiktok Video Generator, AI Stock Video Generator, AI Short Video Generator, AI Music Video Generator, AI Face Swap Video, AI Avatar Video Generator, AI Product Photography, AI Avatar Generator, AI Productivity Tools",
+    "slug": "ugc-maker",
+    "created_at": "14:13:05 10/14/2025"
+  },
+  {
     "title": "Generative AI",
     "name": "FreeAikit.org",
     "description": "Generative AI creates original content using advanced algorithms.",
@@ -18617,6 +18689,15 @@
     "categories": "AI Logo Generator, AI 3D Model Generator, Image to 3D Model, AI Design Generator",
     "slug": "nom3d-studio",
     "created_at": "02:37:41 05/23/2025"
+  },
+  {
+    "title": "Cloudfit",
+    "name": "Cloudfit - AI Health Coach",
+    "description": "AI-powered platform combining AI and human coaches for holistic health.",
+    "website": "https://www.cloudfit.io",
+    "categories": "AI Coaching, AI Fitness, AI Assistant, AI Chatbot, AI Healthcare",
+    "slug": "cloudfit-ai-health-coach",
+    "created_at": "14:13:05 10/14/2025"
   },
   {
     "title": "Gemini 2.5 Flash Image",
@@ -24046,6 +24127,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Meku.dev",
+    "name": "Meku",
+    "description": "AI-powered web app and site builder for developers.",
+    "website": "https://meku.dev",
+    "categories": "AI Website Builder, AI App Builder, AI Code Generator, AI Developer Tools",
+    "slug": "meku",
+    "created_at": "14:13:05 10/14/2025"
+  },
+  {
     "title": "pfp.fm",
     "name": "pfp.fm",
     "description": "Transform photos into stunning avatars in various artistic styles.",
@@ -25673,6 +25763,15 @@
     "categories": "AI Image Scanning, AI Image Recognition",
     "slug": "ai-snap-sort",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Intryc",
+    "name": "Intryc",
+    "description": "AI-powered platform for CX QA, training, insights, and coaching.",
+    "website": "https://intryc.com",
+    "categories": "AI Customer Service, AI Coaching, AI Assistant",
+    "slug": "intryc",
+    "created_at": "14:13:05 10/14/2025"
   },
   {
     "title": "CV.fr",
