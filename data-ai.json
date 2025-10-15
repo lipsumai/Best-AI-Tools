@@ -5372,6 +5372,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Nano Banana",
+    "name": "AI Banana - Advanced Gemini 2.5 Flash Image Editor - Free to Use",
+    "description": "AI image editor powered by Gemini 2.5 Flash for fast, consistent editing.",
+    "website": "https://ai-banana.ai",
+    "categories": "AI Photo Editor, AI Image Generator, Image to Image, Object Remover AI, AI Image Combiner",
+    "slug": "ai-banana-advanced-gemini-2-5-flash-image-editor-free-to-use",
+    "created_at": "14:13:21 10/15/2025"
+  },
+  {
     "title": "Eleven Music AI",
     "name": "Eleven Music AI",
     "description": "AI music generator for songs, lyrics, and vocal removal.",
@@ -9869,6 +9878,15 @@
     "categories": "AI Video Generator, AI YouTube, AI Cartoon Video Generator, AI Short Video Generator, AI Tiktok Video Generator, Text to Video",
     "slug": "avido-ai",
     "created_at": "02:57:25 06/01/2025"
+  },
+  {
+    "title": "AI Diagram Maker",
+    "name": "AI Diagram Maker",
+    "description": "AI-powered tool for generating diagrams from natural language.",
+    "website": "https://aidiagrammaker.com",
+    "categories": "AI Diagram Generator, AI Developer Tools",
+    "slug": "ai-diagram-maker",
+    "created_at": "14:13:21 10/15/2025"
   },
   {
     "title": "Chat4Data",
@@ -14785,6 +14803,15 @@
     "created_at": "14:13:12 07/25/2025"
   },
   {
+    "title": "Sora Watermark Remover",
+    "name": "Sora Watermark Remover",
+    "description": "Free online AI tool to remove watermarks from Sora videos.",
+    "website": "https://vge.ai",
+    "categories": "AI Watermark Remover, Object Remover AI, AI Video Enhancer",
+    "slug": "sora-watermark-remover",
+    "created_at": "14:13:21 10/15/2025"
+  },
+  {
     "title": "DreamVid",
     "name": "DreamVid",
     "description": "AI image to video generator for animating photos and creating dynamic videos.",
@@ -15278,6 +15305,15 @@
     "categories": "AI For Finance, AI Coaching, AI Chatbot",
     "slug": "budgetgpt",
     "created_at": "14:12:47 05/26/2025"
+  },
+  {
+    "title": "PleaseRSVP",
+    "name": "PleaseRSVP",
+    "description": "AI-powered birthday invitation generator with online RSVP tracking.",
+    "website": "https://pleasersvp.ai",
+    "categories": "AI Design Generator, AI Graphic Design, AI Image Generator, AI Productivity Tools",
+    "slug": "pleasersvp",
+    "created_at": "14:13:21 10/15/2025"
   },
   {
     "title": "Bridge.audio",
@@ -18700,6 +18736,15 @@
     "created_at": "14:13:05 10/14/2025"
   },
   {
+    "title": "Demodesk",
+    "name": "Demodesk",
+    "description": "Demodesk is the first AI sales platform that acts, not just analyzes. Its AI Sales Agents automate CRM updates, coach reps, and surface actionable insights, helping teams close more deals in less time. Europe-first, privacy-safe, and built for real sales impact.",
+    "website": "https://demodesk.com",
+    "categories": "AI Sales, AI Sales Assistant, AI Coaching",
+    "slug": "demodesk",
+    "created_at": "14:13:21 10/15/2025"
+  },
+  {
     "title": "Gemini 2.5 Flash Image",
     "name": "Gemini 2.5 Flash Image",
     "description": "Google DeepMind's AI image generator with character consistency, multi-image fusion, real-time speed.",
@@ -20417,6 +20462,15 @@
     "categories": "AI Productivity Tools",
     "slug": "backlsh-time-tracking",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Cover Letter Generator",
+    "name": "AI Cover Letter Generator | Free Professional Cover Letters",
+    "description": "AI tool for personalized, professional cover letters.",
+    "website": "https://ai-coverletter-generator.com",
+    "categories": "AI Cover Letter Generator, AI Resume Builder, AI Resume Checker, AI Writing Assistants",
+    "slug": "ai-cover-letter-generator-free-professional-cover-letters",
+    "created_at": "14:13:21 10/15/2025"
   },
   {
     "title": "Grably",
@@ -23749,6 +23803,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nano Banana AI",
+    "name": "Banana AI – Free AI Photo Editor",
+    "description": "Free AI photo editor for precise, consistent image transformations.",
+    "website": "https://banana-ai.org",
+    "categories": "AI Photo Editor, AI Image Generator, AI Background Remover, AI Age Progression, AI Style Transfer",
+    "slug": "banana-ai-free-ai-photo-editor",
+    "created_at": "14:13:21 10/15/2025"
+  },
+  {
     "title": "Backengine",
     "name": "Backengine",
     "description": "Backengine converts conversations to software without coding or infrastructure setup.",
@@ -24134,6 +24197,15 @@
     "categories": "AI Website Builder, AI App Builder, AI Code Generator, AI Developer Tools",
     "slug": "meku",
     "created_at": "14:13:05 10/14/2025"
+  },
+  {
+    "title": "Sora2 - no watermark",
+    "name": "Sora2 - no watermark",
+    "description": "AI video generator for HD videos from text/images.",
+    "website": "https://sora2openai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "sora2-no-watermark",
+    "created_at": "14:13:21 10/15/2025"
   },
   {
     "title": "pfp.fm",
