@@ -1404,6 +1404,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Baby Generator",
+    "name": "Baby Generator",
+    "description": "AI tool predicts future baby's face from parent photos.",
+    "website": "https://baby-generator.ai",
+    "categories": "AI Baby Generator, AI Predictions, AI Image Generator, AI Realistic Image Generator",
+    "slug": "baby-generator",
+    "created_at": "02:21:32 10/16/2025"
+  },
+  {
     "title": "Raycast AI",
     "name": "Raycast AI Lite",
     "description": "AI platform with powerful extensions on your OS.",
@@ -10591,6 +10600,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Jolii AI",
+    "name": "Jolii AI",
+    "description": "Watch, learn, and speak your next language with Jolii.",
+    "website": "https://www.jolii.ai",
+    "categories": "AI Language Learning, AI Teachers, AI Translate, AI Voice Translator, AI Chatbot",
+    "slug": "jolii-ai",
+    "created_at": "02:21:32 10/16/2025"
+  },
+  {
     "title": "Buddies",
     "name": "Melany AI",
     "description": "Buddies is a platform for creating smart AI friends for personal and professional support.",
@@ -18727,6 +18745,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "insMind AI Image Enhancer",
+    "name": "insMind AI Image Enhancer",
+    "description": "Enhance your image quality and upscale photos to 4K or 8K with our powerful AI photo enhancer. Restore old photos, reduce noise, fix blurry images, sharpen details, and unblur pictures effortlessly. Just upload your photo, and our AI will automatically enhance it for you. You can also batch-enhance multiple photos at once to save time.",
+    "website": "https://www.insmind.com",
+    "categories": "AI Image Enhancer, AI Image Sharpening, AI Image Upscaler",
+    "slug": "insmind-ai-image-enhancer",
+    "created_at": "02:21:32 10/16/2025"
+  },
+  {
     "title": "Cloudfit",
     "name": "Cloudfit - AI Health Coach",
     "description": "AI-powered platform combining AI and human coaches for holistic health.",
@@ -18779,6 +18806,15 @@
     "categories": "Other",
     "slug": "edward-teach-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Dubbing",
+    "name": "AI Dubbing",
+    "description": "Free AI tool for video dubbing, translation, and voice generation.",
+    "website": "https://aidubbing.io",
+    "categories": "AI Dubbing, AI Video Translator, AI Voice Cloning, AI Voice Generator",
+    "slug": "ai-dubbing",
+    "created_at": "02:21:32 10/16/2025"
   },
   {
     "title": "Digard365",
@@ -24586,6 +24622,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "Sora 2 AI Video Generator",
+    "name": "Sora 2 AI Video Generator",
+    "description": "AI video generator with physics simulation and image editing.",
+    "website": "https://picir.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "sora-2-ai-video-generator-1",
+    "created_at": "02:21:32 10/16/2025"
+  },
+  {
     "title": "Feeedbackr",
     "name": "Feeedbackr",
     "description": "AI platform for collecting and analyzing customer feedback.",
@@ -26150,6 +26195,15 @@
     "categories": "AI Marketing, AI Business Ideas Generator, AI Consulting, AI Research Tool, Other",
     "slug": "sociosim",
     "created_at": "14:12:57 06/10/2025"
+  },
+  {
+    "title": "Transcriptik AI",
+    "name": "Transcriptik AI",
+    "description": "The Fastest Free TikTok Transcript Generator",
+    "website": "https://transcriptik.com",
+    "categories": "AI Script Writing, AI Writing Assistants",
+    "slug": "transcriptik-ai",
+    "created_at": "02:21:32 10/16/2025"
   },
   {
     "title": "Fusion Clips AI",
