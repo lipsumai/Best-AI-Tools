@@ -16144,6 +16144,15 @@
     "created_at": "14:11:52 09/01/2025"
   },
   {
+    "title": "PNG to STL Converter – 3DPEA",
+    "name": "PNG to STL Converter – 3DPEA",
+    "description": "image to 3D, PNG to STL, 3D model converter, 3D printing, AI 3D generator, online converter",
+    "website": "https://www.3dpea.com",
+    "categories": "Image to 3D Model, AI Image Generator",
+    "slug": "png-to-stl-converter-3dpea",
+    "created_at": "02:20:48 10/17/2025"
+  },
+  {
     "title": "PushUp Pro",
     "name": "Top Pushup v2",
     "description": "Real-time AI pushup coach for improved form.",
@@ -16412,6 +16421,15 @@
     "categories": "AI Analytics Assistant, AI Chatbot, AI Workflow Management, AI Scheduling, No-Code&Low-Code, AI Code Assistant, Code Explanation, AI Code Generator, AI Monitor & Report Builder, AI Data Mining, AI SQL Query Builder, AI App Builder",
     "slug": "dgi",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Merge JPG",
+    "name": "Merge JPG",
+    "description": "Free online tool to merge multiple JPG images into one file or PDF.",
+    "website": "https://merge-jpgs.com",
+    "categories": "AI Image Combiner, AI PDF",
+    "slug": "merge-jpg",
+    "created_at": "02:20:48 10/17/2025"
   },
   {
     "title": "Vertech Academy",
@@ -24550,6 +24568,15 @@
     "created_at": "14:09:23 04/05/2025"
   },
   {
+    "title": "Seekario",
+    "name": "Seekario",
+    "description": "An all-in-one AI platform for your entire job search. Build and tailor resumes, write personalized cover letters and KSC documents, practice for interviews, and create an optimized LinkedIn profile to land your next role.",
+    "website": "https://seekario.ai",
+    "categories": "AI Resume Builder, AI Cover Letter Generator, Resume AI, AI Linkedin Headshot, AI Interview Assistant, AI Resume Checker",
+    "slug": "seekario",
+    "created_at": "02:20:48 10/17/2025"
+  },
+  {
     "title": "Promptmonitor",
     "name": "Promptmonitor",
     "description": "AI visibility tracking and optimization for brands across LLMs.",
@@ -24818,6 +24845,15 @@
     "categories": "AI Voice Assistants, AI API, AI Agent",
     "slug": "voiceaiwrapper",
     "created_at": "02:56:28 07/14/2025"
+  },
+  {
+    "title": "Sora2 AI Generator",
+    "name": "Sora2 AI Generator",
+    "description": "AI video generator transforming text and images into stunning, high-quality videos.",
+    "website": "https://sora2.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "sora2-ai-generator",
+    "created_at": "02:20:48 10/17/2025"
   },
   {
     "title": "ContGpt - Article Builder with AI",
