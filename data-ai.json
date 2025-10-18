@@ -6642,6 +6642,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Camtasia online",
+    "name": "Camtasia online",
+    "description": "Camtasia online is the only free, web-based screen recorder that combines stylish templates, dynamic backgrounds, and effortless collaboration–all with no downloads or watermarks.",
+    "website": "https://www.techsmith.com",
+    "categories": "AI Video Editor, AI Background Remover",
+    "slug": "camtasia-online",
+    "created_at": "14:09:51 10/18/2025"
+  },
+  {
     "title": "Precog by Ubik",
     "name": "PreCog by UbikAI",
     "description": "AI assistant optimally selects models for diverse tasks.",
@@ -14696,6 +14705,15 @@
     "created_at": "02:26:41 08/20/2025"
   },
   {
+    "title": "Kumoo",
+    "name": "Kumoo",
+    "description": "Professional AI Portrait Retouching",
+    "website": "https://kumoo.ai",
+    "categories": "AI Photo Editor, AI Background Remover, AI Image Enhancer, AI Photo Enhancer, AI Photo Filter, AI Photography",
+    "slug": "kumoo",
+    "created_at": "14:09:51 10/18/2025"
+  },
+  {
     "title": "Vedeeo",
     "name": "Vedeeo",
     "description": "Video calling platform for showroom interaction and product experience.",
@@ -20689,6 +20707,15 @@
     "created_at": "14:12:35 10/09/2025"
   },
   {
+    "title": "banana prompts",
+    "name": "banana prompts",
+    "description": "Discover and copy quality prompts for AI image generation.",
+    "website": "https://bananaprompts.org",
+    "categories": "AI Prompt Generator, Text to Image, AI Image Generator, Prompt Engineering",
+    "slug": "banana-prompts",
+    "created_at": "14:09:51 10/18/2025"
+  },
+  {
     "title": "MagicBlocks",
     "name": "MagicBlocks",
     "description": "Launch AI sales agents that drive 3X more conversions.",
@@ -21976,6 +22003,15 @@
     "created_at": "02:41:26 05/12/2025"
   },
   {
+    "title": "fanfic generator",
+    "name": "fanfic generator",
+    "description": "Our AI Fanfic Generator helps you write unique and creative fanfiction stories that bring your favorite characters and worlds to life, one paragraph at a time.",
+    "website": "https://fanficgenerator.com",
+    "categories": "AI Fanfic Generator, AI Paraphraser, AI Writing, AI Story Generator, AI Short Story Generator, AI Script Writing, AI Rewriter, AI Plot Generator, AI Paragraph Generator, AI Book Writing, AI Novel, AI Grammar Checker, AI Essay Writer, AI Dialogue Generator, AI Creative Writing, AI Copywriting, AI Writing Assistants",
+    "slug": "fanfic-generator",
+    "created_at": "14:09:51 10/18/2025"
+  },
+  {
     "title": "ModAstera",
     "name": "ModAstera",
     "description": "Automates medical AI development, accelerating R&D, cutting costs, and ensuring compliance.",
@@ -22442,6 +22478,15 @@
     "categories": "AI Art Generator, AI Photo & Image Generator, AI Video Generator, Text to Image, Prompt, Large Language Models (LLMs)",
     "slug": "mancoding",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Transor",
+    "name": "Transor",
+    "description": "AI translator for websites, documents, images, and videos.",
+    "website": "https://transor.ai",
+    "categories": "AI Translate, AI Image Translator, AI Language Learning, AI Video Translator",
+    "slug": "transor",
+    "created_at": "14:09:51 10/18/2025"
   },
   {
     "title": "GistReader",
@@ -27338,6 +27383,15 @@
     "categories": "AI Reply Assistant",
     "slug": "linkedin-comment-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Invoke",
+    "name": "Invoke",
+    "description": "Generative AI platform for creative production and media.",
+    "website": "https://www.invoke.com",
+    "categories": "AI Image Generator, AI Art Generator, AI Video Generator, AI Workflow, AI Models, Image to Image, Text to Image",
+    "slug": "invoke",
+    "created_at": "14:09:51 10/18/2025"
   },
   {
     "title": "AcademicIdeas",
