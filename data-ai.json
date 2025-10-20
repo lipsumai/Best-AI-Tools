@@ -90,6 +90,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "Scorecard",
+    "name": "Scorecard",
+    "description": "Platform for evaluating, optimizing, and shipping AI agents.",
+    "website": "https://www.scorecard.io",
+    "categories": "AI Developer Tools, AI Agent, AI Testing, Large Language Models (LLMs), AI Productivity Tools",
+    "slug": "scorecard",
+    "created_at": "14:12:02 10/20/2025"
+  },
+  {
     "title": "WatermarkRemover",
     "name": "WatermarkRemoverAI",
     "description": "Remove watermarks from images with AI",
@@ -1357,6 +1366,15 @@
     "categories": "AI Product Description Generator, AI Speech Synthesis, Text-to-Speech, AI Voice Assistants, AI Productivity Tools, Translate",
     "slug": "clipboard-tts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Flask",
+    "name": "Flask",
+    "description": "Video collaboration platform for creative teams.",
+    "website": "https://flask.do",
+    "categories": "AI Workflow, AI Productivity Tools, AI Task Management, AI Transcription",
+    "slug": "flask",
+    "created_at": "14:12:02 10/20/2025"
   },
   {
     "title": "Backed",
@@ -2637,6 +2655,15 @@
     "created_at": "02:42:03 06/18/2025"
   },
   {
+    "title": "Oh My Images",
+    "name": "Oh My Images",
+    "description": "Free AI image generator powered by Nano banana for stunning visuals.",
+    "website": "https://ohmyimages.com",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Background Remover, Image to Image",
+    "slug": "oh-my-images",
+    "created_at": "14:12:02 10/20/2025"
+  },
+  {
     "title": "Awesome Repositories",
     "name": "Awesome Repositories",
     "description": "AI-powered search engine for finding cool repositories",
@@ -3015,6 +3042,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Emergent",
+    "name": "Emergent",
+    "description": "AI platform for no-code web, mobile, and custom software development.",
+    "website": "https://app.emergent.sh",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Website Builder, AI Code Assistant",
+    "slug": "emergent",
+    "created_at": "14:12:02 10/20/2025"
+  },
+  {
     "title": "The AI Labor Index",
     "name": "The AI Labor Index",
     "description": "Tracks AI's impact on work, mapping task automation potential.",
@@ -3022,6 +3058,15 @@
     "categories": "AI For Data Analytics, AI Jobs, AI Research Tool, AI Predictions",
     "slug": "the-ai-labor-index",
     "created_at": "14:11:59 06/19/2025"
+  },
+  {
+    "title": "Alpha Arena",
+    "name": "Alpha Arena",
+    "description": "Live trading performance benchmark for AI models in real markets.",
+    "website": "https://nof1.ai",
+    "categories": "AI Trading Bot, AI Investing, AI Crypto, AI Stock Trading, AI Predictions, AI For Finance",
+    "slug": "alpha-arena",
+    "created_at": "14:12:02 10/20/2025"
   },
   {
     "title": "Doggo Eats",
@@ -4318,6 +4363,15 @@
     "categories": "AI Character, AI Photo & Image Generator, AI Avatar Generator, Photo & Image Editor",
     "slug": "character-design-by-museclip",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "HEIC to JPG Converter",
+    "name": "HEIC to JPG Converter",
+    "description": "Free, private, and instant HEIC to JPG/PNG/PDF converter.",
+    "website": "https://heic.ai",
+    "categories": "Other",
+    "slug": "heic-to-jpg-converter",
+    "created_at": "14:12:02 10/20/2025"
   },
   {
     "title": "Scrapybara",
@@ -10563,6 +10617,15 @@
     "categories": "AI Chatbot",
     "slug": "ai-chatmentor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Manga Translator",
+    "name": "AI Manga Translator—Fast, Accurate, Multilingual OCR",
+    "description": "AI-powered online manga translator with OCR, batch processing, and layout preservation.",
+    "website": "https://aimangatranslate.com",
+    "categories": "AI Translate, AI Image Translator, AI OCR, AI PDF, Large Language Models (LLMs)",
+    "slug": "ai-manga-translator-fast-accurate-multilingual-ocr",
+    "created_at": "14:12:02 10/20/2025"
   },
   {
     "title": "Prettysmart.co",
@@ -18097,6 +18160,15 @@
     "created_at": "14:11:34 09/10/2025"
   },
   {
+    "title": "Supamail",
+    "name": "Supamail",
+    "description": "AI email assistant for Gmail",
+    "website": "https://www.supamail.co",
+    "categories": "AI Email Assistant, AI Assistant, AI Summarizer, AI Reply",
+    "slug": "supamail",
+    "created_at": "14:12:02 10/20/2025"
+  },
+  {
     "title": "Trae",
     "name": "Trae",
     "description": "Enjoy coding with the most advanced models at Zero cost",
@@ -19645,6 +19717,15 @@
     "created_at": "14:12:54 06/25/2025"
   },
   {
+    "title": "Relace",
+    "name": "Relace",
+    "description": "AI models and infrastructure for autonomous code generation.",
+    "website": "https://www.relace.ai",
+    "categories": "AI Developer Tools, AI Agent, AI Code Assistant, AI Code Generator, AI API, AI Code Review",
+    "slug": "relace",
+    "created_at": "14:12:02 10/20/2025"
+  },
+  {
     "title": "AI Powered Resume Checker",
     "name": "AI Resume Checker",
     "description": "AI Powered Resume Checker analyzes your resume using AI to provide personalized tips for improvement.",
@@ -21164,6 +21245,15 @@
     "categories": "AI Social Media Assistant, AI Art Generator, AI Anime Art, AI Avatar Generator, AI Profile Picture Generator",
     "slug": "pfp-fm",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "Nora",
+    "name": "Nora - Not another copilot. Something deeper.",
+    "description": "Deep reasoning AI coding agent for Web3 development, enhancing productivity and code security.",
+    "website": "https://www.mynora.ai",
+    "categories": "AI Agent, AI Code Assistant, AI Code Review, Web3, AI Developer Tools",
+    "slug": "nora-not-another-copilot-something-deeper",
+    "created_at": "14:12:02 10/20/2025"
   },
   {
     "title": "Userbird",
@@ -22739,6 +22829,15 @@
     "categories": "Other",
     "slug": "learnthisrepo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Outchat.ai",
+    "name": "Outchat",
+    "description": "Platform to create, brand, and monetize AI chats powered by your knowledge.",
+    "website": "https://www.outchat.ai",
+    "categories": "AI Chat Generator, AI Chatbot, AI Assistant",
+    "slug": "outchat",
+    "created_at": "14:12:02 10/20/2025"
   },
   {
     "title": "LinkBird",
@@ -25693,6 +25792,15 @@
     "created_at": "14:14:02 07/14/2025"
   },
   {
+    "title": "Claude Skills Hub",
+    "name": "Claude Skills Hub",
+    "description": "Curated marketplace for Claude AI skills and extensions.",
+    "website": "https://claudeskills.info",
+    "categories": "AI Tools Directory, AI Developer Tools, AI Productivity Tools",
+    "slug": "claude-skills-hub",
+    "created_at": "14:12:02 10/20/2025"
+  },
+  {
     "title": "Wabo.ai",
     "name": "Wabo.ai",
     "description": "WhatsApp automation platform for business engagement, sales, service, and support.",
@@ -26033,6 +26141,15 @@
     "categories": "AI Advertising Assistant, AI Search Engine, AI Ad Generator, AI Banner Generator",
     "slug": "movieuncover",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "WearView",
+    "name": "WearView",
+    "description": "AI platform for professional fashion photography with virtual models.",
+    "website": "https://www.wearview.co",
+    "categories": "Fashion AI, AI Models, AI Product Photography, AI Person Generator",
+    "slug": "wearview",
+    "created_at": "14:12:02 10/20/2025"
   },
   {
     "title": "Arvow",
