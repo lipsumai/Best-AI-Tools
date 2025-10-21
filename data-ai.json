@@ -1611,6 +1611,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "illumi",
+    "name": "illumi",
+    "description": "Unlock your team's full potential with AI-powered collaborative whiteboards and knowledge cards. illumi helps you work smarter, capture ideas faster, and turn team conversations into real results.",
+    "website": "https://illumi.one",
+    "categories": "Whiteboard AI, AI Assistant, AI Documents Generator, AI Note Taker, AI Notes Generator, AI PDF Summarizer, AI Presentation Generator, AI Productivity Tools, AI Report Generator, AI Resume Checker, Graph AI",
+    "slug": "illumi",
+    "created_at": "14:12:09 10/21/2025"
+  },
+  {
     "title": "Rownd",
     "name": "Rownd App Services Platform; 1M MAU Free",
     "description": "AI-ready platform for auth, payments, and user management via one SDK.",
@@ -2961,6 +2970,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "PDFSeek",
+    "name": "PDFSeek",
+    "description": "AI tool for PDF translation, chat, summarization, and research.",
+    "website": "https://www.pdfseek.com",
+    "categories": "AI PDF, AI Translate, AI PDF Summarizer, AI Assistant",
+    "slug": "pdfseek",
+    "created_at": "14:12:09 10/21/2025"
+  },
+  {
     "title": "ElevinAI",
     "name": "Elevin AI",
     "description": "AI platform for building high-performing teams through feedback and insights",
@@ -3292,6 +3310,15 @@
     "categories": "AI Character, AI Person Generator, AI Image Generator, Image to Image, AI Art Generator, AI Avatar Generator, Text to Image",
     "slug": "ideogram-character",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Excelmatic",
+    "name": "Excelmatic",
+    "description": "AI-powered Excel data analysis, visualization, and automation tool.",
+    "website": "https://excelmatic.ai",
+    "categories": "Excel AI, AI For Data Analytics, AI Spreadsheet, AI Charting, AI Assistant, AI Excel Formula Generator, AI PDF",
+    "slug": "excelmatic",
+    "created_at": "14:12:09 10/21/2025"
   },
   {
     "title": "Kie.ai:Affordable and Reliable Nano Banana API for Image Generation & Editing",
@@ -6038,6 +6065,15 @@
     "created_at": "14:12:37 07/02/2025"
   },
   {
+    "title": "Dreamomni2",
+    "name": "Dreamomni2",
+    "description": "Multimodal AI for instruction-based image editing and generation.",
+    "website": "https://www.dreamomni2.com",
+    "categories": "AI Photo Editor, AI Image Generator, Image to Image, AI Style Transfer, AI Photo Restoration, AI Interior Design, AI Hairstyle",
+    "slug": "dreamomni2",
+    "created_at": "14:12:09 10/21/2025"
+  },
+  {
     "title": "Wan2.2 AI",
     "name": "Wan2.2 AI",
     "description": "Free AI tool for creating videos, images, and music.",
@@ -6495,6 +6531,15 @@
     "categories": "Other",
     "slug": "reelit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SongGuru",
+    "name": "SongGuru",
+    "description": "AI song generator to create music from lyrics or prompts.",
+    "website": "https://songguru.ai",
+    "categories": "AI Song Generator, AI Music Generator, AI Lyrics Generator",
+    "slug": "songguru",
+    "created_at": "14:12:09 10/21/2025"
   },
   {
     "title": "Worldsmith Emporium",
@@ -9260,6 +9305,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Citely",
+    "name": "Citely",
+    "description": "Citely is your AI-powered citation tool for tracing sources and validating references — no fake papers, no hallucinations, just real research you can trust.",
+    "website": "https://citely.ai",
+    "categories": "AI Essay Writer, AI Paragraph Generator, AI Report Writing, AI Review Generator, AI Summarizer, AI Text Generator, AI Thesis Generator, AI Writing, AI Writing Assistants",
+    "slug": "citely",
+    "created_at": "14:12:09 10/21/2025"
+  },
+  {
     "title": "AskLegal.bot",
     "name": "AskLegal.bot",
     "description": "Simple answers in seconds.",
@@ -11822,6 +11876,15 @@
     "categories": "Large Language Models (LLMs), AI Blog Writer, Copywriting, Writing Assistants, AI Content Generator, General Writing",
     "slug": "ai-monitor",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Jet Admin",
+    "name": "Jet Admin",
+    "description": "No-code/AI platform for custom business apps and internal tools.",
+    "website": "https://www.jetadmin.io",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Workflow, AI CRM",
+    "slug": "jet-admin",
+    "created_at": "14:12:09 10/21/2025"
   },
   {
     "title": "Bhindi",
@@ -24271,6 +24334,15 @@
     "created_at": "14:17:21 08/06/2025"
   },
   {
+    "title": "NanoEditor",
+    "name": "NanoEditor",
+    "description": "NanoEditor is a scenario-based AI image generator powered by the Nano Banana model. Create styled visuals from text or images—fast, high-quality, and free to start.",
+    "website": "https://nanoeditor.app",
+    "categories": "AI Image Generator, AI Avatar Generator, AI Background Generator, AI Image Combiner, AI Image Enhancer, AI Person Generator, AI Photo Editor, AI Photo Restoration, Image to Image, Text to Image",
+    "slug": "nanoeditor",
+    "created_at": "14:12:09 10/21/2025"
+  },
+  {
     "title": "SkyReels",
     "name": "SkyReels",
     "description": "AI video creation platform for transforming ideas into videos.",
@@ -25234,6 +25306,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "TalentSprout.ai",
+    "name": "TalentSprout.ai",
+    "description": "AI recruiter for automated voice/video interviews and faster hiring.",
+    "website": "https://www.talentsprout.ai",
+    "categories": "AI Recruiting, AI Interview Assistant",
+    "slug": "talentsprout-ai",
+    "created_at": "14:12:09 10/21/2025"
+  },
+  {
     "title": "HypeWize",
     "name": "Hypewize",
     "description": "HypeWize is an AI chat platform that improves communication.",
@@ -25502,6 +25583,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator",
     "slug": "massive",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "Laike AI",
+    "name": "Laike AI",
+    "description": "All-in-one AI creative suite for viral content.",
+    "website": "https://laike.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, AI Video Enhancer",
+    "slug": "laike-ai",
+    "created_at": "14:12:09 10/21/2025"
   },
   {
     "title": "nano banana",
