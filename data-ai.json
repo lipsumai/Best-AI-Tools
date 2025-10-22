@@ -4121,6 +4121,15 @@
     "created_at": "02:58:57 08/06/2025"
   },
   {
+    "title": "App2.dev",
+    "name": "App2.dev",
+    "description": "AI-powered no-code platform for web & mobile apps from ideas & Figma.",
+    "website": "https://app2.dev",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Code Generator",
+    "slug": "app2-dev",
+    "created_at": "02:26:50 10/22/2025"
+  },
+  {
     "title": "LipSync.video",
     "name": "LipSync.video",
     "description": "Free online AI tool for creating lifelike lip-synced videos easily.",
@@ -5991,6 +6000,15 @@
     "categories": "AI Document Extraction, Transcriber, AI Image Scanning, Transcription",
     "slug": "image-to-text-converter-io",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Logic",
+    "name": "Logic — Effortless Operational Magic",
+    "description": "Automates recurring decisions by converting plain English processes to APIs.",
+    "website": "https://logic.inc",
+    "categories": "AI API, AI Workflow, No-Code&Low-Code, AI Productivity Tools",
+    "slug": "logic-effortless-operational-magic",
+    "created_at": "02:26:50 10/22/2025"
   },
   {
     "title": "RADiCAL",
@@ -12272,6 +12290,15 @@
     "categories": "AI Music Generator, AI Song Generator, AI Text-to-Music, AI Cover Generator, AI Instrumental Generator",
     "slug": "eleven-music-1",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Deepseek OCR",
+    "name": "Deepseek OCR",
+    "description": "Next-gen document intelligence with context optical compression and multilingual support.",
+    "website": "https://deepseek-ocr.io",
+    "categories": "AI OCR, AI Document Extraction, Open Source AI Models, AI PDF",
+    "slug": "deepseek-ocr",
+    "created_at": "02:26:50 10/22/2025"
   },
   {
     "title": "Cekura",
@@ -18700,6 +18727,15 @@
     "created_at": "14:18:04 08/04/2025"
   },
   {
+    "title": "VibeOnly",
+    "name": "VibeOnly",
+    "description": "AI skills assessment platform for hiring and testing AI-native talent.",
+    "website": "https://www.vibeonly.ai",
+    "categories": "AI Recruiting, AI Testing, AI Developer Tools",
+    "slug": "vibeonly",
+    "created_at": "02:26:50 10/22/2025"
+  },
+  {
     "title": "ager.fun",
     "name": "Ager.fun",
     "description": "An innovative app that shows users how they look at different ages.",
@@ -20399,6 +20435,15 @@
     "categories": "AI Social Media Assistant, AI Design Generator, AI Graphic Design, Design Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Repurpose Assistant, AI Content Generator, AI Charting, AI Blog Writer, Writing Assistants",
     "slug": "ainfographic",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Simplora",
+    "name": "Simplora",
+    "description": "AI for real-time comprehension, meeting assistance, and conversational learning.",
+    "website": "https://simplora.ai",
+    "categories": "AI Meeting Assistant, AI Assistant, AI Note Taker, AI Copilot, AI Summarizer, AI Transcription, AI Coaching",
+    "slug": "simplora",
+    "created_at": "02:26:50 10/22/2025"
   },
   {
     "title": "ReviewForge",
@@ -24044,6 +24089,15 @@
     "categories": "AI Detector, AI Writing Assistants, AI Rewriter, AI Content Detector, AI Grammar Checker, AI Paraphraser, AI Plagiarism Checker, AI Translate",
     "slug": "rewrait",
     "created_at": "14:10:14 08/24/2025"
+  },
+  {
+    "title": "Line Art Generator",
+    "name": "Line Art Generator",
+    "description": "AI tool for converting images to line art and generating line art from text.",
+    "website": "https://www.lineartgenerator.io",
+    "categories": "AI Art Generator, AI Sketch Generator, AI Drawing, AI Illustration Generator, Text to Image, Image to Image",
+    "slug": "line-art-generator",
+    "created_at": "02:26:50 10/22/2025"
   },
   {
     "title": "Telezen Dashboard",
