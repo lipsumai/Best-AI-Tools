@@ -5309,6 +5309,15 @@
     "created_at": "14:12:35 10/09/2025"
   },
   {
+    "title": "KOOX AI",
+    "name": "KOOX AI",
+    "description": "AI Image to Video Generator powered by VEO3, SORA2.",
+    "website": "https://koox.ai",
+    "categories": "AI Video Generator, AI Animated Video, AI Avatar Video Generator, AI Cartoon Video Generator, AI Short Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, AI Video Editor, AI Video Upscaler, AI Youtube Video Maker, Image to Video, Text to Video",
+    "slug": "koox-ai",
+    "created_at": "14:13:57 10/22/2025"
+  },
+  {
     "title": "StrAIberry",
     "name": "StrAIberry",
     "description": "StrAIberry is an AI solution for oral hygiene, appointments, and insurance in dentistry.",
@@ -5334,6 +5343,15 @@
     "categories": "AI Video Generator, AI Animated Video, Script To Video AI Generator, Whiteboard AI, AI API",
     "slug": "golpo",
     "created_at": "14:17:21 08/06/2025"
+  },
+  {
+    "title": "AI Anime Generator",
+    "name": "AI Anime Generator-",
+    "description": "Free AI anime generator turning photos and text into anime art with diverse models and styles.",
+    "website": "https://aianime.io",
+    "categories": "AI Anime Generator, AI Image Generator, AI Style Transfer, AI Waifu Generator, AI Wallpaper Generator, Image to Image, Text to Image, AI Anime Art, AI Art Generator, AI Comic, AI Comic Generator, AI Drawing, AI Manga Generator, Other",
+    "slug": "ai-anime-generator-1",
+    "created_at": "14:13:57 10/22/2025"
   },
   {
     "title": "AI ASMR",
@@ -5388,6 +5406,15 @@
     "categories": "AI Face Swap Generator, AI Avatar Generator, AI Emoji Generator",
     "slug": "swapr-ai-face-swap-ai-emoji",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sparks AI",
+    "name": "Sparks AI",
+    "description": "AI workspace & agent platform for custom AI creation and collaboration.",
+    "website": "https://getsparks.ai",
+    "categories": "AI Agent, AI Chatbot, AI App Builder, AI Assistant",
+    "slug": "sparks-ai",
+    "created_at": "14:13:57 10/22/2025"
   },
   {
     "title": "Duetoday",
@@ -9044,6 +9071,15 @@
     "created_at": "14:12:01 06/20/2025"
   },
   {
+    "title": "AI-Character.chat",
+    "name": "AI-Character.chat",
+    "description": "Create, chat, and share custom AI characters.",
+    "website": "https://ai-character.chat",
+    "categories": "AI Character, AI Chatbot, AI Roleplay, AI Chat Generator",
+    "slug": "ai-character-chat",
+    "created_at": "14:13:57 10/22/2025"
+  },
+  {
     "title": "tribefii",
     "name": "tribefii Gig Idea Generator",
     "description": "Platform for Gigepreneurs with AI-Generated Content",
@@ -9105,6 +9141,15 @@
     "categories": "AI PPT Maker, AI Creative Writing, AI Presentation Generator, AI Productivity Tools",
     "slug": "pi-presentation-intelligence",
     "created_at": "14:12:38 05/30/2025"
+  },
+  {
+    "title": "Wan Animate",
+    "name": "Wan Animate",
+    "description": "AI character animation and video face swap with holistic replication.",
+    "website": "https://wan-animate.io",
+    "categories": "AI Animation Generator, AI Video Generator, AI Face Swap Video, AI Character, AI Animated Video",
+    "slug": "wan-animate",
+    "created_at": "14:13:57 10/22/2025"
   },
   {
     "title": "ReachInbox",
@@ -11113,6 +11158,15 @@
     "created_at": "14:15:43 07/31/2025"
   },
   {
+    "title": "Deta Surf",
+    "name": "Deta Surf",
+    "description": "AI-powered intelligent notebook for web, files, and personal thought.",
+    "website": "https://deta.surf",
+    "categories": "AI Browsers, AI Research Tool, AI Assistant, AI Notes Generator, AI Summarizer",
+    "slug": "deta-surf",
+    "created_at": "14:13:57 10/22/2025"
+  },
+  {
     "title": "CuriosityXR",
     "name": "CuriosityXR",
     "description": "Educational platform using mixed reality and AI for active learning.",
@@ -11660,6 +11714,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant",
     "slug": "clout-check-by-hacksocial-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ekinox",
+    "name": "Ekinox",
+    "description": "Visual AI workflow builder for no-code automation and intelligent agent creation.",
+    "website": "https://www.ekinox.app",
+    "categories": "AI Workflow, No-Code&Low-Code, AI Agent",
+    "slug": "ekinox",
+    "created_at": "14:13:57 10/22/2025"
   },
   {
     "title": "Alice Biometrics",
@@ -13723,6 +13786,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Your360 AI",
+    "name": "Your360 AI",
+    "description": "AI-powered voice 360 feedback for growth",
+    "website": "https://your360.ai",
+    "categories": "AI Coaching, AI Interview Assistant, AI Voice Assistants, AI Reviews",
+    "slug": "your360-ai",
+    "created_at": "14:13:57 10/22/2025"
+  },
+  {
     "title": "AiLuvio",
     "name": "AiLuvio",
     "description": "AI platform for real-time video call translation.",
@@ -14216,6 +14288,15 @@
     "categories": "AI Real Estate, AI Image Generator, AI Photo Editor, AI Design Generator, AI Interior Design",
     "slug": "ai-virtual-staging",
     "created_at": "02:53:42 07/22/2025"
+  },
+  {
+    "title": "Sonura",
+    "name": "Sonura Studio",
+    "description": "AI music studio for producers, artists, and designers to create royalty-free tracks.",
+    "website": "https://sonurastudio.com",
+    "categories": "AI Music Generator, AI Song Generator, AI Beat Generator, AI Stems Splitter",
+    "slug": "sonura-studio",
+    "created_at": "14:13:57 10/22/2025"
   },
   {
     "title": "Voyage AI - ChatGPT powered AI Travel Planner",
@@ -15728,6 +15809,15 @@
     "categories": "AI Video Generator, Image to Video, AI Short Video Generator, AI Social Media",
     "slug": "earth-zoom-out-ai",
     "created_at": "02:50:01 07/12/2025"
+  },
+  {
+    "title": "Toffu AI",
+    "name": "Toffu AI",
+    "description": "Your Marketing AI Agent",
+    "website": "https://toffu.ai",
+    "categories": "AI Marketing, AI Ad Generator, SEO Writing AI, Google Ads AI, AI SEO Tools, AI Marketing Plan Generator, AI Digital Marketing, AI Advertising, AI Ad Creative, AI Facebook, AI Workflow, AI Twitter, AI Tweet Generator, AI Tiktok, AI Social Media Post Generator, AI Social Media, AI Instagram, Large Language Models (LLMs)",
+    "slug": "toffu-ai",
+    "created_at": "14:13:57 10/22/2025"
   },
   {
     "title": "Msty",
@@ -23371,6 +23461,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Floqer",
+    "name": "Floqer",
+    "description": "AI platform for GTM data automation, CRM enrichment, and personalized outreach.",
+    "website": "https://www.floqer.com",
+    "categories": "AI CRM, AI Agent, AI Sales, AI Sales Assistant, AI Lead Generation, AI Data Mining",
+    "slug": "floqer",
+    "created_at": "14:13:57 10/22/2025"
+  },
+  {
     "title": "Movely AI",
     "name": "Movely AI",
     "description": "AI video generator & photo editor for dynamic content.",
@@ -23909,6 +24008,15 @@
     "categories": "AI SEO Assistant, AI Social Media Assistant, AI Document Extraction, Research Tool, No-Code&Low-Code, Web Scraping",
     "slug": "gumloop",
     "created_at": "02:22:12 04/08/2025"
+  },
+  {
+    "title": "ai sdk agents",
+    "name": "AI SDK AGENTS",
+    "description": "Full-stack Vercel AI SDK patterns for building AI applications.",
+    "website": "https://aisdkagents.com",
+    "categories": "AI Agent, AI Developer Tools, AI Workflow, AI Chatbot",
+    "slug": "ai-sdk-agents",
+    "created_at": "14:13:57 10/22/2025"
   },
   {
     "title": "Unwatermark AI",
