@@ -6056,6 +6056,15 @@
     "created_at": "14:12:23 06/26/2025"
   },
   {
+    "title": "Dottle AI",
+    "name": "Dottle AI",
+    "description": "AI-powered web design tool for creating stunning websites.",
+    "website": "https://dottle.ai",
+    "categories": "AI Website Designer, AI Website Builder, AI Code Generator, AI Design Generator",
+    "slug": "dottle-ai",
+    "created_at": "02:22:34 10/23/2025"
+  },
+  {
     "title": "banana prompts",
     "name": "banana prompts",
     "description": "Discover and copy quality prompts for AI image generation.",
@@ -12769,6 +12778,15 @@
     "created_at": "02:39:10 05/28/2025"
   },
   {
+    "title": "Face GPT",
+    "name": "Face GPT-",
+    "description": "Advanced AI tool for face swap and analysis in photos.",
+    "website": "https://facegpt.io",
+    "categories": "AI Face Swap Generator, AI Face Analyzer",
+    "slug": "face-gpt-1",
+    "created_at": "02:22:34 10/23/2025"
+  },
+  {
     "title": "Percify",
     "name": "Percify",
     "description": "Create realistic AI avatars and talking videos from images.",
@@ -15739,6 +15757,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Countik",
+    "name": "Countik",
+    "description": "Boost your TikTok videos instantly with Countik’s Free TikTok Likes Generator — the smartest AI-powered growth tool for creators who want real engagement without bots, passwords, or ads. Whether you’re testing a new video, growing your profile, or simply exploring how likes impact visibility on the For You page, Countik’s algorithmic system delivers fast, authentic results designed to mimic natural engagement patterns.",
+    "website": "https://countik.com",
+    "categories": "AI Social Media",
+    "slug": "countik",
+    "created_at": "02:22:34 10/23/2025"
+  },
+  {
     "title": "Voyage Pet AI",
     "name": "Voyage Pet AI",
     "description": "AI app for total pet wellness, health records, and personalized care.",
@@ -15836,6 +15863,15 @@
     "categories": "Other",
     "slug": "myportfolio",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ToolWaves",
+    "name": "ToolWaves",
+    "description": "ToolWaves is a free and unlimited online tool platform designed to simplify your daily tasks. It offers 130+ web tools for PDFs, images, SEO, students, and engineers — all in one place, with no sign-up required.",
+    "website": "https://toolwaves.com",
+    "categories": "AI Productivity Tools, AI Documents Generator, AI PDF",
+    "slug": "toolwaves",
+    "created_at": "02:22:34 10/23/2025"
   },
   {
     "title": "AI Social Media Manager",
@@ -22174,6 +22210,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "RentLateFee.com",
+    "name": "RentLateFee.com",
+    "description": "AI-powered legal rent late fee calculator for all 50 U.S. states. Instantly find your state’s legal limit using real housing statutes and AI-based compliance matching.",
+    "website": "https://www.rentlatefee.com",
+    "categories": "AI Real Estate, AI Contract Review, AI For Finance, AI Tax Assistant, AI Consulting, AI Knowledge Base, AI Productivity Tools, AI Task Management",
+    "slug": "rentlatefee-com",
+    "created_at": "02:22:34 10/23/2025"
+  },
+  {
     "title": "Stackie.AI",
     "name": "Stackie.AI Your Life Logger",
     "description": "Personal logging and tracking app for organized life management.",
@@ -25070,6 +25115,15 @@
     "categories": "Text to Video, AI Tiktok Assistant, AI Content Generator, AI Social Media Assistant, AI Video Generator, AI Ad Creative Assistant, AI Ad Generator, AI Product Description Generator",
     "slug": "viralshort",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Shakespeare",
+    "name": "Shakespeare - Open Source AI Builder",
+    "description": "The Only Fully Open Source & Decentralized AI Web Builder",
+    "website": "https://shakespeare.diy",
+    "categories": "AI Website Builder, AI App Builder, AI Code Generator, AI Developer Tools, AI Github, AI Landing Page Builder, No-Code&Low-Code",
+    "slug": "shakespeare-open-source-ai-builder",
+    "created_at": "02:22:34 10/23/2025"
   },
   {
     "title": "Lumia AI - AI Home Designer",
