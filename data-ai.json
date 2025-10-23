@@ -2016,6 +2016,15 @@
     "created_at": "14:12:57 05/15/2025"
   },
   {
+    "title": "Whisp",
+    "name": "Whisp",
+    "description": "Voice-powered AI platform for building apps in seconds.",
+    "website": "https://heywhisp.com",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Website Builder",
+    "slug": "whisp",
+    "created_at": "14:13:17 10/23/2025"
+  },
+  {
     "title": "Meshcapade Me",
     "name": "Meshcapade ME",
     "description": "Avatar creation from diverse sources.",
@@ -5606,6 +5615,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "okkslides",
+    "name": "okkslides",
+    "description": "okkslides is a revolutionary AI-powered presentation tool that transforms your raw ideas into stunning, professional slides in seconds. Designed for busy professionals, executives, and anyone who needs to create compelling presentations quickly, okkslides eliminates the time-consuming design process while delivering professional quality results.",
+    "website": "https://www.okkslides.com",
+    "categories": "AI Presentation Generator",
+    "slug": "okkslides",
+    "created_at": "14:13:17 10/23/2025"
+  },
+  {
     "title": "Instance",
     "name": "Instance",
     "description": "AI-powered app builder for iOS, Android, and web, no coding needed.",
@@ -7485,6 +7503,15 @@
     "categories": "AI Video Generator, AI Image Generator, Image to Video, Text to Image",
     "slug": "hey-dream-ai",
     "created_at": "02:19:21 10/10/2025"
+  },
+  {
+    "title": "Media.io Halloween AI Generator",
+    "name": "Media.io Halloween AI Generator",
+    "description": "Create Halloween videos, photos, music, and filters with AI! Media.io Halloween AI Generator lets you transform media with face swaps, spooky effects, and themed visuals — powered by top models like Sora, Veo, Kling, Seedream, and Runway etc.",
+    "website": "https://www.media.io",
+    "categories": "AI Video Generator, AI Short Video Generator, Text to Video, Script To Video AI Generator, Long Video To Short Video AI, Image to Video, AI Youtube Video Maker, AI Video Upscaler, AI Video Editor, AI Tiktok Video Generator, AI Cartoon Video Generator, AI Cosplay Generator, AI Avatar Video Generator, AI Animated Video, AI Text-to-Music, AI Song Generator, AI Music Generator, AI Photo Filter, AI Image Generator, AI Headshot Generator, AI Face Swap Generator, Video to Video",
+    "slug": "media-io-halloween-ai-generator",
+    "created_at": "14:13:17 10/23/2025"
   },
   {
     "title": "IDEART AI",
@@ -17377,6 +17404,15 @@
     "created_at": "14:12:39 05/19/2025"
   },
   {
+    "title": "MailAI",
+    "name": "MailAI - AI Email Assistant",
+    "description": "AI email assistant with 24/7 agents for automation.",
+    "website": "https://mailai.live",
+    "categories": "AI Email Assistant, AI Agent, AI Assistant, AI Email Writer, AI Scheduling, AI Web Scraping, AI Customer Service, AI Sales Assistant",
+    "slug": "mailai-ai-email-assistant",
+    "created_at": "14:13:17 10/23/2025"
+  },
+  {
     "title": "AI Baby Generator",
     "name": "AI Baby Generator Online Free",
     "description": "AI tool to generate realistic future baby faces from parent photos.",
@@ -19139,6 +19175,15 @@
     "categories": "AI Image Enhancer, AI Image Sharpening, AI Image Upscaler",
     "slug": "insmind-ai-image-enhancer",
     "created_at": "02:21:32 10/16/2025"
+  },
+  {
+    "title": "Screenz.ai",
+    "name": "Screenz Live AI Recruiter Interviews",
+    "description": "AI-powered platform for automated first-round candidate screening.",
+    "website": "https://screenz.ai",
+    "categories": "AI Recruiting, AI Interview Assistant",
+    "slug": "screenz-live-ai-recruiter-interviews",
+    "created_at": "14:13:17 10/23/2025"
   },
   {
     "title": "Cloudfit",
@@ -27824,6 +27869,15 @@
     "categories": "AI Chatbot, AI Reply Assistant, Large Language Models (LLMs), No-Code&Low-Code",
     "slug": "m1-chat-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI ASMR",
+    "name": "AI ASMR-",
+    "description": "AI ASMR",
+    "website": "https://www.ai-asmr.io",
+    "categories": "AI Video Generator, Text to Video, AI Short Video Generator",
+    "slug": "ai-asmr-1",
+    "created_at": "14:13:17 10/23/2025"
   },
   {
     "title": "ScaleSuggest",
