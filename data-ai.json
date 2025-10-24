@@ -5093,6 +5093,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Stable Audio",
+    "name": "Stable Audio-",
+    "description": "AI for high-quality music and sound effects generation.",
+    "website": "https://stableaudio.net",
+    "categories": "AI Music Generator, AI Song Generator, AI Sound Effect Generator, AI Instrumental Generator, AI Melody Generator",
+    "slug": "stable-audio-1",
+    "created_at": "02:19:21 10/24/2025"
+  },
+  {
     "title": "EHVA.ai",
     "name": "EHVA.ai",
     "description": "Conversational AI by Phone - Customer Service, Sales, More.",
@@ -17233,6 +17242,15 @@
     "created_at": "02:37:14 05/30/2025"
   },
   {
+    "title": "Gobii",
+    "name": "Gobii",
+    "description": "Hire AI employees that automate your web workflows — built on a production-grade platform that runs 24/7 without the maintenance headaches.",
+    "website": "https://gobii.ai",
+    "categories": "AI Agent",
+    "slug": "gobii",
+    "created_at": "02:19:21 10/24/2025"
+  },
+  {
     "title": "Emitrr",
     "name": "Emitrr",
     "description": "AI toolbox for business communication and customer engagement.",
@@ -21623,6 +21641,15 @@
     "categories": "AI Copywriting, AI Marketing, AI Writing Assistants, AI Email Generator, AI Newsletter Generator",
     "slug": "newcopy",
     "created_at": "14:13:07 05/28/2025"
+  },
+  {
+    "title": "LTX 2",
+    "name": "LTX 2",
+    "description": "Revolutionary AI video generation engine with native 4K and open-source flexibility.",
+    "website": "https://ltx2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Open Source AI Models, AI API",
+    "slug": "ltx-2",
+    "created_at": "02:19:21 10/24/2025"
   },
   {
     "title": "Text Beat - Instant video creator",
