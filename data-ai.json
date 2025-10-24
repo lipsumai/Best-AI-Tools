@@ -603,6 +603,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Fiction Digital Self AI Platform",
+    "name": "Digital Self by Fiction",
+    "description": "AI platform for building autonomous digital self agents.",
+    "website": "https://www.fiction.com",
+    "categories": "AI Agent, AI Assistant, AI Chatbot, AI Customer Service, AI Lead Generation, AI Sales Assistant",
+    "slug": "digital-self-by-fiction",
+    "created_at": "14:12:46 10/24/2025"
+  },
+  {
     "title": "Veo3 JSON Prompt",
     "name": "Veo3 JSON Prompt",
     "description": "Rich Veo3 JSON Prompt templates and video generator.",
@@ -916,6 +925,15 @@
     "categories": "AI App Builder, AI Code Generator, AI Code Assistant, AI Developer Tools",
     "slug": "vitara-ai",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "Dreamlab",
+    "name": "Dreamlab",
+    "description": "AI companion for journaling and interpreting dreams, revealing insights.",
+    "website": "https://apps.apple.com/us/app/dreamlab-dream-analyzer/id6749831956",
+    "categories": "AI Dream Interpreter, AI Illustration Generator, AI Mental Health, AI Assistant",
+    "slug": "dreamlab",
+    "created_at": "14:12:46 10/24/2025"
   },
   {
     "title": "Prepostseo",
@@ -1438,6 +1456,15 @@
     "categories": "Large Language Models (LLMs), AI Content Generator",
     "slug": "raycast-ai-lite",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Pipiads",
+    "name": "AI Ad Library",
+    "description": "AI SaaS Ad Creative Center & Library for ad intelligence.",
+    "website": "https://www.pipiads.com",
+    "categories": "AI Advertising, AI Ad Creative, AI Digital Marketing, AI Marketing, AI Social Media",
+    "slug": "ai-ad-library-for-finding-ai-ad-creatives",
+    "created_at": "14:12:46 10/24/2025"
   },
   {
     "title": "RTA.POKER",
@@ -7613,6 +7640,15 @@
     "created_at": "14:12:34 09/23/2025"
   },
   {
+    "title": "VORA video",
+    "name": "VORA video",
+    "description": "VORAvideo",
+    "website": "https://voravideo.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "vora-video",
+    "created_at": "14:12:46 10/24/2025"
+  },
+  {
     "title": "URL to Any",
     "name": "URL to Any",
     "description": "All-in-one free tool to convert web content to various formats like Markdown, PDF, images.",
@@ -8700,6 +8736,15 @@
     "categories": "AI Customer Service Assistant, AI Social Media Assistant, AI Chatbot, E-commerce Assistant, AI Email Writer",
     "slug": "richpanel",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "Xano",
+    "name": "Xano",
+    "description": "Unified backend platform for AI-era apps, agents, and APIs with visual logic and scalable infrastructure.",
+    "website": "https://www.xano.com",
+    "categories": "No-Code&Low-Code, AI Agent, AI API, AI App Builder",
+    "slug": "xano",
+    "created_at": "14:12:46 10/24/2025"
   },
   {
     "title": "Manus AI",
@@ -12553,6 +12598,15 @@
     "created_at": "14:12:01 09/17/2025"
   },
   {
+    "title": "AIAI.com",
+    "name": "AIAI.com",
+    "description": "All-in-one AI video and image generator for creating stunning visuals from various inputs.",
+    "website": "https://www.aiai.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Image, Text to Video, Image to Image, Image to Video, AI Writing, AI Text-to-Speech, AI Speech-to-Text",
+    "slug": "aiai-com",
+    "created_at": "14:12:46 10/24/2025"
+  },
+  {
     "title": "SOREAL.AI",
     "name": "Soreal.AI Studio",
     "description": "SOREAL.AI is a cloud service for AI image generation and customization.",
@@ -15829,6 +15883,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Elsie AI",
+    "name": "Marketing Gold",
+    "description": "AI partner for e-commerce, generating social media posts from product URLs.",
+    "website": "https://www.productpostgenerator.com",
+    "categories": "AI Social Media Post Generator, AI Marketing, AI Social Media, AI Product Description Generator, AI Caption Generator",
+    "slug": "marketing-gold",
+    "created_at": "14:12:46 10/24/2025"
+  },
+  {
     "title": "Innov8iq",
     "name": "Innov8IQ",
     "description": "Innov8iq helps businesses optimize office spaces for productivity and efficiency.",
@@ -18250,6 +18313,15 @@
     "created_at": "14:12:35 10/09/2025"
   },
   {
+    "title": "Nimo",
+    "name": "Nimo",
+    "description": "Intelligent canvas for unified AI workflows and app integration.",
+    "website": "https://www.nimo.space",
+    "categories": "AI Productivity Tools, AI Agent, AI Assistant, AI Workflow, AI Browsers",
+    "slug": "nimo",
+    "created_at": "14:12:46 10/24/2025"
+  },
+  {
     "title": "Resume Rizzler",
     "name": "resume rizzler",
     "description": "Resume enhancement tool using rizzification technology for job seekers.",
@@ -19004,6 +19076,15 @@
     "categories": "AI SEO Assistant, AI Content Generator",
     "slug": "imagetoseo-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Claio",
+    "name": "Claio.ai",
+    "description": "AI scribe for healthcare to generate clinical notes and billing codes.",
+    "website": "https://www.claio.ai",
+    "categories": "AI Healthcare, AI Transcriber, AI Transcription, AI Speech-to-Text, AI Notes Generator",
+    "slug": "claio-ai",
+    "created_at": "14:12:46 10/24/2025"
   },
   {
     "title": "OpenCreator",
@@ -26195,6 +26276,15 @@
     "categories": "AI Sales, AI Agent",
     "slug": "magicblocks",
     "created_at": "14:15:19 07/24/2025"
+  },
+  {
+    "title": "Serpex",
+    "name": "Serpex.dev",
+    "description": "Real-time, structured search API for AI and data projects.",
+    "website": "https://www.serpex.dev",
+    "categories": "AI API, AI Web Scraping, AI Developer Tools, AI Search Engine, AI For Data Analytics",
+    "slug": "serpex-dev",
+    "created_at": "14:12:46 10/24/2025"
   },
   {
     "title": "Paper Digest",
