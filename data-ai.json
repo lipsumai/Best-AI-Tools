@@ -12850,6 +12850,15 @@
     "created_at": "02:51:19 08/17/2025"
   },
   {
+    "title": "Perplexity AI",
+    "name": "Perplexity AI",
+    "description": "Download Comet and get Perplexity Pro for free.",
+    "website": "https://pplx.ai",
+    "categories": "AI Search Engine, AI Answer, AI Copilot, Large Language Models (LLMs), AI Research Tool",
+    "slug": "perplexity-ai",
+    "created_at": "02:21:14 10/25/2025"
+  },
+  {
     "title": "Pano",
     "name": "Pano",
     "description": "Pano integrates with existing apps to provide comprehensive customer journey view.",
@@ -17573,6 +17582,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator, Script To Video AI Generator, AI Short Video Generator, AI API",
     "slug": "musesteamer-ai",
     "created_at": "14:12:11 07/04/2025"
+  },
+  {
+    "title": "MindChat World",
+    "name": "MindChat World",
+    "description": "MindChat is a multilingual AI that lets you chat with the world’s greatest minds—writers, scientists, and philosophers—across 16+ languages. Ask for clear explanations, creative ideas, lesson plans, or cultural insights, and get answers in the voice and spirit of each author. Built for learners, creators, and educators who want depth, style, and speed in one place.",
+    "website": "https://mindchat.world",
+    "categories": "AI Chatbot, AI Creative Writing, AI Dialogue Generator",
+    "slug": "mindchat-world",
+    "created_at": "02:21:14 10/25/2025"
   },
   {
     "title": "LLMrefs",
@@ -27716,6 +27734,15 @@
     "categories": "AI Music Generator, AI API, AI Song Generator, AI Text-to-Music",
     "slug": "suno-v5-app",
     "created_at": "02:20:15 09/25/2025"
+  },
+  {
+    "title": "Liminary",
+    "name": "Liminary",
+    "description": "Save anything - Liminary will take care of the rest. Your knowledge will find you when you need it.",
+    "website": "https://liminary.io",
+    "categories": "AI Knowledge Management, AI Summarizer, AI Youtube Summary, AI Article Summarizer, AI Knowledge Base, AI Knowledge Graph, AI PDF Summarizer, AI Productivity Tools, AI Research Tool",
+    "slug": "liminary",
+    "created_at": "02:21:14 10/25/2025"
   },
   {
     "title": "UGCReal",
