@@ -234,6 +234,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Devare.dev",
+    "name": "Devare.dev",
+    "description": "Personalized developer dashboard for real-time news, tools, and trends.",
+    "website": "https://devare.dev",
+    "categories": "AI Tools Directory, AI News, AI Developer Tools, AI Productivity Tools",
+    "slug": "devare-dev",
+    "created_at": "14:13:11 10/27/2025"
+  },
+  {
     "title": "Mew Design",
     "name": "Mew Design",
     "description": "Your AI Design Agent for Flawless Text & Visuals",
@@ -2293,6 +2302,15 @@
     "categories": "AI CRM Assistant, AI Coaching, Sales Assistant, AI Analytics Assistant",
     "slug": "eubrics",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "PawChamp",
+    "name": "PawChamp",
+    "description": "AI-powered dog training and care app with expert support.",
+    "website": "https://paw-champ.com",
+    "categories": "AI Assistant, AI Chatbot, AI Coaching",
+    "slug": "pawchamp",
+    "created_at": "14:13:11 10/27/2025"
   },
   {
     "title": "Discover Script Pro",
@@ -13210,6 +13228,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Chirpz AI",
+    "name": "Chirpz",
+    "description": "AI agent for academic research, citation, and writing.",
+    "website": "https://chirpz.ai",
+    "categories": "AI Research Tool, AI Writing Assistants, AI Agent, AI Research Papers, AI Assistant",
+    "slug": "chirpz",
+    "created_at": "14:13:11 10/27/2025"
+  },
+  {
     "title": "Anxiety Simulator",
     "name": "Anxiety Simulator",
     "description": "Understand anxiety through messaging simulations",
@@ -15442,6 +15469,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "Nubio",
+    "name": "Nubio – The founder's dashboard.",
+    "description": "Visualize costs, cloud usage, and metrics from various providers in one dashboard.",
+    "website": "https://heynubio.com",
+    "categories": "AI Monitor, AI For Data Analytics, AI For Finance",
+    "slug": "nubio-the-founder-s-dashboard",
+    "created_at": "14:13:11 10/27/2025"
+  },
+  {
     "title": "Qoder",
     "name": "Qoder",
     "description": "Agentic coding platform for real software development with AI agents.",
@@ -17384,6 +17420,15 @@
     "categories": "AI Agent",
     "slug": "gobii",
     "created_at": "02:19:21 10/24/2025"
+  },
+  {
+    "title": "AI Clothes Changer",
+    "name": "AI Clothes Changer-",
+    "description": "Change clothes photo editor online free and explore countless outfit options virtually",
+    "website": "https://aiclotheschangers.com",
+    "categories": "AI Outfit Generator, AI Clothing Removal, AI Person Generator",
+    "slug": "ai-clothes-changer-1",
+    "created_at": "14:13:11 10/27/2025"
   },
   {
     "title": "Emitrr",
@@ -19888,6 +19933,15 @@
     "created_at": "14:12:46 10/08/2025"
   },
   {
+    "title": "Vancit",
+    "name": "Vancit",
+    "description": "AI-powered active sourcing and code evaluation for developer hiring.",
+    "website": "https://vancit.com",
+    "categories": "AI Recruiting, AI Code Review",
+    "slug": "vancit",
+    "created_at": "14:13:11 10/27/2025"
+  },
+  {
     "title": "Super Intern",
     "name": "Super Intern",
     "description": "AI teammate for group chats",
@@ -20572,6 +20626,15 @@
     "created_at": "02:29:38 05/27/2025"
   },
   {
+    "title": "Revise",
+    "name": "Revise",
+    "description": "AI writing and grammar assistant that preserves your authentic voice.",
+    "website": "https://www.revise.net",
+    "categories": "AI Writing Assistants, AI Grammar Checker, AI Writing, AI Proofreading, AI Speech-to-Text, Large Language Models (LLMs)",
+    "slug": "revise",
+    "created_at": "14:13:11 10/27/2025"
+  },
+  {
     "title": "Patee.io",
     "name": "Patee.io - Thai Transcription Service",
     "description": "Efficient AI-powered speech-to-text platform.",
@@ -20689,6 +20752,15 @@
     "created_at": "14:12:44 06/12/2025"
   },
   {
+    "title": "AssignOwl",
+    "name": "AssignOwl",
+    "description": "AI assignment grader for instant feedback and scores.",
+    "website": "https://assignowl.com",
+    "categories": "AI Homework Helper, AI Proofreading, AI Writing Assistants, AI Grammar Checker, AI Code Review",
+    "slug": "assignowl",
+    "created_at": "14:13:11 10/27/2025"
+  },
+  {
     "title": "Outlier AI",
     "name": "Outlier AI",
     "description": "Connecting experts to advance Generative AI models.",
@@ -20732,6 +20804,15 @@
     "categories": "AI Photo & Image Generator, Text to Image, AI Image Enhancer, Photo & Image Editor, AI Photo Enhancer, AI Clothing Generator, AI Advertising Assistant, AI Reviews Assistant, AI Ad Creative Assistant, AI Social Media Assistant, AI Ad Generator, Digital Marketing Generator, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant",
     "slug": "hautech-ai",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "CalPulse",
+    "name": "CalPulse",
+    "description": "AI nutrition tracker",
+    "website": "https://calpulse.ai",
+    "categories": "AI Fitness, AI Image Recognition, AI Healthcare, AI Scanner",
+    "slug": "calpulse",
+    "created_at": "14:13:11 10/27/2025"
   },
   {
     "title": "Wisdom Gate | AI API",
@@ -25772,6 +25853,15 @@
     "categories": "AI Chatbot, AI Reply Assistant, Bio Link, AI Response Generator, AI Social Media Assistant, AI Email Assistant",
     "slug": "inboxly-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Draft'n run",
+    "name": "Draft'n Run",
+    "description": "Open-source platform for designing, deploying, and monitoring AI workflows.",
+    "website": "https://draftnrun.com",
+    "categories": "AI Agent, AI Workflow, AI Chatbot, No-Code&Low-Code, Open Source AI Models, AI Assistant",
+    "slug": "draft-n-run",
+    "created_at": "14:13:11 10/27/2025"
   },
   {
     "title": "Speechly",
