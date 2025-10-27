@@ -6380,6 +6380,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Zodiaco",
+    "name": "Zodiaco",
+    "description": "Daily, weekly, monthly, yearly astrology horoscopes for all zodiac signs.",
+    "website": "https://zodiaco.me",
+    "categories": "Other",
+    "slug": "zodiaco",
+    "created_at": "02:44:40 10/27/2025"
+  },
+  {
     "title": "Odyssea",
     "name": "ODYSSEA",
     "description": "AI game for decoding subconscious mind patterns.",
@@ -8313,6 +8322,15 @@
     "categories": "Resume Builder, Cover Letter Generator, AI PDF, AI Advertising Assistant",
     "slug": "lebenslauf-de",
     "created_at": "02:23:05 04/09/2025"
+  },
+  {
+    "title": "Banono AI",
+    "name": "Banono AI",
+    "description": "AI image and video editor powered by Google's Nano Banana model.",
+    "website": "https://banono.ai",
+    "categories": "AI Image Generator, AI Photo Editor, AI Video Generator, Text to Image, Image to Video, Image to Image, Text to Video, AI Floor Plan Generator, AI Passport Photo",
+    "slug": "banono-ai",
+    "created_at": "02:44:40 10/27/2025"
   },
   {
     "title": "T-Rex Label",
@@ -17953,6 +17971,15 @@
     "created_at": "14:15:37 07/21/2025"
   },
   {
+    "title": "intoCHAT",
+    "name": "intoCHAT",
+    "description": "AI chatbot platform for businesses to automate support, generate leads, and engage users.",
+    "website": "https://www.intochat.ai",
+    "categories": "AI Chatbot, AI Customer Service, No-Code&Low-Code, AI Agent, AI Lead Generation, AI Sales Assistant, AI Chat Generator",
+    "slug": "intochat",
+    "created_at": "02:44:40 10/27/2025"
+  },
+  {
     "title": "Fotoria - AI Headshot Generator",
     "name": "Fotoria - AI Headshot Generator",
     "description": "AI Headshot Generator for professional headshots from selfies.",
@@ -20426,6 +20453,15 @@
     "categories": "Other",
     "slug": "20paths",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "aiimageedit.ai",
+    "name": "aiimageedit.ai",
+    "description": "Free online AI image editor for transforming photos with text prompts.",
+    "website": "https://aiimageedit.ai",
+    "categories": "AI Photo Editor, AI Image Enhancer, Image to Image, AI Image Generator",
+    "slug": "aiimageedit-ai",
+    "created_at": "02:44:40 10/27/2025"
   },
   {
     "title": "Stakpak",
@@ -23207,6 +23243,15 @@
     "categories": "AI Gift Ideas",
     "slug": "wishlistmate-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Pixelshot",
+    "name": "Pixelshot",
+    "description": "AI product photography for studio-quality images in seconds.",
+    "website": "https://pixelshot.ai",
+    "categories": "AI Product Photography, AI Background Remover, AI Image Upscaler, AI Photo Editor, AI Background Generator",
+    "slug": "pixelshot",
+    "created_at": "02:44:40 10/27/2025"
   },
   {
     "title": "Apptrop",
