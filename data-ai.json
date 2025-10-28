@@ -1881,6 +1881,15 @@
     "created_at": "02:47:04 07/10/2025"
   },
   {
+    "title": "Sparkco AI Spreadsheet Agent",
+    "name": "Sparkco AI Sheets",
+    "description": "AI spreadsheet agent for natural language data analysis and automation.",
+    "website": "https://sparkco.ai",
+    "categories": "AI Spreadsheet, AI Excel Formula Generator, SQL Query Builder, AI Agent, AI For Data Analytics, AI Charting, AI OCR",
+    "slug": "sparkco-ai-sheets",
+    "created_at": "14:13:14 10/28/2025"
+  },
+  {
     "title": "SearchMyDocs.ai",
     "name": "SearchMyDocs.ai",
     "description": "Effortless knowledge retrieval from your personal document collection.",
@@ -7496,6 +7505,15 @@
     "created_at": "14:11:59 06/19/2025"
   },
   {
+    "title": "Free AI Photo Editing tool | Design posters, logos, youtube thumbnails, and more with AI",
+    "name": "Free AI Photo Editing tool | Design posters, logos, youtube thumbnails, and more with AI",
+    "description": "AI-powered photo/video editing, image generation, and design tool.",
+    "website": "https://www.tinyart.io",
+    "categories": "AI Photo Editor, AI Image Generator, AI Background Remover, AI Image Upscaler, AI Watermark Remover, Text to Image, AI Photo Restoration, AI Logo Generator, AI Poster Generator, AI Face Swap Generator",
+    "slug": "free-ai-photo-editing-tool-design-posters-logos-youtube-thumbnails-and-more-with-ai",
+    "created_at": "14:13:14 10/28/2025"
+  },
+  {
     "title": "AI Frame",
     "name": "AI Frame",
     "description": "AI site builder for fast and smart design.",
@@ -10214,6 +10232,15 @@
     "created_at": "14:15:19 07/24/2025"
   },
   {
+    "title": "Grokipedia",
+    "name": "Grokipedia",
+    "description": "AI-generated online encyclopedia to rival Wikipedia.",
+    "website": "https://grokipedia.com",
+    "categories": "AI Knowledge Base, AI Writing, Large Language Models (LLMs), AI Research Tool",
+    "slug": "grokipedia",
+    "created_at": "14:13:14 10/28/2025"
+  },
+  {
     "title": "SetupAI.co",
     "name": "SetupAI.co",
     "description": "SetupAI.co uses AI to redesign your setup based on an uploaded photo.",
@@ -10726,6 +10753,15 @@
     "created_at": "02:44:24 08/09/2025"
   },
   {
+    "title": "Ready",
+    "name": "Ready",
+    "description": "Embedded AI strategist for founders, offering Palantir-level intelligence for startups.",
+    "website": "https://www.ready.ai",
+    "categories": "AI Assistant, AI Copilot, AI Productivity Tools",
+    "slug": "ready",
+    "created_at": "14:13:14 10/28/2025"
+  },
+  {
     "title": "Facts-Generator.com",
     "name": "Facts Generator",
     "description": "Fun facts at your fingertips",
@@ -10940,6 +10976,15 @@
     "categories": "AI Content Generator, AI Social Media Assistant, AI Response Generator, AI Advertising Assistant, AI Ad Generator",
     "slug": "post-genius",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Phare",
+    "name": "Phare",
+    "description": "All-in-one platform for website monitoring, incidents, and status pages.",
+    "website": "https://phare.io",
+    "categories": "AI Monitor, AI Assistant, AI Developer Tools",
+    "slug": "phare",
+    "created_at": "14:13:14 10/28/2025"
   },
   {
     "title": "TAIX",
@@ -20428,6 +20473,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "David One",
+    "name": "David One",
+    "description": "Your own AI powered with video understanding, web search and much more",
+    "website": "https://heydavid.ai",
+    "categories": "AI Assistant, AI Calendar, AI Document Extraction, AI Files, AI Note Taker, AI Productivity Tools, AI Scheduling, AI Task Management, Graph AI, AI Research Tool",
+    "slug": "david-one",
+    "created_at": "14:13:14 10/28/2025"
+  },
+  {
     "title": "Open Lovable",
     "name": "Open Lovable-",
     "description": "Free open-source AI tool transforming websites into React/Next.js apps.",
@@ -23819,6 +23873,15 @@
     "categories": "AI Productivity Tools, AI Document Extraction, AI Accounting Assistant, Tax Assistant, AI Email Writer",
     "slug": "getinvoice",
     "created_at": "14:12:57 05/15/2025"
+  },
+  {
+    "title": "Tagshop AI",
+    "name": "Tagshop AI",
+    "description": "AI UGC video generator for ads",
+    "website": "https://tagshop.ai",
+    "categories": "AI UGC Video Generator, AI Video Generator, AI Ad Generator, AI Advertising, AI Reel Generator, AI Avatar Generator, Image to Video, Text to Video",
+    "slug": "tagshop-ai",
+    "created_at": "14:13:14 10/28/2025"
   },
   {
     "title": "Augment 1x",
