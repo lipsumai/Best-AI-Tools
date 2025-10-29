@@ -1728,6 +1728,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Sora 2 AI Video",
+    "name": "Sora 2 AI Video",
+    "description": "Create cinematic, story‑driven videos from a single text prompt — and put yourself in the video using a single photo — with background music, voices, and sound effects auto‑synced.",
+    "website": "https://sora2aivideo.io",
+    "categories": "AI Short Video Generator, AI Animated Video, AI Avatar Video Generator, AI Cartoon Video Generator, AI Music Video Generator, AI Stock Video Generator, AI UGC Video Generator, AI Video Editor, AI Video Generator",
+    "slug": "sora-2-ai-video",
+    "created_at": "14:13:14 10/29/2025"
+  },
+  {
     "title": "TripZi",
     "name": "TripZi",
     "description": "Effortlessly extract and save locations from webpages with TripZi.",
@@ -9620,6 +9629,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Hooked",
+    "name": "Hooked",
+    "description": "AI video generator for viral UGC content with AI avatars.",
+    "website": "https://www.tryhooked.ai",
+    "categories": "AI Video Generator, AI UGC Video Generator, AI Avatar Generator, AI Short Video Generator, AI Script Writing, Text to Video",
+    "slug": "hooked",
+    "created_at": "14:13:14 10/29/2025"
+  },
+  {
     "title": "Dyad",
     "name": "Dyad",
     "description": "Free, local, open-source AI app builder for no-code development.",
@@ -14911,6 +14929,15 @@
     "created_at": "14:13:23 08/12/2025"
   },
   {
+    "title": "Dynal.AI",
+    "name": "Dynal.AI",
+    "description": "AI agent for generating high-quality LinkedIn posts from diverse content.",
+    "website": "https://dynal.ai",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Agent",
+    "slug": "dynal-ai",
+    "created_at": "14:13:14 10/29/2025"
+  },
+  {
     "title": "AISong.org",
     "name": "AISong.org",
     "description": "AI platform for generating royalty-free, studio-quality music and lyrics.",
@@ -17510,6 +17537,15 @@
     "categories": "AI Customer Service Assistant, AI CRM Assistant, AI Reviews Assistant, AI Chatbot, AI Scheduling, AI Forms & Surveys, AI Lead Generation, AI Team Collaboration",
     "slug": "emitrr",
     "created_at": "02:28:54 04/21/2025"
+  },
+  {
+    "title": "HiFun",
+    "name": "HiFun",
+    "description": "AI-powered image editor for transforming images with text prompts.",
+    "website": "https://hifun.ai",
+    "categories": "AI Photo Editor, AI Inpainting, AI Clothing Generator, AI Background Generator, AI Bikini",
+    "slug": "hifun",
+    "created_at": "14:13:14 10/29/2025"
   },
   {
     "title": "Jo",
@@ -20606,6 +20642,15 @@
     "categories": "AI Photo Editor, AI Image Enhancer, Image to Image, AI Image Generator",
     "slug": "aiimageedit-ai",
     "created_at": "02:44:40 10/27/2025"
+  },
+  {
+    "title": "Trace-AI",
+    "name": "Trace-AI",
+    "description": "Predicts and prevents supply-chain attacks via metadata-driven analysis.",
+    "website": "https://trace-ai.dev",
+    "categories": "AI Developer Tools, Open Source AI Models, AI Checker, AI Detector",
+    "slug": "trace-ai-1",
+    "created_at": "14:13:14 10/29/2025"
   },
   {
     "title": "Stakpak",
@@ -24622,6 +24667,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Scout0",
+    "name": "Scout0",
+    "description": "AI code review for learning, analyzing security, performance, quality, and bugs.",
+    "website": "https://scout0.com",
+    "categories": "AI Code Review, AI Code Assistant, AI Developer Tools",
+    "slug": "scout0",
+    "created_at": "14:13:14 10/29/2025"
+  },
+  {
     "title": "AI JINGLEMAKER",
     "name": "AI Jingle Maker",
     "description": "Easy AI-powered creation of custom audio jingles and intros.",
@@ -27466,6 +27520,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "chaos",
+    "name": "chaos",
+    "description": "A connected workspace for music creators to manage ideas, collaborations, and workflow.",
+    "website": "https://apps.apple.com/gb/app/chaos/id6752716616",
+    "categories": "AI Project Management, AI Workflow, AI Productivity Tools, AI Task Management",
+    "slug": "chaos",
+    "created_at": "14:13:14 10/29/2025"
+  },
+  {
     "title": "Littlebird",
     "name": "Littlebird",
     "description": "Your always-on, context-aware AI assistant. Meet personalized AI that reads your mind, not just your prompts.",
@@ -27914,6 +27977,15 @@
     "categories": "AI Photo Editor, Text to Image, AI Image Generator, AI Influencer",
     "slug": "nano-banana-ai-1",
     "created_at": "02:22:28 08/27/2025"
+  },
+  {
+    "title": "ZEGOCLOUD",
+    "name": "ZEGOCLOUD",
+    "description": "SDKs & APIs for low-latency live video, voice, and AI-powered communication.",
+    "website": "https://www.zegocloud.com",
+    "categories": "AI Developer Tools",
+    "slug": "zegocloud",
+    "created_at": "14:13:14 10/29/2025"
   },
   {
     "title": "Flux Kontext AI",
