@@ -1053,6 +1053,15 @@
     "created_at": "02:47:30 08/15/2025"
   },
   {
+    "title": "grokipedia",
+    "name": "grokipedia-",
+    "description": "AI-generated encyclopedia by xAI, aiming for truthful, less biased knowledge.",
+    "website": "https://grokipedia.sh",
+    "categories": "AI Knowledge Base, AI Text Generator, AI Answer, Large Language Models (LLMs)",
+    "slug": "grokipedia-1",
+    "created_at": "02:41:23 10/29/2025"
+  },
+  {
     "title": "SmallVill",
     "name": "SmallVill",
     "description": "SmallVill offers a virtual world with AI agents based on historical figures for immersive experiences.",
@@ -8549,6 +8558,15 @@
     "created_at": "14:12:40 09/16/2025"
   },
   {
+    "title": "Pomelli AI",
+    "name": "Pomelli AI",
+    "description": "AI platform for brand content generation and SEO optimization.",
+    "website": "https://pomelli.ai",
+    "categories": "AI Copywriting, SEO Writing AI, AI SEO Tools, AI Marketing",
+    "slug": "pomelli-ai",
+    "created_at": "02:41:23 10/29/2025"
+  },
+  {
     "title": "Flowie – Custom Webflow Solutions",
     "name": "Flowie",
     "description": "Flowie is a customizable platform for Webflow featuring code snippets and an AI Code Assistant.",
@@ -13289,6 +13307,15 @@
     "categories": "Mental Health, AI Chatbot",
     "slug": "anxiety-simulator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hooked AI",
+    "name": "Hooked AI",
+    "description": "AI video generator for viral UGC content with AI avatars.",
+    "website": "https://www.tryhooked.ai",
+    "categories": "AI Video Generator, AI UGC Video Generator, AI Avatar Generator, AI Short Video Generator, AI Script Writing, Text to Video",
+    "slug": "hooked-ai",
+    "created_at": "02:41:23 10/29/2025"
   },
   {
     "title": "AI Homework Helper",
@@ -18034,6 +18061,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Remove Sora watermarks in 5 seconds – without quality loss",
+    "name": "Remove Sora watermarks in 5 seconds – without quality loss",
+    "description": "This tool lets you instantly download the original, watermark-free Sora video just by pasting its share link. No setup, no waiting, no AI-blur artifacts — just clean, crisp video ready for social media, ads, or creative reuse.",
+    "website": "https://www.removesorawatermark.online",
+    "categories": "AI Watermark Remover",
+    "slug": "remove-sora-watermarks-in-5-seconds-without-quality-loss",
+    "created_at": "02:41:23 10/29/2025"
+  },
+  {
     "title": "Clado",
     "name": "Clado",
     "description": "AI-powered global people search for sales, hiring, and research.",
@@ -21949,6 +21985,15 @@
     "created_at": "14:11:26 07/20/2025"
   },
   {
+    "title": "getsolved.ai",
+    "name": "getsolved.ai",
+    "description": "AI assistant for writing, research, and learning.",
+    "website": "https://getsolved.ai",
+    "categories": "AI Answer, AI Detector, Humanizer AI, AI Writing Assistants, AI Paraphraser",
+    "slug": "getsolved-ai",
+    "created_at": "02:41:23 10/29/2025"
+  },
+  {
     "title": "BlazeGard",
     "name": "BlazeGard",
     "description": "AI for early fire detection",
@@ -22001,6 +22046,15 @@
     "categories": "AI API, AI Developer Tools, AI Summarizer, AI Subtitle Generator, AI Transcriber, AI Image Recognition",
     "slug": "ittybit",
     "created_at": "14:11:59 06/19/2025"
+  },
+  {
+    "title": "FaceFusion",
+    "name": "FaceFusion",
+    "description": "Industry-leading AI platform for local face manipulation in photos and videos.",
+    "website": "https://facefusion.io",
+    "categories": "AI Face Swap Generator, AI Face Swap Video, Open Source AI Models",
+    "slug": "facefusion",
+    "created_at": "02:41:23 10/29/2025"
   },
   {
     "title": "The SMS City",
@@ -25142,6 +25196,15 @@
     "categories": "AI Chatbot, AI PDF, AI Productivity Tools, AI Document Extraction, AI Documents Assistant, Research Tool, AI Content Generator, Writing Assistants, Summarizer",
     "slug": "docudive",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "TuxSEO",
+    "name": "TuxSEO",
+    "description": "AI-powered blog writer for automatic, SEO-optimized content generation and publishing.",
+    "website": "https://tuxseo.com",
+    "categories": "AI Blog Generator, AI SEO Tools, SEO Writing AI, AI Writing",
+    "slug": "tuxseo",
+    "created_at": "02:41:23 10/29/2025"
   },
   {
     "title": "Mailgo",
