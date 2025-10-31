@@ -4013,6 +4013,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "That Ish",
+    "name": "That Ish",
+    "description": "AI-powered slang dictionary for cultural fluency and language translation.",
+    "website": "https://apps.apple.com/us/app/that-ish-a-slang-language-app/id6739541391",
+    "categories": "AI Translate, AI Language Learning",
+    "slug": "that-ish-slang-dictionary",
+    "created_at": "14:12:52 10/31/2025"
+  },
+  {
     "title": "Generated Assets",
     "name": "Generated Assets",
     "description": "AI tool to create investable indexes from user ideas.",
@@ -6884,6 +6893,15 @@
     "created_at": "14:10:50 04/18/2025"
   },
   {
+    "title": "CodeBanana",
+    "name": "CodeBanana",
+    "description": "Real-time collaborative coding platform with AI, VMs, and team sync.",
+    "website": "https://www.codebanana.com",
+    "categories": "AI Code Assistant, AI Agent, AI Copilot, AI Code Generator, AI Developer Tools, AI Code Review",
+    "slug": "codebanana",
+    "created_at": "14:12:52 10/31/2025"
+  },
+  {
     "title": "Easygoing",
     "name": "Easygoing",
     "description": "Effortless invoice generation for everyone.",
@@ -9566,6 +9584,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "Lucent Chat",
+    "name": "Lucent Chat",
+    "description": "All-in-one AI creative workspace for videos and visuals.",
+    "website": "https://lucentchat.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, AI Chatbot, AI Image Enhancer",
+    "slug": "lucent-chat",
+    "created_at": "14:12:52 10/31/2025"
+  },
+  {
     "title": "Find That Photo",
     "name": "Find That Photo - Find Photos Fast",
     "description": "Easily find specific photos in your gallery using AI.",
@@ -11977,6 +12004,15 @@
     "created_at": "14:10:23 05/25/2025"
   },
   {
+    "title": "AI Rap Generator",
+    "name": "AI Rap Generator",
+    "description": "AI-powered tool for generating original rap lyrics, beats, and songs.",
+    "website": "https://airapgenerator.io",
+    "categories": "AI Rap Generator, AI Rap Lyrics Generator, AI Song Generator, AI Beat Generator, AI Lyrics Generator",
+    "slug": "ai-rap-generator",
+    "created_at": "14:12:52 10/31/2025"
+  },
+  {
     "title": "HackSocial.ai",
     "name": "Clout Check by hacksocial.ai",
     "description": "HackSocial.ai is an AI-powered tool that boosts social media presence and engages with audiences effortlessly.",
@@ -12398,6 +12434,15 @@
     "categories": "Homework Helper, AI Education Assistant, Handwriting, Writing Assistants",
     "slug": "synthanswer-ai",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "AI Couple Photo",
+    "name": "AI Couple Photo",
+    "description": "AI tool merging two solo photos into a realistic couple portrait.",
+    "website": "https://ai-couple-photo.com",
+    "categories": "AI Portrait Generator, AI Image Generator, AI Realistic Image Generator, AI Image Combiner, Image to Image, AI Photography",
+    "slug": "ai-couple-photo",
+    "created_at": "14:12:52 10/31/2025"
   },
   {
     "title": "BidPacer",
@@ -15154,6 +15199,15 @@
     "created_at": "14:11:17 06/11/2025"
   },
   {
+    "title": "Blinkist",
+    "name": "Blinkist",
+    "description": "Key insights from top nonfiction books & podcasts in 15 minutes.",
+    "website": "https://www.blinkist.com",
+    "categories": "AI Book Summarizer, AI Summarizer, AI Video Summarizer, AI Article Summarizer, AI PDF Summarizer",
+    "slug": "blinkist",
+    "created_at": "14:12:52 10/31/2025"
+  },
+  {
     "title": "aigirlfriend",
     "name": "aigirlfriend",
     "description": "The newest and best AI girlfriend on the market, you can have an exciting date with your beloved girl and generate an unforgettable photo for each exciting scene.",
@@ -16106,6 +16160,15 @@
     "categories": "AI Graphic Design, Design Assistant, AI Website Designer, AI Knowledge Base, AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Code Assistant, AI Code Generator, AI App Builder",
     "slug": "builder-io",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "LTX-2 Video",
+    "name": "LTX-2 Video",
+    "description": "AI video generator for cinematic 4K videos with audio sync.",
+    "website": "https://ltx2.net",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "ltx-2-video",
+    "created_at": "14:12:52 10/31/2025"
   },
   {
     "title": "Elsie AI",
@@ -20851,6 +20914,15 @@
     "created_at": "14:13:12 04/28/2025"
   },
   {
+    "title": "ラブタイプ診断",
+    "name": "ラブタイプ診断",
+    "description": "Diagnose your love style with 16 types based on 4 axes.",
+    "website": "https://lovetypetest.com",
+    "categories": "AI Quizzes, AI Dating Assistant",
+    "slug": "診断",
+    "created_at": "14:12:52 10/31/2025"
+  },
+  {
     "title": "MiniMax Agent",
     "name": "MiniMax Agent",
     "description": "AI partner enhancing productivity through multi-agent collaboration.",
@@ -21245,6 +21317,15 @@
     "categories": "Translate, Large Language Models (LLMs)",
     "slug": "visionvoice-ai-translator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ZenRent",
+    "name": "ZenRent, Smart Property Management",
+    "description": "All-in-one property management platform for UK landlords.",
+    "website": "https://zenrent.co.uk",
+    "categories": "AI Real Estate, AI Assistant, AI Chatbot, AI Productivity Tools",
+    "slug": "zenrent-smart-property-management",
+    "created_at": "14:12:52 10/31/2025"
   },
   {
     "title": "Apply",
@@ -22093,6 +22174,15 @@
     "created_at": "02:41:23 10/29/2025"
   },
   {
+    "title": "Face Swap AI",
+    "name": "Face Swap AI-",
+    "description": "AI-powered online tool for realistic face swapping in photos and videos.",
+    "website": "https://faceswapai.online",
+    "categories": "AI Face Swap Generator, AI Face Swap Video, AI Photo Editor, Image to Image",
+    "slug": "face-swap-ai-1",
+    "created_at": "14:12:52 10/31/2025"
+  },
+  {
     "title": "BlazeGard",
     "name": "BlazeGard",
     "description": "AI for early fire detection",
@@ -22226,6 +22316,15 @@
     "categories": "AI Course, AI Code Assistant, AI Code Generator",
     "slug": "codefriends-learning-platform",
     "created_at": "14:12:51 06/30/2025"
+  },
+  {
+    "title": "Shortform",
+    "name": "Shortform",
+    "description": "World's best book summaries for non-fiction, podcasts, and articles to learn faster.",
+    "website": "https://www.shortform.com",
+    "categories": "AI Book Summarizer, AI Summarizer, AI Article Summarizer",
+    "slug": "shortform",
+    "created_at": "14:12:52 10/31/2025"
   },
   {
     "title": "Artwo",
@@ -22415,6 +22514,15 @@
     "categories": "AI Landing Page Builder, AI Website Builder, No-Code&Low-Code, AI Design Generator, AI Digital Marketing, AI Copywriting",
     "slug": "reaady-site",
     "created_at": "14:12:04 07/17/2025"
+  },
+  {
+    "title": "Agent Opus",
+    "name": "Agent Opus",
+    "description": "The AI video generator that turns your ideas into polished videos",
+    "website": "https://www.opus.pro",
+    "categories": "AI Video Generator, AI Short Video Generator, AI Tiktok Video Generator, Script To Video AI Generator, Text to Video",
+    "slug": "agent-opus",
+    "created_at": "14:12:52 10/31/2025"
   },
   {
     "title": "Bio Links Tool",
@@ -26321,6 +26429,15 @@
     "categories": "Summarizer",
     "slug": "snapvault",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Affirmy",
+    "name": "Affirmy",
+    "description": "AI-guided affirmations delivered via email for personal wellness and consistent positive self-talk.",
+    "website": "https://affirmy.ai",
+    "categories": "AI Inspirational Quotes, AI Mental Health, AI Quotes Generator, AI Message Generator",
+    "slug": "affirmy",
+    "created_at": "14:12:52 10/31/2025"
   },
   {
     "title": "AdpexAI",
