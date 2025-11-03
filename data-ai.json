@@ -8819,6 +8819,15 @@
     "created_at": "02:43:15 06/17/2025"
   },
   {
+    "title": "iGPT",
+    "name": "iGPT-",
+    "description": "Context intelligence API for AI agents and automation tools.",
+    "website": "https://www.igpt.ai",
+    "categories": "AI API, AI Developer Tools",
+    "slug": "igpt-1",
+    "created_at": "02:42:51 11/03/2025"
+  },
+  {
     "title": "CodeFast",
     "name": "CodeFast",
     "description": "Learn coding fast to build online businesses.",
@@ -8988,6 +8997,15 @@
     "categories": "AI Email Assistant, AI Grammar Checker, Translate, General Writing, Writing Assistants, AI Email Writer, AI Story Writing, AI Creative Writing, Letter Writer",
     "slug": "rephrase",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Resumly",
+    "name": "Resumly",
+    "description": "Resumly is an AI-powered resume builder and job automation tool that helps job seekers save hours every week. It automatically tailors your resume for each job posting and can even apply for roles on your behalf — making the job search faster, smarter, and stress-free.",
+    "website": "https://www.resumly.ai",
+    "categories": "AI Resume Builder",
+    "slug": "resumly",
+    "created_at": "02:42:51 11/03/2025"
   },
   {
     "title": "Free AI PDF Reader",
@@ -16450,6 +16468,15 @@
     "created_at": "03:03:09 07/27/2025"
   },
   {
+    "title": "Animate Image AI",
+    "name": "Animate Image AI",
+    "description": "AI tool to animate static photos and pictures into dynamic videos.",
+    "website": "https://animateimage.net",
+    "categories": "AI Animation Generator, Image to Video, Text to Video, AI Video Generator, AI Animated Video, AI GIF Generator",
+    "slug": "animate-image-ai",
+    "created_at": "02:42:51 11/03/2025"
+  },
+  {
     "title": "WAN 2.5 AI Video Generator",
     "name": "WAN 2.5 AI Video Generator",
     "description": "AI video generator for professional content from text and images.",
@@ -19319,6 +19346,15 @@
     "categories": "Translate",
     "slug": "babelshark",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "PostEverywhere.ai",
+    "name": "PostEverywhere.ai",
+    "description": "Post your content across all socials in seconds.",
+    "website": "https://posteverywhere.ai",
+    "categories": "AI Productivity Tools",
+    "slug": "posteverywhere-ai",
+    "created_at": "02:42:51 11/03/2025"
   },
   {
     "title": "Comfy Deploy",
@@ -26546,6 +26582,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image",
     "slug": "nano-banana-1",
     "created_at": "02:22:28 08/27/2025"
+  },
+  {
+    "title": "Doclingo",
+    "name": "Doclingo",
+    "description": "Doclingo AI is a smart document translation tool that translates your PDFs, Word, Excel, PPT or image files into 90+ languages at a click while preserving the original layout and formatting.",
+    "website": "https://doclingo.ai",
+    "categories": "AI Translate, AI Image Translator, AI PDF, AI PDF Editor, AI PDF Summarizer",
+    "slug": "doclingo",
+    "created_at": "02:42:51 11/03/2025"
   },
   {
     "title": "Basin MCP",
