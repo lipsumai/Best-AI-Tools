@@ -19771,6 +19771,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Design0",
+    "name": "Design0 - Effortless AI Design for Everyone",
+    "description": "Effortless AI design for everyone.",
+    "website": "https://design0.ai",
+    "categories": "Image to Image, AI Background Remover, AI Colorize, AI Crop Image, AI Eraser, AI Expand Image, AI Image Combiner, AI Image Enhancer, AI Image Generator, AI Inpainting, AI Outpainting, AI Photo Editor, AI Style Transfer, AI Unblur Image, Object Remover AI, Text to Image",
+    "slug": "design0-effortless-ai-design-for-everyone",
+    "created_at": "14:14:20 11/03/2025"
+  },
+  {
     "title": "AIPex",
     "name": "AIPex",
     "description": "AI browser extension for intelligent automation, free, open source, no migration.",
@@ -25162,6 +25171,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Superinbox",
+    "name": "Superinbox",
+    "description": "AI email assistant for drafting replies and organizing inboxes.",
+    "website": "https://superinbox.com",
+    "categories": "AI Email Assistant, AI Email Writer, AI Email Generator, AI Reply",
+    "slug": "superinbox",
+    "created_at": "14:14:20 11/03/2025"
+  },
+  {
     "title": "AskEdith",
     "name": "AskEdith Free Tier",
     "description": "Analytics tool for building dashboards and reports by asking questions.",
@@ -26915,6 +26933,15 @@
     "categories": "AI Knowledge Graph, Research Tool, Papers, Writing Assistants, Summarizer, General Writing, AI Content Generator, AI Rewriter, Paraphraser",
     "slug": "paper-digest",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "SCARY STORIES LIVE",
+    "name": "ScaryStories Live",
+    "description": "Real-time AI horror video generator with adaptive jump scares for interactive storytelling.",
+    "website": "https://scarystories.live",
+    "categories": "AI Video Generator, Image to Video, AI Story Generator, AI Movie Generator",
+    "slug": "scarystories-live",
+    "created_at": "14:14:20 11/03/2025"
   },
   {
     "title": "Makefilm",
