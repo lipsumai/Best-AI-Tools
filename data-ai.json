@@ -18,6 +18,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "HelloDay.ai",
+    "name": "HelloDay.ai",
+    "description": "HelloDay.AI is an innovative platform designed for universities, schools, and enterprises to transform the way students and employees start their journeys.",
+    "website": "https://www.helloday.ai",
+    "categories": "AI Knowledge Base, AI Answer, AI Coaching, AI Teachers, AI Assistant, AI PDF, AI PDF Summarizer",
+    "slug": "helloday-ai",
+    "created_at": "14:13:18 11/04/2025"
+  },
+  {
     "title": "Wonderchat",
     "name": "Wonderchat",
     "description": "Create custom chatbot with Wonderchat, boost customer response speed by 100% and reduce workload.",
@@ -4740,6 +4749,15 @@
     "categories": "Other",
     "slug": "aicreditrepair",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GrokImagineAI.com:Free AI Image & Video Generator With Grok Imagine",
+    "name": "GrokImagineAI.com:Free AI Image & Video Generator With Grok Imagine",
+    "description": "AI model by xAI turning text/images into videos with synced audio, online and free.",
+    "website": "https://grokimagineai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Animation Generator",
+    "slug": "grokimagineai-com-free-ai-image-video-generator-with-grok-imagine",
+    "created_at": "14:13:18 11/04/2025"
   },
   {
     "title": "SelfLoveLetter",
@@ -26996,6 +27014,15 @@
     "categories": "AI Content Generator, AI Rewriter",
     "slug": "rewriteit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MediaGPT AI",
+    "name": "MediaGPT AI",
+    "description": "Ultimate Next‑Generation Video Creation Platform：no filter, One-click generation, image-to-video, text-to-video, all mainstream models, popular effects, popular templates",
+    "website": "https://mediagpt.ai",
+    "categories": "AI Video Generator, Image to Video, Text to Video, AI Girlfriend",
+    "slug": "mediagpt-ai",
+    "created_at": "14:13:18 11/04/2025"
   },
   {
     "title": "imgProof",
