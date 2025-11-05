@@ -468,6 +468,15 @@
     "created_at": "02:28:47 10/26/2025"
   },
   {
+    "title": "Holo",
+    "name": "Holo",
+    "description": "AI marketing tool for ads, social posts, and emails.",
+    "website": "https://tryholo.ai",
+    "categories": "AI Marketing, AI Ad Generator, AI Social Media Post Generator, AI Email Generator",
+    "slug": "holo",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "FlyAgt.ai",
     "name": "FlyAgt.ai",
     "description": "Affordable all-in-one AI platform for image and video generation and editing.",
@@ -747,6 +756,15 @@
     "created_at": "14:10:35 05/03/2025"
   },
   {
+    "title": "Build0",
+    "name": "Build0",
+    "description": "AI-powered no-code platform for secure internal apps.",
+    "website": "https://build0.ai",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Workflow, AI Developer Tools",
+    "slug": "build0",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Wan 2.2 Animate",
     "name": "Wan 2.2 Animate",
     "description": "Free online AI tool for character animation and replacement.",
@@ -898,6 +916,15 @@
     "categories": "AI Voice Assistants, AI Customer Service, AI Sales Assistant, AI Voice Generator",
     "slug": "kea-ai-24-7-voice-ai-for-restaurants",
     "created_at": "14:12:35 10/09/2025"
+  },
+  {
+    "title": "Atria",
+    "name": "Atria",
+    "description": "AI-powered ad workflow platform for revenue growth.",
+    "website": "https://tryatria.com",
+    "categories": "AI Ad Generator, AI Advertising, AI Ad Creative, Ad Copy",
+    "slug": "atria",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "Novi AI",
@@ -3040,6 +3067,15 @@
     "categories": "AI Cooking Assistant, AI Recipe Assistant, AI Voice Assistants",
     "slug": "remy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "EQUO",
+    "name": "EQUO",
+    "description": "AI platform for personalized, explainable financial guidance.",
+    "website": "https://tryequo.com",
+    "categories": "AI For Finance, AI Agent, AI Investing, AI Assistant",
+    "slug": "equo",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "zirouse",
@@ -5795,6 +5831,15 @@
     "created_at": "14:13:17 10/23/2025"
   },
   {
+    "title": "Luminar Neo",
+    "name": "Luminar Neo-",
+    "description": "Advanced AI photo editor for creative photography.",
+    "website": "https://luminarneo.de",
+    "categories": "AI Photo Editor, AI Photo Enhancer, AI Background Remover, AI Photo Restoration, Object Remover AI",
+    "slug": "luminar-neo-1",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Instance",
     "name": "Instance",
     "description": "AI-powered app builder for iOS, Android, and web, no coding needed.",
@@ -6468,6 +6513,15 @@
     "categories": "AI Developer Tools, AI Design Generator",
     "slug": "motifalign",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lovelace",
+    "name": "Lovelace",
+    "description": "Browser-based AI IDE with AI code completion and cloud workspace.",
+    "website": "https://lovelace.sh",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Code Generator, AI Copilot, AI Assistant",
+    "slug": "lovelace",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "Mindelia",
@@ -7541,6 +7595,15 @@
     "created_at": "02:22:49 04/11/2025"
   },
   {
+    "title": "IPPeak",
+    "name": "IPPeak",
+    "description": "Fast, reliable residential and ISP proxy service for global data access.",
+    "website": "https://www.ippeak.com",
+    "categories": "Other",
+    "slug": "ippeak",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "ProbeAI",
     "name": "ProbeAI",
     "description": "ProbeAI is an AI Copilot for data analysts, offering support in SQL coding and error fixing.",
@@ -8232,6 +8295,15 @@
     "categories": "AI Agent, AI Chatbot, AI Lead Generation, AI Assistant, AI Recruiting, No-Code&Low-Code",
     "slug": "loomr",
     "created_at": "14:15:19 07/24/2025"
+  },
+  {
+    "title": "1stCollab",
+    "name": "1stCollab",
+    "description": "AI-powered influencer marketplace for brands and creators.",
+    "website": "https://1stcollab.com",
+    "categories": "AI Influencer, AI Marketing, AI Digital Marketing",
+    "slug": "1stcollab",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "Scholtz",
@@ -13075,6 +13147,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Luminar Neo",
+    "name": "Luminar Neo",
+    "description": "An excellent photo editing software",
+    "website": "https://skylum.com",
+    "categories": "AI Photo Editor, AI Background Generator, AI Background Remover, AI Colorize, AI Crop Image, AI Eraser, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration, AI Product Photography, AI Watermark Remover, Object Remover AI",
+    "slug": "luminar-neo",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Prompt Generator",
     "name": "Awesome Prompts",
     "description": "A platform offering creative prompts for writing, art, and design.",
@@ -15712,6 +15793,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "AI Video Extender",
+    "name": "AI Video Extender",
+    "description": "AI platform for seamless video extension with dual engines.",
+    "website": "https://aivideoextender.org",
+    "categories": "AI Video Generator, AI Video Editor, AI Video Enhancer, AI Video Upscaler, Text to Video, Image to Video",
+    "slug": "ai-video-extender",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Nubio",
     "name": "Nubio – The founder's dashboard.",
     "description": "Visualize costs, cloud usage, and metrics from various providers in one dashboard.",
@@ -15971,6 +16061,15 @@
     "categories": "AI SEO Assistant, AI Website Designer, E-commerce Assistant, AI Website Builder, No-Code&Low-Code, AI Landing Page Builder",
     "slug": "deepsite",
     "created_at": "02:21:21 04/04/2025"
+  },
+  {
+    "title": "NovaFlick AI",
+    "name": "NovaFlick AI",
+    "description": "Free AI photo editor, image generator & online design tool.",
+    "website": "https://novaflick.ai",
+    "categories": "AI Photo Editor, AI Image Generator, AI Portrait Generator, AI Background Remover, AI Style Transfer, AI Outfit Generator",
+    "slug": "novaflick-ai",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "CreativesAI",
@@ -16637,6 +16736,15 @@
     "categories": "Fitness, AI Music Generator",
     "slug": "listify-music-ai",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Atera IT Autopilot",
+    "name": "Atera IT Autopilot",
+    "description": "The first Autonomous IT solution built for IT teams facing growing demands",
+    "website": "https://www.atera.com",
+    "categories": "AI Productivity Tools, AI Customer Service, AI Agent, AI Copilot",
+    "slug": "atera-it-autopilot",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "UsageGuard",
@@ -18590,6 +18698,15 @@
     "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code",
     "slug": "mocha",
     "created_at": "14:15:50 08/01/2025"
+  },
+  {
+    "title": "Termdock",
+    "name": "Termdock",
+    "description": "Terminal-centric AI dev environment unifying workspaces, terminals, and Git.",
+    "website": "https://www.termdock.com",
+    "categories": "AI Developer Tools, AI Code Assistant, AI Productivity Tools, AI Search Engine",
+    "slug": "termdock",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "Smart Palette",
@@ -22156,6 +22273,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Dropmagic",
+    "name": "Dropmagic",
+    "description": "AI platform to build high-converting Shopify stores in minutes.",
+    "website": "https://dropmagic.ai",
+    "categories": "AI Shopify Store Builder, AI Website Builder, AI Copywriting, AI Image Generator, No-Code&Low-Code",
+    "slug": "dropmagic",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Readly",
     "name": "Readly",
     "description": "Accelerates learning Chinese through an interactive scanning solution.",
@@ -22327,6 +22453,15 @@
     "created_at": "14:11:59 06/19/2025"
   },
   {
+    "title": "Aritect",
+    "name": "Aritect",
+    "description": "Hybrid intelligence platform for DeFi investment strategies.",
+    "website": "https://aritect.com",
+    "categories": "AI For Finance, AI Crypto, AI Investing, AI Predictions, Blockchain, AI Trading Bot",
+    "slug": "aritect",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "FaceFusion",
     "name": "FaceFusion",
     "description": "Industry-leading AI platform for local face manipulation in photos and videos.",
@@ -22406,6 +22541,15 @@
     "categories": "AI Course, AI Code Assistant, AI Code Generator",
     "slug": "codefriends-learning-platform",
     "created_at": "14:12:51 06/30/2025"
+  },
+  {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2",
+    "description": "AI image generator and editor powered by Google Gemini 3",
+    "website": "https://banananano.ai",
+    "categories": "AI Image Generator, AI Avatar Generator, AI Background Generator, AI Background Remover, AI Inpainting, AI Photo Editor, AI Realistic Image Generator, Image to Image, Text to Image",
+    "slug": "nano-banana-2-1",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "Shortform",
@@ -22541,6 +22685,15 @@
     "categories": "Other",
     "slug": "lite-queen",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Prismer.AI",
+    "name": "Prismer.AI",
+    "description": "AI-driven integrated research workspace for efficient scientific exploration.",
+    "website": "https://prismer.ai",
+    "categories": "AI Research Tool, AI Knowledge Management, AI Assistant, AI Writing Assistants",
+    "slug": "prismer-ai",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "GPT-oss",
@@ -23164,6 +23317,15 @@
     "created_at": "03:40:18 04/13/2025"
   },
   {
+    "title": "AskBlake",
+    "name": "AskBlake",
+    "description": "AI web-app builder for production-ready React + Tailwind components.",
+    "website": "https://www.askblake.dev",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Developer Tools",
+    "slug": "askblake",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Mc2 - Redact Like Pro",
     "name": "MC2",
     "description": "Efficient tool for local redaction of sensitive data.",
@@ -23243,6 +23405,15 @@
     "categories": "AI Landing Page Builder, AI Website Builder, AI Advertising Assistant",
     "slug": "biglypages",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Sora Watermark Remover by Fineshare",
+    "name": "Sora Watermark Remover by Fineshare",
+    "description": "Easily remove watermarks from Sora videos with Al and get clean, high-quality results in one click.",
+    "website": "https://www.fineshare.com",
+    "categories": "AI Video Enhancer, AI Video Editor",
+    "slug": "sora-watermark-remover-by-fineshare",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "BookScribi",
@@ -24604,6 +24775,15 @@
     "created_at": "14:12:39 05/19/2025"
   },
   {
+    "title": "Supernova.io",
+    "name": "Supernova.io",
+    "description": "AI-powered platform for product teams, design systems, and prototyping.",
+    "website": "https://www.supernova.io",
+    "categories": "AI Agent, AI Design Assistant, AI Code Generator, AI Writing Assistants, AI Productivity Tools, AI Documents Generator",
+    "slug": "supernova-io",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Notehub.ai",
     "name": "Notehub.ai",
     "description": "Easily share Jupyter notebooks.",
@@ -25493,6 +25673,15 @@
     "categories": "Translate, AI Presentation Generator, AI WORD, AI PDF, AI Document Extraction, AI Documents Assistant, AI Files Assistant",
     "slug": "molku-ai-autofill-pdfs-in-seconds-by-transferring-data-from-another-docs",
     "created_at": "14:12:24 05/05/2025"
+  },
+  {
+    "title": "MCP Playground",
+    "name": "MCP Playground",
+    "description": "Web-based developer tool to inspect, test, debug, and develop MCP server integrations.",
+    "website": "https://mcpplayground.io",
+    "categories": "AI Developer Tools, AI Code Assistant, AI Search Engine, AI Copilot",
+    "slug": "mcp-playground",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "Bowl Smart Recipe Manager",
@@ -28294,6 +28483,15 @@
     "created_at": "02:50:20 07/07/2025"
   },
   {
+    "title": "AI News Online",
+    "name": "AI News Online",
+    "description": "Daily AI news and research explained in plain language.",
+    "website": "https://ai-news-online.com",
+    "categories": "AI News, AI Research Papers, AI Summarizer, Large Language Models (LLMs)",
+    "slug": "ai-news-online",
+    "created_at": "14:13:00 11/05/2025"
+  },
+  {
     "title": "Nano-Banana AI",
     "name": "Nano-Banana AI",
     "description": "AI image editor using natural language for fast, consistent edits.",
@@ -28355,6 +28553,15 @@
     "categories": "AI Bio Generator, AI Book Writing, AI Story Generator, AI Interview Assistant, AI Podcast",
     "slug": "biography-studio-ai",
     "created_at": "14:17:21 08/06/2025"
+  },
+  {
+    "title": "Lyrics To Song AI",
+    "name": "Lyrics To Song AI-",
+    "description": "AI platform transforms lyrics into professional-quality songs with vocals and instruments.",
+    "website": "https://lyricstosong.io",
+    "categories": "AI Song Generator, AI Music Generator, AI Singing Generator, AI Lyrics Generator",
+    "slug": "lyrics-to-song-ai-1",
+    "created_at": "14:13:00 11/05/2025"
   },
   {
     "title": "Parny",
