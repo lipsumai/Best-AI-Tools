@@ -216,6 +216,15 @@
     "created_at": "14:14:02 07/14/2025"
   },
   {
+    "title": "Image to Image AI",
+    "name": "Image to Image AI – Free AI Image-to-Image Generator",
+    "description": "AI tool transforming existing pictures into fresh variations.",
+    "website": "https://imgtoimgai.net",
+    "categories": "Image to Image, AI Image Generator, AI Design Assistant, AI Photo Editor",
+    "slug": "image-to-image-ai-free-ai-image-to-image-generator",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "APEX | Artium Product Explorer",
     "name": "APEX AI",
     "description": "Harnessing the power of LLMs to supercharge Agile product management, design, and engineering.",
@@ -909,6 +918,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MeDo",
+    "name": "MeDo by Baidu",
+    "description": "AI-powered no-code platform for building full-stack apps quickly and affordably.",
+    "website": "https://medo.dev",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Website Builder, AI Game Generator",
+    "slug": "medo-by-baidu",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "Kea AI",
     "name": "Kea AI - 24/7 Voice AI for Restaurants",
     "description": "Voice AI for restaurants to automate calls, capture orders, and streamline operations.",
@@ -1501,6 +1519,15 @@
     "categories": "Captions or Subtitle, Transcription, Transcriber, Speech-to-Text",
     "slug": "createeasily",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Devspace",
+    "name": "Devspace",
+    "description": "AI full-stack product team for rapid development.",
+    "website": "https://devspace.uno",
+    "categories": "AI App Builder, AI Agent, AI Code Generator, No-Code&Low-Code",
+    "slug": "devspace",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "FaceAge AI",
@@ -3654,6 +3681,15 @@
     "created_at": "14:10:29 05/31/2025"
   },
   {
+    "title": "TweetGrok - Twitter Creation and Growth Assistant",
+    "name": "TweetGrok - Twitter Creation and Growth Assistant",
+    "description": "AI tool for Twitter content generation, growth, and social engagement.",
+    "website": "https://tweetgrok.ai",
+    "categories": "AI Tweet Generator, AI Twitter, AI Social Media Post Generator, AI Reply, AI Summarizer, AI Meme Generator",
+    "slug": "tweetgrok-twitter-creation-and-growth-assistant",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "Coot AI",
     "name": "Coot AI",
     "description": "Revolutionizing teamwork with AI.",
@@ -3823,6 +3859,15 @@
     "categories": "Summarizer",
     "slug": "wpsummarize",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SynthoFrame",
+    "name": "SynthoFrame",
+    "description": "AI-powered prototyping tool for high-fidelity, interactive UI design.",
+    "website": "https://www.synthoframe.com",
+    "categories": "AI Design Generator, AI UX Design, AI Productivity Tools, AI Code Generator, AI Developer Tools",
+    "slug": "synthoframe",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "BenSafer",
@@ -4326,6 +4371,15 @@
     "categories": "AI Video Generator, Text to Video, AI Short Video Generator, AI Agent",
     "slug": "genie-3",
     "created_at": "02:58:57 08/06/2025"
+  },
+  {
+    "title": "RowebAI",
+    "name": "RowebAI",
+    "description": "AI-powered platform for website heatmaps, session recording, and analytics to optimize conversions.",
+    "website": "https://rowebai.com",
+    "categories": "AI Marketing, AI For Data Analytics, AI Digital Marketing, AI Assistant",
+    "slug": "rowebai",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "App2.dev",
@@ -15226,6 +15280,15 @@
     "created_at": "02:57:39 07/30/2025"
   },
   {
+    "title": "Wan2Video",
+    "name": "Wan 2.2 Plus - Cinematic AI Video Generator",
+    "description": "AI video generator for cinematic, high-quality videos from text or images.",
+    "website": "https://www.wan2video.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator, AI Short Video Generator",
+    "slug": "wan-2-2-plus-cinematic-ai-video-generator",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "Lexica AI",
     "name": "Lexica AI",
     "description": "Free AI image generator transforming text into stunning visuals.",
@@ -15575,6 +15638,15 @@
     "categories": "AI Content Generator, AI SEO Assistant",
     "slug": "the-pr-creator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "CooperJobs",
+    "name": "CooperJobs.AI",
+    "description": "AI-powered job search assistant that scans, ranks, and summarizes job listings.",
+    "website": "https://us.cooperjobs.ai",
+    "categories": "AI Search Engine, AI Jobs, AI Assistant",
+    "slug": "cooperjobs-ai",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "LimeChat",
@@ -16826,6 +16898,15 @@
     "categories": "AI Call Center, AI Customer Service, AI Copilot, AI Chatbot, AI Voice Assistants",
     "slug": "glia",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "LitVideo",
+    "name": "LitVideo",
+    "description": "An AI-powered online platform for generating videos and images using text and image prompts, offering various AI tools.",
+    "website": "https://www.litmedia.ai",
+    "categories": "AI Video Generator, AI Clothing Removal, AI Image Generator, AI Photo Filter, AI Avatar Video Generator, Image to Video, Text to Video",
+    "slug": "litvideo",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "flux context",
@@ -18745,6 +18826,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dazl",
+    "name": "Dazl",
+    "description": "AI-powered platform for building and refining apps with generative AI and editing tools.",
+    "website": "https://dazl.dev",
+    "categories": "AI App Builder, AI Agent, AI Code Generator, No-Code&Low-Code",
+    "slug": "dazl",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "Mocha",
     "name": "Mocha",
     "description": "AI-powered no-code app builder turning ideas into live websites quickly.",
@@ -19519,6 +19609,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Skripsita AI",
+    "name": "Skripsita Ai",
+    "description": "AI copilot for Indonesian students, automating thesis formatting, citation, and editing.",
+    "website": "https://www.skripsita.com",
+    "categories": "AI Thesis Generator, AI Writing Assistants, AI Paraphraser, AI Presentation Generator",
+    "slug": "skripsita-ai",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "SuperCraft",
     "name": "SuperCraft",
     "description": "AI tool for designing physical products with natural language.",
@@ -20086,6 +20185,15 @@
     "created_at": "02:43:59 07/02/2025"
   },
   {
+    "title": "Ancher.ai",
+    "name": "Ancher",
+    "description": "AI news assistant for professionals to save time and get insights.",
+    "website": "https://ancher.ai",
+    "categories": "AI Assistant, AI News, AI Productivity Tools, AI Research Tool, AI Summarizer, AI Knowledge Management",
+    "slug": "ancher",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "Neo AI Presentation Maker",
     "name": "Neo AI Presentation Maker",
     "description": "Neo is an Agentic AI platform for presentations that empowers you to create professional-grade slides effortlessly. By leveraging AI-powered templates, Neo mimics human workflows to guide you through the process of building presentations. Whether you’re starting from scratch or repurposing existing content, Neo automates key aspects like template selection, content population, and theme adjustments, allowing you to focus on delivering impactful presentations with ease.",
@@ -20498,6 +20606,15 @@
     "categories": "AI Video Generator, AI Art Generator, Text to Video",
     "slug": "midjourney-tv",
     "created_at": "14:10:41 09/26/2025"
+  },
+  {
+    "title": "Arcitext",
+    "name": "Arcitext.com",
+    "description": "AI-assisted writing coach and content strategist for authentic voice.",
+    "website": "https://www.arcitext.com",
+    "categories": "AI Copywriting, AI Writing Assistants, AI Writing, AI Coaching",
+    "slug": "arcitext-com",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "Tabby",
@@ -21209,6 +21326,15 @@
     "categories": "AI Team Collaboration, AI Productivity Tools, AI Content Generator, AI Podcast Assistant, Summarizer",
     "slug": "minimax-agent",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "OCMaker AI",
+    "name": "OCMaker AI",
+    "description": "OCMaker AI is an all-in-one anime creation platform that lets anyone generate professional-quality anime characters, poses, illustrations, and videos with ease. Powered by our proprietary consistency models, OCMaker AI ensures that your characters stay accurate across every pose, outfit, and scene.",
+    "website": "https://www.ocmaker.ai",
+    "categories": "AI Anime Art, AI Photo Editor, AI Anime Generator, AI Animated Video, Image to Video, Video to Video",
+    "slug": "ocmaker-ai",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "LLM SEO Monitor",
@@ -22136,6 +22262,15 @@
     "categories": "AI Advertising Assistant",
     "slug": "sommel-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GitLaw",
+    "name": "GitLaw",
+    "description": "AI platform for drafting, reviewing, and managing legal documents.",
+    "website": "https://git.law",
+    "categories": "AI Contract Generator, AI Legal Assistant, AI Contract Review, AI Contract Management, AI Documents Generator",
+    "slug": "gitlaw",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "Cognitora",
@@ -23641,6 +23776,15 @@
     "created_at": "14:12:34 09/25/2025"
   },
   {
+    "title": "Chiaro AI",
+    "name": "Chiaro AI",
+    "description": "Turn your camera into an intelligent tour guide. Point at landmarks, art, or buildings to get instant stories and local recommendations.",
+    "website": "https://chiaro.ai",
+    "categories": "AI Travel",
+    "slug": "chiaro-ai",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "DeepSeek AI",
     "name": "DeepSeek-AI",
     "description": "Provider of advanced AI language models and enterprise solutions.",
@@ -24692,6 +24836,15 @@
     "categories": "AI Image Generator, Text to Image, AI Marketing, Open Source AI Models, AI Photo Editor, AI API",
     "slug": "qwen-image-1",
     "created_at": "14:18:27 08/05/2025"
+  },
+  {
+    "title": "ChainCentral",
+    "name": "ChainCentral",
+    "description": "AI-powered supply chain management platform for eCommerce businesses.",
+    "website": "https://chain-central.com",
+    "categories": "AI Predictions, AI Assistant, AI Workflow, AI QR Code Generator",
+    "slug": "chaincentral",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "ChatbotX",
@@ -26521,6 +26674,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "KOLverse",
+    "name": "KOLverse",
+    "description": "KOLverse is an AI agent providing high-fidelity sentiment analysis from Crypto KOLs. It filters social noise to deliver real-time dashboards on early gems and key narratives, giving traders a critical information edge.",
+    "website": "https://kolverse.xyz",
+    "categories": "AI Crypto, AI Twitter, AI For Finance, AI Research Tool",
+    "slug": "kolverse",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "Bothatch",
     "name": "Bothatch",
     "description": "Turn data into intelligent chatbots with Bothatch.",
@@ -27817,6 +27979,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Context Link",
+    "name": "Context Link",
+    "description": "Connects your content sources to AI for better context.",
+    "website": "https://context-link.ai",
+    "categories": "AI Research Tool, AI Agent, AI Knowledge Base, AI Productivity Tools",
+    "slug": "context-link",
+    "created_at": "14:12:18 11/07/2025"
+  },
+  {
     "title": "PopboxGPT",
     "name": "PopboxGPT",
     "description": "AI-powered GPT Chrome extension, PopboxGPT, offers instant in-browser assistance to enhance productivity.",
@@ -28868,6 +29039,15 @@
     "categories": "AI Call Center, AI Customer Service, AI Agent, AI Voice Assistants, AI Scheduling, AI Sales Assistant",
     "slug": "rexpt-ai-receptionist-service",
     "created_at": "14:12:15 08/27/2025"
+  },
+  {
+    "title": "Wan 2.5",
+    "name": "Wan 2.5",
+    "description": "AI video generation model for cinematic videos from text/images.",
+    "website": "https://www.wan-ai.co",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "wan-2-5-leading-ai-video-generation-model-wan-2-5-wan-ai",
+    "created_at": "14:12:18 11/07/2025"
   },
   {
     "title": "Browserfly",
