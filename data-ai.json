@@ -234,6 +234,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Kolors AI",
+    "name": "Kolors AI",
+    "description": "AI design agent for image generation and editing.",
+    "website": "https://kolors-ai.com",
+    "categories": "AI Image Generator, AI Design Assistant, AI Graphic Design, AI Product Photography, Text to Image, Image to Image",
+    "slug": "kolors-ai",
+    "created_at": "02:44:03 11/10/2025"
+  },
+  {
     "title": "insightsoftware",
     "name": "insightsoftware",
     "description": "Finance software for reporting, budgeting, and analytics.",
@@ -14614,6 +14623,15 @@
     "created_at": "14:12:42 09/02/2025"
   },
   {
+    "title": "ASMR AI Studio",
+    "name": "ASMR AI Studio",
+    "description": "ASMR AI Studio makes it easier to be an ASMR video creator with AI-powered trend discovery and instant templates.",
+    "website": "https://asmrai.studio",
+    "categories": "AI Video Generator, Image to Video, Text to Video",
+    "slug": "asmr-ai-studio",
+    "created_at": "02:44:03 11/10/2025"
+  },
+  {
     "title": "Qwikrank",
     "name": "Qwikrank",
     "description": "Automates AI SEO content creation and enhances organic traffic.",
@@ -24901,6 +24919,15 @@
     "created_at": "14:12:18 11/07/2025"
   },
   {
+    "title": "GEMPIX2 - Free Nano Banana 2 AI Image Generator",
+    "name": "GEMPIX2 - Free Nano Banana 2 AI Image Generator",
+    "description": "Free AI image generator powered by Google Nano Banana 2.",
+    "website": "https://gempix2.photo",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Prompt Generator",
+    "slug": "gempix2-free-nano-banana-2-ai-image-generator",
+    "created_at": "02:44:03 11/10/2025"
+  },
+  {
     "title": "ChatbotX",
     "name": "inextlabs.com",
     "description": "AI-powered Chatbots and Voicebots",
@@ -25520,6 +25547,15 @@
     "categories": "AI Book Writing, AI Ebook Generator, AI Writing",
     "slug": "writeabookai",
     "created_at": "02:18:58 10/09/2025"
+  },
+  {
+    "title": "UndetectedGPT",
+    "name": "UndetectedGPT",
+    "description": "Humanize AI writing. Bypass detection. Stay authentic.",
+    "website": "https://www.undetectedgpt.ai",
+    "categories": "Undetectable AI, AI Writing, AI Bypasser, AI Detector, Humanizer AI",
+    "slug": "undetectedgpt",
+    "created_at": "02:44:03 11/10/2025"
   },
   {
     "title": "Behind SaaS",
