@@ -2529,6 +2529,15 @@
     "created_at": "02:44:00 07/04/2025"
   },
   {
+    "title": "Sheet0",
+    "name": "Sheet0",
+    "description": "AI spreadsheet agent for automated, accurate data collection and analysis.",
+    "website": "https://sheet0.com",
+    "categories": "AI Spreadsheet, AI Agent, AI Web Scraping, AI Assistant",
+    "slug": "sheet0",
+    "created_at": "14:12:45 11/11/2025"
+  },
+  {
     "title": "Olle",
     "name": "Olle - AI Powered Toolbar Assistant",
     "description": "Your AI-powered toolbar assistant for seamless website and application usage.",
@@ -2671,6 +2680,15 @@
     "categories": "AI Chatbot, AI Content Generator, Large Language Models (LLMs)",
     "slug": "aida",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "vidflux",
+    "name": "vidflux",
+    "description": "AI platform for professional video creation from text and images.",
+    "website": "https://vidflux.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Animated Video",
+    "slug": "vidflux",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "PrompTune",
@@ -4191,6 +4209,15 @@
     "categories": "AI SEO Assistant, AI YouTube Assistant, AI Blog Writer, General Writing, Writing Assistants, AI Content Generator, Copywriting",
     "slug": "seo-bot",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "Ketchup AI",
+    "name": "Ketchup AI",
+    "description": "AI image editor & generator for hyperrealistic 4K images with precise control.",
+    "website": "https://ketchupai.ai",
+    "categories": "AI Image Generator, AI Photo Editor, AI Realistic Image Generator, Text to Image, AI Image Enhancer",
+    "slug": "ketchup-ai-1",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "Audio2Text",
@@ -6036,6 +6063,15 @@
     "categories": "AI Speech Synthesis, Text-to-Speech",
     "slug": "spakfly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2-",
+    "description": "Next-gen AI image generator with conversational editing and consistent results.",
+    "website": "https://nano-banana-2.net",
+    "categories": "AI Image Generator, AI Art Generator, AI Photo Editor, Text to Image, AI Style Transfer",
+    "slug": "nano-banana-2-2",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "Seedream 4.0",
@@ -11428,6 +11464,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nano BiBi",
+    "name": "Nano BiBi",
+    "description": "Batch-generate, edit, and process images, videos, and audio — all powered by AI.",
+    "website": "https://nanobibi.com",
+    "categories": "AI Age Progression, AI Background Remover, AI Clothing Removal, AI Expand Image, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Inpainting, AI Outpainting, AI Photo Editor, AI Photo Enhancer, AI Photo Restoration, AI Style Transfer, Image to Image, Object Remover AI, Text to Image",
+    "slug": "nano-bibi",
+    "created_at": "14:12:45 11/11/2025"
+  },
+  {
     "title": "AppearOnAI",
     "name": "AppearOnAI",
     "description": "Optimizes website visibility in AI chatbots with actionable insights.",
@@ -12391,6 +12436,15 @@
     "created_at": "14:11:46 06/21/2025"
   },
   {
+    "title": "Passionfruit Labs",
+    "name": "Passionfruit Labs",
+    "description": "AI Search Optimization Platform for revenue, citations, sentiment, and recommendations.",
+    "website": "https://www.getpassionfruit.ai",
+    "categories": "AI SEO Tools, AI Marketing, AI Digital Marketing, AI For Data Analytics",
+    "slug": "passionfruit-labs",
+    "created_at": "14:12:45 11/11/2025"
+  },
+  {
     "title": "Hastewire",
     "name": "Hastewire",
     "description": "AI tools for content humanization and workflow automation.",
@@ -12479,6 +12533,15 @@
     "categories": "AI Content Generator, AI Advertising Assistant, AI Rewriter, AI Blog Writer, AI Repurpose Assistant, Writing Assistants, AI Ad Generator, AI Ad Creative Assistant",
     "slug": "sentencefy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Crano AI",
+    "name": "Crano AI",
+    "description": "Free uncensored platform for creating AI videos, images, and music.",
+    "website": "https://crano.ai",
+    "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Music Generator, AI Text-to-Music, AI Text-to-Speech, AI Animation Generator, AI Movie Generator, AI Short Video Generator, Image to Video, Text to Video",
+    "slug": "crano-ai",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "Sohri",
@@ -16081,6 +16144,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Gempix 2",
+    "name": "Gempix 2",
+    "description": "Advanced AI photo editor for professional image editing and generation.",
+    "website": "https://gempix2ai.ai",
+    "categories": "AI Photo Editor, AI Image Generator, AI Image Enhancer, Image to Image, Text to Image, Object Remover AI, AI Video Generator",
+    "slug": "gempix-2",
+    "created_at": "14:12:45 11/11/2025"
+  },
+  {
     "title": "Max Studio AI",
     "name": "Max Studio AI",
     "description": "AI tools for creativity and image enhancement in one platform.",
@@ -17323,6 +17395,15 @@
     "created_at": "02:54:14 07/18/2025"
   },
   {
+    "title": "saro2",
+    "name": "saro2",
+    "description": "AI video generator for cinematic, watermark-free videos from text/images.",
+    "website": "https://saro2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Ad Generator, AI Short Video Generator, AI Tiktok Video Generator, AI Watermark Remover",
+    "slug": "saro2",
+    "created_at": "14:12:45 11/11/2025"
+  },
+  {
     "title": "LLM Gateway",
     "name": "LLM Gateway",
     "description": "Unified API to route, manage, and analyze LLM requests.",
@@ -18212,6 +18293,15 @@
     "categories": "AI Video Generator, AI Voice Cloning, AI Celebrity Voice Generator, Text to Video, AI Voice Generator, AI Text-to-Speech",
     "slug": "celebrity-ai",
     "created_at": "02:27:46 08/31/2025"
+  },
+  {
+    "title": "Defapi",
+    "name": "Defapi",
+    "description": "Unified API platform for top AI models.",
+    "website": "https://defapi.org",
+    "categories": "AI API, AI Models, AI Developer Tools, Large Language Models (LLMs)",
+    "slug": "defapi",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "Girl Cool Anime Wallpaper",
@@ -20104,6 +20194,15 @@
     "created_at": "02:21:32 10/16/2025"
   },
   {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2 – Gemini 2.5 Flash Image & AI Image Studio",
+    "description": "AI image studio for Gemini 2.5 Flash with text-to-image and image-to-image.",
+    "website": "https://nanobanana-2.app",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Inpainting, AI Art Generator",
+    "slug": "nano-banana-2-gemini-2-5-flash-image-ai-image-studio",
+    "created_at": "14:12:45 11/11/2025"
+  },
+  {
     "title": "Screenz.ai",
     "name": "Screenz Live AI Recruiter Interviews",
     "description": "AI-powered platform for automated first-round candidate screening.",
@@ -21002,6 +21101,15 @@
     "categories": "AI SEO Assistant, AI Social Media Assistant, AI Tiktok Assistant, AI Chatbot, AI Design Generator, AI Graphic Design, Design Assistant, AI Website Designer, Game, Prompt, AI Forms & Surveys, Copywriting, AI Website Builder, No-Code&Low-Code, AI App Builder",
     "slug": "heyboss",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "711Proxy",
+    "name": "711Proxy",
+    "description": "Global high-quality residential IP proxy provider for data scraping.",
+    "website": "https://www.711proxy.com",
+    "categories": "AI For Data Analytics, AI Web Scraping, AI Data Mining, AI Developer Tools",
+    "slug": "711proxy",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "Peony",
@@ -24836,6 +24944,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs)",
     "slug": "supermemory-1",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "Nano Banana 2 AI",
+    "name": "Nano Banana 2 AI",
+    "description": "AI image generator and photo editor for 4K images with perfect text.",
+    "website": "https://nanobanana2ai.io",
+    "categories": "AI Image Generator, AI Photo Editor, AI Art Generator, Text to Image, AI Image Upscaler, AI Photo Restoration, Image to Image, AI Interior Design, AI Product Photography",
+    "slug": "nano-banana-2-ai",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "BestPhotoAI",
@@ -28852,6 +28969,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Citable",
+    "name": "Citable",
+    "description": "Optimize brand visibility and citation in AI search results.",
+    "website": "https://citable.xyz",
+    "categories": "AI SEO Tools, AI Marketing, AI Monitor, AI Digital Marketing",
+    "slug": "citable",
+    "created_at": "14:12:45 11/11/2025"
+  },
+  {
     "title": "Hivescout",
     "name": "Hivescout - Community Engagement Tool",
     "description": "AI tool for community engagement and audience connection.",
@@ -29579,6 +29705,15 @@
     "categories": "AI Video Generator, AI Image Generator, AI Music Generator, Text to Video, AI Sound Effect Generator, AI Text-to-Speech, Image to Video",
     "slug": "万兴天幕创作广场",
     "created_at": "02:15:29 09/10/2025"
+  },
+  {
+    "title": "Tunee AI",
+    "name": "Tunee AI",
+    "description": "Conversational AI music agent for easy song creation.",
+    "website": "https://www.tunee.ai",
+    "categories": "AI Music Generator, AI Agent, AI Song Generator, AI Melody Generator, AI Lyrics Generator",
+    "slug": "tunee-ai",
+    "created_at": "14:12:45 11/11/2025"
   },
   {
     "title": "VSona",
