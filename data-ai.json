@@ -378,6 +378,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Flux 2 AI",
+    "name": "Flux 2 AI",
+    "description": "AI image generator for text-to-image, image-to-image, and multi-image workflows.",
+    "website": "https://flux-2.com",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator",
+    "slug": "flux-2-ai",
+    "created_at": "02:27:38 11/12/2025"
+  },
+  {
     "title": "Homesage.ai",
     "name": "Homesage.ai",
     "description": "Homesage.ai is an AI-powered real estate platform that delivers cutting-edge insights on 140M+ U.S. residential properties to investors, realtors, lenders and IT developers. The company uses computer vision and advanced AI models to identify investment opportunities, generate full property reports, and provide well-documented real estate and home improvement APIs. It also offers custom AI solutions for the real estate, financial and insurance industries.",
@@ -13273,6 +13282,15 @@
     "created_at": "14:09:23 04/05/2025"
   },
   {
+    "title": "Omnilingual Asr",
+    "name": "Omnilingual Asr",
+    "description": "Unifies speech recognition across 1,600+ languages using AI and LLM-enhanced decoders.",
+    "website": "https://omnilingualasr.net",
+    "categories": "AI Speech Recognition, AI Speech-to-Text, AI Transcription, AI Transcriber, AI Translate",
+    "slug": "omnilingual-asr",
+    "created_at": "02:27:38 11/12/2025"
+  },
+  {
     "title": "Mujo AI",
     "name": "Mujo AI",
     "description": "AI design agent. One photo into complete set of ecom product images+copy",
@@ -15386,6 +15404,15 @@
     "categories": "AI Accounting, AI Agent, AI Copilot, AI Assistant, AI For Finance",
     "slug": "docyt",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "888poker AI Bot and Real-Time Assistance Software",
+    "name": "888poker AI Bot and Real-Time Assistance Software",
+    "description": "With 888poker AI Bot Assistant, take your poker strategy to the next level with the power of AI and a proprietary AI, trained on BILLIONS OF REAL-WORLD HANDS to give you a deep understanding of how you play and the ability to develop better poker strategies using GTO (Game Theory Optimal) techniques.  Use it as a post session review tool to spot leaks in your game and optimize your strategy to maximize your profit, but it's also a great educational tool to help you develop new skills, such as table selection, opponent analysis and a Real Time Assistant (RTA) to assist you with learning complex spots and how to play them optimally.  It has an Automated Play feature, so you can let the AI play for you 24/7. It is a completely remote managed tool, so you can control and monitor it from anywhere, using a secure web panel, that gives you a lot of detailed statistics and information about how well the AI is performing, how many hands per hour it is playing, etc.",
+    "website": "https://888pokerbot.com",
+    "categories": "AI Poker, AI Robot",
+    "slug": "888poker-ai-bot-and-real-time-assistance-software",
+    "created_at": "02:27:38 11/12/2025"
   },
   {
     "title": "CharaLab",
@@ -24305,6 +24332,15 @@
     "categories": "AI Poem & Poetry Generator, AI Short Clips Generator",
     "slug": "image2poemclip",
     "created_at": "14:12:40 04/15/2025"
+  },
+  {
+    "title": "best AI tools",
+    "name": "best AI tools",
+    "description": "Guide to best AI tools for career, productivity, and project management.",
+    "website": "https://navai.me",
+    "categories": "AI Tools Directory, AI Reviews, AI Tutorial",
+    "slug": "best-ai-tools",
+    "created_at": "02:27:38 11/12/2025"
   },
   {
     "title": "Yetvos - AI-Powered Branding Suite",
