@@ -2502,6 +2502,15 @@
     "created_at": "14:12:15 08/27/2025"
   },
   {
+    "title": "Vibe Architect",
+    "name": "Vibe Architect",
+    "description": "Turn your Lovable prototype into a real app with Momen. One prompt connects your UI to a visual backend with AI agents, user system, and business features.",
+    "website": "https://momen.app",
+    "categories": "AI App Builder, AI Developer Tools, AI Website Builder, No-Code&Low-Code, AI Agent",
+    "slug": "vibe-architect",
+    "created_at": "14:12:59 11/13/2025"
+  },
+  {
     "title": "Aide",
     "name": "Aide Dev",
     "description": "Intelligent coding assistant for efficient programming.",
@@ -3618,6 +3627,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Van Gogh Free Video Generator",
+    "name": "Van Gogh Free Video Generator",
+    "description": "AI video generator for artistic videos from text/images.",
+    "website": "https://freevideogenerator.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
+    "slug": "van-gogh-free-video-generator",
+    "created_at": "14:12:59 11/13/2025"
+  },
+  {
     "title": "brainwashd",
     "name": "brainwashd",
     "description": "\"brainwashd is a Chrome extension that provides real-time analysis on tweets and news to detect misinformation.\"",
@@ -3967,6 +3985,15 @@
     "categories": "Parenting, Legal Assistant",
     "slug": "parental-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Graphis",
+    "name": "Graphis",
+    "description": "AI content project management platform for creators and agencies.",
+    "website": "https://graphis.ai",
+    "categories": "Whiteboard AI, AI Image Generator, AI Video Generator, AI Art Generator, AI Workflow",
+    "slug": "graphis",
+    "created_at": "14:12:59 11/13/2025"
   },
   {
     "title": "Uplodio",
@@ -5102,6 +5129,15 @@
     "created_at": "14:15:43 07/31/2025"
   },
   {
+    "title": "Hopx",
+    "name": "The Cloud for AI Agents",
+    "description": "Secure, blazing-fast Linux micro-VMs for AI agents and untrusted code execution.",
+    "website": "https://hopx.ai",
+    "categories": "AI Agent, AI Developer Tools, AI API, AI Workflow",
+    "slug": "the-cloud-for-ai-agents",
+    "created_at": "14:12:59 11/13/2025"
+  },
+  {
     "title": "ELMA",
     "name": "ELMA - Ultimate Email Agent",
     "description": "AI email marketing platform for automated, personalized campaigns.",
@@ -5703,6 +5739,15 @@
     "categories": "AI Video Generator, AI Animated Video, Script To Video AI Generator, Whiteboard AI, AI API",
     "slug": "golpo",
     "created_at": "14:17:21 08/06/2025"
+  },
+  {
+    "title": "Memorr.AI",
+    "name": "Memorr.ai",
+    "description": "Desktop app for Mac/Windows solving AI context loss with intelligent memory.",
+    "website": "https://www.memorr.ai",
+    "categories": "AI Chatbot, AI Assistant, AI Knowledge Management, AI Productivity Tools",
+    "slug": "memorr-ai",
+    "created_at": "14:12:59 11/13/2025"
   },
   {
     "title": "AI Anime Generator",
@@ -7136,6 +7181,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Loophole",
+    "name": "Loophole",
+    "description": "Invisible AI assistant for work and life productivity.",
+    "website": "https://getloophole.com",
+    "categories": "AI Assistant, AI Agent, AI Productivity Tools, AI Meeting Assistant, AI Copilot",
+    "slug": "loophole",
+    "created_at": "14:12:59 11/13/2025"
+  },
+  {
     "title": "Sara2.ai：Free Sora 2 AI Video Generator Online",
     "name": "Sara2.ai：Free Sora 2 AI Video Generator Online",
     "description": "Easily generate cinematic and anime-style videos with synchronized audio using OpenAI Sora 2 on Sara2.ai — fast, free, and no invite required.",
@@ -7926,6 +7980,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant, AI Lead Generation, Sales Assistant",
     "slug": "botb9-ai-chatbot-videobot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Discovr",
+    "name": "Discovr",
+    "description": "Science-backed app for self-discovery, mental health, and daily self-improvement.",
+    "website": "https://discovrapp.net",
+    "categories": "AI Therapist, AI Mental Health, AI Assistant, AI Coaching",
+    "slug": "discovr",
+    "created_at": "14:12:59 11/13/2025"
   },
   {
     "title": "AI Image Editor",
@@ -9276,6 +9339,15 @@
     "categories": "Other",
     "slug": "duplicatus",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Instories",
+    "name": "Instories",
+    "description": "AI-powered tool for creating animated stories, videos, and social media content.",
+    "website": "https://instories.com",
+    "categories": "AI Short Video Generator, AI Reel Generator, AI Social Media Post Generator, AI Ad Generator, Long Video To Short Video AI, AI Subtitle Generator",
+    "slug": "instories",
+    "created_at": "14:12:59 11/13/2025"
   },
   {
     "title": "Greetigo",
@@ -14992,6 +15064,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "Nepvox AI",
+    "name": "Nepvox AI",
+    "description": "Nepvox AI is an all-in-one voice and image generation platform offering powerful Text-to-Speech (TTS), Speech-to-Text (STT), and Text-to-Image (TTI) capabilities. Designed for creators and developers, Nepvox combines high-quality voice synthesis, fast API integration, and affordable pricing — making it a perfect alternative to expensive voice AI tools.",
+    "website": "https://nepvox.com",
+    "categories": "AI Text-to-Speech, Text to Image, AI Speech Synthesis, AI Speech-to-Text, AI Voice Generator, AI Voice Over, Audio To Text AI, AI PDF",
+    "slug": "nepvox-ai",
+    "created_at": "14:12:59 11/13/2025"
+  },
+  {
     "title": "fluxcontext.app",
     "name": "fluxcontext.app",
     "description": "AI-powered online image enhancement, restoration, and transformation.",
@@ -17708,6 +17789,15 @@
     "categories": "AI Code Assistant, AI Code Generator, AI Developer Tools, AI Agent, AI Copilot",
     "slug": "kiro-ai",
     "created_at": "02:51:35 07/16/2025"
+  },
+  {
+    "title": "RevenuePage",
+    "name": "RevenuePage",
+    "description": "Status page for verified revenue metrics for founders.",
+    "website": "https://revenuepage.com",
+    "categories": "AI For Finance, AI For Data Analytics, AI Report Generator",
+    "slug": "revenuepage",
+    "created_at": "14:12:59 11/13/2025"
   },
   {
     "title": "DGi",
@@ -22552,6 +22642,15 @@
     "created_at": "14:15:50 08/01/2025"
   },
   {
+    "title": "My Tattoo Ideas",
+    "name": "My Tattoo Ideas",
+    "description": "AI tattoo generator, design refiner, and body preview studio.",
+    "website": "https://mytattooideas.ai",
+    "categories": "AI Tattoo Generator, AI Design Generator, AI Art Generator",
+    "slug": "my-tattoo-ideas",
+    "created_at": "14:12:59 11/13/2025"
+  },
+  {
     "title": "Hairstyle AI",
     "name": "Hairstyle AI",
     "description": "AI tool for virtual hairstyle and color try-on.",
@@ -24107,6 +24206,15 @@
     "categories": "AI Monitor, AI Github, AI Developer Tools, AI For Data Analytics, AI Productivity Tools",
     "slug": "gitcord",
     "created_at": "14:13:23 07/07/2025"
+  },
+  {
+    "title": "Marble",
+    "name": "Marble",
+    "description": "Platform for generating, editing, and sharing high-fidelity 3D worlds.",
+    "website": "https://marble.worldlabs.ai",
+    "categories": "AI 3D Model Generator, Text to 3D, Image to 3D Model, AI Landscape Generator",
+    "slug": "marble",
+    "created_at": "14:12:59 11/13/2025"
   },
   {
     "title": "Huxe",
