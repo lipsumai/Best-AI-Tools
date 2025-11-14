@@ -1125,6 +1125,15 @@
     "created_at": "14:17:21 08/06/2025"
   },
   {
+    "title": "Viw AI",
+    "name": "Viw AI",
+    "description": "All-in-one AI video and image generator with advanced models.",
+    "website": "https://viw.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Bikini",
+    "slug": "viw-ai",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "Codien",
     "name": "Codien",
     "description": "AI agent for migrating Protractor/Selenium tests to Playwright and writing new tests.",
@@ -1132,6 +1141,15 @@
     "categories": "AI Testing, AI Code Generator, AI Developer Tools, AI Rewriter",
     "slug": "codien",
     "created_at": "14:12:04 07/17/2025"
+  },
+  {
+    "title": "Hathora Models",
+    "name": "Hathora",
+    "description": "Platform for building low-latency voice AI agents with ASR, TTS, and LLM models.",
+    "website": "https://models.hathora.dev",
+    "categories": "AI Models, AI API, AI Speech Recognition, AI Text-to-Speech, AI Speech-to-Text, Large Language Models (LLMs), AI Voice Cloning",
+    "slug": "hathora",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "GemPix2.ai ：Free Google Gempix 2 For AI Image Generation & Photo Editor",
@@ -1249,6 +1267,15 @@
     "categories": "Mental Health",
     "slug": "the-garden-journal",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Khorus",
+    "name": "Khorus",
+    "description": "Platform for building, deploying, and tokenizing AI applications with on-chain agents.",
+    "website": "https://khorus.io",
+    "categories": "AI Agent, AI Task Management, AI Developer Tools, AI Workflow, AI Robot, Blockchain, Web3, AI API",
+    "slug": "khorus",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "Minddex.ai",
@@ -5057,6 +5084,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "Kadabra",
+    "name": "Kadabra",
+    "description": "AI agent for automating data and business workflows.",
+    "website": "https://getkadabra.com",
+    "categories": "AI Workflow, AI Agent, No-Code&Low-Code, AI Productivity Tools, AI Assistant",
+    "slug": "kadabra",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "Legal Assist AI",
     "name": "Legal Assist AI 2.0",
     "description": "Revolutionize legal workflows with AI",
@@ -5390,6 +5426,15 @@
     "created_at": "02:26:10 10/13/2025"
   },
   {
+    "title": "Rally",
+    "name": "Rally Tax",
+    "description": "AI-powered tax planning to discover savings in 60 seconds.",
+    "website": "https://rally.tax",
+    "categories": "AI Tax Assistant, AI For Finance, AI Accounting",
+    "slug": "rally-tax",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "Vita",
     "name": "Vita",
     "description": "Make healthier choices with Vita's detailed food scanning and nutritional breakdowns.",
@@ -5685,6 +5730,15 @@
     "categories": "AI CRM Assistant, AI Lead Generation, Sales Assistant, AI Email Writer",
     "slug": "attio",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "OiiOii.ai",
+    "name": "OiiOii ai",
+    "description": "AI animation agent team to bring animation dreams to life.",
+    "website": "https://www.oiioii.ai",
+    "categories": "AI Animation Generator, AI Agent, AI Video Generator, AI Anime Generator, AI Story Generator, AI Music Video Generator",
+    "slug": "oiioii-ai",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "Readdy",
@@ -8126,6 +8180,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Cranston AI",
+    "name": "Cranston AI",
+    "description": "AI accounting firm with CPA supervision for automated finance.",
+    "website": "https://cranstonai.com",
+    "categories": "AI Accounting, AI For Finance, AI Tax Assistant, AI Workflow",
+    "slug": "cranston-ai",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "Organelle",
     "name": "Organelle",
     "description": "Organelle offers online blood tests for personalized healthcare, connecting you with experts for better health.",
@@ -8648,6 +8711,15 @@
     "created_at": "14:12:58 06/17/2025"
   },
   {
+    "title": "Oasi",
+    "name": "Oasi",
+    "description": "AI-driven social media for human-AI interaction and content generation.",
+    "website": "https://www.oasi.ai",
+    "categories": "AI Social Media, AI Agent, AI Social Media Post Generator",
+    "slug": "oasi",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "Orate",
     "name": "Orate",
     "description": "macOS app turning highlighted text into AI speech.",
@@ -8898,6 +8970,15 @@
     "categories": "AI Analytics Assistant",
     "slug": "flowtestai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Fuser",
+    "name": "Fuser",
+    "description": "AI-powered creative workspace for designing workflows across all mediums.",
+    "website": "https://fuser.studio",
+    "categories": "AI Graphic Design, AI Image Generator, AI Video Generator, AI 3D Model Generator",
+    "slug": "fuser",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "n8n",
@@ -11984,6 +12065,15 @@
     "categories": "AI Chatbot, AI Advertising Assistant, AI Customer Service Assistant, AI Lead Generation, AI Response Generator, AI Voice Assistants",
     "slug": "diyva",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Duos",
+    "name": "Duos AI",
+    "description": "AI mock interview simulator for gamified, realistic job interview preparation.",
+    "website": "https://duos-ai.com",
+    "categories": "AI Interview Assistant, AI Coaching, AI Assistant",
+    "slug": "duos-ai",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "Pykaso AI",
@@ -17449,6 +17539,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Avaturn Live",
+    "name": "Avaturn Live",
+    "description": "Human-like AI avatars for instant, natural business interactions, boosting growth and cutting costs.",
+    "website": "https://avaturn.live",
+    "categories": "AI Agent, AI Avatar Generator, AI Assistant, AI Customer Service, AI Sales Assistant, AI API, AI Roleplay",
+    "slug": "avaturn-live",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "Dreamhome",
     "name": "Dreamhome",
     "description": "Cutting-edge AI interior design platform.",
@@ -18005,6 +18104,15 @@
     "categories": "AI Recruiting",
     "slug": "jd-aid",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Waffo.ai",
+    "name": "Waffo.ai",
+    "description": "The best billing infrastructure partner handles Payment, Tax & subscriptions for AI companies",
+    "website": "https://waffo.ai",
+    "categories": "AI For Finance, AI Developer Tools, AI Tax Assistant",
+    "slug": "waffo-ai",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "Swift Reply",
@@ -20734,6 +20842,15 @@
     "created_at": "14:10:26 06/04/2025"
   },
   {
+    "title": "Peakforms",
+    "name": "Peakforms",
+    "description": "AI-powered conversational form builder for deep, actionable user insights.",
+    "website": "https://peakforms.app",
+    "categories": "AI Forms, AI Chatbot, AI Customer Service",
+    "slug": "peakforms",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "GemPix2",
     "name": "GemPix2-",
     "description": "Unified AI image generator and editor for on-brand visuals.",
@@ -20822,6 +20939,15 @@
     "categories": "AI Tiktok Video Generator, AI Video Editor, Script To Video AI Generator, Long Video To Short Video AI, Image to Video, AI Youtube Video Maker, AI Vtuber, AI Video Upscaler, AI Video Summarizer, AI Video Search, AI Video Recording, AI Video Generator, AI Video Enhancer, AI UGC Video Generator, AI Animated Video, AI Stock Video Generator, AI Short Video Generator, AI Reel Generator, AI Music Video Generator, AI Movie Generator, AI Lip Sync Generator, AI GIF Generator, AI Face Swap Video, AI Commercial Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, Text to Video",
     "slug": "sora-2-ai-video-generator",
     "created_at": "14:09:29 10/05/2025"
+  },
+  {
+    "title": "Waldium",
+    "name": "Waldium",
+    "description": "Autonomous AI blog platform for developer tools and technical content.",
+    "website": "https://waldium.com",
+    "categories": "AI Blog Generator, AI SEO Tools, AI Writing, SEO Writing AI, AI Text Generator",
+    "slug": "waldium",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "AceUnlock",
@@ -24325,6 +24451,15 @@
     "created_at": "14:12:18 11/07/2025"
   },
   {
+    "title": "Cotera",
+    "name": "Cotera",
+    "description": "AI agent platform for building autonomous agents and automating workflows.",
+    "website": "https://cotera.co",
+    "categories": "AI Agent, AI Assistant, No-Code&Low-Code, AI Workflow, AI Productivity Tools",
+    "slug": "cotera",
+    "created_at": "14:13:07 11/14/2025"
+  },
+  {
     "title": "DeepSeek AI",
     "name": "DeepSeek-AI",
     "description": "Provider of advanced AI language models and enterprise solutions.",
@@ -26807,6 +26942,15 @@
     "categories": "AI Developer Tools",
     "slug": "memu",
     "created_at": "02:44:24 08/09/2025"
+  },
+  {
+    "title": "Sprites AI",
+    "name": "Sprites.ai",
+    "description": "AI marketing agent for automated customer acquisition and growth.",
+    "website": "https://www.sprites.ai",
+    "categories": "AI Marketing, AI Agent, AI Advertising, AI SEO Tools, AI Digital Marketing, AI Workflow, No-Code&Low-Code",
+    "slug": "sprites-ai",
+    "created_at": "14:13:07 11/14/2025"
   },
   {
     "title": "Dubb",
