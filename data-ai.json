@@ -315,6 +315,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "Music AI Studio",
+    "name": "Music AI Studio",
+    "description": "AI Music Generator & Song Maker for production.",
+    "website": "https://music-ai.studio",
+    "categories": "AI Music Generator, AI Song Generator, AI Vocal Remover, AI Stems Splitter, AI Cover Generator",
+    "slug": "music-ai-studio",
+    "created_at": "02:28:29 11/14/2025"
+  },
+  {
     "title": "Dawiso",
     "name": "Dawiso",
     "description": "Unified data governance platform with AI-powered cataloging and documentation to enable efficient and trusted data use.",
@@ -4373,6 +4382,15 @@
     "created_at": "02:29:02 11/06/2025"
   },
   {
+    "title": "Horizon",
+    "name": "Horizon",
+    "description": "Horizon is an AI-powered trading platform that turns simple English into full trading strategies. Describe your idea, and Horizon instantly builds the logic, backtests it, and lets you deploy it live. No coding, no complexity.",
+    "website": "https://horizon-trade.com",
+    "categories": "AI Investing, AI Stock Trading, AI Trading Bot",
+    "slug": "horizon",
+    "created_at": "02:28:29 11/14/2025"
+  },
+  {
     "title": "Arti.pics",
     "name": "Arti.pics",
     "description": "AI-powered avatar maker generates 200+ cool avatars from your photos.",
@@ -7206,6 +7224,15 @@
     "categories": "AI Video Generator, Text to Video, AI Animated Video, Video to Video, AI Video Editor, AI Video Recording, AI Content Generator, AI Script Writing, AI UGC Video Generator",
     "slug": "framepack",
     "created_at": "14:10:50 04/18/2025"
+  },
+  {
+    "title": "AI Homework Helper",
+    "name": "AI Homework Helper-",
+    "description": "AI-powered homework solver providing instant, step-by-step solutions from photos.",
+    "website": "https://aipictureanswer.com",
+    "categories": "AI Homework Helper, AI Answer, AI Math, AI OCR, AI Image Recognition",
+    "slug": "ai-homework-helper-1",
+    "created_at": "02:28:29 11/14/2025"
   },
   {
     "title": "CodeBanana",
@@ -10574,6 +10601,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Rock-n-Roll",
+    "name": "Rock-n-Roll",
+    "description": "AI platform for founders to create structured product plans and AI-ready prompts.",
+    "website": "https://rocknroll.dev",
+    "categories": "AI Product Manager, AI Roadmap, AI Project Management, AI Business Ideas Generator",
+    "slug": "rock-n-roll",
+    "created_at": "02:28:29 11/14/2025"
+  },
+  {
     "title": "gaidme",
     "name": "gaidme",
     "description": "AI tool for generating terminal commands easily.",
@@ -10852,6 +10888,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PhotoAI - AI Art and Face Swap (ios)",
+    "name": "PhotoAI - AI Art and Face Swap (ios)",
+    "description": "AI-powered photo editing app for art, face swap, and style transformation.",
+    "website": "https://apps.apple.com/us/app/photoai-ai-art-and-face-swap/id6484276092",
+    "categories": "AI Face Swap Generator, AI Art Generator, AI Photo Editor, AI Hairstyle, AI Clothing Generator, AI Yearbook",
+    "slug": "photoai-ai-art-and-face-swap-ios",
+    "created_at": "02:28:29 11/14/2025"
+  },
+  {
     "title": "SmartLeadMagnet",
     "name": "Samrt Lead Magnet",
     "description": "A platform for creating AI-driven lead magnets to boost conversions.",
@@ -11012,6 +11057,15 @@
     "categories": "AI 3D Model Generator, AI Image Generator, Image to Image, Text to Image, Image to 3D Model, Text to 3D",
     "slug": "gen3d-ai-3d-generator",
     "created_at": "02:18:17 09/24/2025"
+  },
+  {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2",
+    "description": "Next-generation AI image editor with advanced features and multi-model integration.",
+    "website": "https://nano-banana2.co",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Image Upscaler",
+    "slug": "nano-banana-2-next-generation-ai-image-editor-nano-banana-2",
+    "created_at": "02:28:29 11/14/2025"
   },
   {
     "title": "Nano Banana AI Online",
@@ -15127,6 +15181,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Superapp",
+    "name": "Superapp",
+    "description": "AI platform for building native iOS apps without code.",
+    "website": "https://www.superappp.com",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator",
+    "slug": "superapp",
+    "created_at": "02:28:29 11/14/2025"
+  },
+  {
     "title": "AstroChart.ai",
     "name": "AstroChart.ai",
     "description": "Your personal AI astrologist for comprehensive, multi-system astrological insights and readings.",
@@ -15953,6 +16016,15 @@
     "categories": "AI Content Generator, AI SEO Assistant",
     "slug": "the-pr-creator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "cto.new",
+    "name": "cto.new",
+    "description": "Free AI code agent using frontier models from Anthropic, OpenAI.",
+    "website": "https://cto.new",
+    "categories": "AI Code Assistant, AI Agent, AI Code Generator, AI Developer Tools",
+    "slug": "cto-new",
+    "created_at": "02:28:29 11/14/2025"
   },
   {
     "title": "CooperJobs",
@@ -22714,6 +22786,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "cubic",
+    "name": "cubic",
+    "description": "cubic",
+    "website": "https://www.cubic.dev",
+    "categories": "AI Developer Tools",
+    "slug": "cubic",
+    "created_at": "02:28:29 11/14/2025"
+  },
+  {
     "title": "LIP-SYNC",
     "name": "LIP-SYNC",
     "description": "AI lip sync technology transforms photos into lifelike talking videos.",
@@ -23812,6 +23893,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0",
+    "description": "AI video generation from text and images.",
+    "website": "https://seedance2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "seedance-2-0",
+    "created_at": "02:28:28 11/14/2025"
+  },
+  {
     "title": "Style Me AI",
     "name": "Style Me AI Create cover photo",
     "description": "Generate cover photos in multiple styles from a single portrait photo.",
@@ -24674,6 +24764,15 @@
     "categories": "AI Chatbot, AI Lead Generation, AI Product Description Generator, Large Language Models (LLMs), No-Code&Low-Code, AI Advertising Assistant, AI Website Builder, AI Customer Service Assistant",
     "slug": "presbot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Crustdata",
+    "name": "Signal Watcher",
+    "description": "Real-time B2B company and people data via API or data feed.",
+    "website": "https://trycrustdata.com",
+    "categories": "AI API, AI Agent, AI Sales, AI Recruiting, AI Investing",
+    "slug": "signal-watcher",
+    "created_at": "02:28:29 11/14/2025"
   },
   {
     "title": "Rorrim - Smart AI Journal",
@@ -27617,6 +27716,15 @@
     "categories": "AI SEO Assistant, AI Response Generator",
     "slug": "quick-post-wp",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hiperyon",
+    "name": "Hiperyon",
+    "description": "Chrome extension for unified AI memory across LLMs, boosting productivity and context retention.",
+    "website": "https://hiperyon.com",
+    "categories": "AI Productivity Tools, AI Assistant, Large Language Models (LLMs), AI Workflow",
+    "slug": "hiperyon",
+    "created_at": "02:28:29 11/14/2025"
   },
   {
     "title": "Secur3D",
