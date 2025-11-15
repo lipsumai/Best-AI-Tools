@@ -558,6 +558,15 @@
     "created_at": "02:26:51 10/31/2025"
   },
   {
+    "title": "AIGrammarChecker",
+    "name": "AIGrammarChecker",
+    "description": "Grammar Checker",
+    "website": "https://aigrammarchecker.io",
+    "categories": "AI Grammar Checker",
+    "slug": "aigrammarchecker",
+    "created_at": "14:11:07 11/15/2025"
+  },
+  {
     "title": "Hera – Your AI Motion Designer",
     "name": "Hera AI",
     "description": "AI motion designer for instant, professional motion graphics and animations.",
@@ -3339,6 +3348,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "V2Sota",
+    "name": "V2Sota",
+    "description": "AI video generator for cinematic HD videos with sound.",
+    "website": "https://v2sota.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Models",
+    "slug": "v2sota-sora-2-ai-video-generator",
+    "created_at": "14:11:07 11/15/2025"
+  },
+  {
     "title": "Oh My Images",
     "name": "Oh My Images",
     "description": "Free AI image generator powered by Nano banana for stunning visuals.",
@@ -4785,6 +4803,15 @@
     "categories": "Design Assistant, AI Font, AI Blog Writer, General Writing",
     "slug": "typiq",
     "created_at": "14:12:41 05/20/2025"
+  },
+  {
+    "title": "AI Photo Enhancer",
+    "name": "AI Photo Enhancer-",
+    "description": "AI photo enhancer and 4K upscaler for clearer, higher quality images.",
+    "website": "https://www.aiphotoenhancer.pro",
+    "categories": "AI Photo Enhancer, AI Image Upscaler, AI Photo Restoration, AI Unblur Image, AI Image Sharpening, AI Video Enhancer, AI Photo Editor",
+    "slug": "ai-photo-enhancer-1",
+    "created_at": "14:11:07 11/15/2025"
   },
   {
     "title": "FACY AI - Face Swap Photos & Videos",
@@ -7386,6 +7413,15 @@
     "categories": "AI Website Builder, AI Product Description Generator, No-Code&Low-Code, AI App Builder",
     "slug": "storymaster",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Codewiki",
+    "name": "Codewiki",
+    "description": "Intelligence hub tracking Google's AI-powered Code Wiki and related entities.",
+    "website": "https://codewiki.ai",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Documents Generator, AI Chatbot, AI Diagram Generator, AI Knowledge Base",
+    "slug": "codewiki",
+    "created_at": "14:11:07 11/15/2025"
   },
   {
     "title": "Speak",
@@ -12823,6 +12859,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Rankpilot - Generate SEO & GEO Content on Autopilot",
+    "name": "Rankpilot - Generate SEO & GEO Content on Autopilot",
+    "description": "AI SEO copilot for Google and AI search, automating content creation and ranking.",
+    "website": "https://rankpilot.i10x.ai",
+    "categories": "AI SEO Tools, AI Copilot, SEO Writing AI, AI Blog Generator, AI Digital Marketing, AI Marketing",
+    "slug": "rankpilot-generate-seo-geo-content-on-autopilot",
+    "created_at": "14:11:07 11/15/2025"
+  },
+  {
     "title": "Struct2AI",
     "name": "Struct2AI",
     "description": "Tool for sharing project structure with AI assistants.",
@@ -15217,6 +15262,15 @@
     "created_at": "14:12:59 11/13/2025"
   },
   {
+    "title": "AIPlagiarismChecker",
+    "name": "AIPlagiarismChecker",
+    "description": "Plagiarism Checker ensures fast, accurate, and original content verification.",
+    "website": "https://aiplagiarismchecker.io",
+    "categories": "AI Plagiarism Checker",
+    "slug": "aiplagiarismchecker",
+    "created_at": "14:11:07 11/15/2025"
+  },
+  {
     "title": "fluxcontext.app",
     "name": "fluxcontext.app",
     "description": "AI-powered online image enhancement, restoration, and transformation.",
@@ -17512,6 +17566,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AskNova Dream Interpretation - World’s First AI Dream Playground",
+    "name": "AskNova Dream Interpretation - World’s First AI Dream Playground",
+    "description": "AskNova helps you reconnect with your dreams in a vivid, immersive way. Instead of simply writing down what you remember, AskNova blends AI, sound, and guided exploration to bring back the feelings, atmospheres, and details that usually fade by morning. It’s designed not as a tool, but as a journey — a place where dream recall becomes deeper, richer, and unexpectedly alive.",
+    "website": "https://www.dreaminterpretation.io",
+    "categories": "AI Dream Interpreter",
+    "slug": "asknova-dream-interpretation-world-s-first-ai-dream-playground",
+    "created_at": "14:11:07 11/15/2025"
+  },
+  {
     "title": "AI CakeMaker",
     "name": "AI CakeMaker",
     "description": "AI app for creating personalized cake designs instantly.",
@@ -18626,6 +18689,15 @@
     "categories": "AI Recruiting, AI Jobs, AI Assistant",
     "slug": "findhackers",
     "created_at": "14:12:34 09/25/2025"
+  },
+  {
+    "title": "AI Face Swap Video",
+    "name": "AI Face Swap Video",
+    "description": "AI tool for seamless face swapping in videos and photos.",
+    "website": "https://aifaceswapvideo.online",
+    "categories": "AI Face Swap Video, AI Face Swap Generator, AI Photo Editor, AI Meme Generator",
+    "slug": "ai-face-swap-video",
+    "created_at": "14:11:07 11/15/2025"
   },
   {
     "title": "Free AI Article Summarizer",
@@ -27770,6 +27842,15 @@
     "categories": "AI Knowledge Management, AI Assistant, AI Productivity Tools",
     "slug": "spydr-the-github-for-llm-context",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "AIImagetoText",
+    "name": "AIImagetoText",
+    "description": "Image to Text",
+    "website": "https://aiimagetotext.com",
+    "categories": "AI OCR, AI Describe Image, AI Image Recognition, AI Image Scanning, AI Image Segmentation, Image to Prompt",
+    "slug": "aiimagetotext",
+    "created_at": "14:11:07 11/15/2025"
   },
   {
     "title": "Nine Star Ki Mystical Astrology",
