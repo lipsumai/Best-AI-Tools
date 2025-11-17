@@ -1881,6 +1881,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Logo Generator",
+    "name": "AI Logo Generator-",
+    "description": "Free AI-powered online tool to design and download custom logos.",
+    "website": "https://logogenerator.design",
+    "categories": "AI Logo Generator, AI Design Generator, AI Graphic Design",
+    "slug": "ai-logo-generator-1",
+    "created_at": "14:13:27 11/17/2025"
+  },
+  {
     "title": "Music Eleven AI",
     "name": "Music Eleven AI",
     "description": "AI music generator",
@@ -1897,6 +1906,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Watermark Remover, AI Image Generator, AI Photo Editor",
     "slug": "sora-2-2",
     "created_at": "02:26:33 11/04/2025"
+  },
+  {
+    "title": "EnhancePhoto AI",
+    "name": "EnhancePhoto AI",
+    "description": "AI photo enhancer",
+    "website": "https://enhancephoto.ai",
+    "categories": "AI Photo Enhancer, AI Image Enhancer, AI Image Upscaler, AI Unblur Image, AI Video Enhancer",
+    "slug": "enhancephoto-ai",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "AI-Powered Gift Ideas",
@@ -5948,6 +5966,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Scraib.app",
+    "name": "Scraib.app",
+    "description": "AI-powered writing assistant for Mac to instantly rewrite and improve text.",
+    "website": "https://scraib.app",
+    "categories": "AI Writing Assistants, AI Rewriter, AI Grammar Checker, AI Proofreading",
+    "slug": "scraib-app",
+    "created_at": "14:13:27 11/17/2025"
+  },
+  {
     "title": "AI Emoji Generator",
     "name": "AI Emoji Generator -emojis",
     "description": "Generate custom emojis for Slack and Discord easily with AI.",
@@ -6675,6 +6702,15 @@
     "categories": "AI Photo Editor, AI Image Generator, Image to Image, AI Style Transfer, AI Photo Restoration, AI Interior Design, AI Hairstyle",
     "slug": "dreamomni2",
     "created_at": "14:12:09 10/21/2025"
+  },
+  {
+    "title": "AiBackgroundRemover IO",
+    "name": "AiBackgroundRemover IO",
+    "description": "Free AI tool for instant, professional image background removal and transparent backgrounds.",
+    "website": "https://aibackgroundremover.io",
+    "categories": "AI Background Remover, AI Eraser, AI Photo Editor",
+    "slug": "aibackgroundremover-io",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "Wan2.2 AI",
@@ -10635,6 +10671,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video",
     "slug": "kling-2-5-ai",
     "created_at": "14:10:08 09/24/2025"
+  },
+  {
+    "title": "Virtual Try On",
+    "name": "Virtual Try On",
+    "description": "AI tool for realistic virtual try-on of clothes, hairstyles, and accessories.",
+    "website": "https://virtualtryon.art",
+    "categories": "AI Outfit Generator, AI Hairstyle, AI Clothing Generator, Fashion AI",
+    "slug": "virtual-try-on",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "LinkBird",
@@ -14884,6 +14929,15 @@
     "created_at": "14:13:57 10/22/2025"
   },
   {
+    "title": "Knapsack Sidepanel",
+    "name": "Knapsack Sidepanel",
+    "description": "AI-powered Chrome extension for data interaction and workflow automation.",
+    "website": "https://www.knapsack.ai",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Workflow, AI Sales Assistant, No-Code&Low-Code",
+    "slug": "knapsack-sidepanel",
+    "created_at": "14:13:27 11/17/2025"
+  },
+  {
     "title": "AiLuvio",
     "name": "AiLuvio",
     "description": "AI platform for real-time video call translation.",
@@ -15494,6 +15548,15 @@
     "categories": "AI Agent, AI Code Assistant, AI Code Review, AI Code Generator, AI Developer Tools, AI Github",
     "slug": "palmier",
     "created_at": "14:15:24 07/23/2025"
+  },
+  {
+    "title": "Imagika",
+    "name": "Imagika",
+    "description": "AI platform for instant, professional AI-generated images from photos.",
+    "website": "https://imagika.app",
+    "categories": "AI Image Generator, AI Headshot Generator, AI Avatar Generator, AI Portrait Generator, AI Product Photography, Image to Image",
+    "slug": "imagika",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "Neuwo",
@@ -16288,6 +16351,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Elsie AI",
+    "name": "Elsie AI",
+    "description": "AI partner for solo e-commerce entrepreneurs to run and grow stores.",
+    "website": "https://www.elsie-ai.com",
+    "categories": "AI Marketing, AI Assistant, AI Social Media Post Generator, AI SEO Tools",
+    "slug": "elsie-ai",
+    "created_at": "14:13:27 11/17/2025"
+  },
+  {
     "title": "Meet Millie",
     "name": "Meet Millie",
     "description": "AI dating assistant, Meet Millie, provides personalized advice, pick-up lines, creative date ideas, and solves relationship issues.",
@@ -16772,6 +16844,15 @@
     "categories": "Other",
     "slug": "creativesai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "UPCV",
+    "name": "UPCV",
+    "description": "“Build a job-ready resume in minutes — not hours.”",
+    "website": "https://upcv.io",
+    "categories": "AI Resume Builder, AI Cover Letter Generator, AI Job Description Generator, AI Paraphraser, AI Rewriter, AI Text Generator, Resume AI, AI Agent, AI Assistant, AI Copilot, AI Resume Checker",
+    "slug": "upcv",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "Imagine Tales",
@@ -17861,6 +17942,15 @@
     "categories": "AI Video Editor, AI Watermark Remover, AI Video Enhancer, Video to Video",
     "slug": "erasevideo-the-best-way-to-remove-sora-watermark-on-mac",
     "created_at": "02:28:15 10/30/2025"
+  },
+  {
+    "title": "Aident AI",
+    "name": "Aident AI",
+    "description": "Aident turns your written processes into working automations—without visual builders or coding. Describe what you want done (“Send me a daily marketing report,” “Update our leads every morning,” or “Remind my team of deadlines”). APE’s AI Editor understands your intent, drafts the Playbook, and helps you test and run it instantly. Perfect for small business owners and lean teams who need to move fast and become AI-native. Connect with 250+ tools—write once, run forever, and deliver every single time!",
+    "website": "https://aident.ai",
+    "categories": "AI Workflow, AI Instagram, AI Social Media, AI Twitter, AI API, AI App Builder, AI Code Generator, AI Github, AI Marketing, AI Sales, AI Business Ideas Generator, AI Agent, AI Assistant, AI Productivity Tools, AI SOP",
+    "slug": "aident-ai",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "PromptWall：All-in-one AI Image Generator",
@@ -19319,6 +19409,15 @@
     "categories": "AI Advertising Assistant, AI Chatbot, AI Dating Assistant, AI Reply Assistant, AI Response Generator, AI Voice Chat Generator, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "rednit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SourcePilot - AI Text Editor",
+    "name": "SourcePIlot",
+    "description": "AI text editor for better, faster, smarter writing.",
+    "website": "https://sourcepilot.co",
+    "categories": "AI Writing Assistants, AI Writing, AI Assistant",
+    "slug": "sourcepilot",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "Enote",
@@ -24505,6 +24604,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VideoWatermarkRemover AI",
+    "name": "VideoWatermarkRemover AI",
+    "description": "Free AI online tool to remove video watermarks, preserving quality, no login needed.",
+    "website": "https://videowatermarkremover.ai",
+    "categories": "AI Watermark Remover, Object Remover AI, AI Video Editor",
+    "slug": "videowatermarkremover-ai",
+    "created_at": "14:13:27 11/17/2025"
+  },
+  {
     "title": "IconScout",
     "name": "IconScout",
     "description": "A marketplace for millions of design assets and resources.",
@@ -27268,6 +27376,15 @@
     "created_at": "14:13:19 08/21/2025"
   },
   {
+    "title": "2pr",
+    "name": "2pr",
+    "description": "AI Agent & Toolkit for LinkedIn content creation, strategy, and growth.",
+    "website": "https://2pr.io",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Writing Assistants, AI Coaching, AI Scheduling",
+    "slug": "2pr",
+    "created_at": "14:13:27 11/17/2025"
+  },
+  {
     "title": "image to video ai",
     "name": "image to video ai-",
     "description": "AI platform transforming static images into dynamic, high-quality videos.",
@@ -29527,6 +29644,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Prometora",
+    "name": "Prometora",
+    "description": "AI-powered no-code marketplace builder from a prompt.",
+    "website": "https://www.prometora.com",
+    "categories": "AI Website Builder, No-Code&Low-Code, AI Website Designer, AI Assistant",
+    "slug": "prometora",
+    "created_at": "14:13:27 11/17/2025"
+  },
+  {
     "title": "Higher Site AI Powered Digital Agency",
     "name": "highersite.com",
     "description": "AI powered digital marketing and SEO agency",
@@ -29912,6 +30038,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs), AI Ad Creative Assistant, AI Ad Generator, Writing Assistants, AI Content Generator, AI Website Builder, AI SEO Assistant, AI Analytics Assistant",
     "slug": "cometcore-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RenderFlow AI",
+    "name": "RenderFlow AI",
+    "description": "AI platform for generating and editing images, videos, avatars, and voices.",
+    "website": "https://renderflowai.com",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, AI Art Generator, AI Avatar Generator, AI Voice Generator",
+    "slug": "renderflow-ai",
+    "created_at": "14:13:27 11/17/2025"
   },
   {
     "title": "Soulnests",
