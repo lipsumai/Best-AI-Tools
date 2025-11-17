@@ -1053,6 +1053,15 @@
     "created_at": "14:12:23 06/27/2025"
   },
   {
+    "title": "EzUGC",
+    "name": "EzUGC",
+    "description": "EzUGC - The only AI Ad studio you'll ever need!",
+    "website": "https://www.ezugc.ai",
+    "categories": "AI UGC Video Generator, AI Avatar Video Generator, AI Short Video Generator, AI Tiktok Video Generator, AI Video Generator, AI Video Upscaler, AI Youtube Video Maker, Image to Video, Text to Video, Video to Video",
+    "slug": "ezugc",
+    "created_at": "02:29:15 11/17/2025"
+  },
+  {
     "title": "Dreamlab",
     "name": "Dreamlab",
     "description": "AI companion for journaling and interpreting dreams, revealing insights.",
@@ -9195,6 +9204,15 @@
     "categories": "AI Agent, AI Productivity Tools, AI Assistant, AI Workflow, No-Code&Low-Code, AI Marketing, AI Customer Service",
     "slug": "autohive",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "Tennis Predictions",
+    "name": "Tennis Predictions",
+    "description": "TennisPredictions.ai delivers fast, data-driven tennis predictions powered by advanced AI models built exclusively for the sport. Accurate insights for ATP, WTA, and Challenger matches — all in one place.",
+    "website": "https://tennispredictions.ai",
+    "categories": "AI Sports Predictions, AI Sports Betting",
+    "slug": "tennis-predictions",
+    "created_at": "02:29:15 11/17/2025"
   },
   {
     "title": "AI Video Translator",
@@ -17422,6 +17440,15 @@
     "created_at": "14:13:00 11/05/2025"
   },
   {
+    "title": "Wan2.5 AI Video Studio",
+    "name": "Wan2.5 AI Video Studio",
+    "description": "AI video generator for 1080p videos with native audio.",
+    "website": "https://wan2-5.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "wan2-5-ai-video-studio",
+    "created_at": "02:29:15 11/17/2025"
+  },
+  {
     "title": "UsageGuard",
     "name": "UsageGuard",
     "description": "Platform for secure and compliant AI application development.",
@@ -17924,6 +17951,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator, Writing Assistants, AI Content Generator",
     "slug": "careerswift",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "DatePhotosAI",
+    "name": "DatePhotosAI",
+    "description": "AI dating photos generator for Tinder, Bumble & Hinge, guaranteeing more matches.",
+    "website": "https://datephotos.ai",
+    "categories": "AI Profile Picture Generator, AI Dating Assistant, AI Portrait Generator, AI Headshot Generator",
+    "slug": "datephotosai",
+    "created_at": "02:29:15 11/17/2025"
   },
   {
     "title": "Tudle",
@@ -24046,6 +24082,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Image Upscaler Pro",
+    "name": "AI Image Upscaler Pro",
+    "description": "AI tool to fix blurry, ragged, low-resolution images and upscale to 4K.",
+    "website": "https://www.imgupscaler.online",
+    "categories": "AI Image Upscaler, AI Image Enhancer, AI Photo Enhancer, AI Photo Restoration",
+    "slug": "ai-image-upscaler-pro",
+    "created_at": "02:29:15 11/17/2025"
+  },
+  {
     "title": "RentLateFee.com",
     "name": "RentLateFee.com",
     "description": "AI-powered legal rent late fee calculator for all 50 U.S. states. Instantly find your state’s legal limit using real housing statutes and AI-based compliance matching.",
@@ -27356,6 +27401,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
     "slug": "sora2-ai-generator",
     "created_at": "02:20:48 10/17/2025"
+  },
+  {
+    "title": "AI ASMR Generator",
+    "name": "AI ASMR Generator",
+    "description": "AI ASMR video generator for viral content on social media.",
+    "website": "https://asmr-ai.art",
+    "categories": "AI Video Generator, Text to Video, AI Tiktok Video Generator, AI Youtube Video Maker, AI Short Video Generator, Image to Video",
+    "slug": "ai-asmr-generator",
+    "created_at": "02:29:15 11/17/2025"
   },
   {
     "title": "ContGpt - Article Builder with AI",
