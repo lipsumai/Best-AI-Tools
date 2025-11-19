@@ -1566,6 +1566,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "codeflying",
+    "name": "codeflying",
+    "description": "CodeFlying – Vibe Coding App Builder | Create Full-Stack Apps by Chatting with AI",
+    "website": "https://www.codeflying.app",
+    "categories": "Whiteboard AI",
+    "slug": "codeflying",
+    "created_at": "14:12:52 11/19/2025"
+  },
+  {
     "title": "Twitter Bio Generator",
     "name": "TwitterBio",
     "description": "Generate unique Twitter bios quickly and easily based on user input and desired vibes.",
@@ -7163,6 +7172,15 @@
     "created_at": "02:53:25 07/25/2025"
   },
   {
+    "title": "Codewiki",
+    "name": "Codewiki-",
+    "description": "AI-native code documentation with Gemini chat and diagrams.",
+    "website": "https://codewiki.wiki",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Documents Generator, AI Diagram Generator, AI Chatbot, Large Language Models (LLMs)",
+    "slug": "codewiki-1",
+    "created_at": "14:12:52 11/19/2025"
+  },
+  {
     "title": "1Stroke",
     "name": "1Stroke",
     "description": "AI tool for generating context-aware responses instantly.",
@@ -7476,6 +7494,15 @@
     "categories": "Speech-to-Text, AI Voice Assistants, Sales Assistant, AI Customer Service Assistant, AI Lead Generation",
     "slug": "diallink-s-ai-voice-agents",
     "created_at": "02:21:00 04/26/2025"
+  },
+  {
+    "title": "NBot.ai",
+    "name": "NBot.ai",
+    "description": "AI-powered platform for personalized content streams.",
+    "website": "https://nbot.ai",
+    "categories": "AI Newsletter Generator, AI News, AI Assistant, AI Summarizer",
+    "slug": "nbot-ai",
+    "created_at": "14:12:52 11/19/2025"
   },
   {
     "title": "Storymaster",
@@ -13363,6 +13390,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Sidewalk Social",
+    "name": "Sidewalk Social",
+    "description": "Sidewalk Social is your all-in-one AI social media manager that handles the entire workflow—from content creation and scheduling to auto-publishing and analytics, starting with Instagram.",
+    "website": "https://www.sidewalksocial.ai",
+    "categories": "AI Social Media Post Generator, AI Creative Writing, AI Instagram, AI Digital Marketing",
+    "slug": "sidewalk-social",
+    "created_at": "14:12:52 11/19/2025"
+  },
+  {
     "title": "Parallel",
     "name": "Parallel-",
     "description": "AI-CFO for Early Stage Companies",
@@ -17357,6 +17393,15 @@
     "categories": "AI API, AI Image Generator, AI Video Generator, Text to Image, Image to Video, Text to Video, AI Photo Editor",
     "slug": "muapi",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "Image3D AI",
+    "name": "Image3D AI",
+    "description": "The #1 AI Image to 3D & STL Converter. Instantly turn any 2D image or multi-view photo into high-quality 3D models (STL, OBJ, GLB). Powered by the advanced Hunyuan 3D engine.",
+    "website": "https://www.aiimageto3d.com",
+    "categories": "Image to 3D Model, AI 3D Model Generator, AI Design Assistant, AI Productivity Tools",
+    "slug": "image3d-ai",
+    "created_at": "14:12:52 11/19/2025"
   },
   {
     "title": "GPT App Store",
@@ -23965,6 +24010,15 @@
     "created_at": "14:12:51 04/16/2025"
   },
   {
+    "title": "ImgGood",
+    "name": "ImgGood",
+    "description": "ImgGood is an AI-powered image editor that makes it easy to create stunning images with AI.",
+    "website": "https://www.imggood.com",
+    "categories": "AI Photo Editor, AI Background Remover, AI Colorize, AI Eraser, AI Expand Image, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Outpainting, AI Photo Enhancer, AI Photo Filter, AI Style Transfer, Object Remover AI, AI Poster Generator",
+    "slug": "imggood",
+    "created_at": "14:12:52 11/19/2025"
+  },
+  {
     "title": "a0.dev",
     "name": "a0.dev",
     "description": "AI platform to create native mobile apps quickly.",
@@ -27430,6 +27484,15 @@
     "created_at": "02:41:25 11/13/2025"
   },
   {
+    "title": "Antigravity",
+    "name": "Antigravity",
+    "description": "Playful browser Easter eggs and an AI coding platform.",
+    "website": "https://antigravityai.net",
+    "categories": "AI Developer Tools, AI Code Assistant, AI Agent, AI Code Generator",
+    "slug": "antigravity",
+    "created_at": "14:12:52 11/19/2025"
+  },
+  {
     "title": "Lumia AI - AI Home Designer",
     "name": "Lumia AI - AI Home Designer",
     "description": "AI app for transforming home interiors and exteriors.",
@@ -28987,6 +29050,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Make Song AI",
+    "name": "Make Song AI",
+    "description": "AI music generator for professional songs with vocals and instrumentals.",
+    "website": "https://makesongai.com",
+    "categories": "AI Song Generator, AI Music Generator, AI Lyrics Generator",
+    "slug": "make-song-ai",
+    "created_at": "14:12:52 11/19/2025"
+  },
+  {
     "title": "Hire AI Developers with Upstaff.com",
     "name": "Hire AI Developers with Upstaff.com",
     "description": "Upstaff  - All Top Engineers You Need to Build AI, Web3, and Data Products",
@@ -30218,6 +30290,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video",
     "slug": "wan-2-5-leading-ai-video-generation-model-wan-2-5-wan-ai",
     "created_at": "14:12:18 11/07/2025"
+  },
+  {
+    "title": "Kirkify AI",
+    "name": "Kirkify AI",
+    "description": "Kirkify AI is a drag-and-drop meme generator for “Kirkified” Charlie Kirk face-swap memes. Upload a selfie or screenshot, apply the neon Kirkify frame, and export watermark-ready satire that is safe to share on X, TikTok, and other social platforms.",
+    "website": "https://kirkify.net",
+    "categories": "AI Face Swap Generator, AI Photo Editor, Image to Image",
+    "slug": "kirkify-ai",
+    "created_at": "14:12:52 11/19/2025"
   },
   {
     "title": "Browserfly",
