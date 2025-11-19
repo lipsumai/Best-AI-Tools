@@ -918,6 +918,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "EssayPass",
+    "name": "EssayPass",
+    "description": "The Best AI Essay Writer For Your Academic Success",
+    "website": "https://essaypass.ai",
+    "categories": "AI Essay Writer, AI Book Writing, AI Copywriting, AI Grammar Checker, AI Outline Generator, AI Paragraph Generator, AI Paraphraser, AI Proofreading, AI Rewriter, AI Summarizer, AI Text Generator",
+    "slug": "essaypass",
+    "created_at": "02:27:19 11/19/2025"
+  },
+  {
     "title": "NeuroCraft",
     "name": "NeuroCraft",
     "description": "Platform for easy neural network creation",
@@ -3726,6 +3735,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Muses AI",
+    "name": "Muses AI",
+    "description": "AI Writing Agent, never run out of inspiration again.",
+    "website": "https://www.muses.my",
+    "categories": "AI Writing Assistants, AI Writing, AI Papers, AI WORD, AI Documents Generator, AI Copilot, AI Assistant, AI Agent, AI Thesis Generator, AI Blog Generator, AI Text Generator, AI Story Generator, AI Script Writing, AI Rewriter, AI Novel, AI Copywriting, AI Book Writing, AI Research Papers",
+    "slug": "muses-ai",
+    "created_at": "02:27:19 11/19/2025"
+  },
+  {
     "title": "Albert AI",
     "name": "Albert AI",
     "description": "Use AI in Slack with Albert AI.",
@@ -5694,6 +5712,15 @@
     "categories": "Long Video To Short Video AI, AI Caption Generator, AI Repurpose, AI Subtitle Generator, AI Title Generator, AI Hashtag, AI Instagram, AI Social Media Post Generator, AI Tiktok, AI YouTube, AI Short Video Generator, AI Video Editor, AI Scheduling",
     "slug": "streamgen",
     "created_at": "02:25:05 09/15/2025"
+  },
+  {
+    "title": "Auralume AI",
+    "name": "Auralume AI",
+    "description": "Ultimate AI video generator from text, images, or videos.",
+    "website": "https://auralumeai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Upscaler, AI Image Upscaler",
+    "slug": "auralume-ai",
+    "created_at": "02:27:19 11/19/2025"
   },
   {
     "title": "Tune",
@@ -10376,6 +10403,15 @@
     "created_at": "02:28:54 04/21/2025"
   },
   {
+    "title": "Dealism",
+    "name": "Dealism",
+    "description": "Dealism is the World's First Vibe Selling Agent. Conversational AI Sales Agent, representing You 24/7. Dealism is designed to simplify the complexity of human conversation while keeping persuasion deeply personal and natural.",
+    "website": "https://dealism.ai",
+    "categories": "AI Sales, AI Sales Assistant",
+    "slug": "dealism",
+    "created_at": "02:27:19 11/19/2025"
+  },
+  {
     "title": "Educator Lab",
     "name": "EducatorLab",
     "description": "AI-powered Educator Lab generates compliant lesson plans, worksheets, and activities for educators.",
@@ -10437,6 +10473,15 @@
     "categories": "AI Accounting, AI For Finance, AI Assistant, AI Chatbot",
     "slug": "modernbanc",
     "created_at": "14:12:04 07/17/2025"
+  },
+  {
+    "title": "Viyou AI",
+    "name": "Viyou AI",
+    "description": "Easy-to-use AI video and image generator",
+    "website": "https://viyou.ai",
+    "categories": "AI Video Generator, Image to Image, Text to Image, Image to Video, Text to Video",
+    "slug": "viyou-ai",
+    "created_at": "02:27:19 11/19/2025"
   },
   {
     "title": "Snipit",
@@ -12571,6 +12616,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TextToHuman",
+    "name": "TextToHuman",
+    "description": "TextToHuman is a free, unlimited AI humanizer that lets you humanize AI text instantly. If you write with ChatGPT or other AI tools, visit our website to turn those drafts into natural, human-sounding content with one click.",
+    "website": "https://texttohuman.com",
+    "categories": "Humanizer AI, AI Paraphraser, AI Bypasser, Bypass AI, Undetectable AI",
+    "slug": "texttohuman",
+    "created_at": "02:27:19 11/19/2025"
+  },
+  {
     "title": "NYLA - Your AI Wellness Pal",
     "name": "Nyla AI",
     "description": "NYLA is an AI chatbot that offers accessible mental care using evidence-based approaches.",
@@ -14461,6 +14515,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Make Ink",
+    "name": "Make Ink",
+    "description": "AI tattoo generator for artists and studios to create print-ready designs.",
+    "website": "https://make.ink",
+    "categories": "AI Tattoo Generator, AI Design Generator, AI Art Generator, AI Image Generator",
+    "slug": "make-ink",
+    "created_at": "02:27:19 11/19/2025"
+  },
+  {
     "title": "Books by AI",
     "name": "Books by AI",
     "description": "AI creates personalized books tailored to your interests",
@@ -15107,6 +15170,15 @@
     "categories": "AI Book Writing",
     "slug": "docuspeed",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "wabi.ai",
+    "name": "wabi.ai",
+    "description": "Personal software platform for creating and remixing AI-powered mini-apps.",
+    "website": "https://wabiai.ai",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Productivity Tools",
+    "slug": "wabi-ai",
+    "created_at": "02:27:19 11/19/2025"
   },
   {
     "title": "MCP Showcase",
@@ -15953,6 +16025,15 @@
     "categories": "AI Business Ideas Generator, Research Tool, AI Analytics Assistant, AI Product Description Generator",
     "slug": "product-roaster",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Free Background Remover (Fast & Clean)",
+    "name": "Free Background Remover (Fast & Clean)",
+    "description": "Instantly remove backgrounds with AI and download high-quality transparent images. Fast, accurate, and perfect for e-commerce, design, and photo editing.",
+    "website": "https://backgroundremove.io",
+    "categories": "AI Background Remover, AI Photo Editor",
+    "slug": "free-background-remover-fast-clean",
+    "created_at": "02:27:19 11/19/2025"
   },
   {
     "title": "gpt-oss playground",
@@ -23047,6 +23128,15 @@
     "created_at": "14:15:50 08/01/2025"
   },
   {
+    "title": "XImagine.io：Free Grok Imagine Video Generator",
+    "name": "XImagine.io：Free Grok Imagine Video Generator",
+    "description": "Generate bold, shareable videos and images with the free Grok Imagine video generator — including the dynamic Spicy Mode.",
+    "website": "https://ximagine.io",
+    "categories": "AI Video Generator, Text to Image, Text to Video, Video to Video",
+    "slug": "ximagine-io-free-grok-imagine-video-generator",
+    "created_at": "02:27:19 11/19/2025"
+  },
+  {
     "title": "My Tattoo Ideas",
     "name": "My Tattoo Ideas",
     "description": "AI tattoo generator, design refiner, and body preview studio.",
@@ -23965,6 +24055,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Gemini 3 Pro",
+    "name": "Gemini 3 Pro",
+    "description": "Google DeepMind's flagship multimodal AI with 1M context.",
+    "website": "https://gemini3ai.pro",
+    "categories": "AI Models, Large Language Models (LLMs), AI API, AI Code Assistant",
+    "slug": "gemini-3-pro",
+    "created_at": "02:27:19 11/19/2025"
+  },
+  {
     "title": "iftrue",
     "name": "iftrue",
     "description": "AI copilot for engineering management in Slack, optimizing team performance.",
@@ -24503,6 +24602,15 @@
     "categories": "AI Book Writing, AI Copywriting, AI Ebook Generator, AI Poem Generator, AI Story Generator, AI Text Generator, AI Thesis Generator, AI Writing, AI Writing Assistants",
     "slug": "bookscribi",
     "created_at": "02:51:19 08/17/2025"
+  },
+  {
+    "title": "Google Antigravity",
+    "name": "Google Antigravity",
+    "description": "An AI-powered agentic development platform and IDE.",
+    "website": "https://antigravity.google",
+    "categories": "AI Agent, AI Developer Tools, AI Code Assistant, AI Copilot",
+    "slug": "google-antigravity",
+    "created_at": "02:27:19 11/19/2025"
   },
   {
     "title": "Euforia Project",
@@ -28076,6 +28184,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, AI Video Enhancer",
     "slug": "laike-ai",
     "created_at": "14:12:09 10/21/2025"
+  },
+  {
+    "title": "BeatViz AI",
+    "name": "BeatViz AI",
+    "description": "AI music video generator for stunning, synchronized visuals.",
+    "website": "https://beatviz.ai",
+    "categories": "AI Music Video Generator, AI Video Generator, Text to Video, AI Music Generator, AI Sound Effect Generator",
+    "slug": "beatviz-ai-the-ultimate-ai-music-video-generator",
+    "created_at": "02:27:19 11/19/2025"
   },
   {
     "title": "nano banana",
