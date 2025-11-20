@@ -648,6 +648,15 @@
     "created_at": "02:26:00 04/06/2025"
   },
   {
+    "title": "Better Powerpoints",
+    "name": "Better Powerpoints",
+    "description": "Free AI PowerPoint presentation maker for professional slides.",
+    "website": "https://www.betterpowerpoints.com",
+    "categories": "AI PPT Maker, AI Presentation Generator, AI Productivity Tools",
+    "slug": "better-powerpoints",
+    "created_at": "14:12:58 11/20/2025"
+  },
+  {
     "title": "Designly AI",
     "name": "Designly AI",
     "description": "AI webdesign idea generator",
@@ -1890,6 +1899,15 @@
     "created_at": "14:11:34 09/10/2025"
   },
   {
+    "title": "Sleek",
+    "name": "sleek.design",
+    "description": "AI tool to create mobile app mockups quickly.",
+    "website": "https://sleek.design",
+    "categories": "AI App Builder, AI Mockup Generator, AI Design Generator, AI Design Assistant",
+    "slug": "sleek-design",
+    "created_at": "14:12:58 11/20/2025"
+  },
+  {
     "title": "AE Studio",
     "name": "Kind Prompting",
     "description": "AI tool for transforming communication into kinder interactions.",
@@ -2500,6 +2518,15 @@
     "categories": "AI Background Remover, Photo & Image Editor",
     "slug": "removepanda",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Jotlin",
+    "name": "Jotlin",
+    "description": "An AI Agent that make your idea clear.",
+    "website": "https://jotlin.ai",
+    "categories": "AI Productivity Tools, AI App Builder, AI Developer Tools, AI Agent, AI Jobs",
+    "slug": "jotlin",
+    "created_at": "14:12:58 11/20/2025"
   },
   {
     "title": "TweetPeek AI",
@@ -8279,6 +8306,15 @@
     "created_at": "14:18:27 08/05/2025"
   },
   {
+    "title": "Sam3D",
+    "name": "Sam3D",
+    "description": "Meta's single-image 3D reconstruction model with SAM 3 segmentation.",
+    "website": "https://sam3d.world",
+    "categories": "Image to 3D Model, AI 3D Model Generator, AI Models, Open Source AI Models",
+    "slug": "sam3d",
+    "created_at": "14:12:58 11/20/2025"
+  },
+  {
     "title": "Zeno",
     "name": "Zeno",
     "description": "AI YouTube curator & summarizer for bite-sized learning, insights, and career fuel.",
@@ -9339,6 +9375,15 @@
     "categories": "AI Photo Editor, AI Image Generator, AI Photo Restoration, Image to Image, Text to Image",
     "slug": "seedream-4-0-1",
     "created_at": "14:12:00 09/12/2025"
+  },
+  {
+    "title": "Retro Camera",
+    "name": "Retro Camera",
+    "description": "Interactive web app for instant polaroid photos and collages.",
+    "website": "https://www.bubbbly.com",
+    "categories": "AI Website Designer, AI Design Assistant, AI Graphic Design",
+    "slug": "retro-camera",
+    "created_at": "14:12:58 11/20/2025"
   },
   {
     "title": "SAM TTS",
@@ -10961,6 +11006,15 @@
     "created_at": "14:11:34 09/10/2025"
   },
   {
+    "title": "IELTS Writing AI",
+    "name": "IELTS Writing AI",
+    "description": "AI toolkit for IELTS Writing practice, scoring, and improvement.",
+    "website": "https://ieltswriting.ai",
+    "categories": "AI Checker Essay, AI Writing Assistants, AI Language Learning, AI Grammar Checker, AI Rewriter",
+    "slug": "ielts-writing-ai",
+    "created_at": "14:12:58 11/20/2025"
+  },
+  {
     "title": "GiveawayAI",
     "name": "GiveawayAi",
     "description": "Convenient and efficient giveaway coordination and engagement with AI-driven algorithms.",
@@ -12452,6 +12506,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "google-gemini-pro-chat-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Reindeer",
+    "name": "Reindeer",
+    "description": "AI-powered IDE for databases",
+    "website": "https://tryreindeer.com",
+    "categories": "AI Code Assistant, AI Code Generator, AI Developer Tools, SQL Query Builder",
+    "slug": "reindeer",
+    "created_at": "14:12:58 11/20/2025"
   },
   {
     "title": "AI-Powered TailwindCSS Code Generator",
@@ -16808,6 +16871,15 @@
     "categories": "Design Assistant, AI Content Generator, AI Code Generator, AI Product Description Generator",
     "slug": "respaced-com",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "Anymark",
+    "name": "Anymark",
+    "description": "Research-backed, handcrafted logos and brand kits for startups in minutes.",
+    "website": "https://anymark.co",
+    "categories": "AI Logo Generator, AI Business Name Generator, AI Company Name Generator, AI Design Generator",
+    "slug": "anymark",
+    "created_at": "14:12:58 11/20/2025"
   },
   {
     "title": "WorkRamp LMS",
@@ -23263,6 +23335,15 @@
     "created_at": "14:12:18 11/07/2025"
   },
   {
+    "title": "Sora Watermark Remover",
+    "name": "Sora Watermark Remover-",
+    "description": "Online tool to remove Sora video watermarks quickly and without quality loss.",
+    "website": "https://www.sorawatermarkremover.ai",
+    "categories": "AI Watermark Remover, Object Remover AI, AI Video Editor",
+    "slug": "sora-watermark-remover-1",
+    "created_at": "14:12:58 11/20/2025"
+  },
+  {
     "title": "Cognitora",
     "name": "Cognitora",
     "description": "Cloud platform for executing AI-generated code and automating intelligent workloads.",
@@ -25747,6 +25828,15 @@
     "created_at": "14:13:14 10/28/2025"
   },
   {
+    "title": "NeoAgent",
+    "name": "NeoAgent",
+    "description": "AI-powered platform for 24/7 multi-channel customer automation with Voice AI.",
+    "website": "https://neoagent.co",
+    "categories": "AI Customer Service, AI Agent, AI Chatbot, AI Assistant",
+    "slug": "neoagent",
+    "created_at": "14:12:58 11/20/2025"
+  },
+  {
     "title": "Augment 1x",
     "name": "Augment 1x",
     "description": "Invisible AI companion for assessments, interviews, social moments, self-improvement, and deep work.",
@@ -27257,6 +27347,15 @@
     "categories": "Text to Image, Image to Image, AI Charting, AI Selfie & Portrait, AI Clothing Generator, AI Illustration Generator, AI Avatar Generator, AI Emoji Generator, Photo & Image Editor, AI Photography, AI Face Swap Generator",
     "slug": "style-art-ai",
     "created_at": "02:43:20 05/19/2025"
+  },
+  {
+    "title": "Meta AI Demos",
+    "name": "Meta AI Demos",
+    "description": "Explore experimental AI demos and research from Meta.",
+    "website": "https://aidemos.meta.com",
+    "categories": "AI Tools Directory, AI Research Tool, AI Animation Generator, AI Image Segmentation, AI Voice Generator",
+    "slug": "meta-ai-demos",
+    "created_at": "14:12:58 11/20/2025"
   },
   {
     "title": "Haimeta",
@@ -29687,6 +29786,15 @@
     "categories": "AI Image Generator, AI Art Generator, AI Portrait Generator, Text to Image",
     "slug": "ai-ghostface",
     "created_at": "14:12:42 09/29/2025"
+  },
+  {
+    "title": "AI Image Translator",
+    "name": "AI Image Translator",
+    "description": "Translate images to any language instantly with AI",
+    "website": "https://aiimagetranslator.net",
+    "categories": "AI Image Translator, AI OCR, AI Translate, AI Productivity Tools",
+    "slug": "ai-image-translator",
+    "created_at": "14:12:58 11/20/2025"
   },
   {
     "title": "AIEnhancer - Free AI Photo Enhancer",
