@@ -1998,6 +1998,15 @@
     "created_at": "14:13:14 10/29/2025"
   },
   {
+    "title": "UX Magic",
+    "name": "UX Magic",
+    "description": "AI native UX/UI design tool that turns simple prompts into complete, production-ready wireframes and UI designs in seconds, ready to export to Figma.",
+    "website": "https://uxmagic.ai",
+    "categories": "AI UX Design, AI Design Assistant, AI Design Generator, AI Mockup Generator, AI Workflow, AI Website Designer",
+    "slug": "ux-magic",
+    "created_at": "14:10:54 11/22/2025"
+  },
+  {
     "title": "TripZi",
     "name": "TripZi",
     "description": "Effortlessly extract and save locations from webpages with TripZi.",
@@ -17152,6 +17161,15 @@
     "created_at": "14:13:38 11/10/2025"
   },
   {
+    "title": "Sideconvo",
+    "name": "Sideconvo",
+    "description": "Sideconvo is an AI Agent that lives on your website. It uses Voice and Text to guide visitors, answer questions, and drive conversions 24/7.",
+    "website": "https://www.sideconvo.ai",
+    "categories": "AI Agent, AI Answer, AI Article Summarizer, AI Knowledge Management, AI Chatbot, AI Assistant, AI PDF Summarizer",
+    "slug": "sideconvo",
+    "created_at": "14:10:54 11/22/2025"
+  },
+  {
     "title": "Desklib",
     "name": "Desklib",
     "description": "AI-powered toolkit for academic success and learning enhancement.",
@@ -20552,6 +20570,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "supportchat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro--",
+    "description": "NanoBanana Pro is a scene-based AI image generator powered by Google’s NanoBanana models. It offers 30+ curated preset scenes with new community-made scenes added continuously, so you can discover fresh NanoBanana workflows every day. New users receive 14 free credits to try the tool, and a simple credit system makes it easy to scale from casual experiments to heavy production use.",
+    "website": "https://nanobanana-pro.org",
+    "categories": "AI Image Generator, AI Colorize, AI Image Combiner, AI Photo Editor, AI Yearbook, Image to Image, Text to Image",
+    "slug": "nano-banana-pro-2",
+    "created_at": "14:10:54 11/22/2025"
   },
   {
     "title": "Flux Krea",
@@ -29525,6 +29552,15 @@
     "categories": "Prompt, Text to Image, AI Graphic Design, AI Design Generator, Design Assistant, AI Art Generator, AI Poster Generator, AI Ad Creative Assistant, AI Pixel Art, AI Advertising Assistant, AI Ad Generator, AI Logo Generator",
     "slug": "lovart",
     "created_at": "14:12:29 05/13/2025"
+  },
+  {
+    "title": "Prompt Builder",
+    "name": "Prompt Builder",
+    "description": "AI prompt engineering platform to generate, optimize, and organize prompts.",
+    "website": "https://promptbuilder.cc",
+    "categories": "AI Prompt Generator, Prompt Engineering, AI Productivity Tools, AI Writing Assistants",
+    "slug": "prompt-builder",
+    "created_at": "14:10:54 11/22/2025"
   },
   {
     "title": "PartyLine",
