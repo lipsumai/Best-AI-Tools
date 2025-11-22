@@ -12049,6 +12049,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro-",
+    "description": "AI image generator for professional text-to-image and image-to-image creation.",
+    "website": "https://nanobnanapro.com",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI API, AI Background Remover",
+    "slug": "nano-banana-pro-1",
+    "created_at": "02:22:15 11/22/2025"
+  },
+  {
     "title": "Nano BiBi",
     "name": "Nano BiBi",
     "description": "Batch-generate, edit, and process images, videos, and audio — all powered by AI.",
@@ -19663,6 +19672,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ChatGPT Watermark Remover",
+    "name": "ChatGPT Watermark Remover",
+    "description": "Free online tool to detect and remove invisible AI watermarks from text.",
+    "website": "https://chatgptwatermarkremover.org",
+    "categories": "AI Watermark Remover, AI Bypasser, AI Productivity Tools",
+    "slug": "chatgpt-watermark-remover",
+    "created_at": "02:22:15 11/22/2025"
+  },
+  {
     "title": "Remove Sora watermarks in 5 seconds – without quality loss",
     "name": "Remove Sora watermarks in 5 seconds – without quality loss",
     "description": "This tool lets you instantly download the original, watermark-free Sora video just by pasting its share link. No setup, no waiting, no AI-blur artifacts — just clean, crisp video ready for social media, ads, or creative reuse.",
@@ -24530,6 +24548,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs)",
     "slug": "astronov",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "NanoBananaProAI.com：Free Nano Banana AI Image Editor",
+    "name": "NanoBananaProAI.com：Free Nano Banana AI Image Editor",
+    "description": "AI-powered image editing tool with Gemini 3.0 Pro for high-quality visuals.",
+    "website": "https://nanobananaproai.com",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Image Enhancer, AI Style Transfer",
+    "slug": "nanobananaproai-com-free-nano-banana-ai-image-editor",
+    "created_at": "02:22:15 11/22/2025"
   },
   {
     "title": "ATR Tennis",
