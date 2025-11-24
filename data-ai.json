@@ -513,6 +513,15 @@
     "created_at": "02:28:47 10/26/2025"
   },
   {
+    "title": "PixArmory",
+    "name": "PixArmory",
+    "description": "AI photo editor for transforming, enhancing, and creating images.",
+    "website": "https://pixarmory.org",
+    "categories": "AI Photo Editor, AI Background Remover, AI Image Enhancer, AI Image Upscaler, AI Image Generator, AI Style Transfer",
+    "slug": "pixarmory",
+    "created_at": "02:48:54 11/24/2025"
+  },
+  {
     "title": "Holo",
     "name": "Holo",
     "description": "AI marketing tool for ads, social posts, and emails.",
@@ -19195,6 +19204,15 @@
     "created_at": "02:26:10 10/13/2025"
   },
   {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro | AI Image Generator & Editor | Independent Tool",
+    "description": "Advanced AI image generator and editor.",
+    "website": "https://nanobananapro.com",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Art Generator, AI Image Upscaler, Image to Image",
+    "slug": "nano-banana-pro-ai-image-generator-editor-independent-tool",
+    "created_at": "02:48:54 11/24/2025"
+  },
+  {
     "title": "Watermelon",
     "name": "Watermelon Pulse",
     "description": "Watermelon is an AI-powered customer service tool that automates support and improves customer experience.",
@@ -22534,6 +22552,15 @@
     "created_at": "02:54:34 07/23/2025"
   },
   {
+    "title": "Nana Banana Pro",
+    "name": "Nana Banana Pro",
+    "description": "Advanced AI image editing with perfect character consistency.",
+    "website": "https://nanabanana.pro",
+    "categories": "AI Photo Editor, AI Image Generator, AI Photo Restoration, AI Video Generator, AI Clothing Generator, Image to Image",
+    "slug": "nana-banana-pro",
+    "created_at": "02:48:54 11/24/2025"
+  },
+  {
     "title": "Foreign Friend",
     "name": "Foreign Friend",
     "description": "Interactive language learning through conversations with an AI chatbot.",
@@ -24737,6 +24764,15 @@
     "categories": "AI Social Media Assistant, AI Bio Generator, AI SEO Assistant",
     "slug": "plano-ly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "banana-pro.com",
+    "name": "banana-pro.com",
+    "description": "AI platform for high-quality image and video generation.",
+    "website": "https://www.banana-pro.com",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, Image to Image",
+    "slug": "banana-pro-com",
+    "created_at": "02:48:54 11/24/2025"
   },
   {
     "title": "AI Image Upscaler Pro",
@@ -30839,6 +30875,15 @@
     "categories": "AI Chatbot, AI Tools Directory, Large Language Models (LLMs)",
     "slug": "chatofai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "NanoBanana Pro",
+    "name": "NanoBanana Pro",
+    "description": "AI image generation & editing with enhanced quality and control.",
+    "website": "https://www.nanobananapro.org",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Image Enhancer, AI Image Upscaler",
+    "slug": "nanobanana-pro",
+    "created_at": "02:48:54 11/24/2025"
   },
   {
     "title": "kat dev",
