@@ -765,6 +765,15 @@
     "created_at": "03:01:29 07/28/2025"
   },
   {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro - AI Image Generator & Photo Editor with Gemini 3 Pro",
+    "description": "AI image generator & photo editor with perfect text and 4K output.",
+    "website": "https://nanobananai.pro",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Image Upscaler, AI Sticker Generator, AI Graphic Design",
+    "slug": "nano-banana-pro-ai-image-generator-photo-editor-with-gemini-3-pro",
+    "created_at": "14:13:43 11/24/2025"
+  },
+  {
     "title": "TextGears",
     "name": "TextGears",
     "description": "Online tool for grammar, spelling, and readability checks.",
@@ -12814,6 +12823,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vidguru - All-in-One AI Video & Image Maker",
+    "name": "Vidguru - All-in-One AI Video & Image Maker",
+    "description": "One platform for AI videos, images, ads, UGC avatars, and audio. Access all top AI models and tools. One subscription replaces 10+ services. Try free with 4 daily credits.",
+    "website": "https://www.vidguru.ai",
+    "categories": "AI Avatar Video Generator, AI Background Generator, AI Background Remover, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Text-to-Speech, AI Voice Generator, AI UGC Video Generator, AI Video Generator, Image to Video, Text to Video, AI Ad Creative, AI Ad Generator",
+    "slug": "vidguru-all-in-one-ai-video-image-maker",
+    "created_at": "14:13:43 11/24/2025"
+  },
+  {
     "title": "Geniee AI",
     "name": "GenieeAI",
     "description": "Revolutionary browser extension for content creation using ChatGPT.",
@@ -14144,6 +14162,15 @@
     "categories": "AI Agent, AI Developer Tools, No-Code&Low-Code, AI Assistant, AI Chatbot",
     "slug": "xpander-ai",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "EverMemOS",
+    "name": "EverMemOS",
+    "description": "Empowers AI with infinite memory, long-term identity, and evolving intelligence.",
+    "website": "https://everm.ai",
+    "categories": "AI Developer Tools, AI Agent, Open Source AI Models, AI Models",
+    "slug": "evermemos",
+    "created_at": "14:13:43 11/24/2025"
   },
   {
     "title": "Auron AI",
@@ -16576,6 +16603,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "Browser Cash",
+    "name": "Browser Cash",
+    "description": "Browser automation platform for AI agents, web scraping, and internet intelligence.",
+    "website": "https://browser.cash",
+    "categories": "AI Agent, AI Browsers, AI Web Scraping, AI Developer Tools",
+    "slug": "browser-cash",
+    "created_at": "14:13:43 11/24/2025"
+  },
+  {
     "title": "Drezily",
     "name": "Drezily",
     "description": "Ai powered personal shopping assistant",
@@ -18752,6 +18788,15 @@
     "categories": "AI For Finance, AI Developer Tools, AI Tax Assistant",
     "slug": "waffo-ai",
     "created_at": "14:13:07 11/14/2025"
+  },
+  {
+    "title": "OutlierKit",
+    "name": "OutlierKit",
+    "description": "AI YouTube competitor analysis for data-driven growth.",
+    "website": "https://outlierkit.com",
+    "categories": "AI YouTube, AI SEO Tools, AI Research Tool, AI Digital Marketing",
+    "slug": "outlierkit",
+    "created_at": "14:13:43 11/24/2025"
   },
   {
     "title": "Swift Reply",
@@ -25756,6 +25801,15 @@
     "created_at": "02:28:29 11/14/2025"
   },
   {
+    "title": "SafeNew AI",
+    "name": "SafeNew AI",
+    "description": "AI Humanizer transforming AI text into natural, personalized, human-like content.",
+    "website": "https://safenew.ai",
+    "categories": "Humanizer AI, AI Rewriter, Bypass AI",
+    "slug": "safenew-ai",
+    "created_at": "14:13:43 11/24/2025"
+  },
+  {
     "title": "Rorrim - Smart AI Journal",
     "name": "Rorrim",
     "description": "AI journal converting voice notes into insights, tracking mood, relationships, and patterns.",
@@ -26366,6 +26420,15 @@
     "categories": "AI Resume Builder, Resume AI, AI Assistant, AI Recruiting, AI Agent, AI Writing Assistants",
     "slug": "nurofile",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro - Free Online AI Image Editor & Generator | Fooocus.one",
+    "description": "Free online AI image editor and generator powered by Google DeepMind's Gemini 3 Pro.",
+    "website": "https://fooocus.one",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Video, Text to Video",
+    "slug": "nano-banana-pro-free-online-ai-image-editor-generator-fooocus-one",
+    "created_at": "14:13:43 11/24/2025"
   },
   {
     "title": "WriteSmith",
