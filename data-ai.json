@@ -6857,6 +6857,15 @@
     "created_at": "14:12:29 05/13/2025"
   },
   {
+    "title": "Tendem AI",
+    "name": "Tendem AI",
+    "description": "Tendem is a new hybrid AI agent. It handles your tedious tasks combining the speed of AI with the judgment of human experts.",
+    "website": "https://tendem.ai",
+    "categories": "AI Agent, AI Assistant, AI Task Management, AI Workflow",
+    "slug": "tendem-ai",
+    "created_at": "02:31:39 11/25/2025"
+  },
+  {
     "title": "Shipable AI",
     "name": "Shipable AI",
     "description": "No-code platform to build, launch, and scale AI agents.",
@@ -11581,6 +11590,15 @@
     "created_at": "14:13:07 05/28/2025"
   },
   {
+    "title": "CyberSeal",
+    "name": "CyberSeal",
+    "description": "Advanced AI anti-cheat for online assessments and interviews.",
+    "website": "https://www.cyberseal.ai",
+    "categories": "AI Detector, AI Content Detector, AI Recruiting, AI Testing",
+    "slug": "cyberseal",
+    "created_at": "02:31:39 11/25/2025"
+  },
+  {
     "title": "HorizonX",
     "name": "HorizonX",
     "description": "AI-powered platform for integrated research workflow and collaboration.",
@@ -15667,6 +15685,15 @@
     "created_at": "14:11:17 06/11/2025"
   },
   {
+    "title": "APIMart",
+    "name": "APIMart",
+    "description": "Unified AI API for 500+ models, lower cost, OpenAI-compatible.",
+    "website": "https://apimart.ai",
+    "categories": "AI API, AI Developer Tools, AI Models, AI Video Generator, AI Image Generator, AI Music Generator, AI Text Generator",
+    "slug": "apimart",
+    "created_at": "02:31:39 11/25/2025"
+  },
+  {
     "title": "Explain AI",
     "name": "Explain AI",
     "description": "AI study assistant for personalized learning and concept understanding",
@@ -18563,6 +18590,15 @@
     "categories": "AI Analytics Assistant, AI Productivity Tools, E-commerce Assistant",
     "slug": "nifty-ai",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "MyEdit",
+    "name": "MyEdit",
+    "description": "All-in-one online AI tool for image, audio, and video creation.",
+    "website": "https://myedit.online",
+    "categories": "AI Photo Editor, AI Image Generator, AI Audio Editing, AI Video Generator, AI Video Editor",
+    "slug": "myedit",
+    "created_at": "02:31:39 11/25/2025"
   },
   {
     "title": "DryVocal",
