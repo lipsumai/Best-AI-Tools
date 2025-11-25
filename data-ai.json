@@ -5786,6 +5786,15 @@
     "created_at": "14:15:19 07/24/2025"
   },
   {
+    "title": "BrandJet AI",
+    "name": "BrandJet AI",
+    "description": "Unified AI brand monitoring and multi-channel outreach platform.",
+    "website": "https://brandjet.ai",
+    "categories": "AI Monitor, AI Marketing, AI Social Media, AI Lead Generation, AI Email Marketing",
+    "slug": "brandjet-ai",
+    "created_at": "14:13:31 11/25/2025"
+  },
+  {
     "title": "Free LinkedIn Review",
     "name": "FREE LinkedIn Profile Review",
     "description": "AI-enhanced LinkedIn profile optimization service.",
@@ -6108,6 +6117,15 @@
     "categories": "Other",
     "slug": "spellprints",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Photo Prompt",
+    "name": "Photo Prompt",
+    "description": "AI tool to convert photos into detailed prompts for image generation.",
+    "website": "https://photoprompt.io",
+    "categories": "Image to Prompt, AI Prompt Generator, AI Image Description Generator, AI Describe Image",
+    "slug": "photo-prompt",
+    "created_at": "14:13:31 11/25/2025"
   },
   {
     "title": "Scraib.app",
@@ -7359,6 +7377,15 @@
     "categories": "AI Marketing, AI Social Media, AI For Data Analytics, AI Copilot, AI Instagram, AI YouTube",
     "slug": "viral-app",
     "created_at": "14:12:58 09/15/2025"
+  },
+  {
+    "title": "DesignLumo",
+    "name": "DesignLumo",
+    "description": "AI tool for editable, ad-ready designs from prompts.",
+    "website": "https://www.designlumo.com",
+    "categories": "AI Design Generator, AI Graphic Design, AI Social Media Post Generator, AI Banner Generator, AI Ad Generator, AI Poster Generator, AI Flyer Generator",
+    "slug": "designlumo",
+    "created_at": "14:13:31 11/25/2025"
   },
   {
     "title": "AI Humanizer",
@@ -13453,6 +13480,15 @@
     "created_at": "14:13:07 05/28/2025"
   },
   {
+    "title": "Feen AI",
+    "name": "Feen AI",
+    "description": "AI homework helper for solving problems, summarizing, writing, and creating study tools.",
+    "website": "https://feen.ai",
+    "categories": "AI Homework Helper, AI Essay Writer, AI PDF Summarizer, AI Math, AI Thesis Generator, AI Quiz Generator, AI Flashcard Maker",
+    "slug": "feen-ai",
+    "created_at": "14:13:31 11/25/2025"
+  },
+  {
     "title": "Local Art",
     "name": "Local Art",
     "description": "Local AI art generation iOS app",
@@ -13955,6 +13991,15 @@
     "categories": "AI Art Generator, Large Language Models (LLMs), Text to Image, AI Photo & Image Generator, AI Colorize, AI Design Generator, AI Graphic Design, Design Assistant",
     "slug": "soreal-ai-studio",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MediaPET",
+    "name": "MediaPET",
+    "description": "Agentic AI video ad creation platform that helps small businesses and individual creators generate cinematic ads up to one minute long, or even full feature-length videos",
+    "website": "https://mediapet.ai",
+    "categories": "AI Video Generator, AI Instrumental Generator, Text to Video, Script To Video AI Generator, AI Video Editor, AI Reel Generator, AI Movie Generator, AI Avatar Video Generator, AI Animation Generator, AI Voice Over, AI Voice Generator, AI Text-to-Music, AI Beat Generator, AI Movie Script Generator, Text to Image, Object Remover AI, Image to Image, AI Style Transfer, AI Product Photography, AI Photo Editor, AI Image Generator, AI Eraser, AI Story Generator, AI Script Writing, Video to Video",
+    "slug": "mediapet",
+    "created_at": "14:13:31 11/25/2025"
   },
   {
     "title": "Periplus",
@@ -21301,6 +21346,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Image Editor",
+    "name": "Free AI Image Editor & Generator | Powered by Nano Banana AI",
+    "description": "Edit images for free with the powerful Nano Banana",
+    "website": "https://image-editor.org",
+    "categories": "AI Photo Editor, AI Coloring Book Generator, AI Poster Generator, AI Logo Generator, AI Icon Generator, AI Emoji Generator, AI Design Generator, AI Cover Generator, AI Clothing Generator, AI Headshot Generator, AI Cartoon Generator, AI Business Card Generator, Text to Image, Image to Image, AI Profile Picture Generator, AI Image Generator, AI Sketch Generator",
+    "slug": "free-ai-image-editor-generator-powered-by-nano-banana-ai",
+    "created_at": "14:13:31 11/25/2025"
+  },
+  {
     "title": "Loop",
     "name": "Loop MCP by SimpliflowAI",
     "description": "Unified MCP gateway for connecting AI apps to tools and solving tool limits.",
@@ -28132,6 +28186,15 @@
     "created_at": "02:21:32 10/16/2025"
   },
   {
+    "title": "S02AI",
+    "name": "S02AI",
+    "description": "AI video generator powered by Sora2 for high-quality videos with audio.",
+    "website": "https://www.s02ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "s02ai",
+    "created_at": "14:13:31 11/25/2025"
+  },
+  {
     "title": "Feeedbackr",
     "name": "Feeedbackr",
     "description": "AI platform for collecting and analyzing customer feedback.",
@@ -29851,6 +29914,15 @@
     "created_at": "14:12:32 10/01/2025"
   },
   {
+    "title": "AnyMusic",
+    "name": "AnyMusic",
+    "description": "AI music generator for creating songs, lyrics, and instrumentals.",
+    "website": "https://anymusic.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Vocal Remover, AI Instrumental Generator",
+    "slug": "anymusic",
+    "created_at": "14:13:31 11/25/2025"
+  },
+  {
     "title": "PRDKit",
     "name": "PRDKit",
     "description": "AI tool for crafting product specs and user flows efficiently.",
@@ -31055,6 +31127,15 @@
     "categories": "AI Tools Directory, AI Image Generator, AI Writing",
     "slug": "genbaz",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro - Next-Gen AI Image Editor with 4K Quality",
+    "description": "Next-Gen AI Image Editor for stunning 4K quality images with smart AI.",
+    "website": "https://nanabanana.io",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, Image to Image, AI Image Enhancer, AI Image Upscaler",
+    "slug": "nano-banana-pro-next-gen-ai-image-editor-with-4k-quality",
+    "created_at": "14:13:31 11/25/2025"
   },
   {
     "title": "Plan Fast",
