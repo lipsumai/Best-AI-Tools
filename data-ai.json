@@ -4652,6 +4652,15 @@
     "created_at": "14:13:56 07/15/2025"
   },
   {
+    "title": "AI Image Editor",
+    "name": "AI Image Editor - AIImgEditor.ai",
+    "description": "Advanced AI image editor for professional visual creation with high text accuracy.",
+    "website": "https://aiimgeditor.ai",
+    "categories": "AI Image Generator, Text to Image, AI Photo Editor, Image to Image",
+    "slug": "ai-image-editor-aiimgeditor-ai",
+    "created_at": "14:13:57 11/26/2025"
+  },
+  {
     "title": "Resumago",
     "name": "Resumago",
     "description": "AI-powered platform creates tailored resumes for job applications.",
@@ -9746,6 +9755,15 @@
     "created_at": "02:26:41 08/20/2025"
   },
   {
+    "title": "EchoSnap",
+    "name": "Echosnap Ai",
+    "description": "AI-powered voice notes",
+    "website": "https://useechosnap.com",
+    "categories": "AI Note Taker, AI Transcriber, AI Speech-to-Text, AI Summarizer, AI Writing Assistants",
+    "slug": "echosnap-ai",
+    "created_at": "14:13:57 11/26/2025"
+  },
+  {
     "title": "Richpanel",
     "name": "Richpanel",
     "description": "AI customer service platform for e-commerce managing all interactions.",
@@ -11435,6 +11453,15 @@
     "categories": "AI Social Media, AI Assistant, AI Marketing, AI Summarizer, AI Email Marketing, AI Affiliate Marketing",
     "slug": "wibe-for-creators",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "CTRLpotato",
+    "name": "CTRLpotato",
+    "description": "Invisible AI interview assistant for real-time answers, context, and undetectable help.",
+    "website": "https://www.ctrlpotato.com",
+    "categories": "AI Interview Assistant, AI Copilot, AI Assistant, AI Response Generator, AI Code Assistant",
+    "slug": "ctrlpotato",
+    "created_at": "14:13:57 11/26/2025"
   },
   {
     "title": "metastory AI",
@@ -16198,6 +16225,15 @@
     "created_at": "14:18:04 08/04/2025"
   },
   {
+    "title": "Haxiom",
+    "name": "Haxiom",
+    "description": "AI-powered collaborative Markdown workspace for team documentation and knowledge management.",
+    "website": "https://haxiom.io",
+    "categories": "AI Knowledge Base, AI Assistant, AI Writing Assistants, AI Github, AI Note Taker, AI SEO Tools",
+    "slug": "haxiom",
+    "created_at": "14:13:57 11/26/2025"
+  },
+  {
     "title": "Blaze Feeds",
     "name": "Blaze Feeds",
     "description": "AI RSS reader for streamlined news consumption and privacy.",
@@ -16907,6 +16943,15 @@
     "categories": "AI Rewriter, Paraphraser, AI Detector, AI Content Detector",
     "slug": "tenorshare-ai-bypass",
     "created_at": "14:11:12 04/24/2025"
+  },
+  {
+    "title": "Hireko - AI Powered Interview Platform",
+    "name": "Hireko.Ai",
+    "description": "AI-powered recruitment platform for efficient enterprise hiring.",
+    "website": "https://www.HireKo.ai",
+    "categories": "AI Interview Assistant, AI Recruiting, AI Agent, AI Speech Recognition, AI Face Recognition",
+    "slug": "hireko-ai",
+    "created_at": "14:13:57 11/26/2025"
   },
   {
     "title": "BuildnPlay",
@@ -19294,6 +19339,15 @@
     "created_at": "14:13:11 10/27/2025"
   },
   {
+    "title": "AI Things",
+    "name": "AI Things",
+    "description": "Curated AI tools, resources, and updates for AI engineers.",
+    "website": "https://aithings.dev",
+    "categories": "AI Tools Directory",
+    "slug": "ai-things",
+    "created_at": "14:13:57 11/26/2025"
+  },
+  {
     "title": "Emitrr",
     "name": "Emitrr",
     "description": "AI toolbox for business communication and customer engagement.",
@@ -19400,6 +19454,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant, AI Product Description Generator",
     "slug": "watermelon-pulse",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nodejam",
+    "name": "Nodejam",
+    "description": "AI-native office suite unifying text, spreadsheets, presentations.",
+    "website": "https://nodejam.com",
+    "categories": "AI Productivity Tools, AI Agent, AI Assistant, AI Workflow, AI Documents Generator, AI Spreadsheet, AI Presentation Generator",
+    "slug": "nodejam",
+    "created_at": "14:13:57 11/26/2025"
   },
   {
     "title": "Quantum Trading Research",
@@ -20642,6 +20705,15 @@
     "categories": "Other",
     "slug": "smurf-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Yorph AI",
+    "name": "Yorph AI",
+    "description": "A data engineer in your pocket for business users",
+    "website": "https://yorph.ai",
+    "categories": "AI For Data Analytics, AI Workflow",
+    "slug": "yorph-ai",
+    "created_at": "14:13:57 11/26/2025"
   },
   {
     "title": "Dafthunk",
@@ -23864,6 +23936,15 @@
     "categories": "AI Developer Tools",
     "slug": "cubic",
     "created_at": "02:28:29 11/14/2025"
+  },
+  {
+    "title": "TradeWind AI",
+    "name": "TradeWind AI",
+    "description": "TradeWind AI helps millions of global companies realize 24/7 automated overseas marketing and customer outreach.",
+    "website": "https://www.tradewindsdr.com",
+    "categories": "AI Lead Generation, AI CRM, AI Digital Marketing, AI Sales",
+    "slug": "tradewind-ai",
+    "created_at": "14:13:57 11/26/2025"
   },
   {
     "title": "LIP-SYNC",
