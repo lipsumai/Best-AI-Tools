@@ -7073,6 +7073,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Deep Swap AI",
+    "name": "Deep Swap AI",
+    "description": "AI face swap for photos & videos, no watermark.",
+    "website": "https://deepswapai.com",
+    "categories": "AI Face Swap Generator, AI Face Swap Video, AI API, NSFW",
+    "slug": "deep-swap-ai",
+    "created_at": "02:27:01 11/27/2025"
+  },
+  {
     "title": "Quiklearn",
     "name": "Quiklearn",
     "description": "AI-powered flashcards and quizzes from PDFs for smarter study.",
@@ -16873,6 +16882,15 @@
     "created_at": "14:12:18 11/07/2025"
   },
   {
+    "title": "GPT Image 2",
+    "name": "GPT Image 2",
+    "description": "AI image editing platform for generation, editing, and enhancement.",
+    "website": "https://gptimage2.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Image Enhancer, AI Background Remover, AI Style Transfer",
+    "slug": "gpt-image-2",
+    "created_at": "02:27:01 11/27/2025"
+  },
+  {
     "title": "LimeChat",
     "name": "LimeChat",
     "description": "AI-driven platform for e-commerce support and marketing via WhatsApp.",
@@ -17762,6 +17780,15 @@
     "categories": "AI Social Media Post Generator, AI Marketing, AI Social Media, AI Product Description Generator, AI Caption Generator",
     "slug": "marketing-gold",
     "created_at": "14:12:46 10/24/2025"
+  },
+  {
+    "title": "Yolly AI",
+    "name": "Yolly AI",
+    "description": "All-in-one AI video and image generator for 4K videos and high-res images.",
+    "website": "https://www.yolly.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, Video to Video, Image to Image",
+    "slug": "yolly-ai",
+    "created_at": "02:27:01 11/27/2025"
   },
   {
     "title": "Innov8iq",
@@ -25729,6 +25756,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Knowmax",
+    "name": "Knowmax",
+    "description": "Knowmax is an AI-guided knowledge Management Platform. We empower your CX teams to deliver mistake-proof service across touchpoints with contextual and actionable knowledge",
+    "website": "https://knowmax.ai",
+    "categories": "AI Project Management",
+    "slug": "knowmax",
+    "created_at": "02:27:01 11/27/2025"
+  },
+  {
     "title": "ASKWay for Android-AI Chat&Assistants",
     "name": "ASKWay",
     "description": "AI-powered Android app for creating customizable AI companions and engaging in interactive role-play.",
@@ -25853,6 +25889,15 @@
     "categories": "AI Girlfriend, AI Chatbot, AI Roleplay, AI Character, NSFW, AI Boyfriend",
     "slug": "ohchat",
     "created_at": "02:58:57 08/06/2025"
+  },
+  {
+    "title": "Flux 2",
+    "name": "Flux 2 Cloud",
+    "description": "Free, unlimited AI image generator powered by FLUX.2 model.",
+    "website": "https://flux2.cloud",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Realistic Image Generator, AI Anime Generator",
+    "slug": "flux-2-cloud",
+    "created_at": "02:27:01 11/27/2025"
   },
   {
     "title": "Imgage",
@@ -29660,6 +29705,15 @@
     "categories": "AI Chatbot, AI Trip Planner, AI Maps Generator, AI Content Generator",
     "slug": "travlo",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Lip Sync AI",
+    "name": "Lip Sync AI",
+    "description": "AI tool for perfectly synchronized lip movements in videos.",
+    "website": "https://www.lipsyncai.org",
+    "categories": "AI Lip Sync Generator, AI Animation Generator, AI Dubbing, AI Video Translator, Video to Video",
+    "slug": "lip-sync-ai",
+    "created_at": "02:27:01 11/27/2025"
   },
   {
     "title": "Veo 3 AI",
