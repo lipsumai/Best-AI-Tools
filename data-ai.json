@@ -4158,6 +4158,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Sora2WatermarkRemover",
+    "name": "Sora2WatermarkRemover",
+    "description": "AI-powered tool to remove Sora2 watermarks from videos.",
+    "website": "https://sora2watermarkremover.net",
+    "categories": "AI Watermark Remover, AI Inpainting, Object Remover AI, AI Video Editor",
+    "slug": "sora2watermarkremover",
+    "created_at": "02:26:44 11/28/2025"
+  },
+  {
     "title": "SynthoFrame",
     "name": "SynthoFrame",
     "description": "AI-powered prototyping tool for high-fidelity, interactive UI design.",
@@ -12742,6 +12751,15 @@
     "created_at": "14:17:21 08/06/2025"
   },
   {
+    "title": "Bisibyte Business Name Generator",
+    "name": "Bisibyte Business Name Generator",
+    "description": "AI-powered tool for generating unique business names.",
+    "website": "https://www.bisibyte.com",
+    "categories": "AI Business Name Generator, AI Company Name Generator, AI Name Generator, AI Slogan Generator",
+    "slug": "bisibyte-business-name-generator",
+    "created_at": "02:26:44 11/28/2025"
+  },
+  {
     "title": "AiSensy",
     "name": "AiSensy",
     "description": "WhatsApp marketing and engagement platform powered by official APIs.",
@@ -17645,6 +17663,15 @@
     "categories": "Prompt",
     "slug": "gptea",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Face Shape Detector",
+    "name": "Face Shape Detector - Free Face Shape Analyzer",
+    "description": "AI tool for fast, accurate face shape analysis and personalized style, makeup, and hairstyle recommendations.",
+    "website": "https://faceshapedetector.ai",
+    "categories": "AI Face Analyzer, AI Beauty, AI Hairstyle",
+    "slug": "face-shape-detector-free-face-shape-analyzer",
+    "created_at": "02:26:44 11/28/2025"
   },
   {
     "title": "Bazaar",
@@ -25394,6 +25421,15 @@
     "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Team Collaboration, AI Content Generator",
     "slug": "text2meme-io",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Z-Image AI",
+    "name": "Z-Image AI",
+    "description": "Fast, photorealistic, spicy-friendly AI image generator with bilingual text and editing.",
+    "website": "https://z-image.pro",
+    "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, NSFW, AI Video Generator, AI Photo Editor",
+    "slug": "z-image-ai",
+    "created_at": "02:26:44 11/28/2025"
   },
   {
     "title": "DocuClipper",
