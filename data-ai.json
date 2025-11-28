@@ -2421,6 +2421,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "Questas",
+    "name": "Questas",
+    "description": "AI platform for interactive choose-your-own-adventure stories.",
+    "website": "https://questas.co",
+    "categories": "AI Story Generator, AI Image Generator, AI Video Generator, Text to Image, AI Creative Writing, AI Games",
+    "slug": "questas",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "Creative Score",
     "name": "Creative Score",
     "description": "Optimizes marketing assets using behavioral science and research insights.",
@@ -2977,6 +2986,15 @@
     "categories": "AI Data Mining, AI Code Assistant",
     "slug": "dataneko",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ask AI by Ordemio",
+    "name": "AskAI by Ordemio",
+    "description": "AI customer support agent for technical products, answering from your docs.",
+    "website": "https://www.ordemio.com",
+    "categories": "AI Customer Service, AI Chatbot, AI Agent, AI Assistant",
+    "slug": "askai-by-ordemio",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "Syndy.ai",
@@ -7964,6 +7982,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Klariqo",
+    "name": "Klariqo AI Voice Assistants",
+    "description": "AI assistant for 24/7 phone calls and website chat automation.",
+    "website": "https://klariqo.com",
+    "categories": "AI Assistant, AI Chatbot, AI Customer Service, AI Voice Assistants, AI Call Center",
+    "slug": "klariqo-ai-voice-assistants",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "Onepage",
     "name": "Onepage",
     "description": "All-in-one tool for building websites, landing pages, and quizzes.",
@@ -8268,6 +8295,15 @@
     "categories": "AI Video Generator, AI Animation Generator, Image to Video",
     "slug": "dancing-dogs-app",
     "created_at": "14:12:51 06/30/2025"
+  },
+  {
+    "title": "Geschenkidee.ai",
+    "name": "Geschenkidee.ai",
+    "description": "AI-powered gift search engine for personalized suggestions.",
+    "website": "https://geschenkidee.ai",
+    "categories": "AI Gift Ideas, AI Shopping Assistant, AI Affiliate Marketing",
+    "slug": "geschenkidee-ai",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "Outreach",
@@ -10736,6 +10772,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "uSpeedo.AI",
+    "name": "uSpeedo.ai",
+    "description": "AI-powered marketing platform for content generation and social media management.",
+    "website": "https://uspeedo.ai",
+    "categories": "AI Ad Creative, AI Marketing, AI Social Media Post Generator, AI Ad Generator, AI Advertising, AI Copywriting",
+    "slug": "uspeedo-ai",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "Kuse",
     "name": "Kuse",
     "description": "Imagine if ChatGPT, Notion, and a whiteboard had a genius baby. Kuse turns messy inputs into structured deliverables, all on a canvas where your context is visual, editable, and reusable. Chaos in, genius out.",
@@ -11031,6 +11076,15 @@
     "categories": "AI Outfit Generator, AI Hairstyle, AI Clothing Generator, Fashion AI",
     "slug": "virtual-try-on",
     "created_at": "14:13:27 11/17/2025"
+  },
+  {
+    "title": "Veo3 AI",
+    "name": "Veo3 AI-",
+    "description": "AI video generator for stunning 4K videos from text/images.",
+    "website": "https://www.veo3ai.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "veo3-ai-2",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "LinkBird",
@@ -12265,6 +12319,15 @@
     "created_at": "14:12:42 09/29/2025"
   },
   {
+    "title": "ReelMate AI",
+    "name": "ReelMate AI",
+    "description": "AI video agent for automated scriptwriting, video creation, and editing.",
+    "website": "https://www.reelmate.ai",
+    "categories": "AI Video Generator, AI Agent, Text to Video, AI Script Writing, AI Short Video Generator, AI Video Editor",
+    "slug": "reelmate-ai",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "Dereference AI Codetabs",
     "name": "Dereference",
     "description": "Prompt-first IDE for AI power users with parallel sessions and atomic branching.",
@@ -13156,6 +13219,15 @@
     "created_at": "14:10:23 05/25/2025"
   },
   {
+    "title": "Aivvid AI",
+    "name": "Aivvid AI",
+    "description": "All-in-one AI creative platform for videos, images, music, and voiceovers.",
+    "website": "https://aivvid.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, AI Voice Generator, Text to Video, Image to Video, AI Voice Over",
+    "slug": "aivvid-ai",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "AI Rap Generator",
     "name": "AI Rap Generator",
     "description": "AI-powered tool for generating original rap lyrics, beats, and songs.",
@@ -13793,6 +13865,15 @@
     "categories": "AI Stock Trading, AI Investing, AI Trading Bot",
     "slug": "tradeos-ai",
     "created_at": "02:19:18 09/26/2025"
+  },
+  {
+    "title": "PostSam",
+    "name": "PostSam",
+    "description": "PostSam is an AI-powered content manager built for teams who want their social media to run itself.",
+    "website": "https://postsam.ai",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Marketing Plan Generator",
+    "slug": "postsam",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "onedollarai.lol",
@@ -14542,6 +14623,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vicaura",
+    "name": "Vicaura",
+    "description": "AI tool simulating users for product feedback and MRR prediction.",
+    "website": "https://vicaura.com",
+    "categories": "AI Predictions, AI Research Tool, AI Marketing",
+    "slug": "vicaura",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "ImagesArt AI",
     "name": "ImagesArt AI",
     "description": "ImagesArt AI offers tools to transform ideas into AI art",
@@ -15152,6 +15242,15 @@
     "categories": "AI Image Generator, AI Texture Generator, AI Photo Filter, AI Photo Restoration, AI Product Photography, AI Profile Picture Generator, AI QR Code Generator, AI Realistic Image Generator, AI Signature Generator, AI Style Transfer, AI Unblur Image, AI Photo Editor, AI Waifu Generator, AI Wallpaper Generator, AI Watermark Remover, AI Yearbook, Gender Swap AI, Image to Image, Object Remover AI, Text to Handwriting, AI Photo Enhancer, AI Person Generator, AI Age Progression, AI Expand Image, AI Avatar Generator, AI Background Generator, AI Background Remover, AI Clothing Removal, AI Colorize, AI Cosplay Generator, AI Crop Image, AI Eraser, AI Face Swap Generator, AI Passport Photo, AI Headshot Generator, AI Image Combiner, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler, AI Inpainting, AI Map Generator, AI Outpainting, Text to Image",
     "slug": "nano-banana-nanana-ai",
     "created_at": "14:12:48 09/30/2025"
+  },
+  {
+    "title": "Raydian",
+    "name": "Raydian",
+    "description": "AI-first full-stack platform for reliable web app development via chat-to-build and visual editing.",
+    "website": "https://raydian.dev",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Agent, AI Developer Tools",
+    "slug": "raydian",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "Dub",
@@ -16097,6 +16196,15 @@
     "categories": "AI 3D Model Generator, Text to 3D, AI Landscape Generator",
     "slug": "genie-3-al-powered-3d-worldgenerator",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Adventure Box",
+    "name": "Adventure Box",
+    "description": "AI-powered personalized screen-free family activities delivered weekly, using household items.",
+    "website": "https://adventurebox.fun",
+    "categories": "AI Parenting, AI Assistant",
+    "slug": "adventure-box",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "Narra",
@@ -17600,6 +17708,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Image Generator",
     "slug": "wan-2-5-ai-all-in-one-wan-ai-video-generator-with-audio",
     "created_at": "02:26:46 09/28/2025"
+  },
+  {
+    "title": "InterviewFlowAI",
+    "name": "InterviewFlowAI - AI Interviews",
+    "description": "AI automates first-round hiring, resume scoring, and candidate interviews.",
+    "website": "https://interviewflowai.com",
+    "categories": "AI Interview Assistant, AI Recruiting, AI Meeting Assistant, AI Transcription",
+    "slug": "interviewflowai-ai-interviews",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "Veo 3 AI Video Generator",
@@ -20509,6 +20626,15 @@
     "created_at": "14:10:34 06/29/2025"
   },
   {
+    "title": "nao",
+    "name": "nao",
+    "description": "AI-powered data IDE for analysts, engineers, and scientists.",
+    "website": "https://getnao.io",
+    "categories": "AI For Data Analytics, AI Developer Tools, AI Agent, AI Assistant",
+    "slug": "nao",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "StoryTimeApp",
     "name": "Story Time App",
     "description": "Create personalized children's stories with AI.",
@@ -22759,6 +22885,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "ValidateIdea.io",
+    "name": "Validate Your Idea Before Building",
+    "description": "Validate startup ideas fast with landing pages, feedback, and analytics.",
+    "website": "https://validateidea.io",
+    "categories": "AI Landing Page Builder, AI Website Builder, AI Marketing",
+    "slug": "validate-your-idea-before-building",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "Mr. AX - AI Steering Wheel",
     "name": "Mr. AX - AI Steering Wheel",
     "description": "Free AI-powered customization Wheel",
@@ -23090,6 +23225,15 @@
     "categories": "AI Homework Helper, AI Proofreading, AI Writing Assistants, AI Grammar Checker, AI Code Review",
     "slug": "assignowl",
     "created_at": "14:13:11 10/27/2025"
+  },
+  {
+    "title": "Telegram Group Bot - TGDesk",
+    "name": "Telegram Group Bot - TGDesk",
+    "description": "A fully automated Telegram Group Bot for lead generation, AI chat support, and community growth.",
+    "website": "https://tg.wadesk.io",
+    "categories": "AI Reply, AI Chatbot, AI Productivity Tools",
+    "slug": "telegram-group-bot-tgdesk",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "Outlier AI",
@@ -24089,6 +24233,15 @@
     "categories": "AI Video Editor, AI Video Generator, Video to Video",
     "slug": "runaleph-com-free-ai-video-editing-with-runway-aleph",
     "created_at": "14:11:21 08/10/2025"
+  },
+  {
+    "title": "DeHome",
+    "name": "DeHome",
+    "description": "AI-powered platform for instant interior, exterior, and landscape home design visualization.",
+    "website": "https://dehome.ai",
+    "categories": "AI Interior Design, AI Landscape Generator, AI Design Generator, AI Room Planner",
+    "slug": "dehome",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "DataWisr",
@@ -25891,6 +26044,15 @@
     "created_at": "14:12:41 05/14/2025"
   },
   {
+    "title": "whisperthunder online - AI Video Generator",
+    "name": "whisperthunder online - AI Video Generator",
+    "description": "World's #1 AI video generator, transforming text into stunning 1080p videos.",
+    "website": "https://whisperthunder.online",
+    "categories": "AI Video Generator, Text to Video, AI Short Video Generator",
+    "slug": "whisperthunder-online-ai-video-generator",
+    "created_at": "14:13:04 11/28/2025"
+  },
+  {
     "title": "LanguaTalk",
     "name": "LanguaTalk",
     "description": "AI-assisted and tutor-based language learning platform for fluency.",
@@ -27041,6 +27203,15 @@
     "categories": "AI Affiliate Marketing, AI Website Builder, AI Blog Generator, AI SEO Tools",
     "slug": "usearticle",
     "created_at": "14:12:42 09/02/2025"
+  },
+  {
+    "title": "Dreamega AI",
+    "name": "Dreamega AI",
+    "description": "Free AI hub for images, videos, music with 50+ models.",
+    "website": "https://www.dreamega.ai",
+    "categories": "AI Tools Directory, AI Image Generator, AI Video Generator, AI Music Generator, AI Art Generator, Text to Image",
+    "slug": "dreamega-ai",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "See Your Soulmate",
@@ -30938,6 +31109,15 @@
     "categories": "AI Chatbot, Life Assistant, Mental Health",
     "slug": "free-ai-not-a-therapist",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Crux Legacy",
+    "name": "Crux Legacy",
+    "description": "Secure UK online estate planning platform for wills and memories.",
+    "website": "https://www.cruxlegacy.com",
+    "categories": "AI Legal Assistant, AI Assistant, AI Documents Generator",
+    "slug": "crux-legacy",
+    "created_at": "14:13:04 11/28/2025"
   },
   {
     "title": "AI web page translator by pagesection.com",
