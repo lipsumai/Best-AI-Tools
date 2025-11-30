@@ -819,6 +819,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "Pixwith",
+    "name": "Pixwith",
+    "description": "AI video generator for stunning, watermark-free videos from text/images.",
+    "website": "https://pixwith.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator, AI Image Generator, AI Ad Generator",
+    "slug": "pixwith",
+    "created_at": "02:52:25 11/30/2025"
+  },
+  {
     "title": "Fotol AI",
     "name": "Fotol AI",
     "description": "All-in-one AI image & video processing and editing platform.",
@@ -11348,6 +11357,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Z-Image-Turbo",
+    "name": "Z-Image-Turbo",
+    "description": "Efficient AI model for lightning-fast, high-quality image generation.",
+    "website": "https://z-image.ink",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Realistic Image Generator, AI Ad Creative",
+    "slug": "z-image-turbo",
+    "created_at": "02:52:25 11/30/2025"
+  },
+  {
     "title": "OCR Markdown",
     "name": "OCRMD",
     "description": "Converts images and PDFs to editable Markdown using OCR.",
@@ -16387,6 +16405,15 @@
     "created_at": "14:13:05 10/14/2025"
   },
   {
+    "title": "Hocha AI",
+    "name": "Hocha AI",
+    "description": "AI image generation platform for 3D figures, headshots, illustrations, and editing.",
+    "website": "https://hocha.ai",
+    "categories": "AI Image Generator, AI 3D Model Generator, AI Headshot Generator, AI Illustration Generator, AI Photo Editor, AI Poster Generator",
+    "slug": "hocha-ai",
+    "created_at": "02:52:25 11/30/2025"
+  },
+  {
     "title": "Video Tap",
     "name": "Video Tap",
     "description": "Repurpose and optimize videos with AI. Try for FREE.",
@@ -18952,6 +18979,15 @@
     "created_at": "02:28:47 10/26/2025"
   },
   {
+    "title": "MuseVideo",
+    "name": "MuseVideo",
+    "description": "AI video and image generator for stunning, cinematic content.",
+    "website": "https://musevideo.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, Text to Image",
+    "slug": "musevideo",
+    "created_at": "02:52:25 11/30/2025"
+  },
+  {
     "title": "Personadeck.io",
     "name": "Personadeck.io",
     "description": "Personadeck is an AI tool that helps businesses create accurate customer profiles and improve marketing strategies.",
@@ -19733,6 +19769,15 @@
     "categories": "AI Art Generator, AI Anime Art, Prompt, Text to Image, AI Wallpaper Generator, AI Anime & Cartoon Generator",
     "slug": "girl-cool-anime-wallpaper",
     "created_at": "14:12:39 05/19/2025"
+  },
+  {
+    "title": "To3D.AI",
+    "name": "To3D.AI",
+    "description": "Instant AI 3D model generator from text & images.",
+    "website": "https://to3d.ai",
+    "categories": "AI 3D Model Generator, Text to 3D, Image to 3D Model, AI Texture Generator",
+    "slug": "to3d-ai",
+    "created_at": "02:52:25 11/30/2025"
   },
   {
     "title": "MailAI",
@@ -20707,6 +20752,15 @@
     "created_at": "02:28:47 10/26/2025"
   },
   {
+    "title": "WhatsApp Warmup Tool",
+    "name": "WhatsApp Warmup Tool",
+    "description": "All-in-one WhatsApp management for marketing, automation, and team collaboration.",
+    "website": "https://warmer.wadesk.io",
+    "categories": "AI Marketing, AI Sales Assistant, AI Chatbot, AI Response Generator",
+    "slug": "whatsapp-warmup-tool",
+    "created_at": "02:52:25 11/30/2025"
+  },
+  {
     "title": "AI Doll",
     "name": "AI Doll",
     "description": "Generate, Modelize and 3D Print your Own AI Action Figure in One Click",
@@ -20858,6 +20912,15 @@
     "categories": "AI Language Learning, AI Teachers, AI Chatbot, AI Course",
     "slug": "avatalks",
     "created_at": "02:49:49 06/30/2025"
+  },
+  {
+    "title": "Alai",
+    "name": "Alai",
+    "description": "Create high quality presentations with AI",
+    "website": "https://getalai.com",
+    "categories": "AI Presentation Generator",
+    "slug": "alai",
+    "created_at": "02:52:25 11/30/2025"
   },
   {
     "title": "Cezanne HR",
@@ -22190,6 +22253,15 @@
     "categories": "AI Website Builder, AI Landing Page Builder, No-Code&Low-Code, AI Website Designer",
     "slug": "webjourney",
     "created_at": "14:09:43 09/27/2025"
+  },
+  {
+    "title": "Atono",
+    "name": "Atono",
+    "description": "AI-powered project management for product teams.",
+    "website": "https://atono.io",
+    "categories": "AI Project Management, AI Developer Tools, AI Workflow, AI Productivity Tools",
+    "slug": "atono",
+    "created_at": "02:52:25 11/30/2025"
   },
   {
     "title": "WeWeb",
