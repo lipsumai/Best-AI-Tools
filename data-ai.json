@@ -6767,6 +6767,15 @@
     "created_at": "02:41:34 06/12/2025"
   },
   {
+    "title": "Vheer",
+    "name": "Vheer",
+    "description": "Free AI image, video generator & photo editor.",
+    "website": "https://vheer.com",
+    "categories": "AI Image Generator, AI Video Generator, AI Photo Editor, AI Background Remover, Text to Image, Image to Video, AI Art Generator, AI Image Description Generator",
+    "slug": "vheer",
+    "created_at": "14:14:26 12/01/2025"
+  },
+  {
     "title": "Aifindbag",
     "name": "Aifindbag",
     "description": "Discover your perfect bag with Aifindbag's AI technology and personalized recommendations.",
@@ -20165,6 +20174,15 @@
     "categories": "AI PDF, AI Productivity Tools, AI Workflow Management, AI Document Extraction, AI Documents Assistant, AI Image Scanning, AI Email Assistant, Tax Assistant, AI Email Writer",
     "slug": "rapidscan-ai",
     "created_at": "14:11:31 05/08/2025"
+  },
+  {
+    "title": "Make Song-AI Song Generator",
+    "name": "Make Song-AI Song Generator",
+    "description": "Free AI song generator for royalty-free music and vocal tools.",
+    "website": "https://www.makesong.com",
+    "categories": "AI Song Generator, AI Music Generator, AI Vocal Remover, AI Lyrics Generator, AI Splitter, AI Instrumental Generator",
+    "slug": "make-song-ai-song-generator",
+    "created_at": "14:14:26 12/01/2025"
   },
   {
     "title": "Adtwin",
