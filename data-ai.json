@@ -5120,6 +5120,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dreamlux",
+    "name": "Dreamlux",
+    "description": "Online AI video generator for text/image to video, no watermark.",
+    "website": "https://dreamlux.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Gender Swap AI, AI Bikini, Minecraft AI",
+    "slug": "dreamlux",
+    "created_at": "03:03:45 12/01/2025"
+  },
+  {
     "title": "AI Chatbot Online",
     "name": "AI Chatbot Online",
     "description": "Chat with AI characters, create and customize them.",
@@ -13534,6 +13543,15 @@
     "created_at": "02:21:00 04/26/2025"
   },
   {
+    "title": "Z-Image AI Generator",
+    "name": "Z-Image AI Generator",
+    "description": "Free, fast AI image generator for photorealistic art.",
+    "website": "https://z-image.vip",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Realistic Image Generator, AI Photo Editor",
+    "slug": "z-image-ai-generator",
+    "created_at": "03:03:45 12/01/2025"
+  },
+  {
     "title": "AI Monitor",
     "name": "AI Monitor",
     "description": "Real-time brand visibility and GEO optimization tools for businesses.",
@@ -14623,6 +14641,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Hemleion",
+    "name": "Hemleion",
+    "description": "AI-powered tool for structured decision-making and clarity reports.",
+    "website": "https://www.hemelion.com",
+    "categories": "AI Coaching, AI Life, AI Assistant, AI Productivity Tools, AI Mental Health",
+    "slug": "hemleion",
+    "created_at": "03:03:45 12/01/2025"
+  },
+  {
     "title": "Spyper AI - E-Commerce Insights Machine",
     "name": "Spyper.ai",
     "description": "AI-powered crawler for catalog insights, price and stock changes.",
@@ -15496,6 +15523,15 @@
     "created_at": "14:12:12 08/22/2025"
   },
   {
+    "title": "GPT Image 2",
+    "name": "GPT Image 2 — Turn Words into Stunning Images",
+    "description": "AI image generator and editor for high-res visuals.",
+    "website": "https://www.gptimage2ai.com",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Image Upscaler, AI Style Transfer",
+    "slug": "gpt-image-2-turn-words-into-stunning-images",
+    "created_at": "03:03:45 12/01/2025"
+  },
+  {
     "title": "Application Traffic Control",
     "name": "atccloud.net",
     "description": "AI system to control business processes",
@@ -15899,6 +15935,15 @@
     "categories": "AI Chatbot, AI Art Generator, Healthcare, AI PDF, Large Language Models (LLMs), Research Tool, AI Photo & Image Generator, AI Illustration Generator",
     "slug": "chat01-ai",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "ImgArt Ai",
+    "name": "ImgArt Ai",
+    "description": "AI image generation and editing for stunning art in Ghibli, Chibi, Pixar styles.",
+    "website": "https://imgart.net",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Anime Generator, AI Cartoon Generator, AI Inpainting",
+    "slug": "imgart-ai",
+    "created_at": "03:03:45 12/01/2025"
   },
   {
     "title": "Sora2 AI",
@@ -16808,6 +16853,15 @@
     "categories": "AI Eraser, Object Remover AI, AI Inpainting",
     "slug": "magic-eraser-1",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "Whisper Thunder",
+    "name": "Whisper Thunder",
+    "description": "AI video generator for creating HD clips from images or text.",
+    "website": "https://whisper-thunder.ai",
+    "categories": "AI Video Generator, Image to Video, Text to Video, AI Short Video Generator, AI Animation Generator",
+    "slug": "whisper-thunder",
+    "created_at": "03:03:45 12/01/2025"
   },
   {
     "title": "Blinkist",
@@ -21310,6 +21364,15 @@
     "created_at": "02:39:04 05/29/2025"
   },
   {
+    "title": "My Time Card Calculator",
+    "name": "My Time Card Calculator",
+    "description": "Free online tool to calculate work hours and breaks.",
+    "website": "https://www.mytimecardcalculator.com",
+    "categories": "Other",
+    "slug": "my-time-card-calculator",
+    "created_at": "03:03:45 12/01/2025"
+  },
+  {
     "title": "Madespace",
     "name": "Madespace",
     "description": "AI-powered interior design app for everyone to design, shop, and get expert help.",
@@ -23909,6 +23972,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, Image to Video",
     "slug": "ai-nanobanana",
     "created_at": "02:28:29 10/01/2025"
+  },
+  {
+    "title": "Nano Banana Pro in insMind",
+    "name": "Nano Banana Pro in insMind",
+    "description": "Nano Banana Pro in insMind is a next-generation AI image generator and editor powered by Google Gemini 3 Pro, delivering hyper-realistic visuals, sharp 4K resolution, and industry-leading text accuracy.",
+    "website": "https://www.insmind.com",
+    "categories": "Text to Image, Image to Image",
+    "slug": "nano-banana-pro-in-insmind",
+    "created_at": "03:03:45 12/01/2025"
   },
   {
     "title": "TattooAI",
@@ -26854,6 +26926,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "insMind AI Agent",
+    "name": "insMind AI Agent",
+    "description": "insMind AI Agent is a next-generation visual creation assistant that lets you generate images, videos, and even 3D content through a simple chat.",
+    "website": "https://www.insmind.com",
+    "categories": "Text to Image, Image to Image, Image to Video, Text to Video",
+    "slug": "insmind-ai-agent",
+    "created_at": "03:03:45 12/01/2025"
+  },
+  {
     "title": "GoalsAI",
     "name": "GoalsAI- Personalized plans with AI",
     "description": "Personalized AI habit coaching app for tracking goals.",
@@ -27464,6 +27545,15 @@
     "categories": "AI Analytics Assistant, AI Data Mining",
     "slug": "generative-bi",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Z-Image AI",
+    "name": "Z-Image - DiT AI Image Generator | 4K Photos in Milliseconds",
+    "description": "Next-gen DiT AI image generator for 4K photorealistic images with multilingual text.",
+    "website": "https://z-image.io",
+    "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, AI Product Photography, AI Advertising",
+    "slug": "z-image-dit-ai-image-generator-4k-photos-in-milliseconds",
+    "created_at": "03:03:45 12/01/2025"
   },
   {
     "title": "Directify",
@@ -31514,6 +31604,15 @@
     "categories": "AI Video Recording, AI Image Recognition, AI Video Editor, AI Video Enhancer, Text to Video, AI Animated Video, AI Video Search",
     "slug": "twelvelabs",
     "created_at": "14:11:31 05/08/2025"
+  },
+  {
+    "title": "ImageFX",
+    "name": "ImageFX-",
+    "description": "ImageFX is a free AI image creation platform that lets anyone generate stunning images in seconds from text or images, with no design skills required.",
+    "website": "https://image-fx.app",
+    "categories": "AI Image Generator, AI Image Enhancer, AI Photo Editor, Image to Image, Text to Image, AI Animation Generator, AI Video Generator, Image to Video, Text to Video, Video to Video",
+    "slug": "imagefx-1",
+    "created_at": "03:03:45 12/01/2025"
   },
   {
     "title": "ComfyUI",
