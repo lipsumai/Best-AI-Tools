@@ -1575,6 +1575,15 @@
     "created_at": "14:09:56 09/20/2025"
   },
   {
+    "title": "LNBP",
+    "name": "LNBP",
+    "description": "AI image editor & generator for stunning 2K/4K visuals with advanced reasoning.",
+    "website": "https://lovenanobananapro.com",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Realistic Image Generator",
+    "slug": "lnbp-love-nano-banana-pro",
+    "created_at": "14:15:13 12/02/2025"
+  },
+  {
     "title": "Streamdown",
     "name": "Streamdown",
     "description": "A drop-in react-markdown replacement for AI-powered streaming.",
@@ -2518,6 +2527,15 @@
     "categories": "AI Video Editor, AI Video Generator, Video to Video, AI Prompt Generator, AI Video Enhancer, Image to Video",
     "slug": "runwayaleph-net",
     "created_at": "02:58:57 08/06/2025"
+  },
+  {
+    "title": "Z Image",
+    "name": "Z Image",
+    "description": "AI image editor & generator with photorealistic quality and bilingual text.",
+    "website": "https://fooocus.one",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Realistic Image Generator, Text to Video, Image to Video",
+    "slug": "z-image-1",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "Cypher8",
@@ -3904,6 +3922,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Sound Effect Generator, AI Voice Generator",
     "slug": "plexigen-ai-ai-video-generator-with-sound-effects",
     "created_at": "14:15:26 08/11/2025"
+  },
+  {
+    "title": "Ripplica",
+    "name": "Ripplica",
+    "description": "AI agents automate browser workflows by recording once.",
+    "website": "https://www.ripplica.com",
+    "categories": "AI Agent, AI Workflow, AI Productivity Tools, No-Code&Low-Code",
+    "slug": "ripplica",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "Creative Concepts",
@@ -6299,6 +6326,15 @@
     "created_at": "02:54:34 08/18/2025"
   },
   {
+    "title": "Livespace.ai",
+    "name": "Livespace.ai",
+    "description": "AI platform for interior designers to showcase, monetize designs, and offer AI-powered room previews.",
+    "website": "https://livespace.ai",
+    "categories": "AI Interior Design, AI Room Planner, AI Design Generator",
+    "slug": "livespace-ai",
+    "created_at": "14:15:13 12/02/2025"
+  },
+  {
     "title": "Live Portals",
     "name": "Live Portals | Custom Video Conferencing",
     "description": "Custom branded video conferencing for sales and demos",
@@ -6666,6 +6702,15 @@
     "categories": "AI SEO Assistant, Newsletter, AI Social Media Assistant",
     "slug": "truelink",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro | Free AI Image Generator for Stunning Visuals",
+    "description": "AI image generator for stunning visuals with advanced editing.",
+    "website": "https://nanobanana-pro.com",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator, AI Image Upscaler",
+    "slug": "nano-banana-pro-free-ai-image-generator-for-stunning-visuals",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "Porsia",
@@ -8223,6 +8268,15 @@
     "categories": "AI Customer Service Assistant, E-commerce Assistant, Sales Assistant",
     "slug": "chargeblast-ai",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Gen 4.5 (Gen-4.5)",
+    "name": "Gen 4.5 (Gen-4.5)",
+    "description": "AI video generator transforming text and images into professional videos.",
+    "website": "https://gen45.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
+    "slug": "gen-4-5-gen-4-5",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "Seedance AI",
@@ -10239,6 +10293,15 @@
     "categories": "AI Customer Service Assistant, AI Social Media Assistant, AI Reviews Assistant, AI Design Generator, AI Graphic Design, Design Assistant, AI Logo Generator",
     "slug": "smashing-logo",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "TinyCommand",
+    "name": "TinyCommand",
+    "description": "All-in-one no-code platform for forms, workflows, data, emails, and AI automation.",
+    "website": "https://www.tinycommand.com",
+    "categories": "AI Agent, AI Workflow, No-Code&Low-Code, AI Forms, AI Lead Generation, AI Recruiting, AI Email Generator",
+    "slug": "tinycommand",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "Supa Screenshot",
@@ -15424,6 +15487,15 @@
     "created_at": "14:13:07 05/28/2025"
   },
   {
+    "title": "Managelify",
+    "name": "Managelify",
+    "description": "AI-powered platform for unified project, task, and communication management.",
+    "website": "https://managelify.com",
+    "categories": "AI Project Management, AI Task Management, AI Assistant, AI Productivity Tools",
+    "slug": "managelify",
+    "created_at": "14:15:13 12/02/2025"
+  },
+  {
     "title": "BPM Finder",
     "name": "BPM Finder",
     "description": "Fast, accurate, privacy-first BPM analysis tool for audio files and tap tempo.",
@@ -19544,6 +19616,15 @@
     "categories": "AI Video Recording, AI Video Editor",
     "slug": "easeus-software",
     "created_at": "14:11:41 04/17/2025"
+  },
+  {
+    "title": "Runway Gen 4.5",
+    "name": "Runway Gen 4.5",
+    "description": "AI video generator with physics simulation and cinematic control.",
+    "website": "https://runwaygen45.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Commercial Generator, AI Advertising, AI Marketing, AI Image Generator",
+    "slug": "runway-gen-4-5",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "AI Sketching",
@@ -25324,6 +25405,15 @@
     "created_at": "14:12:10 05/23/2025"
   },
   {
+    "title": "Agenta",
+    "name": "Agenta",
+    "description": "Open-source LLMOps platform for reliable AI apps.",
+    "website": "https://www.agenta.ai",
+    "categories": "AI Developer Tools, Prompt Engineering, Large Language Models (LLMs), AI Agent, AI Monitor",
+    "slug": "agenta",
+    "created_at": "14:15:13 12/02/2025"
+  },
+  {
     "title": "AI Prompts",
     "name": "Promptize",
     "description": "Efficient prompt generation for AI tool implementation.",
@@ -25907,6 +25997,15 @@
     "categories": "AI Interview Assistant, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition, AI Analytics Assistant, AI Recruiting",
     "slug": "pally-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Monetize.ai",
+    "name": "Monetize.AI",
+    "description": "AI-powered tool to track and analyze video performance across TikTok, Instagram, and YouTube.",
+    "website": "https://www.monetize.ai",
+    "categories": "AI Social Media, AI Monitor, AI For Data Analytics, AI Tiktok, AI Instagram, AI YouTube",
+    "slug": "monetize-ai",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "MoodGallery",
@@ -27095,6 +27194,15 @@
     "categories": "AI Rewriter, AI Advertising Assistant, Copywriting",
     "slug": "golden-chat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Kling O1",
+    "name": "Kling O1-",
+    "description": "Unified AI video model for generation and editing with director-level control.",
+    "website": "https://www.klingo1.app",
+    "categories": "AI Video Generator, AI Video Editor, Text to Video, Image to Video, Video to Video",
+    "slug": "kling-o1-1",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "Airbyte",
@@ -30355,6 +30463,15 @@
     "created_at": "14:10:34 06/29/2025"
   },
   {
+    "title": "GPTunneL",
+    "name": "GPTunneL",
+    "description": "Unified AI hub for text, image, video, and audio generation.",
+    "website": "https://gptunnel.ru",
+    "categories": "AI Tools Directory, AI Chatbot, AI Image Generator, AI Music Generator, AI Video Generator, AI API",
+    "slug": "gptunnel",
+    "created_at": "14:15:13 12/02/2025"
+  },
+  {
     "title": "AI-empowered Platform",
     "name": "AI Tools For Your Everyday Use",
     "description": "Harness AI for streamlined workflows and enhanced productivity.",
@@ -30677,6 +30794,15 @@
     "categories": "AI Script Writing, AI Writing Assistants",
     "slug": "transcriptik-ai",
     "created_at": "02:21:32 10/16/2025"
+  },
+  {
+    "title": "Motionik",
+    "name": "Motionik",
+    "description": "Screen recorder and editor for product demos, tutorials, and explainer videos.",
+    "website": "https://motionik.com",
+    "categories": "AI Video Recording, AI Video Editor, AI Transcription, AI Noise Cancellation",
+    "slug": "motionik",
+    "created_at": "14:15:13 12/02/2025"
   },
   {
     "title": "Fusion Clips AI",
