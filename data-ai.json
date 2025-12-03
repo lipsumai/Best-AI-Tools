@@ -10889,6 +10889,15 @@
     "created_at": "14:13:04 11/28/2025"
   },
   {
+    "title": "Kirkify AI",
+    "name": "Kirkify AI-",
+    "description": "AI face swap tool for creating Charlie Kirk memes.",
+    "website": "https://kirkify.io",
+    "categories": "AI Face Swap Generator, AI Meme Generator, AI Photo Editor",
+    "slug": "kirkify-ai-1",
+    "created_at": "14:15:03 12/03/2025"
+  },
+  {
     "title": "Kuse",
     "name": "Kuse",
     "description": "Imagine if ChatGPT, Notion, and a whiteboard had a genius baby. Kuse turns messy inputs into structured deliverables, all on a canvas where your context is visual, editable, and reusable. Chaos in, genius out.",
@@ -16864,6 +16873,15 @@
     "created_at": "02:27:19 11/19/2025"
   },
   {
+    "title": "How Attractive Am I",
+    "name": "How Attractive Am I",
+    "description": "AmAttractive – Free AI Attractiveness Test & Face Rating (No Login, Privacy-First)",
+    "website": "https://amattractive.com",
+    "categories": "AI Face Analyzer, AI Face Recognition, AI Image Recognition, AI Image Scanning",
+    "slug": "how-attractive-am-i",
+    "created_at": "14:15:03 12/03/2025"
+  },
+  {
     "title": "gpt-oss playground",
     "name": "gpt-oss playground",
     "description": "Demo platform for OpenAI's open-weight models for developers.",
@@ -17654,6 +17672,15 @@
     "categories": "Design Assistant, AI Content Generator, AI Code Generator, AI Product Description Generator",
     "slug": "respaced-com",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "SAM 3D",
+    "name": "SAM 3D-",
+    "description": "AI tools for 3D reconstruction from a single image.",
+    "website": "https://sam-3d.com",
+    "categories": "Image to 3D Model, AI 3D Model Generator, AI API",
+    "slug": "sam-3d-1",
+    "created_at": "14:15:03 12/03/2025"
   },
   {
     "title": "Anymark",
@@ -22082,6 +22109,15 @@
     "categories": "AI Trading Bot Assistant",
     "slug": "themis-for-crypto",
     "created_at": "02:42:53 05/04/2025"
+  },
+  {
+    "title": "Ryter Pro",
+    "name": "Ryter Pro",
+    "description": "Humanizes AI text to make it undetectable by AI detectors.",
+    "website": "https://www.ryter.pro",
+    "categories": "AI Bypasser, Humanizer AI, Undetectable AI, AI Rewriter, AI Content Detector",
+    "slug": "ryter-pro",
+    "created_at": "14:15:03 12/03/2025"
   },
   {
     "title": "Paraphraser.io",
