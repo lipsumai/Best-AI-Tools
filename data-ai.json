@@ -3114,6 +3114,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vidofy",
+    "name": "Vidofy",
+    "description": "All-in-one AI platform for video, image, and voice generation.",
+    "website": "https://vidofy.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Video to Video, Text to Image, Image to Image, AI Animation Generator, AI Text-to-Speech, AI Voice Cloning, AI Lip Sync Generator",
+    "slug": "vidofy",
+    "created_at": "02:45:11 12/04/2025"
+  },
+  {
     "title": "SuperMaker AI Video Generator",
     "name": "SuperMaker AI Video Generator",
     "description": "All-in-one AI video generator with integrated audio, image, and music.",
@@ -9528,6 +9537,15 @@
     "categories": "AI Chatbot, AI API, AI Chat Generator, AI Assistant",
     "slug": "unshackled-ai",
     "created_at": "03:03:09 07/27/2025"
+  },
+  {
+    "title": "Feng Shui Bedroom",
+    "name": "Feng Shui Bedroom",
+    "description": "AI-powered Feng Shui analysis for optimal bedroom layouts and energy flow.",
+    "website": "https://fengshuibedroom.ai",
+    "categories": "AI Interior Design, AI Room Planner, AI Design Assistant",
+    "slug": "feng-shui-bedroom",
+    "created_at": "02:45:11 12/04/2025"
   },
   {
     "title": "Yaseen AI",
@@ -17800,6 +17818,15 @@
     "created_at": "14:12:48 07/09/2025"
   },
   {
+    "title": "Kling 2.6 AI",
+    "name": "Kling 2.6 AI",
+    "description": "AI video generator with physics simulation and native audio.",
+    "website": "https://kling26.net",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Ad Generator, AI Sound Effect Generator",
+    "slug": "kling-2-6-ai",
+    "created_at": "02:45:11 12/04/2025"
+  },
+  {
     "title": "MyShotAI",
     "name": "MyShotAI - AI Headshot",
     "description": "AI app for creating professional headshots from selfies.",
@@ -25693,6 +25720,15 @@
     "created_at": "14:13:10 11/21/2025"
   },
   {
+    "title": "Seedream 4.5 - ByteDance’s Latest 4K Cinematic Image AI",
+    "name": "Seedream 4.5 - ByteDance’s Latest 4K Cinematic Image AI",
+    "description": "AI platform for 4K cinematic image and video generation.",
+    "website": "https://viw.ai",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator, AI Advertising",
+    "slug": "seedream-4-5-bytedance-s-latest-4k-cinematic-image-ai",
+    "created_at": "02:45:11 12/04/2025"
+  },
+  {
     "title": "RentLateFee.com",
     "name": "RentLateFee.com",
     "description": "AI-powered legal rent late fee calculator for all 50 U.S. states. Instantly find your state’s legal limit using real housing statutes and AI-based compliance matching.",
@@ -31181,6 +31217,15 @@
     "categories": "AI Reviews Assistant, AI Analytics Assistant, AI Customer Service Assistant",
     "slug": "reviewhawk",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedream 4.5 AI",
+    "name": "Seedream 4.5 AI",
+    "description": "Photorealistic AI image generator for professional 4K visuals with consistent characters and text.",
+    "website": "https://seedream4-5.org",
+    "categories": "AI Image Generator, AI Realistic Image Generator, AI Design Generator, Text to Image, Image to Image, AI Commercial Generator, AI Product Photography",
+    "slug": "seedream-4-5-ai",
+    "created_at": "02:45:11 12/04/2025"
   },
   {
     "title": "Nano Banana Pro",
