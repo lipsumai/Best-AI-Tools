@@ -1692,6 +1692,15 @@
     "created_at": "02:20:22 11/08/2025"
   },
   {
+    "title": "Noiz Agent",
+    "name": "Noiz Agent",
+    "description": "Your all-in-one AI studio for voice, dubbing & audio magic",
+    "website": "https://agent.noiz.ai",
+    "categories": "AI Agent, AI Audio Editing, AI Audio Enhancer, AI Text-to-Speech, AI Voice Assistants, AI Voice Cloning, AI Voice Generator, AI Social Media, AI Video Editor, AI Video Enhancer, AI Video Generator",
+    "slug": "noiz-agent",
+    "created_at": "14:14:37 12/04/2025"
+  },
+  {
     "title": "TalkToDesign",
     "name": "TalkToDesign",
     "description": "AI tool for image creation and editing through conversations.",
@@ -3418,6 +3427,15 @@
     "categories": "AI Coaching, AI Website Builder, AI Website Designer, Mental Health, AI Chatbot",
     "slug": "bobbychat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Emoji",
+    "name": "AI Emoji",
+    "description": "Unleash creativity, craft emojis that feel like you",
+    "website": "https://emoji.design",
+    "categories": "AI Avatar Generator, AI Cosplay Generator, AI Headshot Generator, AI Image Generator, AI Photo Editor",
+    "slug": "ai-emoji",
+    "created_at": "14:14:37 12/04/2025"
   },
   {
     "title": "SayStory AI",
@@ -13831,6 +13849,15 @@
     "created_at": "14:12:59 08/20/2025"
   },
   {
+    "title": "Freudly — AI Therapist",
+    "name": "Freudly — AI Therapist",
+    "description": "AI-powered online therapist for mental health support.",
+    "website": "https://freudly.ai",
+    "categories": "AI Therapist, AI Mental Health, AI Chatbot, AI Assistant",
+    "slug": "freudly-ai-therapist",
+    "created_at": "14:14:37 12/04/2025"
+  },
+  {
     "title": "Instalog",
     "name": "Instalog",
     "description": "AI tool for log management and analytics for developers.",
@@ -22633,6 +22660,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tikpal",
+    "name": "Tikpal",
+    "description": "Tikpal, your AI voice partner - Focus, Flow, Forge.  Human creativity leads. AI handles the rest. Together, they turn ideas into extraordinary creations.",
+    "website": "https://tikpal.ai",
+    "categories": "AI Assistant, AI Agent, AI Copilot",
+    "slug": "tikpal",
+    "created_at": "14:14:37 12/04/2025"
+  },
+  {
     "title": "AI Equalizer",
     "name": "AI Equalizer",
     "description": "Ultimate audio control and sound enhancement app for Android.",
@@ -28771,6 +28807,15 @@
     "created_at": "14:12:58 11/20/2025"
   },
   {
+    "title": "Banana Pro",
+    "name": "Banana Pro",
+    "description": "Advanced AI image generator and editor for professional visuals.",
+    "website": "https://banana-pro.io",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Art Generator, AI Character, Image to Image",
+    "slug": "banana-pro",
+    "created_at": "14:14:37 12/04/2025"
+  },
+  {
     "title": "Nano Banana Pro API",
     "name": "Nano Banana Pro API",
     "description": "Google's next-gen AI image generator with 4K resolution and advanced features.",
@@ -31489,6 +31534,15 @@
     "created_at": "14:13:27 11/17/2025"
   },
   {
+    "title": "Sora 3",
+    "name": "Sora 3 - The Future of AI Video Generation",
+    "description": "AI video generation platform for stunning videos.",
+    "website": "https://sora3.dev",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor, AI API",
+    "slug": "sora-3-the-future-of-ai-video-generation",
+    "created_at": "14:14:37 12/04/2025"
+  },
+  {
     "title": "Higher Site AI Powered Digital Agency",
     "name": "highersite.com",
     "description": "AI powered digital marketing and SEO agency",
@@ -32189,6 +32243,15 @@
     "categories": "AI Background Remover, AI Video Editor, Large Language Models (LLMs), Photo & Image Editor",
     "slug": "watermarkremoverai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BigIdeasDB",
+    "name": "BigIdeasDB",
+    "description": "The only AI-powered suite of tools designed to help you research, validate, and build products people actually want.",
+    "website": "https://bigideasdb.com",
+    "categories": "AI Research Tool, AI Business Ideas Generator, AI Consulting, AI Agent, AI Assistant, AI Copilot",
+    "slug": "bigideasdb",
+    "created_at": "14:14:37 12/04/2025"
   },
   {
     "title": "Humanize AI (HumanizeAI.app)",
