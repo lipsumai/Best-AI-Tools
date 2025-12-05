@@ -558,6 +558,15 @@
     "created_at": "14:15:50 08/01/2025"
   },
   {
+    "title": "GSong.ai",
+    "name": "GSong.ai",
+    "description": "AI-powered platform for generating songs, lyrics, and music from text.",
+    "website": "https://www.gsong.ai",
+    "categories": "AI Song Generator, AI Lyrics Generator, AI Music Generator, AI Vocal Remover",
+    "slug": "gsong-ai",
+    "created_at": "14:13:50 12/05/2025"
+  },
+  {
     "title": "Klyra AI",
     "name": "Klyra AI",
     "description": "Your all-in-one creative AI suite for videos, music, voices, avatars, images, and more.",
@@ -2122,6 +2131,15 @@
     "categories": "AI Copilot, AI Sales Assistant, AI Customer Service, AI Chatbot, AI Sales, AI Search Engine",
     "slug": "convi",
     "created_at": "14:14:45 07/30/2025"
+  },
+  {
+    "title": "Crow",
+    "name": "Crow",
+    "description": "Adds a chat-first AI copilot to any product in minutes.",
+    "website": "https://usecrow.org",
+    "categories": "AI Copilot, AI Agent, AI Developer Tools, AI Assistant",
+    "slug": "crow",
+    "created_at": "14:13:50 12/05/2025"
   },
   {
     "title": "ChatWay AI Assistant",
@@ -5982,6 +6000,15 @@
     "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, Large Language Models (LLMs)",
     "slug": "fluxaigen",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "The Infinite Bar",
+    "name": "The ∞ Bar",
+    "description": "AI platform for group chats with legendary mentors, emphasizing context and relationships.",
+    "website": "https://theinfinite.bar",
+    "categories": "AI Character, AI Chatbot, AI Roleplay, AI Assistant",
+    "slug": "the-bar",
+    "created_at": "14:13:50 12/05/2025"
   },
   {
     "title": "Horizon Alpha",
@@ -11716,6 +11743,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "Contenov",
+    "name": "Contenov",
+    "description": "AI tool for generating data-driven SEO blog content briefs.",
+    "website": "https://www.contenov.com",
+    "categories": "AI SEO Tools, SEO Writing AI, AI Outline Generator, AI Blog Generator",
+    "slug": "contenov",
+    "created_at": "14:13:50 12/05/2025"
+  },
+  {
     "title": "CTRLpotato",
     "name": "CTRLpotato",
     "description": "Invisible AI interview assistant for real-time answers, context, and undetectable help.",
@@ -15370,6 +15406,15 @@
     "created_at": "02:43:46 12/02/2025"
   },
   {
+    "title": "Kodey AI",
+    "name": "Kodey.ai",
+    "description": "No-code platform for building autonomous AI agent teams.",
+    "website": "https://kodey.ai",
+    "categories": "AI Agent, AI Workflow, No-Code&Low-Code, AI Customer Service, AI Sales Assistant, AI Recruiting, AI Scheduling",
+    "slug": "kodey-ai",
+    "created_at": "14:13:50 12/05/2025"
+  },
+  {
     "title": "Recaster AI",
     "name": "Recaster AI",
     "description": "Transform e-commerce with intelligent content",
@@ -15971,6 +16016,15 @@
     "categories": "AI Code Assistant, AI Copilot, AI Agent, AI Developer Tools, AI Code Review",
     "slug": "traycer-ai",
     "created_at": "14:13:05 10/14/2025"
+  },
+  {
+    "title": "FlowLens",
+    "name": "FlowLens",
+    "description": "Automated bug reporting with full context for AI coding agents.",
+    "website": "https://magentic.ai",
+    "categories": "AI Developer Tools, AI Agent, AI Code Assistant, AI Copilot, AI Productivity Tools",
+    "slug": "flowlens",
+    "created_at": "14:13:50 12/05/2025"
   },
   {
     "title": "Nano Banana AI",
@@ -25999,6 +26053,15 @@
     "created_at": "03:40:18 04/13/2025"
   },
   {
+    "title": "Falva",
+    "name": "Falva",
+    "description": "AI-powered, free online visual design platform for everyone.",
+    "website": "https://falva.ai",
+    "categories": "AI Graphic Design, AI Design Assistant, AI Design Generator, AI Image Generator, AI Social Media Post Generator, AI Poster Generator, AI Logo Generator",
+    "slug": "falva",
+    "created_at": "14:13:50 12/05/2025"
+  },
+  {
     "title": "AskBlake",
     "name": "AskBlake",
     "description": "AI web-app builder for production-ready React + Tailwind components.",
@@ -26060,6 +26123,15 @@
     "categories": "AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Team Collaboration, AI Content Generator",
     "slug": "text2meme-io",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "GREB",
+    "name": "GREB by Cheetah AI",
+    "description": "Intelligent code search via MCP for AI coding assistants.",
+    "website": "https://grebmcp.com",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Search Engine, AI Copilot",
+    "slug": "greb-by-cheetah-ai",
+    "created_at": "14:13:50 12/05/2025"
   },
   {
     "title": "Z-Image AI",
@@ -31930,6 +32002,15 @@
     "created_at": "02:26:41 08/20/2025"
   },
   {
+    "title": "Userflow",
+    "name": "Userflow",
+    "description": "AI-powered platform for in-app onboarding, tours, checklists, surveys, and product adoption.",
+    "website": "https://www.userflow.com",
+    "categories": "AI Assistant, AI Customer Service, AI Chatbot, No-Code&Low-Code",
+    "slug": "userflow",
+    "created_at": "14:13:50 12/05/2025"
+  },
+  {
     "title": "WhatToText AI",
     "name": "WhatToText AI",
     "description": "AI-powered text assistance for effective communication.",
@@ -32504,6 +32585,15 @@
     "categories": "AI Marketing, AI Sales Assistant, AI Chatbot, AI Sales, AI CRM",
     "slug": "evolvoom-io",
     "created_at": "14:15:24 07/23/2025"
+  },
+  {
+    "title": "Daylit",
+    "name": "Daylit",
+    "description": "AI-powered platform for accounts receivable and working capital solutions.",
+    "website": "https://daylit.com",
+    "categories": "AI Accounting, AI Agent, AI For Finance, AI Assistant, AI Predictions",
+    "slug": "daylit",
+    "created_at": "14:13:50 12/05/2025"
   },
   {
     "title": "RoleGuides",
