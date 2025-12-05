@@ -6839,6 +6839,15 @@
     "created_at": "02:41:34 06/12/2025"
   },
   {
+    "title": "Luckpal",
+    "name": "Luckpal",
+    "description": "AI-powered Eastern fortune telling and destiny guidance.",
+    "website": "https://www.luckypal.app",
+    "categories": "AI Predictions, AI Assistant, AI Chatbot, AI Roleplay",
+    "slug": "luckpal",
+    "created_at": "02:44:35 12/05/2025"
+  },
+  {
     "title": "Vheer",
     "name": "Vheer",
     "description": "Free AI image, video generator & photo editor.",
@@ -7971,6 +7980,15 @@
     "categories": "AI Voice Cloning, Text-to-Speech, AI Celebrity Voice Generator, AI Speech Synthesis, AI Social Media Assistant, AI YouTube Assistant, AI Tiktok Assistant, AI Podcast Assistant, AI Productivity Tools",
     "slug": "ai-voicer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Avatar 2",
+    "name": "Avatar 2",
+    "description": "AI tool for creating talking avatars from images.",
+    "website": "https://avatar2.ai",
+    "categories": "AI Avatar Video Generator, AI Avatar Generator, AI Video Generator, AI Lip Sync Generator",
+    "slug": "avatar-2",
+    "created_at": "02:44:35 12/05/2025"
   },
   {
     "title": "CodableAI - Your AI-Powered Programming Assistant for Developers",
@@ -10158,6 +10176,15 @@
     "categories": "AI Advertising Assistant, AI Customer Service Assistant, AI Reply Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI CRM Assistant, AI Reviews Assistant, AI Ad Creative Assistant, AI Response Generator, AI Lead Generation, AI Chatbot, AI Forms & Surveys, Sales Assistant",
     "slug": "respond-io",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "Bananaimg AI",
+    "name": "Bananaimg AI",
+    "description": "Unleash Your Creativity with BananaImg.online. Welcome to the premier hub for Nano Banana and Nano Banana Pro models. Experience lightning-fast AI image generation, advanced editing tools, and a vast library of preset effects. Explore our community gallery for endless inspiration and turn your ideas into visual reality—instantly.",
+    "website": "https://bananaimg.online",
+    "categories": "Image to Image, AI Age Progression, AI Photo Editor, AI Product Photography, AI Style Transfer, Text to Image",
+    "slug": "bananaimg-ai",
+    "created_at": "02:44:35 12/05/2025"
   },
   {
     "title": "FanmeAI",
@@ -30578,6 +30605,15 @@
     "categories": "AI Image Scanning, AI Image Recognition",
     "slug": "ai-snap-sort",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Malloy Studio - You AI Motion Designer",
+    "name": "Malloy Studio - You AI Motion Designer",
+    "description": "Type an Idea. Get the animation in seconds.",
+    "website": "https://malloy.sg",
+    "categories": "AI Video Editor, AI Vector Graphics, AI Animation Generator, Text to Video",
+    "slug": "malloy-studio-you-ai-motion-designer",
+    "created_at": "02:44:35 12/05/2025"
   },
   {
     "title": "Intryc",
