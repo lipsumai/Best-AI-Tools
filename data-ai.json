@@ -11653,6 +11653,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AITATTOO ART",
+    "name": "AITATTOO ART",
+    "description": "AITattoo.art is an AI-powered tattoo design studio that turns your ideas into clean, studio-ready ink in seconds. From minimalist fineline tattoos to anime, geometric and spiritual styles, you can quickly generate unique designs and bring clearer references to your tattoo artist.",
+    "website": "https://aitattoo.art",
+    "categories": "AI Tattoo Generator, AI Caption Generator, AI Avatar Generator, AI Expand Image, AI Headshot Generator, Image to Image, Text to Image, AI Anime Art, Fashion AI",
+    "slug": "aitattoo-art",
+    "created_at": "14:11:21 12/06/2025"
+  },
+  {
     "title": "Rezumeify",
     "name": "Rezumeify",
     "description": "Your AI job hunting companion",
@@ -13739,6 +13748,15 @@
     "categories": "AI Developer Tools, AI Github, AI Business Ideas Generator",
     "slug": "what-to-build",
     "created_at": "14:14:05 08/13/2025"
+  },
+  {
+    "title": "Kirkified",
+    "name": "Kirkified",
+    "description": "AI face swap meme generator for viral Kirkified content with neon-glitch aesthetic.",
+    "website": "https://kirkified.ai",
+    "categories": "AI Face Swap Generator, AI Meme Generator",
+    "slug": "kirkified",
+    "created_at": "14:11:21 12/06/2025"
   },
   {
     "title": "Weavely.ai",
@@ -26278,6 +26296,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "Sup AI",
+    "name": "Sup AI",
+    "description": "Sup AI is the world's most accurate AI orchestration platform, combining 9 frontier LLMs with proprietary synthesis technology to deliver hallucination-free, verifiable responses for mission-critical decisions.",
+    "website": "https://sup.ai",
+    "categories": "AI Chatbot, AI Answer, AI Assistant, Large Language Models (LLMs)",
+    "slug": "sup-ai",
+    "created_at": "14:11:21 12/06/2025"
+  },
+  {
     "title": "StackGen",
     "name": "StackGen",
     "description": "AI-powered platform for autonomous cloud infrastructure management.",
@@ -31955,6 +31982,15 @@
     "categories": "AI Detector, AI Content Generator, Writing Assistants, AI Rewriter, AI Social Media Assistant, Paraphraser, AI Blog Writer, General Writing, Copywriting, AI Creative Writing, AI Story Writing, AI Book Writing, Papers, Essay Writer, Novel, Report Writing, AI Email Writer",
     "slug": "twaingpt",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Z Image Turbo AI",
+    "name": "Z Image Turbo AI",
+    "description": "Magical AI image generator for stunning art.",
+    "website": "https://zimageturbo.ai",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Realistic Image Generator, Open Source AI Models",
+    "slug": "z-image-turbo-ai",
+    "created_at": "14:11:21 12/06/2025"
   },
   {
     "title": "Movie Gen",
