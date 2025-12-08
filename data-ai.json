@@ -6155,6 +6155,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "AI Baby Video",
+    "name": "AI Baby Video",
+    "description": "AI platform for generating baby videos, predictions, and art.",
+    "website": "https://babyvideo.ai",
+    "categories": "AI Baby Generator, AI Video Generator, AI Age Progression, AI Cartoon Generator, AI Name Generator, Text to Video, Image to Video",
+    "slug": "ai-baby-video",
+    "created_at": "02:46:12 12/08/2025"
+  },
+  {
     "title": "Golpo",
     "name": "Golpo",
     "description": "AI video generator for explainer videos, documents, and podcasts.",
@@ -9312,6 +9321,15 @@
     "categories": "AI Text-to-Speech, AI Voice Generator, AI Speech Synthesis",
     "slug": "orate",
     "created_at": "14:13:07 05/28/2025"
+  },
+  {
+    "title": "FAQ Ally",
+    "name": "FAQ Ally",
+    "description": "AI platform for small businesses to create chatbots from documents.",
+    "website": "https://faqally.com",
+    "categories": "AI Knowledge Management, AI Chatbot, AI Assistant, AI Agent, AI Customer Service, AI Knowledge Base, AI API, AI OCR",
+    "slug": "faq-ally",
+    "created_at": "02:46:12 12/08/2025"
   },
   {
     "title": "Plot.sh",
@@ -20129,6 +20147,15 @@
     "categories": "AI Summarizer",
     "slug": "free-ai-article-summarizer",
     "created_at": "02:43:59 07/02/2025"
+  },
+  {
+    "title": "Seedream 4.5",
+    "name": "Seedream 4.5",
+    "description": "AI image generator and editor for consistent, high-quality 4K images with clear text.",
+    "website": "https://seedream45.io",
+    "categories": "AI Image Generator, Text to Image, AI Photo Editor, Image to Image, AI Image Upscaler",
+    "slug": "seedream-4-5",
+    "created_at": "02:46:12 12/08/2025"
   },
   {
     "title": "Celebrity AI",
@@ -32144,6 +32171,15 @@
     "categories": "AI Image Generator, AI Image Enhancer, AI Photo Editor, Image to Image, Text to Image, AI Animation Generator, AI Video Generator, Image to Video, Text to Video, Video to Video",
     "slug": "imagefx-1",
     "created_at": "03:03:45 12/01/2025"
+  },
+  {
+    "title": "Kling 2.6 AI Video Generator",
+    "name": "Kling 2.6 AI Video Generator",
+    "description": "Advanced AI video generator for cinematic 1080p videos.",
+    "website": "https://kling26.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video",
+    "slug": "kling-2-6-ai-video-generator",
+    "created_at": "02:46:12 12/08/2025"
   },
   {
     "title": "ComfyUI",
