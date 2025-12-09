@@ -360,6 +360,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Nano Banana Flash",
+    "name": "Nano Banana Flash",
+    "description": "AI image generator for text-to-image and photo editing.",
+    "website": "https://nanobananaflash.ai",
+    "categories": "AI Image Generator, Text to Image, AI Photo Editor, AI Image Enhancer, AI Background Remover",
+    "slug": "nano-banana-flash",
+    "created_at": "02:44:05 12/09/2025"
+  },
+  {
     "title": "Eleven Music",
     "name": "Eleven Music",
     "description": "AI music generator for unique, royalty-free songs.",
@@ -2158,6 +2167,15 @@
     "categories": "AI Lip Sync Generator, AI Avatar Video Generator, AI Avatar Generator, AI Video Generator",
     "slug": "lipsync-ai",
     "created_at": "02:24:31 09/08/2025"
+  },
+  {
+    "title": "Spectrahertz",
+    "name": "Spectrahertz",
+    "description": "Spectrahertz is the essential post-production suite for AI music creators, designed to turn raw Suno and Udio generations into studio-quality masters. It is a web-based toolkit that solves the three biggest problems in generative audio",
+    "website": "https://spectrahertz.com",
+    "categories": "AI Audio Enhancer, AI Watermark Remover, AI Audio Editing, AI Music Generator, AI Detector",
+    "slug": "spectrahertz",
+    "created_at": "02:44:05 12/09/2025"
   },
   {
     "title": "OneReach.ai",
@@ -6938,6 +6956,15 @@
     "created_at": "14:12:04 07/17/2025"
   },
   {
+    "title": "Ponder AI",
+    "name": "Ponder AI",
+    "description": "AI thinking and research space that helps you organize ideas visually, research smarter, and create work you can stand behind.",
+    "website": "https://ponder.ing",
+    "categories": "AI Productivity Tools, AI Knowledge Management, AI Mind Mapping, AI Research Tool",
+    "slug": "ponder-ai",
+    "created_at": "02:44:05 12/09/2025"
+  },
+  {
     "title": "Nano Banana Pro",
     "name": "Nano Banana Pro - AI Image Generator & Editor",
     "description": "Lightweight AI image generator and editor for fast mockups.",
@@ -9078,6 +9105,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator",
     "slug": "seveum",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "Kling 2.6 AI",
+    "name": "Kling 2.6 AI-",
+    "description": "AI video generator with native audio for realistic, cinematic content.",
+    "website": "https://kling26ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Sound Effect Generator, AI Voice Generator",
+    "slug": "kling-2-6-ai-1",
+    "created_at": "02:44:05 12/09/2025"
   },
   {
     "title": "MiriCanvas",
@@ -20140,6 +20176,15 @@
     "created_at": "14:12:34 09/25/2025"
   },
   {
+    "title": "Sum Buddy",
+    "name": "Sum Buddy",
+    "description": "AI spreadsheet for easy formulas, data cleaning, and management.",
+    "website": "https://www.sumbuddy.net",
+    "categories": "AI Spreadsheet, AI Assistant, AI Excel Formula Generator, AI For Data Analytics, AI Productivity Tools",
+    "slug": "sum-buddy",
+    "created_at": "02:44:05 12/09/2025"
+  },
+  {
     "title": "AI Face Swap Video",
     "name": "AI Face Swap Video",
     "description": "AI tool for seamless face swapping in videos and photos.",
@@ -27610,6 +27655,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "LazyTyper",
+    "name": "LazyTyper",
+    "description": "Free, fast, accurate, multilingual voice typing app with 12 AI models.",
+    "website": "https://lazytyper.com",
+    "categories": "AI Speech-to-Text, AI Transcription, Audio To Text AI, AI Speech Recognition, AI Writing Assistants",
+    "slug": "lazytyper",
+    "created_at": "02:44:05 12/09/2025"
+  },
+  {
     "title": "Casc",
     "name": "Casc",
     "description": "Access and scale knowledge instantly",
@@ -29264,6 +29318,15 @@
     "categories": "AI Interior & Room Design",
     "slug": "lumia-ai-ai-home-designer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Google SERP Simulator",
+    "name": "Google SERP Simulator",
+    "description": "Preview SERP with Favicon (Mobile & Desktop)",
+    "website": "https://www.scottshorter.com.au",
+    "categories": "No-Code&Low-Code, Ad Copy",
+    "slug": "google-serp-simulator",
+    "created_at": "02:44:05 12/09/2025"
   },
   {
     "title": "BAGEL",
@@ -31172,6 +31235,15 @@
     "categories": "AI Prompt Generator, AI Writing Assistants, AI Productivity Tools",
     "slug": "promtist",
     "created_at": "02:28:15 10/30/2025"
+  },
+  {
+    "title": "Hado SEO | Prerender.io Alternative",
+    "name": "Hado SEO | Prerender.io Alternative",
+    "description": "Makes AI-built apps visible to search engines and social media with server-side rendering.",
+    "website": "https://hadoseo.com",
+    "categories": "AI SEO Tools, AI Developer Tools, AI Marketing",
+    "slug": "hado-seo-prerender-io-alternative",
+    "created_at": "02:44:05 12/09/2025"
   },
   {
     "title": "ZippLead",
