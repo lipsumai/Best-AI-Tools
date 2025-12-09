@@ -1,5 +1,14 @@
 [
   {
+    "title": "CreatOK.ai",
+    "name": "CreatOK.ai",
+    "description": "AI video generator powered by Sora 2 for e-commerce.",
+    "website": "https://creatok.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, Script To Video AI Generator",
+    "slug": "creatok-ai",
+    "created_at": "14:15:27 12/09/2025"
+  },
+  {
     "title": "Thepanel",
     "name": "Thepanel",
     "description": "A dynamic open-source Mixpanel alternative for web and mobile app analytics.",
@@ -4300,6 +4309,15 @@
     "categories": "Text to Video, Text-to-Speech, AI Speech Synthesis",
     "slug": "bensafer-realistic-text-to-speech",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Documentation.AI",
+    "name": "Documentation.AI",
+    "description": "AI documentation and knowledge base software for current docs.",
+    "website": "https://documentation.ai",
+    "categories": "AI Knowledge Base, AI Documents Generator, AI Knowledge Management, AI Writing Assistants, AI Agent",
+    "slug": "documentation-ai",
+    "created_at": "14:15:27 12/09/2025"
   },
   {
     "title": "Content Canvas",
@@ -14794,6 +14812,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SpikApp",
+    "name": "SpikApp",
+    "description": "AI coach for communication, charisma, and presence with audio/video analysis.",
+    "website": "https://spikapp.com",
+    "categories": "AI Coaching, AI Roleplay, AI Interview Assistant, AI Sales Assistant",
+    "slug": "spikapp",
+    "created_at": "14:15:27 12/09/2025"
+  },
+  {
     "title": "MailTester.Ninja",
     "name": "MailTester.Ninja",
     "description": "MailTester.Ninja is a free and easy-to-use email checker that verifies or finds any address.",
@@ -15674,6 +15701,15 @@
     "categories": "AI Robot, AI Assistant, AI Agent",
     "slug": "figureai",
     "created_at": "14:13:05 10/14/2025"
+  },
+  {
+    "title": "TruGen AI",
+    "name": "TruGen AI",
+    "description": "Hyper-realistic AI Video Agents for real-time, human-like interactions and automated conversations.",
+    "website": "https://trugen.ai",
+    "categories": "AI Agent, AI Avatar Video Generator, AI API, AI Video Generator",
+    "slug": "trugen-ai",
+    "created_at": "14:15:27 12/09/2025"
   },
   {
     "title": "Nayla",
