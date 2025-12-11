@@ -5732,6 +5732,15 @@
     "created_at": "14:12:52 07/16/2025"
   },
   {
+    "title": "Fanfun AI",
+    "name": "Fanfun AI",
+    "description": "AI video & voice generator cloning celebrity voices for captivating videos.",
+    "website": "https://www.fanfun.ai",
+    "categories": "AI Video Generator, AI Voice Cloning, AI Celebrity Voice Generator, AI Voice Generator",
+    "slug": "fanfun-ai",
+    "created_at": "14:17:02 12/11/2025"
+  },
+  {
     "title": "Dabble",
     "name": "Dabble Book Writing Software",
     "description": "Online writing tool for novelists with efficient features.",
@@ -6009,6 +6018,15 @@
     "categories": "Other",
     "slug": "thefinadvisor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Dewy Chat",
+    "name": "Dewy Chat",
+    "description": "Chat with unique AI characters and explore or create your own worlds.",
+    "website": "https://apps.apple.com/sg/app/dewy-chat-with-ai-characters/id6755132524",
+    "categories": "AI Chatbot, AI Anime Girlfriend, AI Girlfriend",
+    "slug": "dewy-chat",
+    "created_at": "14:17:02 12/11/2025"
   },
   {
     "title": "Seedance Video Generator",
@@ -25126,6 +25144,15 @@
     "created_at": "14:13:00 11/05/2025"
   },
   {
+    "title": "BestMaker AI",
+    "name": "BestMaker AI",
+    "description": "AI platform for generating high-quality images and 4K videos from text or photos.",
+    "website": "https://bestmaker.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, AI Photo Editor, Image to Image",
+    "slug": "bestmaker-ai",
+    "created_at": "14:17:02 12/11/2025"
+  },
+  {
     "title": "Readly",
     "name": "Readly",
     "description": "Accelerates learning Chinese through an interactive scanning solution.",
@@ -26933,6 +26960,15 @@
     "categories": "AI Monitor & Report Builder, Report Writing, Resume Builder, Research Tool, AI Business Ideas Generator, AI Analytics Assistant, AI Roadmap Generator, AI Reviews Assistant, AI Social Media Assistant",
     "slug": "refinedea",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "Mixboard",
+    "name": "Mixboard",
+    "description": "AI-powered concepting board for visualizing and refining ideas.",
+    "website": "https://mixboard.google.com",
+    "categories": "AI Image Generator, AI Design Generator, AI Design Assistant, AI Text Generator",
+    "slug": "mixboard",
+    "created_at": "14:17:02 12/11/2025"
   },
   {
     "title": "image2poemclip",
@@ -31019,6 +31055,15 @@
     "categories": "AI Advertising Assistant, AI Content Generator, AI Tools Directory, AI Product Description Generator, AI SEO Assistant, AI Social Media Assistant",
     "slug": "ai-tools-for-your-everyday-use",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lensgo AI",
+    "name": "Lensgo AI",
+    "description": "AI platform for generating images and videos quickly.",
+    "website": "https://lensgoai.net",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Image to Image, AI Image Upscaler, Text to Video, Image to Video, AI Singing Generator",
+    "slug": "lensgo-ai",
+    "created_at": "14:17:02 12/11/2025"
   },
   {
     "title": "BlabbyAI Speech to text",
