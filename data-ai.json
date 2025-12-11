@@ -5408,6 +5408,15 @@
     "created_at": "14:17:21 08/06/2025"
   },
   {
+    "title": "Twee",
+    "name": "Twee",
+    "description": "AI platform for teachers to create language lesson materials.",
+    "website": "https://twee.com",
+    "categories": "AI Lesson Plan Generator, AI Teachers, AI Language Learning, AI Question Generator, AI Quiz Generator",
+    "slug": "twee",
+    "created_at": "02:49:15 12/11/2025"
+  },
+  {
     "title": "Florami",
     "name": "Florami – AI Plant Identifier",
     "description": "AI app identifying plants with poetic meanings.",
@@ -18889,6 +18898,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI invitation generator",
+    "name": "AI invitation generator",
+    "description": "AI-powered platform for custom invitations and greeting cards with RSVP.",
+    "website": "https://www.greetingsisland.com",
+    "categories": "AI Design Generator, AI Graphic Design, AI Poster Generator, AI Flyer Generator",
+    "slug": "ai-invitation-generator",
+    "created_at": "02:49:15 12/11/2025"
+  },
+  {
     "title": "Glia",
     "name": "Glia",
     "description": "AI Contact Center Software for unified digital and voice customer experience.",
@@ -21992,6 +22010,15 @@
     "categories": "AI Productivity Tools",
     "slug": "posteverywhere-ai",
     "created_at": "02:42:51 11/03/2025"
+  },
+  {
+    "title": "aigazou",
+    "name": "aigazou",
+    "description": "Free AI image generator, no login, high-quality, personal & commercial use.",
+    "website": "https://muryou-aigazou.com",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image",
+    "slug": "aigazou",
+    "created_at": "02:49:15 12/11/2025"
   },
   {
     "title": "Selects",
@@ -29399,6 +29426,15 @@
     "categories": "AI Developer Tools, AI Code Assistant, AI Agent, AI Code Generator",
     "slug": "antigravity",
     "created_at": "14:12:52 11/19/2025"
+  },
+  {
+    "title": "devstral2",
+    "name": "devstral2",
+    "description": "State-of-the-art open-source coding models and CLI agent for software engineering.",
+    "website": "https://devstral2.com",
+    "categories": "AI Code Assistant, AI Code Generator, AI Developer Tools, AI Agent, Open Source AI Models, AI API",
+    "slug": "devstral2",
+    "created_at": "02:49:15 12/11/2025"
   },
   {
     "title": "Lumia AI - AI Home Designer",
