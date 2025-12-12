@@ -4032,6 +4032,15 @@
     "created_at": "14:17:21 08/06/2025"
   },
   {
+    "title": "PitchFit",
+    "name": "PitchFit",
+    "description": "AI platform for startup analysis, pitch training, and investor matching.",
+    "website": "https://www.pitchfitai.com",
+    "categories": "AI Pitch Deck Generator, AI Presentation Generator, AI For Finance, AI Report Generator, AI Consulting",
+    "slug": "pitchfit",
+    "created_at": "02:48:22 12/12/2025"
+  },
+  {
     "title": "Storygen",
     "name": "AI UGC Avatar",
     "description": "AI platform for generating videos, stories, and images.",
@@ -4895,6 +4904,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "Wollo.ai",
+    "name": "Wollo.ai",
+    "description": "AI character chat platform for creating, interacting with, and discovering lifelike AI personas.",
+    "website": "https://wollo.ai",
+    "categories": "AI Character, AI Roleplay, AI Image Generator, AI Chat Generator, AI Social Media",
+    "slug": "wollo-ai",
+    "created_at": "02:48:22 12/12/2025"
+  },
+  {
     "title": "IQ Hashtags",
     "name": "IQ Hashtags",
     "description": "Instagram analytics tool for hashtags and keyword search.",
@@ -5028,6 +5046,15 @@
     "categories": "AI Detector, AI Tools Directory",
     "slug": "revisor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "nano banana pro",
+    "name": "Nano Banana Pro - Free AI Image Editor Beats Flux | 8x Fast",
+    "description": "AI-powered image editor transforming photos with text prompts.",
+    "website": "https://applebanana.pro",
+    "categories": "AI Photo Editor, AI Image Enhancer, AI Style Transfer, Text to Image, Image to Image",
+    "slug": "nano-banana-pro-free-ai-image-editor-beats-flux-8x-fast",
+    "created_at": "02:48:22 12/12/2025"
   },
   {
     "title": "VisualGPT",
@@ -8234,6 +8261,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Wan 2.6",
+    "name": "Wan 2.6 AI Video Generator - Create Professional Video | JXP",
+    "description": "AI video generator for professional, audio-synced videos from text or images.",
+    "website": "https://www.jxp.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Ad Creative, AI Short Video Generator",
+    "slug": "wan-2-6-ai-video-generator-create-professional-video-jxp",
+    "created_at": "02:48:22 12/12/2025"
+  },
+  {
     "title": "Klariqo",
     "name": "Klariqo AI Voice Assistants",
     "description": "AI assistant for 24/7 phone calls and website chat automation.",
@@ -10968,6 +11004,15 @@
     "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
     "slug": "dyad",
     "created_at": "14:12:51 06/30/2025"
+  },
+  {
+    "title": "FixArt AI",
+    "name": "FixArt AI",
+    "description": "Free AI video & image generator with no sign-up, democratizing creativity.",
+    "website": "https://fixart.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Video Enhancer",
+    "slug": "fixart-ai-ai-video-ai-image",
+    "created_at": "02:48:22 12/12/2025"
   },
   {
     "title": "Unwink AI",
@@ -14387,6 +14432,15 @@
     "categories": "AI OCR, AI Document Extraction, Open Source AI Models, AI PDF",
     "slug": "deepseek-ocr",
     "created_at": "02:26:50 10/22/2025"
+  },
+  {
+    "title": "Lemon AI",
+    "name": "Lemon AI",
+    "description": "AI platform for transforming images and generating art.",
+    "website": "https://imagetoimage.tech",
+    "categories": "Image to Image, AI Image Generator, Text to Image, AI Photo Editor, AI Image Enhancer, AI Background Remover, Object Remover AI, Image to Video, Text to Video",
+    "slug": "lemon-ai",
+    "created_at": "02:48:22 12/12/2025"
   },
   {
     "title": "Cekura",
@@ -19474,6 +19528,15 @@
     "created_at": "02:31:39 11/25/2025"
   },
   {
+    "title": "GenZWrite",
+    "name": "GenZWrite",
+    "description": "GenZWrite is an AI Humanizer that helps students and creators instantly rewrite AI-generated text into natural, human-sounding writing that reduces detection flags. Control tone (academic, casual, professional) and even turn any text into audio or podcast-style narration",
+    "website": "https://genzwrite.com",
+    "categories": "AI Essay Writer, AI Copywriting, AI Email Writer, AI Grammar Checker, AI Letter Writer, AI Message Generator, AI Novel, AI Paragraph Generator, AI Paraphraser, AI Repurpose, AI Rewriter, AI Script Writing, AI Writing, AI Writing Assistants, AI Text-to-Speech",
+    "slug": "genzwrite",
+    "created_at": "02:48:22 12/12/2025"
+  },
+  {
     "title": "Z-Image",
     "name": "Z-Image | Free AI Image Generator | Text to Image",
     "description": "Open-source AI image generator for high-quality, bilingual, photorealistic images.",
@@ -20336,6 +20399,15 @@
     "categories": "AI Video Generator, AI Voice Cloning, AI Celebrity Voice Generator, Text to Video, AI Voice Generator, AI Text-to-Speech",
     "slug": "celebrity-ai",
     "created_at": "02:27:46 08/31/2025"
+  },
+  {
+    "title": "zimage",
+    "name": "Z-Image - Free AI Image Generator | No Login",
+    "description": "Free, open-source AI image generator with turbo inference and bilingual support.",
+    "website": "https://zimage.run",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, Open Source AI Models, AI Photography, AI Poster Generator",
+    "slug": "z-image-free-ai-image-generator-no-login",
+    "created_at": "02:48:22 12/12/2025"
   },
   {
     "title": "Defapi",
@@ -29048,6 +29120,15 @@
     "categories": "AI Video Generator, AI Video Editor, Video to Video, Image to Video, AI Video Enhancer",
     "slug": "runway-aleph-ai",
     "created_at": "03:08:34 08/01/2025"
+  },
+  {
+    "title": "Elf on the Shelf Generator",
+    "name": "Elf on the Shelf Generator",
+    "description": "AI Elf on the Shelf Generator for Christmas.",
+    "website": "https://elfontheshelfgenerator.com",
+    "categories": "AI Video Generator, AI Image Generator, AI Parenting",
+    "slug": "elf-on-the-shelf-generator",
+    "created_at": "02:48:22 12/12/2025"
   },
   {
     "title": "Credyt",
