@@ -927,6 +927,15 @@
     "created_at": "14:12:02 10/20/2025"
   },
   {
+    "title": "Dagster",
+    "name": "Dagster",
+    "description": "Cloud-native data orchestrator for building, scheduling, and monitoring reliable AI & data pipelines.",
+    "website": "https://www.dagster.io",
+    "categories": "AI Developer Tools, AI Workflow, AI For Data Analytics, AI Productivity Tools",
+    "slug": "dagster",
+    "created_at": "14:14:10 12/12/2025"
+  },
+  {
     "title": "Pagic.io",
     "name": "Pagic",
     "description": "AI-based website builder, Pagic.io, enables easy and quick creation of stunning websites.",
@@ -2113,6 +2122,15 @@
     "categories": "Other",
     "slug": "alpha-vision",
     "created_at": "02:22:12 04/08/2025"
+  },
+  {
+    "title": "Most Affordable Sora2 API",
+    "name": "Most Affordable Sora2 API",
+    "description": "Unified API for Sora-style video generation.",
+    "website": "https://sora2api.org",
+    "categories": "AI Video Generator, AI API, Text to Video, Image to Video",
+    "slug": "most-affordable-sora2-api",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "Lodoy",
@@ -4578,6 +4596,15 @@
     "categories": "AI Anime Art, Translate, AI Manga & Comic",
     "slug": "manga-translator-ichigoreader",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "BON Credit App",
+    "name": "BON Credit",
+    "description": "AI-powered app for credit card debt management, on-time payments, and rewards.",
+    "website": "https://boncredit.onelink.me",
+    "categories": "AI For Finance, AI Assistant",
+    "slug": "bon-credit",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "Nano Banana Pro API - Kie.ai",
@@ -7163,6 +7190,15 @@
     "created_at": "14:13:19 08/21/2025"
   },
   {
+    "title": "Chunks",
+    "name": "Chunks",
+    "description": "AI tool for automatic video highlights and shorts from your entire library.",
+    "website": "https://www.chunkschunkschunks.com",
+    "categories": "Long Video To Short Video AI, AI Short Video Generator, AI Reel Generator, AI Tiktok Video Generator",
+    "slug": "chunks",
+    "created_at": "14:14:10 12/12/2025"
+  },
+  {
     "title": "ReadmeChef",
     "name": "ReadmeChef",
     "description": "AI tool for generating README files for projects effortlessly.",
@@ -7350,6 +7386,15 @@
     "categories": "AI Ad Generator, AI Advertising Assistant, AI Banner Generator",
     "slug": "slaitor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Helploom",
+    "name": "Helploom",
+    "description": "Affordable customer support software with Live Chat, Help Center, and AI agent.",
+    "website": "https://helploom.com",
+    "categories": "AI Customer Service, AI Chatbot, AI Agent, AI Knowledge Base",
+    "slug": "helploom",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "Mutatio",
@@ -14848,6 +14893,15 @@
     "created_at": "14:15:59 08/08/2025"
   },
   {
+    "title": "Dex",
+    "name": "Dex by Thirdlayer",
+    "description": "AI browser extension for tab organization, workflow automation, and task management.",
+    "website": "https://joindex.com",
+    "categories": "AI Browsers, AI Assistant, AI Task Management",
+    "slug": "dex-by-thirdlayer",
+    "created_at": "14:14:10 12/12/2025"
+  },
+  {
     "title": "EverMemOS",
     "name": "EverMemOS",
     "description": "Empowers AI with infinite memory, long-term identity, and evolving intelligence.",
@@ -15332,6 +15386,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder",
     "slug": "hireduce",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Vora",
+    "name": "Vora",
+    "description": "Unleash Sora. No Limits. No Watermark. Just Creation.",
+    "website": "https://www.fineshare.com",
+    "categories": "AI Video Generator, AI Cartoon Video Generator, AI Short Video Generator, AI UGC Video Generator, AI Video Enhancer, AI Video Upscaler, Image to Video, Text to Video",
+    "slug": "vora",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "AI Song Maker",
@@ -17771,6 +17834,15 @@
     "categories": "Large Language Models (LLMs), AI Content Generator, AI Developer Tools, AI API Design",
     "slug": "llm-api-costs-widget",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "MotionExcel",
+    "name": "MotionExcel",
+    "description": "AI-powered spreadsheet with Python, SQL, and autonomous agents.",
+    "website": "https://www.motionexcel.co",
+    "categories": "AI Spreadsheet, AI For Data Analytics, Excel AI, AI Copilot, SQL Query Builder",
+    "slug": "motionexcel",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "imini AI",
@@ -20626,6 +20698,15 @@
     "created_at": "02:43:46 12/02/2025"
   },
   {
+    "title": "Protaigé",
+    "name": "Protaigé",
+    "description": "AI platform for generating complete, brand-safe marketing campaigns.",
+    "website": "https://protaige.com",
+    "categories": "AI Marketing, AI Advertising, AI Ad Generator, AI Copywriting, AI Social Media Post Generator, AI Email Marketing, AI Agent",
+    "slug": "protaig",
+    "created_at": "14:14:10 12/12/2025"
+  },
+  {
     "title": "AIclicks",
     "name": "AIclicks",
     "description": "Optimize brand visibility in AI search answers.",
@@ -22334,6 +22415,15 @@
     "categories": "AI News, AI Assistant, AI Summarizer, AI Productivity Tools, AI Agent",
     "slug": "chatgpt-pulse",
     "created_at": "14:10:41 09/26/2025"
+  },
+  {
+    "title": "SAM 3D – Image to 3D Online",
+    "name": "SAM 3D – Image to 3D Online",
+    "description": "High-quality image to 3D model conversion for objects and human bodies.",
+    "website": "https://sam3d.org",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Open Source AI Models",
+    "slug": "sam-3d-image-to-3d-online",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "Deepfake Maker AI Halloween",
@@ -26989,6 +27079,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Reflection",
+    "name": "Reflection",
+    "description": "AI-powered journaling app and mental wellness coach for self-reflection.",
+    "website": "https://www.reflection.app",
+    "categories": "AI Mental Health, AI Coaching, AI Therapist, AI Assistant",
+    "slug": "reflection",
+    "created_at": "14:14:10 12/12/2025"
+  },
+  {
     "title": "Cashzine.AI — SmarterCashzine.AI — Smarter Image Editing with AI Image Editing with AI",
     "name": "Cashzine.AI — SmarterCashzine.AI — Smarter Image Editing with AI Image Editing with AI",
     "description": "Cashzine.AI is an all-in-one AI toolkit for effortless photo editing. Instantly remove backgrounds, enhance resolution, and create professional ID photos with ease.",
@@ -28310,6 +28409,15 @@
     "categories": "AI Photo & Image Generator, Photo & Image Editor",
     "slug": "gigglz",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Updated",
+    "name": "Updated.dev",
+    "description": "Automates release note generation from Git commits using AI.",
+    "website": "https://updated.dev",
+    "categories": "AI Developer Tools, AI Writing Assistants, AI Text Generator, AI Documents Generator, AI Github",
+    "slug": "updated-dev",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "Thena",
@@ -31001,6 +31109,15 @@
     "categories": "Writing Assistants, AI Content Generator",
     "slug": "divedeck-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ark",
+    "name": "Ark Empowerment",
+    "description": "AI workspace for startups to make better decisions and collaborate.",
+    "website": "https://arkempowerment.com",
+    "categories": "AI Agent, AI Consulting, AI Assistant, AI Copilot",
+    "slug": "ark-empowerment",
+    "created_at": "14:14:10 12/12/2025"
   },
   {
     "title": "Crevas",
