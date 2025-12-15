@@ -3024,6 +3024,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "Xpptx",
+    "name": "Xpptx",
+    "description": "Xpptx - Create Presentations with One Click",
+    "website": "https://xpptx.com",
+    "categories": "AI PPT Maker, AI Assistant, AI Presentation Generator",
+    "slug": "xpptx",
+    "created_at": "14:18:13 12/15/2025"
+  },
+  {
     "title": "Activepieces",
     "name": "Activepieces",
     "description": "AI-first open-source automation platform for teams.",
@@ -4363,6 +4372,15 @@
     "categories": "AI SEO Assistant, AI Content Generator",
     "slug": "content-canvas",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ai image editor",
+    "name": "ai image editor-1",
+    "description": "AI-powered online photo editor for enhancement and transformation.",
+    "website": "https://www.aiimageeditor.info",
+    "categories": "AI Photo Editor, AI Image Generator, AI Image Enhancer, AI Background Remover, AI Image Upscaler, AI Outfit Generator, Text to Image, Object Remover AI",
+    "slug": "ai-image-editor-1-1",
+    "created_at": "14:18:13 12/15/2025"
   },
   {
     "title": "Tempo",
@@ -15332,6 +15350,15 @@
     "categories": "Large Language Models (LLMs), AI Content Generator, AI Website Builder, AI Code Generator",
     "slug": "cognizise",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Merry Christmas AI video generator",
+    "name": "Merry Christmas AI video generator",
+    "description": "AI video generator for quick creation from photos, text, or images.",
+    "website": "https://www.wan-ai.co",
+    "categories": "AI Video Generator, AI Short Video Generator, Image to Video, AI Music Video Generator, AI Voice Over",
+    "slug": "merry-christmas-ai-video-generator",
+    "created_at": "14:18:13 12/15/2025"
   },
   {
     "title": "Chirpz AI",
@@ -32756,6 +32783,15 @@
     "categories": "AI Call Center, AI Customer Service, AI Agent, AI Voice Assistants, AI Scheduling, AI Sales Assistant",
     "slug": "rexpt-ai-receptionist-service",
     "created_at": "14:12:15 08/27/2025"
+  },
+  {
+    "title": "Falcocut",
+    "name": "Falcocut-",
+    "description": "AI tools for video translation, avatars, voice cloning, and content generation.",
+    "website": "https://www.falcocut.ai",
+    "categories": "AI Video Generator, AI Video Translator, AI Avatar Video Generator, AI Voice Cloning, AI Face Swap Video, AI Image Generator, AI Voice Changer",
+    "slug": "falcocut-1",
+    "created_at": "14:18:13 12/15/2025"
   },
   {
     "title": "Wan 2.5",
