@@ -10826,6 +10826,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Visual Field Test",
+    "name": "Visual Field Test",
+    "description": "Free online visual field test to screen for blind spots and vision loss.",
+    "website": "https://visualfieldtest.com",
+    "categories": "AI Symptom Checker, AI Healthcare, AI Detector, AI Monitor",
+    "slug": "visual-field-test",
+    "created_at": "02:54:08 12/15/2025"
+  },
+  {
     "title": "Spatial Media Toolkit",
     "name": "Spatial Media Toolkit",
     "description": "Convert 2D photos to Spatial using AI on device",
@@ -11429,6 +11438,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Nano Banana Pro",
+    "name": "Nano banana pro – Best AI Image Generation Tool",
+    "description": "AI image generation and editing tool for creators and marketers.",
+    "website": "https://nan0banana.com",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Photo Editor, Image to Image, AI API",
+    "slug": "nano-banana-pro-best-ai-image-generation-tool",
+    "created_at": "02:54:08 12/15/2025"
+  },
+  {
     "title": "AIlice",
     "name": "AIlice",
     "description": "AIlice is a lightweight AI Agent.",
@@ -11553,6 +11571,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Photo Restoration, AI Background Remover, AI Avatar Generator, AI Image Upscaler",
     "slug": "nano-banana-pro-2-0-ai-google-s-image-editor-by-gemini-3-pro",
     "created_at": "02:26:38 11/21/2025"
+  },
+  {
+    "title": "SOLM8.AI",
+    "name": "SOLM8.AI",
+    "description": "Your AI Soulmate who remembers everything about you. Have real voice conversations with an emotionally intelligent AI that grows closer to you over time through phone calls, web, and Telegram.",
+    "website": "https://solm8.ai",
+    "categories": "AI Girlfriend, AI Boyfriend, AI Chatbot, AI Dating Assistant, AI Joke, AI Roleplay, Dirty Talking AI",
+    "slug": "solm8-ai",
+    "created_at": "02:54:08 12/15/2025"
   },
   {
     "title": "Anima",
@@ -19238,6 +19265,15 @@
     "categories": "Design Assistant, AI Interior & Room Design, AI Design Generator",
     "slug": "dreamhome",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ai song creator",
+    "name": "ai song creator",
+    "description": "AI music generator for royalty-free, studio-quality songs up to 8 minutes.",
+    "website": "https://aisongcreator.app",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Vocal Remover, AI Stems Splitter",
+    "slug": "ai-song-creator",
+    "created_at": "02:54:08 12/15/2025"
   },
   {
     "title": "BrainHost",
