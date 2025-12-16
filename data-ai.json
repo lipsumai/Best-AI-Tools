@@ -5300,6 +5300,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wan 2.6 AI",
+    "name": "Wan 2.6 AI",
+    "description": "AI video generator for multi-shot 15s stories.",
+    "website": "https://wan26.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Story Generator, Video to Video",
+    "slug": "wan-2-6-ai",
+    "created_at": "14:17:17 12/16/2025"
+  },
+  {
     "title": "iOS App of AMA",
     "name": "AMA - Medical Assistant",
     "description": "An AI medical assistant for well-being.",
@@ -8520,6 +8529,15 @@
     "categories": "AI Content Generator, AI Product Description Generator, AI SEO Assistant, AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "verbiai-ai-powered-seo-content-creation",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "WAN 2.6",
+    "name": "WAN 2.6-",
+    "description": "Advanced AI video generator for text, image, and video transformation.",
+    "website": "https://fooocus.one",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Video Enhancer",
+    "slug": "wan-2-6-1",
+    "created_at": "14:17:17 12/16/2025"
   },
   {
     "title": "MyWallAI",
@@ -12616,6 +12634,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PostAutopsy",
+    "name": "POSTAUTOPSY",
+    "description": "AI LinkedIn Post Coach for instant feedback and engagement.",
+    "website": "https://postautopsy.com",
+    "categories": "AI Coaching, AI Social Media Post Generator, AI Writing Assistants, AI Social Media",
+    "slug": "postautopsy",
+    "created_at": "14:17:17 12/16/2025"
+  },
+  {
     "title": "Job Board Hub",
     "name": "Jobboardhub",
     "description": "Centralized hub for exploring diverse job opportunities",
@@ -13091,6 +13118,15 @@
     "categories": "AI Tools Directory",
     "slug": "do-it-free-ai-1",
     "created_at": "02:20:38 09/19/2025"
+  },
+  {
+    "title": "Rezzy",
+    "name": "Rezzy",
+    "description": "AI-powered resume and cover letter tailoring for ATS bypass.",
+    "website": "https://rezzy.dev",
+    "categories": "AI Resume Builder, AI Cover Letter Generator, AI Resume Checker, AI Writing Assistants",
+    "slug": "rezzy",
+    "created_at": "14:17:17 12/16/2025"
   },
   {
     "title": "FenPost",
@@ -28717,6 +28753,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wan 2.6",
+    "name": "Wan 2.6",
+    "description": "Alibaba's AI for professional 15-second video generation from text/images.",
+    "website": "https://wan26ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Social Media",
+    "slug": "wan-2-6",
+    "created_at": "14:17:17 12/16/2025"
+  },
+  {
     "title": "AI OC Maker",
     "name": "AI OC Maker",
     "description": "AI-powered platform to generate unique original characters.",
@@ -32891,6 +32936,15 @@
     "categories": "AI SEO Assistant, AI Content Detector, AI Advertising Assistant, AI Analytics Assistant",
     "slug": "compar",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedance 1.5 Pro",
+    "name": "Seedance 1.5 Pro",
+    "description": "Professional AI video generator with audio-visual synchronization and multilingual lip-sync.",
+    "website": "https://seedance1-5.pro",
+    "categories": "AI Video Generator, AI Lip Sync Generator, AI Dubbing, Text to Video, Image to Video",
+    "slug": "seedance-1-5-pro",
+    "created_at": "14:17:17 12/16/2025"
   },
   {
     "title": "Laterbase",
