@@ -13030,6 +13030,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Pretty Scale",
+    "name": "Pretty Scale",
+    "description": "AI tool for instant face rating and beauty analysis.",
+    "website": "https://testdebelleza.com",
+    "categories": "AI Face Analyzer, AI Beauty",
+    "slug": "pretty-scale",
+    "created_at": "02:49:08 12/16/2025"
+  },
+  {
     "title": "EduSphere",
     "name": "EduSphere",
     "description": "AI streamlining education for teachers",
@@ -13667,6 +13676,15 @@
     "categories": "AI Trip Planner",
     "slug": "travelwiz",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Leapility",
+    "name": "Leapility",
+    "description": "AI Agent OS for experts to build and scale their expertise.",
+    "website": "https://www.leapility.com",
+    "categories": "AI Agent, AI Workflow, AI Knowledge Base, No-Code&Low-Code",
+    "slug": "leapility",
+    "created_at": "02:49:08 12/16/2025"
   },
   {
     "title": "Ultralgo",
@@ -15602,6 +15620,15 @@
     "categories": "Other",
     "slug": "ghostmeet",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Modor",
+    "name": "Modor",
+    "description": "Get AI-powered product mockups in seconds",
+    "website": "https://modor.io",
+    "categories": "AI Mockup Generator",
+    "slug": "modor",
+    "created_at": "02:49:08 12/16/2025"
   },
   {
     "title": "Prismic",
@@ -19490,6 +19517,15 @@
     "categories": "AI API, AI Developer Tools, Large Language Models (LLMs), AI Models, Open Source AI Models",
     "slug": "llm-gateway",
     "created_at": "14:12:11 07/04/2025"
+  },
+  {
+    "title": "Nano AI",
+    "name": "Nano AI",
+    "description": "All-in-one AI creative platform for fast image generation and editing.",
+    "website": "https://nanoai.love",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Background Remover, AI Inpainting, AI Image Upscaler, AI Design Generator",
+    "slug": "nano-ai",
+    "created_at": "02:49:08 12/16/2025"
   },
   {
     "title": "Winify AI",
