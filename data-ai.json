@@ -711,6 +711,15 @@
     "created_at": "14:09:56 09/20/2025"
   },
   {
+    "title": "ChartGen.ai",
+    "name": "ChartGen.ai",
+    "description": "Free AI Chart Generator that turns Data to Beautiful Charts in Seconds.",
+    "website": "https://chartgen.ai",
+    "categories": "AI Charting, AI For Data Analytics",
+    "slug": "chartgen-ai",
+    "created_at": "14:15:03 12/17/2025"
+  },
+  {
     "title": "Simplify",
     "name": "Simplify",
     "description": "All-in-one job search platform providing personalized job matches and applications tracking.",
@@ -2248,6 +2257,15 @@
     "categories": "AI Assistant, AI Productivity Tools, AI Calendar, AI Task Management, AI Schedule Maker, AI Chatbot",
     "slug": "coco-ai",
     "created_at": "14:12:04 07/17/2025"
+  },
+  {
+    "title": "Elser AI",
+    "name": "Elser AI",
+    "description": "The World’s First All-in-One AI Anime Generator and Movie Studio",
+    "website": "https://www.elser.ai",
+    "categories": "AI Animation Generator, AI Cartoon Video Generator, AI Movie Generator, AI Music Video Generator, AI Short Video Generator, AI Video Generator",
+    "slug": "elser-ai",
+    "created_at": "14:15:03 12/17/2025"
   },
   {
     "title": "PureCode AI",
@@ -15217,6 +15235,15 @@
     "created_at": "14:15:43 07/31/2025"
   },
   {
+    "title": "ChatGPT Images",
+    "name": "ChatGPT Images",
+    "description": "AI tool generating professional images from text with GPT Image 1.5.",
+    "website": "https://chatgptimages.pro",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Realistic Image Generator",
+    "slug": "chatgpt-images",
+    "created_at": "14:15:03 12/17/2025"
+  },
+  {
     "title": "Ywork.ai",
     "name": "Ywork.ai",
     "description": "AI procurement tool for comparing supplier quotes.",
@@ -16349,6 +16376,15 @@
     "categories": "AI Image Generator, Text to Image, Image to Image, AI Realistic Image Generator, AI Marketing, AI Advertising, AI Product Photography",
     "slug": "flux-2-ai-1",
     "created_at": "02:41:36 11/26/2025"
+  },
+  {
+    "title": "GPT Image 1.5",
+    "name": "GPT Image 1.5 - AI Image Generator & Editor | Create & Edit Images",
+    "description": "AI-powered platform for professional image generation and editing from text or photos.",
+    "website": "https://gptimage1-5.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Video Generator, Text to Video, Image to Video",
+    "slug": "gpt-image-1-5-ai-image-generator-editor-create-edit-images",
+    "created_at": "14:15:03 12/17/2025"
   },
   {
     "title": "Knapsack Sidepanel",
@@ -21733,6 +21769,15 @@
     "created_at": "02:52:25 11/30/2025"
   },
   {
+    "title": "GPT Image 1.5",
+    "name": "GPT Image 1.5 — Turn Words into Stunning Images",
+    "description": "AI image generator and editor for high-res visuals.",
+    "website": "https://gptimage15.app",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Image Upscaler, AI Style Transfer",
+    "slug": "gpt-image-1-5-turn-words-into-stunning-images",
+    "created_at": "14:15:03 12/17/2025"
+  },
+  {
     "title": "AI Doll",
     "name": "AI Doll",
     "description": "Generate, Modelize and 3D Print your Own AI Action Figure in One Click",
@@ -22273,6 +22318,15 @@
     "created_at": "14:09:49 05/10/2025"
   },
   {
+    "title": "VISBOOM",
+    "name": "VISBOOM",
+    "description": "VISBOOM is an all-in-one AI creative platform that replaces traditional photoshoots with streamlined digital workflows for e-commerce growth. For Fashion Sellers",
+    "website": "https://www.visboom.com",
+    "categories": "AI Clothing Removal, AI Background Generator, AI Background Remover, AI Image Enhancer, AI Image Generator, AI Image Sharpening, AI Image Upscaler, AI Photo Enhancer, Image to Image, Object Remover AI, Text to Image",
+    "slug": "visboom",
+    "created_at": "14:15:03 12/17/2025"
+  },
+  {
     "title": "Kilo Code",
     "name": "Kilo AI",
     "description": "Open-source AI coding assistant for VS Code, enhancing coding efficiency and automation.",
@@ -22397,6 +22451,15 @@
     "categories": "AI Productivity Tools",
     "slug": "posteverywhere-ai",
     "created_at": "02:42:51 11/03/2025"
+  },
+  {
+    "title": "GPT Image 1.5 AI",
+    "name": "GPT Image 1.5 AI",
+    "description": "AI image generator for stunning visuals from text and images.",
+    "website": "https://gptimage15.ai",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator, AI API",
+    "slug": "gpt-image-1-5-ai",
+    "created_at": "14:15:03 12/17/2025"
   },
   {
     "title": "aigazou",
@@ -23569,6 +23632,15 @@
     "created_at": "14:09:56 09/20/2025"
   },
   {
+    "title": "CosmicguideAI",
+    "name": "CosmicguideAI",
+    "description": "CosmicGuide AI combines NASA-grade planetary calculations with artificial intelligence to deliver deep, personalized relationship compatibility analysis — not generic horoscopes.",
+    "website": "https://www.cosmicguideai.com",
+    "categories": "AI Predictions, AI Assistant, AI Report Generator, AI Dating Assistant",
+    "slug": "cosmicguideai",
+    "created_at": "14:15:03 12/17/2025"
+  },
+  {
     "title": "Papira",
     "name": "Papira",
     "description": "Automated notepad for personalized AI writing commands.",
@@ -23713,6 +23785,15 @@
     "created_at": "14:12:57 10/16/2025"
   },
   {
+    "title": "GPT Image 1.5",
+    "name": "GPT Image 1.5",
+    "description": "AI-powered platform for precise image editing with identity and context preservation.",
+    "website": "https://gptimage15.com",
+    "categories": "AI Photo Editor, Image to Image, AI Image Enhancer, AI Image Upscaler, Object Remover AI, AI Background Remover, AI Inpainting",
+    "slug": "gpt-image-1-5",
+    "created_at": "14:15:03 12/17/2025"
+  },
+  {
     "title": "AI Coloring Pages Generator Free Online - aiausmalbilder",
     "name": "AI Coloring Pages Generator Free Online",
     "description": "Creates unique coloring pages from text and images with AI.",
@@ -23828,6 +23909,15 @@
     "categories": "AI Website Designer, AI Website Builder, No-Code&Low-Code, AI Landing Page Builder",
     "slug": "blaze-baby",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "LinkedIn Profile Analyzer",
+    "name": "LinkedIn Profile Analyzer",
+    "description": "AI-powered tool for optimizing LinkedIn professional presence.",
+    "website": "https://li.hooktide.io",
+    "categories": "AI Writing Assistants, AI Checker, AI Social Media, AI Assistant",
+    "slug": "linkedin-profile-analyzer",
+    "created_at": "14:15:03 12/17/2025"
   },
   {
     "title": "Journee",
@@ -26494,6 +26584,15 @@
     "created_at": "02:22:34 10/23/2025"
   },
   {
+    "title": "Sam Audio",
+    "name": "Sam Audio",
+    "description": "AI-powered audio separation and sound isolation using Meta's Segment Anything Audio Model.",
+    "website": "https://samaudio.audio",
+    "categories": "AI Audio Splitter, AI Audio Editing, AI Vocal Remover, AI Stems Splitter, AI Audio Enhancer, AI Noise Cancellation",
+    "slug": "sam-audio",
+    "created_at": "14:15:03 12/17/2025"
+  },
+  {
     "title": "Stackie.AI",
     "name": "Stackie.AI Your Life Logger",
     "description": "Personal logging and tracking app for organized life management.",
@@ -28877,6 +28976,15 @@
     "categories": "AI Content Generator, Large Language Models (LLMs), Copywriting, General Writing, Writing Assistants, AI Social Media Assistant, AI Chatbot, AI Rewriter, Paraphraser, AI Product Description Generator, Text-to-Speech, AI Speech Synthesis, AI Facebook Assistant",
     "slug": "geniusmindsai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nano Banana Flash",
+    "name": "Nano Banana Flash - AI Image Generator & Editor",
+    "description": "Lightweight AI image and video generator/editor for fast mockups.",
+    "website": "https://nanobanana-flash.com",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Art Generator, AI Video Generator",
+    "slug": "nano-banana-flash-ai-image-generator-editor",
+    "created_at": "14:15:03 12/17/2025"
   },
   {
     "title": "DocsOrb",
