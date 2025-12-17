@@ -612,6 +612,15 @@
     "created_at": "02:28:54 04/21/2025"
   },
   {
+    "title": "Seedance 1.5",
+    "name": "Seedance 1.5",
+    "description": "AI video generator with synchronized audio, visuals, and cinematic quality.",
+    "website": "https://seedance15.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Sound Effect Generator, AI Dubbing",
+    "slug": "seedance-1-5",
+    "created_at": "02:45:23 12/17/2025"
+  },
+  {
     "title": "Lovarank",
     "name": "Lovarank",
     "description": "AI-powered SEO automation for organic traffic growth.",
@@ -7550,6 +7559,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Seedance 1.5 Pro",
+    "name": "Seedance 1.5 Pro by ByteDance - DB-DiT AI Video Generator",
+    "description": "AI video generator for cinematic videos with perfect audio-visual sync.",
+    "website": "https://seedance15.pro",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator",
+    "slug": "seedance-1-5-pro-by-bytedance-db-dit-ai-video-generator",
+    "created_at": "02:45:23 12/17/2025"
+  },
+  {
     "title": "Claudia - AI ADHD Personal Assistant",
     "name": "Neuro (ADHD)",
     "description": "AI personal assistant for ADHD adults, organizing thoughts into action.",
@@ -8043,6 +8061,15 @@
     "categories": "AI Agent, AI Answer, AI Knowledge Base, AI Copilot, AI Document Extraction, AI Report Generator, AI Search Engine, AI Research Tool, Large Language Models (LLMs)",
     "slug": "patsnap-eureka",
     "created_at": "02:42:45 06/13/2025"
+  },
+  {
+    "title": "Humantext.pro",
+    "name": "Humantext.pro",
+    "description": "HumanText Pro is the leading free AI humanizer designed to transform AI-generated content into natural, human-written text that bypasses all major AI detection tools. Whether you're a student submitting essays, a content writer meeting deadlines, or a professional creating reports, HumanText Pro ensures your AI-assisted work passes Turnitin, GPTZero, Originality.ai, Copyleaks, and Writer.com with a 99% success rate.",
+    "website": "https://humantext.pro",
+    "categories": "Humanizer AI, AI Checker, AI Checker Essay, AI Content Detector, AI Detector, Bypass AI, Undetectable AI",
+    "slug": "humantext-pro",
+    "created_at": "02:45:23 12/17/2025"
   },
   {
     "title": "TraceFuse",
@@ -9798,6 +9825,15 @@
     "categories": "AI Analytics Assistant",
     "slug": "flowtestai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ZOER",
+    "name": "ZOER",
+    "description": "AI Web App Generator",
+    "website": "https://zoer.ai",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Website Builder, AI Assistant",
+    "slug": "zoer",
+    "created_at": "02:45:23 12/17/2025"
   },
   {
     "title": "Fuser",
@@ -12085,6 +12121,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Seedance 1.5 Pro",
+    "name": "Seedance 1.5 Pro-",
+    "description": "AI video generator with native audio-visual synthesis and film-grade quality.",
+    "website": "https://seedance1-5pro.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Sound Effect Generator",
+    "slug": "seedance-1-5-pro-1",
+    "created_at": "02:45:23 12/17/2025"
+  },
+  {
     "title": "Omakase Voice AI",
     "name": "Omakase Voice AI",
     "description": "Transform websites into voice-enabled shopping assistants for enhanced sales.",
@@ -12398,6 +12443,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Art Generator",
     "slug": "nanobanana-2",
     "created_at": "14:13:38 11/10/2025"
+  },
+  {
+    "title": "Korgi",
+    "name": "Korgi",
+    "description": "AI-powered project management app integrating your productivity stack.",
+    "website": "https://korgiboard.com",
+    "categories": "AI Project Management, AI Productivity Tools, AI Task Management, AI Assistant",
+    "slug": "korgi",
+    "created_at": "02:45:23 12/17/2025"
   },
   {
     "title": "MockAnything AI",
@@ -17546,6 +17600,15 @@
     "categories": "AI Book Summarizer, AI Summarizer, AI Video Summarizer, AI Article Summarizer, AI PDF Summarizer",
     "slug": "blinkist",
     "created_at": "14:12:52 10/31/2025"
+  },
+  {
+    "title": "Medeo",
+    "name": "Medeo",
+    "description": "AI video editor for automated video creation via chat.",
+    "website": "https://www.medeo.app",
+    "categories": "AI Video Editor, AI Video Generator, Script To Video AI Generator, Image to Video, AI Animated Video",
+    "slug": "medeo",
+    "created_at": "02:45:23 12/17/2025"
   },
   {
     "title": "aigirlfriend",
