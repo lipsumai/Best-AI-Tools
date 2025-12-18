@@ -4742,6 +4742,15 @@
     "created_at": "14:15:19 07/24/2025"
   },
   {
+    "title": "Unscreen",
+    "name": "Unscreen",
+    "description": "AI tool for automatic video background and object removal.",
+    "website": "https://unscreen.pro",
+    "categories": "AI Background Remover, AI Video Editor, Object Remover AI, AI API",
+    "slug": "unscreen",
+    "created_at": "14:16:05 12/18/2025"
+  },
+  {
     "title": "I ♡ Transcriptions",
     "name": "I ♡ Transcriptions",
     "description": "Unlimited audio/video transcriptions in multiple languages with high accuracy.",
@@ -7170,6 +7179,15 @@
     "categories": "AI Analytics Assistant, Bio Link",
     "slug": "heenok-brfly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TheBean.AI",
+    "name": "TheBean.AI",
+    "description": "Your AI Personal Trainer, Built for Real Results.",
+    "website": "https://thebean.ai",
+    "categories": "AI Fitness",
+    "slug": "thebean-ai",
+    "created_at": "14:16:05 12/18/2025"
   },
   {
     "title": "Image to Text Converter",
@@ -20194,6 +20212,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GPT Image 1.5 Generator",
+    "name": "GPT Image 1.5 Generator",
+    "description": "OpenAI's AI image generation model for studio-grade visuals, 4x faster, 20% cheaper.",
+    "website": "https://gpt-image15.com",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator, AI Marketing, AI API",
+    "slug": "gpt-image-1-5-generator",
+    "created_at": "14:16:05 12/18/2025"
+  },
+  {
     "title": "PopStory!!",
     "name": "PopStory!!",
     "description": "Create unique audiobooks with pictures for pre-reading children.",
@@ -23000,6 +23027,15 @@
     "categories": "AI Fanfic Generator, AI Paraphraser, AI Writing, AI Story Generator, AI Short Story Generator, AI Script Writing, AI Rewriter, AI Plot Generator, AI Paragraph Generator, AI Book Writing, AI Novel, AI Grammar Checker, AI Essay Writer, AI Dialogue Generator, AI Creative Writing, AI Copywriting, AI Writing Assistants",
     "slug": "fanfic-generator",
     "created_at": "14:09:51 10/18/2025"
+  },
+  {
+    "title": "MemorizeFast",
+    "name": "MemorizeFast",
+    "description": "Memory-enhancement platform for quick recall and retention.",
+    "website": "https://memorizefast.org",
+    "categories": "Other",
+    "slug": "memorizefast",
+    "created_at": "14:16:05 12/18/2025"
   },
   {
     "title": "Trylli AI",
@@ -27727,6 +27763,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "Loova",
+    "name": "Loova",
+    "description": "Loova is an all-in-one AI creation platform that gives creators access to leading AI models for video, image, and trend-driven content creation.",
+    "website": "https://loova.ai",
+    "categories": "AI Video Generator, AI Avatar Generator, AI Image Generator, Image to Image, Text to Image, AI Singing Generator, AI Text-to-Music, AI Voice Over, AI Art Generator, AI Cartoon Generator, AI Video Editor, Image to Video, Text to Video, Video to Video",
+    "slug": "loova",
+    "created_at": "14:16:05 12/18/2025"
+  },
+  {
     "title": "Rocket Journal",
     "name": "Rocket Journal",
     "description": "AI-powered voice journal app for mental health.",
@@ -30344,6 +30389,15 @@
     "categories": "AI Sales Assistant, AI Sales, AI Agent, AI CRM, AI Productivity Tools",
     "slug": "colby-ai",
     "created_at": "14:18:04 08/04/2025"
+  },
+  {
+    "title": "Humanize AI",
+    "name": "Humanizeaitext AI",
+    "description": "Converts AI text to natural, undetectable, plagiarism-free human writing.",
+    "website": "https://humanizeaitext.ai",
+    "categories": "AI Detector",
+    "slug": "humanizeaitext-ai",
+    "created_at": "14:16:05 12/18/2025"
   },
   {
     "title": "GPTConverts",
@@ -33062,6 +33116,15 @@
     "categories": "AI Call Center, AI Customer Service, AI Agent, AI Voice Assistants, AI Scheduling, AI Sales Assistant",
     "slug": "rexpt-ai-receptionist-service",
     "created_at": "14:12:15 08/27/2025"
+  },
+  {
+    "title": "Diagrimo",
+    "name": "Diagrimo",
+    "description": "AI-powered tool to turn ideas/text into clear diagrams & infographics.",
+    "website": "https://www.tenorshare.ai",
+    "categories": "AI Diagram Generator, AI Infographic Generator, AI Charting, AI Writing Assistants",
+    "slug": "diagrimo",
+    "created_at": "14:16:05 12/18/2025"
   },
   {
     "title": "Falcocut",
