@@ -8216,6 +8216,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Imgezy",
+    "name": "Imgezy",
+    "description": "AI image editor for instant photo editing and enhancement.",
+    "website": "https://www.imgezy.com",
+    "categories": "AI Photo Editor, Object Remover AI, AI Image Enhancer, AI Background Remover, AI Image Upscaler, AI Photo Restoration",
+    "slug": "imgezy",
+    "created_at": "02:45:50 12/18/2025"
+  },
+  {
     "title": "Krepling",
     "name": "Krepling",
     "description": "Centralized cloud e-business and hosting platform for entrepreneurs.",
@@ -21904,6 +21913,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Wan 2.6 AI",
+    "name": "Wan 2.6 AI Video Generator - Text to Video, Image to Video, Video to Video | Wan 2.6 AI",
+    "description": "Alibaba's open-source AI video generator from text, image, or video.",
+    "website": "https://wan26ai.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, Open Source AI Models, AI Animation Generator",
+    "slug": "wan-2-6-ai-video-generator-text-to-video-image-to-video-video-to-video-wan-2-6-ai",
+    "created_at": "02:45:50 12/18/2025"
+  },
+  {
     "title": "TryOnHaul",
     "name": "TryOnHaul",
     "description": "AI virtual try-on platform for fashion choices",
@@ -24053,6 +24071,15 @@
     "categories": "AI Games, AI Assistant, AI Chatbot, AI Character",
     "slug": "lumii",
     "created_at": "14:12:11 05/29/2025"
+  },
+  {
+    "title": "Prompastic",
+    "name": "Prompastic",
+    "description": "Prompastic is a structured prompt builder for image, video, chat, and LoRA workflows. Build clearer prompts faster with guided fields, options, and reusable templates.",
+    "website": "https://prompastic.ai",
+    "categories": "AI Prompt Generator, Prompt Engineering",
+    "slug": "prompastic",
+    "created_at": "02:45:50 12/18/2025"
   },
   {
     "title": "Ciro",
