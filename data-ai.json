@@ -6569,6 +6569,15 @@
     "created_at": "14:13:21 10/15/2025"
   },
   {
+    "title": "CLI Manager",
+    "name": "CLI Manager",
+    "description": "Unified dashboard for managing AI CLI agents.",
+    "website": "https://www.solhun.com",
+    "categories": "AI Agent, AI Developer Tools, AI Code Assistant",
+    "slug": "cli-manager",
+    "created_at": "02:48:39 12/19/2025"
+  },
+  {
     "title": "Eleven Music AI",
     "name": "Eleven Music AI",
     "description": "AI music generator for songs, lyrics, and vocal removal.",
@@ -12616,6 +12625,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MethodsAgent",
+    "name": "MethodsAgent",
+    "description": "AI agents trained on frameworks for marketing & sales execution.",
+    "website": "https://www.methodsagent.com",
+    "categories": "AI Agent, AI Marketing, AI Sales, AI Sales Assistant, AI Copywriting",
+    "slug": "methodsagent",
+    "created_at": "02:48:39 12/19/2025"
+  },
+  {
     "title": "Banana Prompts",
     "name": "Banana Prompts-",
     "description": "Community prompt studio & gallery for AI art and video creation.",
@@ -12983,6 +13001,15 @@
     "categories": "AI Workflow, No-Code&Low-Code, AI Agent, AI Sales, AI Lead Generation, AI For Finance",
     "slug": "vue-ai",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "Wizzx AI | All In One AI API Platform",
+    "name": "Wizzx AI | All In One AI API Platform",
+    "description": "Unified API infrastructure for 20+ AI image and video generation models.",
+    "website": "https://wizzx.ai",
+    "categories": "AI API, AI Developer Tools, AI Models, AI Video Generator, AI Image Generator",
+    "slug": "wizzx-ai-all-in-one-ai-api-platform",
+    "created_at": "02:48:39 12/19/2025"
   },
   {
     "title": "SlideStorm",
@@ -14747,6 +14774,15 @@
     "categories": "AI Email Marketing, AI Predictions, AI Agent, AI Sales Assistant",
     "slug": "mocke",
     "created_at": "14:12:12 08/22/2025"
+  },
+  {
+    "title": "mangaavatar",
+    "name": "mangaavatar",
+    "description": "AI avatar generator for instant anime, manga, or cartoon avatars from photos.",
+    "website": "https://mangaavatar.com",
+    "categories": "AI Avatar Generator, AI Anime Generator, AI Cartoon Generator, AI Manga Generator, AI Profile Picture Generator",
+    "slug": "mangaavatar",
+    "created_at": "02:48:39 12/19/2025"
   },
   {
     "title": "Placed App",
@@ -27376,6 +27412,15 @@
     "created_at": "14:11:40 04/03/2025"
   },
   {
+    "title": "AI Notes",
+    "name": "AI-Powered Notes Taker",
+    "description": "AI-powered note-taking for summarizing, organizing, and enhancing thoughts.",
+    "website": "https://ai-notez.fun",
+    "categories": "AI Notes Generator, AI Summarizer, AI Grammar Checker, AI Productivity Tools, AI Translate, AI Writing Assistants",
+    "slug": "ai-powered-notes-taker",
+    "created_at": "02:48:39 12/19/2025"
+  },
+  {
     "title": "Nano Banana Games",
     "name": "Nano Banana Games",
     "description": "Free AI image playground for instant transformations and art creation.",
@@ -32126,6 +32171,15 @@
     "categories": "AI Recipe Assistant, AI Cooking Assistant, AI Content Generator",
     "slug": "recipeasy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Readever",
+    "name": "Readever",
+    "description": "AI Reading Assistant for interactive learning, smart highlights, and personalized insights.",
+    "website": "https://www.readever.app",
+    "categories": "AI Assistant, AI Reader, AI Book Summarizer, AI Summarizer, AI Research Tool, AI Notes Generator",
+    "slug": "readever",
+    "created_at": "02:48:39 12/19/2025"
   },
   {
     "title": "Kumoo",
