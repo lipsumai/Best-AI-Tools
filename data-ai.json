@@ -11105,6 +11105,15 @@
     "created_at": "14:10:26 06/04/2025"
   },
   {
+    "title": "BananaPro",
+    "name": "BananaPro",
+    "description": "AI platform for 4K image & video generation with character consistency.",
+    "website": "https://www.bananapro.studio",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Video Generator, AI Headshot Generator",
+    "slug": "bananapro",
+    "created_at": "14:11:44 12/20/2025"
+  },
+  {
     "title": "ContentHubAI",
     "name": "ContentHubAI.com",
     "description": "Revolutionize Content Creation with AI.",
@@ -14011,6 +14020,15 @@
     "created_at": "14:10:54 06/22/2025"
   },
   {
+    "title": "Rekam AI-Your One-Stop Voice Creation Platform",
+    "name": "Rekam AI-Your One-Stop Voice Creation Platform",
+    "description": "All-in-one AI voice creation platform for text-to-speech, voice clone, and speech-to-text.",
+    "website": "https://rekam.ai",
+    "categories": "AI Voice Generator, AI Text-to-Speech, AI Voice Cloning, AI Speech-to-Text, AI Transcription",
+    "slug": "rekam-ai-your-one-stop-voice-creation-platform",
+    "created_at": "14:11:44 12/20/2025"
+  },
+  {
     "title": "HYI.AI",
     "name": "HYI.AI",
     "description": "Virtual Assistant Platform connecting talent with companies and offering GCC solutions.",
@@ -16205,6 +16223,15 @@
     "categories": "AI Chatbot, AI Agent, AI Assistant, AI Code Assistant, Open Source AI Models, Large Language Models (LLMs)",
     "slug": "kimi-k2",
     "created_at": "02:56:28 07/14/2025"
+  },
+  {
+    "title": "Trellis.2 AI 3D",
+    "name": "Trellis.2 AI 3D",
+    "description": "AI-powered online platform for generating and managing 3D models.",
+    "website": "https://trellis3d.net",
+    "categories": "AI 3D Model Generator",
+    "slug": "trellis-2-ai-3d",
+    "created_at": "14:11:44 12/20/2025"
   },
   {
     "title": "Figure AI",
@@ -23675,6 +23702,15 @@
     "categories": "AI Forms & Surveys, AI Project Management, AI Workflow Management, AI Task Management, AI Scheduling, AI Productivity Tools",
     "slug": "sup-standup-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BlogSEO",
+    "name": "BlogSEO",
+    "description": "AI platform for automated SEO content creation and publishing.",
+    "website": "https://blogseo.io",
+    "categories": "AI SEO Tools, AI Blog Generator, SEO Writing AI, AI Writing, AI Marketing",
+    "slug": "blogseo",
+    "created_at": "14:11:44 12/20/2025"
   },
   {
     "title": "Onri AI",
@@ -31685,6 +31721,15 @@
     "categories": "AI Agent, AI Consulting, AI Assistant, AI Copilot",
     "slug": "ark-empowerment",
     "created_at": "14:14:10 12/12/2025"
+  },
+  {
+    "title": "UniMusic AI",
+    "name": "UniMusic AI",
+    "description": "AI music generator that creates royalty-free songs with vocals in seconds.",
+    "website": "https://unimusic.ai",
+    "categories": "AI Music Generator, AI Lyrics Generator, AI Melody Generator, AI Midi Generator, AI Singing Generator, AI Song Cover, AI Song Generator, AI Stems Splitter, AI Text-to-Music, AI Vocal Remover",
+    "slug": "unimusic-ai",
+    "created_at": "14:11:44 12/20/2025"
   },
   {
     "title": "Crevas",
