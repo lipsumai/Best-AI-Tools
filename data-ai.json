@@ -2061,6 +2061,15 @@
     "created_at": "14:12:58 11/20/2025"
   },
   {
+    "title": "SyntrofAI",
+    "name": "SyntrofAI",
+    "description": "World's first Multi-Agent OS for autonomous AI workflows and persistent memory.",
+    "website": "https://syntrofai.com",
+    "categories": "AI Agent, AI Workflow",
+    "slug": "syntrofai",
+    "created_at": "02:56:06 12/22/2025"
+  },
+  {
     "title": "AE Studio",
     "name": "Kind Prompting",
     "description": "AI tool for transforming communication into kinder interactions.",
@@ -3697,6 +3706,15 @@
     "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Background Remover, Image to Image",
     "slug": "oh-my-images",
     "created_at": "14:12:02 10/20/2025"
+  },
+  {
+    "title": "VidFlux - Image to Video AI",
+    "name": "VidFlux - Image to Video AI",
+    "description": "All-in-one AI platform for image to video generation.",
+    "website": "https://vidflux.ai",
+    "categories": "Image to Video, AI Video Generator, Text to Video, Video to Video",
+    "slug": "vidflux-image-to-video-ai",
+    "created_at": "02:56:06 12/22/2025"
   },
   {
     "title": "API Hub",
@@ -6776,6 +6794,15 @@
     "created_at": "02:41:34 06/12/2025"
   },
   {
+    "title": "vibecodeprompts",
+    "name": "vibecodeprompts",
+    "description": "Transforms high-level ideas into explicit, production-ready prompts for LLMs.",
+    "website": "https://vibecodeprompts.cloud",
+    "categories": "AI Prompt Generator, AI Developer Tools, Prompt Engineering, AI Productivity Tools",
+    "slug": "vibecodeprompts",
+    "created_at": "02:56:06 12/22/2025"
+  },
+  {
     "title": "Popfreelance - AI Freelance Marketplace",
     "name": "AI Freelance Marketplace",
     "description": "AI freelance marketplace for talent and job opportunities",
@@ -6846,6 +6873,15 @@
     "categories": "AI Agent",
     "slug": "estimatic-ai",
     "created_at": "02:20:22 11/08/2025"
+  },
+  {
+    "title": "Ahsk",
+    "name": "Ahsk",
+    "description": "Free macOS AI assistant",
+    "website": "https://www.ahsk.app",
+    "categories": "AI Assistant, AI Rewriter, AI Translate, AI Writing Assistants, AI Productivity Tools, AI Summarizer",
+    "slug": "ahsk",
+    "created_at": "02:56:06 12/22/2025"
   },
   {
     "title": "FirstQuadrant",
@@ -10356,6 +10392,15 @@
     "categories": "AI Note Taker, AI Transcriber, AI Speech-to-Text, AI Summarizer, AI Writing Assistants",
     "slug": "echosnap-ai",
     "created_at": "14:13:57 11/26/2025"
+  },
+  {
+    "title": "hq0",
+    "name": "hq0",
+    "description": "Branded video meeting platform with AI summaries for customer-facing teams.",
+    "website": "https://hq0.com",
+    "categories": "AI Meeting Assistant, AI Transcriber, AI Summarizer, AI Note Taker, AI Subtitle Generator, AI Dubbing, AI Sales Assistant",
+    "slug": "hq0",
+    "created_at": "02:56:06 12/22/2025"
   },
   {
     "title": "Richpanel",
@@ -23884,6 +23929,15 @@
     "created_at": "14:12:04 07/17/2025"
   },
   {
+    "title": "Free upi ai",
+    "name": "Free upi ai",
+    "description": "India's first free AI-powered chatbot for UPI payments - get instant answers about UPI apps, banks, integration, and troubleshooting 24/7.",
+    "website": "https://indianupi.com",
+    "categories": "AI For Finance, AI Chat Generator, AI Answer, AI Chatbot, AI Copilot, Other",
+    "slug": "free-upi-ai",
+    "created_at": "02:56:06 12/22/2025"
+  },
+  {
     "title": "WayStars AI- Your Unified AI Platform",
     "name": "WayStars AI- Your Unified AI Platform",
     "description": "WayStars AI is an all-in-one AI supertool suite that empowers users with cutting-edge AI models, productivity tools, and creative capabilities—all in one unified platform. In short WayStars AI is a powerful AI aggregator.",
@@ -25484,6 +25538,15 @@
     "categories": "AI Assistant, AI Research Tool, AI For Data Analytics, AI Web Scraping, AI Agent",
     "slug": "bitterbot-ai",
     "created_at": "02:43:15 12/03/2025"
+  },
+  {
+    "title": "RemakePic",
+    "name": "RemakePic",
+    "description": "AI-powered product image remaking for e-commerce sellers",
+    "website": "https://remakepic.com",
+    "categories": "Image to Image",
+    "slug": "remakepic",
+    "created_at": "02:56:06 12/22/2025"
   },
   {
     "title": "XImagine.io：Free Grok Imagine Video Generator",
