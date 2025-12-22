@@ -2961,6 +2961,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Editimg AI",
+    "name": "Editimg AI",
+    "description": "Advanced AI image editor for transforming, enhancing, and generating images.",
+    "website": "https://editimg.ai",
+    "categories": "AI Photo Editor, AI Image Generator, AI Image Upscaler, AI Background Remover, AI Watermark Remover, AI Photo Restoration, Object Remover AI, AI Style Transfer, AI Age Progression, AI Mockup Generator, AI Hairstyle",
+    "slug": "editimg-ai",
+    "created_at": "14:16:00 12/22/2025"
+  },
+  {
     "title": "WonderShare ToMoviee AI",
     "name": "WonderShare ToMoviee AI",
     "description": "All-in-one AI creative studio for video, image, music, and sound generation.",
@@ -15568,6 +15577,15 @@
     "created_at": "14:13:12 07/25/2025"
   },
   {
+    "title": "Proxysale",
+    "name": "Proxysale",
+    "description": "Premium global proxy services for web scraping, data collection, and online business.",
+    "website": "https://proxysale.com",
+    "categories": "AI Web Scraping, AI Data Mining, Large Language Models (LLMs), AI Developer Tools, AI API, AI For Data Analytics",
+    "slug": "proxysale",
+    "created_at": "14:16:00 12/22/2025"
+  },
+  {
     "title": "ProxyCC",
     "name": "ProxyCC",
     "description": "Global IP proxy provider for various online tasks.",
@@ -19985,6 +20003,15 @@
     "categories": "AI Jobs, AI Recruiting, AI Assistant",
     "slug": "skyworker",
     "created_at": "14:12:33 07/08/2025"
+  },
+  {
+    "title": "AProxy",
+    "name": "AProxy",
+    "description": "Powerful proxy network for web scraping, AI, and data collection.",
+    "website": "https://aproxy.com",
+    "categories": "AI Web Scraping, AI For Data Analytics, AI Developer Tools, AI API, AI SEO Tools, AI Marketing",
+    "slug": "aproxy",
+    "created_at": "14:16:00 12/22/2025"
   },
   {
     "title": "Fix Subs",
@@ -33368,6 +33395,15 @@
     "categories": "AI Workflow, AI Video Generator, AI Image Generator, AI 3D Model Generator, AI Developer Tools",
     "slug": "comfyui",
     "created_at": "14:10:52 11/16/2025"
+  },
+  {
+    "title": "LearnFlux",
+    "name": "LearnFlux",
+    "description": "AI-powered learning assistant transforming materials into interactive study aids.",
+    "website": "https://www.learnflux.net",
+    "categories": "AI Homework Helper, AI Assistant, AI Flashcard Maker, AI Quiz Generator, AI Notes Generator",
+    "slug": "learnflux",
+    "created_at": "14:16:00 12/22/2025"
   },
   {
     "title": "Rexpt AI",
