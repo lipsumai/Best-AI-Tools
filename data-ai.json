@@ -2556,6 +2556,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SmartProxy",
+    "name": "SmartProxyOrg",
+    "description": "Global residential proxy service for web data extraction and AI.",
+    "website": "https://www.smartproxy.org",
+    "categories": "AI Web Scraping, AI API, AI Data Mining, AI Developer Tools",
+    "slug": "smartproxyorg",
+    "created_at": "14:14:17 12/23/2025"
+  },
+  {
     "title": "Nexty.dev",
     "name": "Nexty",
     "description": "All-in-one Next.js SaaS starter template for rapid business website launch.",
@@ -3202,6 +3211,15 @@
     "categories": "AI Content Generator",
     "slug": "coloring-pages-pro",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "LLaMA-Factory Online",
+    "name": "LLaMA-Factory Online",
+    "description": "No-code LLM Fine-tuning Platform",
+    "website": "https://www.llamafactory.com.cn",
+    "categories": "AI Developer Tools, No-Code&Low-Code, AI Models, Large Language Models (LLMs), Open Source AI Models",
+    "slug": "llama-factory-online",
+    "created_at": "14:14:17 12/23/2025"
   },
   {
     "title": "Sloneek",
@@ -6281,6 +6299,15 @@
     "created_at": "14:13:50 12/05/2025"
   },
   {
+    "title": "ZestyGen",
+    "name": "ZestyGen",
+    "description": "Leading Image to Image AI for photo and video transformation.",
+    "website": "https://zestygen.com",
+    "categories": "Image to Image, AI Style Transfer, AI Photo Editor, AI Art Generator, Image to Video, AI Music Generator, Text to Image",
+    "slug": "zestygen",
+    "created_at": "14:14:17 12/23/2025"
+  },
+  {
     "title": "Horizon Alpha",
     "name": "Horizon Alpha",
     "description": "Next-gen AI platform for creation, research, and delivery.",
@@ -6549,6 +6576,15 @@
     "categories": "Image to Prompt, AI Prompt Generator, AI Image Description Generator, AI Describe Image",
     "slug": "photo-prompt",
     "created_at": "14:13:31 11/25/2025"
+  },
+  {
+    "title": "Best Nano Banana Prompt",
+    "name": "Best Nano Banana Prompt",
+    "description": "The largest free AI image prompt library with AI generator and Chrome extension",
+    "website": "https://bestnanobananaprompt.com",
+    "categories": "AI Image Generator, Prompt Engineering, Image to Image, Text to Image, AI Describe Image, Image to Prompt, AI Design Assistant",
+    "slug": "best-nano-banana-prompt",
+    "created_at": "14:14:17 12/23/2025"
   },
   {
     "title": "Scraib.app",
@@ -23272,6 +23308,15 @@
     "created_at": "14:09:51 10/18/2025"
   },
   {
+    "title": "Ezswap",
+    "name": "Ezswap",
+    "description": "EZswap is an online AI face swap tool that supports photos, videos, and GIFs, delivering natural looking results in seconds. It runs directly in your browser, with no software installation and no complicated setup.",
+    "website": "https://ezswap.ai",
+    "categories": "AI Face Swap Generator, Gender Swap AI, AI Face Swap Video",
+    "slug": "ezswap",
+    "created_at": "14:14:17 12/23/2025"
+  },
+  {
     "title": "MemorizeFast",
     "name": "MemorizeFast",
     "description": "Memory-enhancement platform for quick recall and retention.",
@@ -30128,6 +30173,15 @@
     "categories": "Text to Image, AI Photo & Image Generator, AI Avatar Generator, AI Background Generator, AI Banner Generator, AI Cover Generator, AI Icon Generator, AI Wallpaper Generator, AI Art Generator, AI Character",
     "slug": "artifactory-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Image to Image Generator",
+    "name": "FREE AI Image to Image Generator",
+    "description": "AI Image to Image is an online image to image editing tool. Upload an original image and describe the changes you want in text, then it quickly applies style transfer, scene changes, or element replacement while keeping the main subject consistent. It works well for ecommerce visuals, social media graphics, posters, and profile image upgrades, and you can try it right away in the browser.",
+    "website": "https://aiimagetoimage.io",
+    "categories": "Image to Image, AI Background Generator, AI Background Remover, AI Clothing Removal, AI Eraser, AI Expand Image, AI Image Enhancer, AI Image Generator, AI Image Sharpening, AI Image Upscaler, AI Photo Editor, AI Photo Enhancer, AI Watermark Remover, Object Remover AI",
+    "slug": "free-ai-image-to-image-generator-pro-edits-via-text-prompt",
+    "created_at": "14:14:17 12/23/2025"
   },
   {
     "title": "AI Powered Resume Checker",
