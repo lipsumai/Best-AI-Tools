@@ -7595,6 +7595,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Artta AI",
+    "name": "Artta AI",
+    "description": "All-in-one AI platform for professional video, image, music, and voiceover creation.",
+    "website": "https://artta.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, AI Voice Generator, Text to Video, Text to Image, Image to Video, AI Voice Over",
+    "slug": "artta-ai",
+    "created_at": "02:48:26 12/24/2025"
+  },
+  {
     "title": "Helploom",
     "name": "Helploom",
     "description": "Affordable customer support software with Live Chat, Help Center, and AI agent.",
@@ -11697,6 +11706,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant, AI Lead Generation, AI Analytics Assistant",
     "slug": "resinq",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Opal",
+    "name": "Google Opal",
+    "description": "Build, edit, and share AI mini-apps using natural language, no code required.",
+    "website": "https://opal.google",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Workflow, AI Developer Tools",
+    "slug": "google-opal",
+    "created_at": "02:48:26 12/24/2025"
   },
   {
     "title": "Plagiarism Remover",
@@ -29534,6 +29552,15 @@
     "categories": "AI Video Editor, AI Background Remover",
     "slug": "camtasia-online",
     "created_at": "14:09:51 10/18/2025"
+  },
+  {
+    "title": "Free Image Generator",
+    "name": "Free Image Generator",
+    "description": "AI-powered tool to generate multiple high-quality images from text prompts quickly.",
+    "website": "https://freeimagegenerator.app",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image",
+    "slug": "free-image-generator",
+    "created_at": "02:48:26 12/24/2025"
   },
   {
     "title": "GuessAI",
