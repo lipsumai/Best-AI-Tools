@@ -5588,6 +5588,15 @@
     "created_at": "14:13:18 11/04/2025"
   },
   {
+    "title": "Retail Media IQ (RMIQ)",
+    "name": "RMIQ",
+    "description": "AI-powered platform for unified retail media ad campaign management.",
+    "website": "https://www.rmiq.net",
+    "categories": "AI Advertising, AI Marketing, AI Digital Marketing",
+    "slug": "rmiq",
+    "created_at": "14:13:13 12/24/2025"
+  },
+  {
     "title": "SelfLoveLetter",
     "name": "SelfLoveLetter",
     "description": "Website SelfLoveLetter provides personalized love letters for confidence, validation, and happiness.",
@@ -13982,6 +13991,15 @@
     "categories": "AI Content Generator, AI Short Clips Generator, AI Video Editor, AI Video Enhancer, Captions or Subtitle, AI UGC Video Generator, AI Video Generator, Video to Video",
     "slug": "clipglow",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Takeaway",
+    "name": "AI Takeaway",
+    "description": "Curated AI & investing video summaries for faster learning.",
+    "website": "https://aitakeaway.net",
+    "categories": "AI Investing, AI Video Summarizer, AI Youtube Summary, AI Summarizer, AI Research Tool, AI Crypto, AI Transcription",
+    "slug": "ai-takeaway",
+    "created_at": "14:13:13 12/24/2025"
   },
   {
     "title": "TextToHuman",
@@ -25765,6 +25783,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Lensmor",
+    "name": "Lensmor",
+    "description": "Lensmor is an AI agent for SaaS companies that tracks competitor moves to deliver actionable strategic insights.",
+    "website": "https://www.lensmor.com",
+    "categories": "AI Monitor, AI Interview Assistant, AI Product Manager, AI Project Management, AI Workflow, AI Marketing, AI Marketing Plan Generator, AI Consulting",
+    "slug": "lensmor",
+    "created_at": "14:13:13 12/24/2025"
+  },
+  {
     "title": "cubic",
     "name": "cubic",
     "description": "cubic",
@@ -33872,6 +33899,15 @@
     "categories": "AI Translate, AI Image Translator, AI Video Translator, AI Voice Translator",
     "slug": "transgull",
     "created_at": "14:10:14 08/24/2025"
+  },
+  {
+    "title": "Gen Music IM",
+    "name": "GenMusic Immediately",
+    "description": "Free AI music generator transforming text into professional music.",
+    "website": "https://www.genmusic.im",
+    "categories": "AI Music Generator, AI Text-to-Music, AI Song Generator",
+    "slug": "genmusic-immediately",
+    "created_at": "14:13:13 12/24/2025"
   },
   {
     "title": "Windsurf",
