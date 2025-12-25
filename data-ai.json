@@ -1125,6 +1125,15 @@
     "created_at": "14:12:51 06/18/2025"
   },
   {
+    "title": "Vurge | AI Data Extraction",
+    "name": "Vurge",
+    "description": "AI-powered web scraper for Google Sheets, extracts data effortlessly.",
+    "website": "https://getvurge.com",
+    "categories": "AI Web Scraping, AI Data Mining, AI Research Tool, No-Code&Low-Code, AI Lead Generation, AI For Data Analytics",
+    "slug": "vurge",
+    "created_at": "14:13:25 12/25/2025"
+  },
+  {
     "title": "AI Banana - Nano Banana Image Generator",
     "name": "AI Banana - Nano Banana Image Generator",
     "description": "AI image generator and editor with natural language processing.",
@@ -29302,6 +29311,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MockUsers",
+    "name": "MockUsers",
+    "description": "AI tool for unbiased landing page conversion feedback and optimization.",
+    "website": "https://mockusers.xyz",
+    "categories": "AI Review Generator, AI Testing, AI Copywriting, AI UX Design",
+    "slug": "mockusers",
+    "created_at": "14:13:25 12/25/2025"
+  },
+  {
     "title": "InstantMind",
     "name": "InstantMind",
     "description": "AI mind map generator & summarizer for diverse content.",
@@ -29905,6 +29923,15 @@
     "created_at": "14:16:42 07/28/2025"
   },
   {
+    "title": "Agent 37",
+    "name": "Agent 37",
+    "description": "Monetize Claude AI skills, hosted platform, Stripe payments.",
+    "website": "https://www.agent37.com",
+    "categories": "AI Coaching, AI Agent, AI Developer Tools, Large Language Models (LLMs)",
+    "slug": "agent-37",
+    "created_at": "14:13:25 12/25/2025"
+  },
+  {
     "title": "Sentence Rewriter",
     "name": "Free AI Sentence Rewriter",
     "description": "Free AI Sentence Rewriter - Rewrite Sentences Quickly",
@@ -29939,6 +29966,15 @@
     "categories": "AI Models, Large Language Models (LLMs), Open Source AI Models, AI API, AI Developer Tools, AI Agent, AI Video Search, AI Video Summarizer",
     "slug": "reka-vision",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "AI Song Creator",
+    "name": "Online AI Song Generator That Respects Your Craft",
+    "description": "Create studio-quality, royalty-free music in seconds. Turn text into songs with vocals using our professional AI Music Generator.",
+    "website": "https://aisongcreator.pro",
+    "categories": "AI Music Generator, AI Text-to-Music, AI Voice Cloning",
+    "slug": "online-ai-song-generator-that-respects-your-craft",
+    "created_at": "14:13:25 12/25/2025"
   },
   {
     "title": "Aithor",
