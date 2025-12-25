@@ -12463,6 +12463,15 @@
     "created_at": "14:12:34 09/25/2025"
   },
   {
+    "title": "Grok Imagine",
+    "name": "grockimagine.com",
+    "description": "AI video generator for high-resolution videos from text and images.",
+    "website": "https://grockimagine.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, Text to Image",
+    "slug": "grockimagine-com",
+    "created_at": "02:51:14 12/25/2025"
+  },
+  {
     "title": "Omi AI",
     "name": "omiGPT",
     "description": "An AI assistant that integrates with 100+ apps for productivity.",
@@ -18266,6 +18275,15 @@
     "categories": "AI PDF, AI Document Extraction, AI Files Assistant, AI Documents Assistant, Summarizer, Writing Assistants, AI Productivity Tools, Legal Assistant, Research Tool",
     "slug": "ai-drive",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Nanobanana Pro",
+    "name": "nanabanana2.run",
+    "description": "AI image generator with flawless text, accurate math, and advanced world knowledge.",
+    "website": "https://nanabanana2.run",
+    "categories": "AI Image Generator, Text to Image, AI Infographic Generator, AI Diagram Generator, AI Math, Image to Image",
+    "slug": "nanabanana2-run",
+    "created_at": "02:51:14 12/25/2025"
   },
   {
     "title": "Tenorshare AI Bypass",
@@ -25367,6 +25385,15 @@
     "categories": "AI Productivity Tools",
     "slug": "backlsh-time-tracking",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedream 5.0",
+    "name": "Seedream 5.0",
+    "description": "AI image editor transforming text into stunning 4k visuals.",
+    "website": "https://www.seedream-5.app",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Photo Restoration, AI Avatar Generator, AI Background Remover",
+    "slug": "seedream-5-0",
+    "created_at": "02:51:14 12/25/2025"
   },
   {
     "title": "AI Cover Letter Generator",
