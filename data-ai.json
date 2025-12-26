@@ -8027,6 +8027,15 @@
     "created_at": "14:13:31 11/25/2025"
   },
   {
+    "title": "Banana Prompts",
+    "name": "New Nano Banana Prompts",
+    "description": "Master Nano Banana",
+    "website": "https://banana-prompts.com",
+    "categories": "AI Image Generator, AI Prompt Generator, Prompt Engineering, AI Realistic Image Generator, Image to Image, AI Design Assistant, AI Ad Creative, AI Business Ideas Generator",
+    "slug": "new-nano-banana-prompts",
+    "created_at": "14:13:39 12/26/2025"
+  },
+  {
     "title": "AI Humanizer",
     "name": "AI Humanizer",
     "description": "Transforms AI text into natural, undetectable human-like content.",
@@ -24082,6 +24091,15 @@
     "created_at": "14:15:03 12/17/2025"
   },
   {
+    "title": "SwingVision",
+    "name": "SwingVision",
+    "description": "AI-powered app for automated tennis & pickleball scoring, stats, highlights, and line calling.",
+    "website": "https://swing.vision",
+    "categories": "AI Sports, AI Coaching, AI Video Editor",
+    "slug": "swingvision",
+    "created_at": "14:13:39 12/26/2025"
+  },
+  {
     "title": "Papira",
     "name": "Papira",
     "description": "Automated notepad for personalized AI writing commands.",
@@ -27815,6 +27833,15 @@
     "categories": "AI Image Generator, AI Photo Editor, AI Face Swap Generator, AI Background Generator, Image to Image, AI Art Generator",
     "slug": "nano-banana-games",
     "created_at": "02:27:46 08/31/2025"
+  },
+  {
+    "title": "NewsForYou",
+    "name": "NewsForYou",
+    "description": "AI-curated personalized news newsletter for daily 5-minute reads.",
+    "website": "https://newsforyou.ai",
+    "categories": "AI Newsletter, AI News, AI Email Assistant, AI Productivity Tools",
+    "slug": "newsforyou",
+    "created_at": "14:13:39 12/26/2025"
   },
   {
     "title": "Native AI",
@@ -33467,6 +33494,15 @@
     "categories": "AI Music Generator, AI API, AI Song Generator, AI Text-to-Music",
     "slug": "suno-v5-app",
     "created_at": "02:20:15 09/25/2025"
+  },
+  {
+    "title": "Prodely",
+    "name": "Prodely",
+    "description": "AI platform for structured product discovery, planning, and execution.",
+    "website": "https://prodely.com",
+    "categories": "AI Product Manager, AI Assistant, AI Research Tool, AI Knowledge Base, AI Productivity Tools, AI Transcriber, AI Summarizer",
+    "slug": "prodely",
+    "created_at": "14:13:39 12/26/2025"
   },
   {
     "title": "Liminary",
