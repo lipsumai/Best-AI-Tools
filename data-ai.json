@@ -90,6 +90,15 @@
     "created_at": "14:14:02 07/14/2025"
   },
   {
+    "title": "ZenMux",
+    "name": "ZenMux",
+    "description": "ZenMux is the world's first enterprise-grade large model aggregation platform with an insurance payout mechanism, providing unified API access to top models while guaranteeing output quality and stability.",
+    "website": "https://zenmux.ai",
+    "categories": "AI Chat Generator, AI API, Large Language Models (LLMs)",
+    "slug": "zenmux",
+    "created_at": "02:46:42 12/27/2025"
+  },
+  {
     "title": "Voxscribe",
     "name": "Voxscribe",
     "description": "Voice to social media content app",
@@ -10322,6 +10331,15 @@
     "created_at": "14:12:58 11/20/2025"
   },
   {
+    "title": "NB Pro",
+    "name": "nbpro.io",
+    "description": "All-in-one AI image & video generator with multiple models.",
+    "website": "https://nbpro.io",
+    "categories": "AI Image Generator, AI Video Generator, Image to Image, AI Prompt Generator, AI Hairstyle, AI Interior Design, AI Photo Restoration",
+    "slug": "nbpro-io",
+    "created_at": "02:46:42 12/27/2025"
+  },
+  {
     "title": "SAM TTS",
     "name": "SAM TTS",
     "description": "Classic Microsoft SAM Text-to-Speech voice in your browser.",
@@ -12695,6 +12713,15 @@
     "categories": "AI YouTube Assistant, Novel, Prompt, AI Book Writing",
     "slug": "cheaprr",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "AirBrush",
+    "name": "Airbrush AI Image Enhancer",
+    "description": "AI Image Enhancer & Upscaler for sharper, vibrant photos.",
+    "website": "https://airbrush.com",
+    "categories": "AI Image Enhancer, AI Image Upscaler, AI Photo Enhancer, AI Photo Editor, AI Photo Restoration, AI Watermark Remover, AI Background Remover",
+    "slug": "airbrush-ai-image-enhancer",
+    "created_at": "02:46:42 12/27/2025"
   },
   {
     "title": "AI Bookkeeping",
@@ -17494,6 +17521,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "Amplift AI",
+    "name": "Amplift AI",
+    "description": "The ultimate growth & visibility engine for lean teams",
+    "website": "https://amplift.ai",
+    "categories": "AI Marketing, AI Blog Generator, AI Book Writing, AI Copywriting, AI Creative Writing, AI Social Media, AI Ad Creative, AI Advertising, AI Digital Marketing, AI Marketing Plan Generator, AI SEO Tools, Ad Copy, SEO Writing AI",
+    "slug": "amplift-ai",
+    "created_at": "02:46:42 12/27/2025"
+  },
+  {
     "title": "Pola Browser",
     "name": "Pola Browser",
     "description": "A productivity browser for Mac with smart organization and privacy features.",
@@ -17789,6 +17825,15 @@
     "categories": "AI Diagram Generator, Whiteboard AI, AI Productivity Tools, AI OCR",
     "slug": "image-to-drawio",
     "created_at": "02:57:39 07/30/2025"
+  },
+  {
+    "title": "Cuty AI",
+    "name": "Cuty AI",
+    "description": "Turn ideas into stunning images and videos — instantly.",
+    "website": "https://www.cuty.ai",
+    "categories": "AI Video Generator, Image to Video, Text to Video",
+    "slug": "cuty-ai",
+    "created_at": "02:46:42 12/27/2025"
   },
   {
     "title": "Wan2Video",
