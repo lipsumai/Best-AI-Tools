@@ -14533,6 +14533,15 @@
     "created_at": "14:14:05 08/13/2025"
   },
   {
+    "title": "SocialEcho",
+    "name": "SocialEcho",
+    "description": "AI-powered platform for social media marketing automation, management, and analytics.",
+    "website": "https://www.socialecho.net",
+    "categories": "AI Social Media, AI Marketing, AI Assistant, AI Rewriter",
+    "slug": "socialecho",
+    "created_at": "14:15:00 12/29/2025"
+  },
+  {
     "title": "Kirkified",
     "name": "Kirkified",
     "description": "AI face swap meme generator for viral Kirkified content with neon-glitch aesthetic.",
@@ -16025,6 +16034,15 @@
     "categories": "AI Video Generator, AI Cartoon Video Generator, AI Short Video Generator, AI UGC Video Generator, AI Video Enhancer, AI Video Upscaler, Image to Video, Text to Video",
     "slug": "vora",
     "created_at": "14:14:10 12/12/2025"
+  },
+  {
+    "title": "TranslateAI",
+    "name": "TranslateAI",
+    "description": "AI platform for e-commerce product catalog translation, proofreading, and content generation.",
+    "website": "https://translateai.eu",
+    "categories": "AI Translate, AI Product Description Generator, AI Text Generator, AI Proofreading",
+    "slug": "translateai",
+    "created_at": "14:15:00 12/29/2025"
   },
   {
     "title": "AI Song Maker",
@@ -24449,6 +24467,15 @@
     "categories": "AI Hairstyle, AI Hair Color Changer, Text to Image, AI Photo Editor, AI Character",
     "slug": "ai-hairstyle-changer",
     "created_at": "02:40:27 06/06/2025"
+  },
+  {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro - PhotoArtAI",
+    "description": "Cheaper,Faster AI Image Editing & Generation Tools With Nano Banana Pro",
+    "website": "https://photoartai.com",
+    "categories": "AI Image Generator, AI Background Generator, AI Background Remover, AI Expand Image, AI Face Swap Generator, AI Image Combiner, AI Image Enhancer, AI Photo Editor, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration, AI Style Transfer, Image to Image, Object Remover AI, Text to Image",
+    "slug": "nano-banana-pro-photoartai",
+    "created_at": "14:15:00 12/29/2025"
   },
   {
     "title": "Skylight",
