@@ -3501,6 +3501,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "Inspix AI",
+    "name": "Inspix AI",
+    "description": "Ultimate AI platform for cinematic videos and stunning images.",
+    "website": "https://inspix.ai",
+    "categories": "AI Video Generator, AI Image Generator, Image to Video, Text to Video, Text to Image, Image to Image",
+    "slug": "inspix-ai",
+    "created_at": "03:02:17 12/29/2025"
+  },
+  {
     "title": "Resume Yay",
     "name": "Resume Yay",
     "description": "The Truly Free AI Resume Builder",
@@ -12256,6 +12265,15 @@
     "created_at": "14:13:21 10/15/2025"
   },
   {
+    "title": "IndieGTM",
+    "name": "IndieGTM",
+    "description": "Daily marketing operating system for video-first campaigns.",
+    "website": "https://indiegtm.com",
+    "categories": "AI Short Video Generator, AI Marketing, AI Social Media Post Generator, AI Marketing Plan Generator",
+    "slug": "indiegtm",
+    "created_at": "03:02:17 12/29/2025"
+  },
+  {
     "title": "Chat4Data",
     "name": "Chat4Data",
     "description": "AI-powered Chrome extension for natural language web data extraction.",
@@ -12938,6 +12956,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, AI Resume Checker, AI Avatar Generator",
     "slug": "ntrvsta",
     "created_at": "14:18:04 08/04/2025"
+  },
+  {
+    "title": "Monet AI",
+    "name": "Monet AI",
+    "description": "All-in-One AI Video, Image Creation Platform",
+    "website": "https://monet.vision",
+    "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Animated Video, AI Avatar Video Generator, AI Face Swap Video, AI Video Editor, Image to Video, Text to Video, Video to Video, AI Models",
+    "slug": "monet-ai",
+    "created_at": "03:02:17 12/29/2025"
   },
   {
     "title": "GitHub Copilot",
@@ -15287,6 +15314,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, Game, AI Tutorial, AI Team Collaboration, AI Analytics Assistant, AI Email Writer, AI Content Generator, Copywriting, Writing Assistants",
     "slug": "aha-inc",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "ReelMuse.ai",
+    "name": "ReelMuse",
+    "description": "All-in-one AI platform for video, image, and audio creation.",
+    "website": "https://www.reelmuse.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, AI Video Enhancer, AI Watermark Remover, Text to Video, Image to Video, AI Vocal Remover, AI Subtitle Generator",
+    "slug": "reelmuse",
+    "created_at": "03:02:17 12/29/2025"
   },
   {
     "title": "Omnilingual Asr",
