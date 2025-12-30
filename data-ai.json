@@ -15793,6 +15793,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ace.me",
+    "name": "ace.me",
+    "description": "Your new website, email address & cloud storage. Simple. Fast. Secure.",
+    "website": "https://ace.me",
+    "categories": "Bio Link, AI Blog Generator, AI Email Writer, AI Bio Generator, AI Website Builder, AI Advertising, AI Email Generator, AI Website Designer",
+    "slug": "ace-me",
+    "created_at": "14:14:19 12/30/2025"
+  },
+  {
     "title": "Bestever",
     "name": "Bestever",
     "description": "AI platform for ad analysis, generation, and optimization.",
@@ -20221,6 +20230,15 @@
     "created_at": "02:51:19 08/17/2025"
   },
   {
+    "title": "APIPod",
+    "name": "APIPod",
+    "description": "Unified API for 100+ top AI models with high performance and price-performance.",
+    "website": "https://www.apipod.ai",
+    "categories": "AI API, AI Developer Tools, AI Models, Large Language Models (LLMs)",
+    "slug": "apipod",
+    "created_at": "14:14:19 12/30/2025"
+  },
+  {
     "title": "Victoria AI",
     "name": "Victoria AI",
     "description": "AI agent automating workflows through chat requests.",
@@ -22190,6 +22208,15 @@
     "categories": "AI Education Assistant, AI Image Scanning, AI Chatbot, AI Podcast Assistant",
     "slug": "seemuseums",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "VoooAI",
+    "name": "VoooAI",
+    "description": "Free AI image and video generator, supporting 20 concurrent tasks and well-known models such as Nano Banana Pro, Flux2, Sora2, Veo3.1, etc",
+    "website": "https://www.voooai.com",
+    "categories": "AI Video Generator, AI Wallpaper Generator, AI Photo Editor, AI Photo Enhancer, AI Photo Restoration, AI Product Photography, AI Realistic Image Generator, AI Style Transfer, AI Yearbook, AI Passport Photo, Gender Swap AI, Image to Image, Text to Image, AI Video Editor, Image to Video, Text to Video, AI Person Generator, AI Outpainting, AI Age Progression, AI Eraser, AI Avatar Generator, AI Background Remover, AI Clothing Removal, AI Colorize, AI Cosplay Generator, AI Crop Image, AI Expand Image, AI Inpainting, AI Face Swap Generator, AI Headshot Generator, AI Image Combiner, AI Image Enhancer, AI Image Generator, AI Image Sharpening, AI Image Upscaler, Video to Video",
+    "slug": "voooai",
+    "created_at": "14:14:19 12/30/2025"
   },
   {
     "title": "Veozon AI Video Generator",
@@ -29554,6 +29581,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Remove Watermark - MarkGone",
+    "name": "Remove Watermark - MarkGone",
+    "description": "Instantly Remove Watermarks from Images & Videos with AI.",
+    "website": "https://www.removewatermarks.com",
+    "categories": "AI Watermark Remover, AI Photo Editor",
+    "slug": "remove-watermark-markgone",
+    "created_at": "14:14:19 12/30/2025"
+  },
+  {
     "title": "Scout0",
     "name": "Scout0",
     "description": "AI code review for learning, analyzing security, performance, quality, and bugs.",
@@ -31453,6 +31489,15 @@
     "created_at": "02:26:33 11/04/2025"
   },
   {
+    "title": "AI Prompt Copy",
+    "name": "AI Prompt Copy",
+    "description": "Curated library of AI prompts for creative and operational needs.",
+    "website": "https://aipromptcopy.org",
+    "categories": "AI Prompt Generator, Text to Image, Large Language Models (LLMs), AI Writing Assistants",
+    "slug": "ai-prompt-copy",
+    "created_at": "14:14:19 12/30/2025"
+  },
+  {
     "title": "Spydr Memory MCP",
     "name": "Spydr - The Github for LLM Context",
     "description": "Multimodal, interoperable context engine for AI clients.",
@@ -32443,6 +32488,15 @@
     "created_at": "14:12:29 05/13/2025"
   },
   {
+    "title": "Manga Translator",
+    "name": "Manga Translator-",
+    "description": "An intelligent manga translation tool launched by AIAI.com that utilizes advanced AI technology to perform text recognition, precise translation, and image in-painting. It breaks language barriers to deliver a seamless manga reading experience.",
+    "website": "https://manga-translator.aiai.com",
+    "categories": "AI Image Translator, Image to Image, AI OCR, AI Translate",
+    "slug": "manga-translator-1",
+    "created_at": "14:14:19 12/30/2025"
+  },
+  {
     "title": "Prompt Builder",
     "name": "Prompt Builder",
     "description": "AI prompt engineering platform to generate, optimize, and organize prompts.",
@@ -32675,6 +32729,15 @@
     "categories": "AI Games, AI Roleplay, AI Character, AI Girlfriend, AI Boyfriend",
     "slug": "questie-ai",
     "created_at": "14:12:57 10/16/2025"
+  },
+  {
+    "title": "Spark AI",
+    "name": "Spark AI",
+    "description": "Your emotional AI companion for immersive roleplay and deep, realistic conversations.",
+    "website": "https://apps.apple.com/us/app/spark-ai-chat-roleplay/id6755237550",
+    "categories": "AI Roleplay, AI Anime Girlfriend, AI Boyfriend, AI Character, AI Chatbot, AI Girlfriend, Dirty Talking AI",
+    "slug": "spark-ai-ai-chat-roleplay-app",
+    "created_at": "14:14:19 12/30/2025"
   },
   {
     "title": "Transcriptik AI",
