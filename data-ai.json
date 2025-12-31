@@ -5381,6 +5381,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Mulan",
+    "name": "Mulan pro",
+    "description": "AI creative platform for instant content generation, video, images, and branding.",
+    "website": "https://mulan.pro",
+    "categories": "AI Video Generator, AI Commercial Generator, AI Product Photography, AI Short Video Generator, Image to Prompt, AI Sticker Generator, AI Poster Generator, AI Clothing Generator, Storyboard AI",
+    "slug": "mulan-pro",
+    "created_at": "14:13:58 12/31/2025"
+  },
+  {
     "title": "Email Creator",
     "name": "Email Creator",
     "description": "Email Creator is a platform for creating, curating, and discovering emails efficiently.",
@@ -5712,6 +5721,15 @@
     "categories": "AI Tutorial, AI Course, AI Education Assistant, AI Video Recording, Writing Assistants",
     "slug": "duration-ai",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "VideoAny",
+    "name": "VideoAny",
+    "description": "Free, uncensored AI studio for video, image, and audio generation.",
+    "website": "https://videoany.io",
+    "categories": "AI Video Generator, AI Image Generator, AI Face Swap Video, AI Music Generator, Text to Video, Image to Video, Text to Image",
+    "slug": "videoany",
+    "created_at": "14:13:58 12/31/2025"
   },
   {
     "title": "Kadabra",
@@ -23380,6 +23398,15 @@
     "created_at": "14:13:31 11/25/2025"
   },
   {
+    "title": "AnyGen",
+    "name": "AnyGen",
+    "description": "AI workspace for collaborative content creation, presentations, and data analysis.",
+    "website": "https://www.anygen.io",
+    "categories": "AI Writing Assistants, AI Presentation Generator, AI Productivity Tools, AI Documents Generator, AI For Data Analytics, AI PPT Maker",
+    "slug": "anygen",
+    "created_at": "14:13:58 12/31/2025"
+  },
+  {
     "title": "Loop",
     "name": "Loop MCP by SimpliflowAI",
     "description": "Unified MCP gateway for connecting AI apps to tools and solving tool limits.",
@@ -27509,6 +27536,15 @@
     "categories": "AI Grammar Checker, AI Productivity Tools, Translate, Writing Assistants, Summarizer, General Writing, Code Explanation",
     "slug": "smart-keys-for-mac",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "AI Picture Generator",
+    "name": "AI Picture Generator",
+    "description": "AI picture generator for text-to-image, image-to-image, and photo editing.",
+    "website": "https://aipicturegenerator.ai",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Photo Editor",
+    "slug": "ai-picture-generator",
+    "created_at": "14:13:58 12/31/2025"
   },
   {
     "title": "Explo",
