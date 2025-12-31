@@ -14722,6 +14722,15 @@
     "created_at": "14:12:59 08/20/2025"
   },
   {
+    "title": "ColorPage Lab",
+    "name": "ColorPage Lab",
+    "description": "AI tool to generate unique, printable coloring pages.",
+    "website": "https://aicoloringpage.org",
+    "categories": "AI Coloring Book Generator, AI Art Generator, Text to Image, AI Drawing, AI Illustration Generator",
+    "slug": "colorpage-lab",
+    "created_at": "02:51:13 12/31/2025"
+  },
+  {
     "title": "Freudly — AI Therapist",
     "name": "Freudly — AI Therapist",
     "description": "AI-powered online therapist for mental health support.",
@@ -16475,6 +16484,15 @@
     "categories": "AI App Builder, No-Code&Low-Code, AI Agent, AI Developer Tools",
     "slug": "raydian",
     "created_at": "14:13:04 11/28/2025"
+  },
+  {
+    "title": "GoCrazyAI",
+    "name": "GoCrazyAI – AI Video Generator",
+    "description": "AI studio for videos, images, lip-sync, face swap, and music.",
+    "website": "https://www.gocrazyai.com",
+    "categories": "AI Video Generator, AI Image Generator, AI Lip Sync Generator, AI Face Swap Generator, AI Music Generator, AI Selfie Generator, Image to Video",
+    "slug": "gocrazyai-ai-video-generator",
+    "created_at": "02:51:13 12/31/2025"
   },
   {
     "title": "Dub",
@@ -24685,6 +24703,15 @@
     "created_at": "14:11:31 05/08/2025"
   },
   {
+    "title": "BeautyPlus",
+    "name": "BeautyPlus Image Enhancer",
+    "description": "AI-powered platform for image enhancement, generation, and video editing with diverse tools.",
+    "website": "https://www.beautyplus.com",
+    "categories": "AI Image Enhancer, AI Photo Enhancer, AI Image Upscaler, AI Photo Restoration",
+    "slug": "beautyplus-image-enhancer",
+    "created_at": "02:51:13 12/31/2025"
+  },
+  {
     "title": "yt2post.ai",
     "name": "yt2post.ai",
     "description": "Transform YouTube videos into engaging written content effortlessly.",
@@ -30362,6 +30389,15 @@
     "categories": "AI API Design, AI Developer Tools",
     "slug": "cometapi",
     "created_at": "14:12:41 05/14/2025"
+  },
+  {
+    "title": "TarotAI",
+    "name": "TarotAI",
+    "description": "The world's first AI Tarot platform to design decks, get readings, and connect with your true self.",
+    "website": "https://tarotai.art",
+    "categories": "AI Image Generator, AI Text Generator, AI Design Generator",
+    "slug": "tarotai",
+    "created_at": "02:51:13 12/31/2025"
   },
   {
     "title": "Raena AI",
