@@ -5012,6 +5012,15 @@
     "created_at": "14:13:57 11/26/2025"
   },
   {
+    "title": "Nano Banana",
+    "name": "Nano Banana Pro AI",
+    "description": "Revolutionary AI for image generation and editing with text commands.",
+    "website": "https://nanobananaimg.com",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Video Generator, AI Background Remover, AI Image Enhancer",
+    "slug": "nano-banana-pro-ai",
+    "created_at": "02:54:15 01/02/2026"
+  },
+  {
     "title": "Resumago",
     "name": "Resumago",
     "description": "AI-powered platform creates tailored resumes for job applications.",
@@ -10313,6 +10322,15 @@
     "created_at": "14:09:51 10/18/2025"
   },
   {
+    "title": "Qwen-Image AI",
+    "name": "Qwen-Image-2512 AI",
+    "description": "Alibaba's AI image generator with realism and Chinese text.",
+    "website": "https://qwen-image-2512.org",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator",
+    "slug": "qwen-image-2512-ai",
+    "created_at": "02:54:15 01/02/2026"
+  },
+  {
     "title": "Autohive",
     "name": "Autohive",
     "description": "Platform to build and run AI agents for task automation.",
@@ -14218,6 +14236,15 @@
     "created_at": "02:48:12 09/01/2025"
   },
   {
+    "title": "Vadu AI",
+    "name": "Vadu AI",
+    "description": "AI platform for creating videos and images from text and visuals.",
+    "website": "https://vadu.ai",
+    "categories": "AI Video Generator, Text to Video, AI Image Generator, Image to Video, Text to Image, Video to Video, Image to Image, AI Animation Generator",
+    "slug": "vadu-ai",
+    "created_at": "02:54:15 01/02/2026"
+  },
+  {
     "title": "Reaidy.io",
     "name": "Reaidy.io",
     "description": "AI-powered job search assistant for faster, more effective hiring.",
@@ -17080,6 +17107,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Neolemon",
+    "name": "Neolemon",
+    "description": "AI cartoon generator that creates consistent characters for children's books, keeping the same character looking identical across every page.",
+    "website": "https://www.neolemon.com",
+    "categories": "AI Cartoon Generator, AI Avatar Generator, AI Image Generator, AI Art Generator, AI Coloring Book Generator, AI Disney Poster, AI Drawing, AI Illustration Generator, AI Character",
+    "slug": "neolemon",
+    "created_at": "02:54:15 01/02/2026"
+  },
+  {
     "title": "wabi.ai",
     "name": "wabi.ai",
     "description": "Personal software platform for creating and remixing AI-powered mini-apps.",
@@ -19364,6 +19400,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, Video to Video, Image to Image",
     "slug": "yolly-ai",
     "created_at": "02:27:01 11/27/2025"
+  },
+  {
+    "title": "AI Line Art",
+    "name": "AI Line Art",
+    "description": "AI tool generates professional line art drawings from text or photos.",
+    "website": "https://ailineart.com",
+    "categories": "AI Drawing, AI Art Generator, AI Sketch Generator, AI Illustration Generator, AI Coloring Book Generator, Text to Image, Image to Image, AI Character, AI Comic, AI Pixel Art",
+    "slug": "ai-line-art",
+    "created_at": "02:54:15 01/02/2026"
   },
   {
     "title": "Innov8iq",
