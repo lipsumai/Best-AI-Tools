@@ -15622,6 +15622,15 @@
     "created_at": "02:21:14 10/25/2025"
   },
   {
+    "title": "GoAI — Investing Analyst",
+    "name": "GoAI — Investing Analyst",
+    "description": "Your Personal AI Investment Analyst. Institutional-grade stock analysis and Alpha Picks powered by Multi-Agent AI.",
+    "website": "https://goai.digital",
+    "categories": "AI Investing, AI Stock Trading",
+    "slug": "goai-investing-analyst",
+    "created_at": "03:04:59 01/04/2026"
+  },
+  {
     "title": "Pano",
     "name": "Pano",
     "description": "Pano integrates with existing apps to provide comprehensive customer journey view.",
@@ -23621,6 +23630,15 @@
     "categories": "Image to Image, AI Background Remover, AI Colorize, AI Crop Image, AI Eraser, AI Expand Image, AI Image Combiner, AI Image Enhancer, AI Image Generator, AI Inpainting, AI Outpainting, AI Photo Editor, AI Style Transfer, AI Unblur Image, Object Remover AI, Text to Image",
     "slug": "design0-effortless-ai-design-for-everyone",
     "created_at": "14:14:20 11/03/2025"
+  },
+  {
+    "title": "Skribra",
+    "name": "Skribra",
+    "description": "AI-powered SEO content generator for website traffic.",
+    "website": "https://skribra.com",
+    "categories": "SEO Writing AI, AI SEO Tools, AI Blog Generator, AI Content Detector, Humanizer AI",
+    "slug": "skribra",
+    "created_at": "03:04:59 01/04/2026"
   },
   {
     "title": "AIPex",
