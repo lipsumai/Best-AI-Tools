@@ -1026,6 +1026,15 @@
     "created_at": "14:10:24 04/20/2025"
   },
   {
+    "title": "Ricebowl AI",
+    "name": "Ricebowl AI",
+    "description": "This is the most practical commercial-grade AI video + image platform I’ve used",
+    "website": "https://ricebowl.ai",
+    "categories": "AI Video Generator, AI Stock Video Generator, AI Ad Creative, Video to Video, Text to Video, Image to Video, AI Youtube Video Maker, AI Video Upscaler, AI Video Recording, AI Video Enhancer, AI Video Editor, AI UGC Video Generator, AI Tiktok Video Generator, AI Short Video Generator, AI Avatar Generator, AI Music Video Generator, AI Face Swap Video, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animated Video, AI Banner Generator, AI Image Upscaler, AI Image Sharpening, AI Image Generator, AI Image Enhancer, AI Image Combiner, AI Ad Generator",
+    "slug": "ricebowl-ai",
+    "created_at": "14:17:22 01/07/2026"
+  },
+  {
     "title": "Image To Image AI",
     "name": "Image To Image AI",
     "description": "AI tool to transform images using text prompts.",
@@ -5703,6 +5712,15 @@
     "categories": "AI Lesson Plan Generator, AI Teachers, AI Language Learning, AI Question Generator, AI Quiz Generator",
     "slug": "twee",
     "created_at": "02:49:15 12/11/2025"
+  },
+  {
+    "title": "Foundire - AI-Powered Recruitment Platform",
+    "name": "Foundire",
+    "description": "End-to-end AI recruitment platform for global sourcing, screening, and adaptive interviewing.",
+    "website": "https://foundire.com",
+    "categories": "AI Recruiting, AI Interview Assistant, AI Resume Checker",
+    "slug": "foundire",
+    "created_at": "14:17:22 01/07/2026"
   },
   {
     "title": "Florami",
@@ -12302,6 +12320,15 @@
     "created_at": "14:13:14 10/28/2025"
   },
   {
+    "title": "Agihalo LLM Router",
+    "name": "Agihalo",
+    "description": "LLM Router enabling autonomous AI Agent payments via USDC and X402 rail.",
+    "website": "https://www.agihalo.com",
+    "categories": "AI Agent, AI API, AI Developer Tools, Large Language Models (LLMs), Blockchain",
+    "slug": "agihalo",
+    "created_at": "14:17:22 01/07/2026"
+  },
+  {
     "title": "SetupAI.co",
     "name": "SetupAI.co",
     "description": "SetupAI.co uses AI to redesign your setup based on an uploaded photo.",
@@ -18718,6 +18745,15 @@
     "created_at": "14:12:51 06/18/2025"
   },
   {
+    "title": "SignalScouter",
+    "name": "SignalScouter",
+    "description": "Automated 24/7 Reddit engagement and lead generation using AI-drafted comments.",
+    "website": "https://www.signalscouter.com",
+    "categories": "AI Social Media, AI Lead Generation, AI Marketing, AI Reply, AI Social Media Post Generator",
+    "slug": "signalscouter",
+    "created_at": "14:17:22 01/07/2026"
+  },
+  {
     "title": "Canopy",
     "name": "Canopy",
     "description": "AI-based parental control app for online safety.",
@@ -21596,6 +21632,15 @@
     "categories": "AI Productivity Tools, AI Audio Editing, AI Music Generator, AI Mental Health",
     "slug": "melodiez",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "OpenAgents",
+    "name": "OpenAgents",
+    "description": "Open-source platform for building, connecting, and orchestrating AI Agent Networks at scale.",
+    "website": "https://openagents.org",
+    "categories": "AI Agent, AI Developer Tools, Open Source AI Models",
+    "slug": "openagents",
+    "created_at": "14:17:22 01/07/2026"
   },
   {
     "title": "CrePal AI",
@@ -26260,6 +26305,15 @@
     "created_at": "14:12:18 11/07/2025"
   },
   {
+    "title": "Tubeletter",
+    "name": "Tubeletter",
+    "description": "AI assistant turning YouTube videos into newsletters.",
+    "website": "https://tubeletter.ai",
+    "categories": "AI Newsletter Generator, AI YouTube, AI Email Marketing, AI Video Summarizer",
+    "slug": "tubeletter",
+    "created_at": "14:17:22 01/07/2026"
+  },
+  {
     "title": "Sora Watermark Remover",
     "name": "Sora Watermark Remover-",
     "description": "Online tool to remove Sora video watermarks quickly and without quality loss.",
@@ -27439,6 +27493,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Nutgrafe",
+    "name": "Nutgrafe",
+    "description": "AI service providing short, factual news summaries (400 characters max) from major publications.",
+    "website": "https://nutgrafe.com",
+    "categories": "AI News, AI Article Summarizer, AI Summarizer, AI Reader",
+    "slug": "nutgrafe",
+    "created_at": "14:17:22 01/07/2026"
+  },
+  {
     "title": "Roark",
     "name": "Roark",
     "description": "QA and observability platform for reliable Voice AI agents.",
@@ -27779,6 +27842,15 @@
     "categories": "AI Image Generator, Text to Image, Image to Image, AI Photo Editor",
     "slug": "ai-picture-generator",
     "created_at": "14:13:58 12/31/2025"
+  },
+  {
+    "title": "SongMaker AI",
+    "name": "SongMaker AI",
+    "description": "AI tool that turns a simple text prompt into a complete song, including melody, instruments, and vocals.",
+    "website": "https://songmakerai.net",
+    "categories": "AI Song Generator, AI Music Generator, AI Melody Generator",
+    "slug": "songmaker-ai",
+    "created_at": "14:17:22 01/07/2026"
   },
   {
     "title": "Explo",
@@ -29410,6 +29482,15 @@
     "created_at": "14:14:05 10/07/2025"
   },
   {
+    "title": "Jules",
+    "name": "Jules",
+    "description": "Personal voice minder delivering deadline reminders via impossible-to-ignore phone calls.",
+    "website": "https://www.heyjules.app",
+    "categories": "AI Voice Assistants, AI Productivity Tools, AI Task Management, AI Scheduling",
+    "slug": "jules",
+    "created_at": "14:17:22 01/07/2026"
+  },
+  {
     "title": "TarotQA",
     "name": "TarotQA",
     "description": "AI-powered online platform for tarot readings, horoscopes, and spiritual guidance.",
@@ -30299,6 +30380,15 @@
     "categories": "AI CRM Assistant, AI Lead Generation, Sales Assistant, AI Content Generator, Writing Assistants, AI Blog Writer, Copywriting, General Writing",
     "slug": "playgent",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "Friendware",
+    "name": "Friendware",
+    "description": "A proactive, context-aware AI copilot for macOS that automates workflow and communication.",
+    "website": "https://friendware.ai",
+    "categories": "AI Copilot, AI Assistant, AI Productivity Tools, AI Writing Assistants, AI Workflow",
+    "slug": "friendware",
+    "created_at": "14:17:22 01/07/2026"
   },
   {
     "title": "CareerAI",
@@ -33217,6 +33307,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Creaibo",
+    "name": "Creaibo",
+    "description": "AI integrated creation space for ideation, writing, asset generation, and intelligent publishing.",
+    "website": "https://creaibo.io",
+    "categories": "AI Script Writing, AI Writing Assistants, AI Story Generator, Script To Video AI Generator, AI Social Media",
+    "slug": "creaibo",
+    "created_at": "14:17:22 01/07/2026"
+  },
+  {
     "title": "StatStream.ai",
     "name": "StatStream.ai",
     "description": "AI-powered maintenance and asset management for industries.",
@@ -33737,6 +33836,15 @@
     "categories": "AI Assistant, AI Agent, AI Productivity Tools, No-Code&Low-Code",
     "slug": "alice",
     "created_at": "03:01:47 07/20/2025"
+  },
+  {
+    "title": "Invoce.ai",
+    "name": "Invoce.ai",
+    "description": "AI invoice generator for freelancers and small businesses, creating invoices via chat.",
+    "website": "https://www.invoce.ai",
+    "categories": "AI Documents Generator, AI For Finance, AI Accounting, AI Productivity Tools",
+    "slug": "invoce-ai",
+    "created_at": "14:17:22 01/07/2026"
   },
   {
     "title": "Flux AI Image Generator",
@@ -34637,6 +34745,15 @@
     "categories": "AI Customer Service, AI Sales Assistant, AI Agent, AI Assistant",
     "slug": "clarm-the-ai-devrel-engineer",
     "created_at": "14:12:35 10/09/2025"
+  },
+  {
+    "title": "Saaga Solve",
+    "name": "Saagasolve",
+    "description": "AI Marketing Automation Platform unifying SEO and social media with intelligent insights and autonomous execution.",
+    "website": "https://saagasolve.com",
+    "categories": "AI Marketing, AI SEO Tools, AI Social Media, AI Writing, AI Agent",
+    "slug": "saagasolve",
+    "created_at": "14:17:22 01/07/2026"
   },
   {
     "title": "Podcast 2 Newsletter",
