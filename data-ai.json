@@ -13678,6 +13678,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Gurully",
+    "name": "Gurully",
+    "description": "Gurully – Accurate, Real-Exam Level Practice for English Proficiency Tests",
+    "website": "https://www.gurully.com",
+    "categories": "AI Language Learning",
+    "slug": "gurully",
+    "created_at": "14:18:36 01/08/2026"
+  },
+  {
     "title": "Limeblock",
     "name": "Limeblock",
     "description": "AI chatbot widget for in-app navigation and actions.",
@@ -14630,6 +14639,15 @@
     "categories": "AI Agent, AI Customer Service, AI Assistant, AI Code Assistant",
     "slug": "runllm",
     "created_at": "14:14:45 07/30/2025"
+  },
+  {
+    "title": "Deepfake Maker",
+    "name": "Deepfake AI",
+    "description": "All-in-one AI tool for face swap, image editing, and image-to-video creation.",
+    "website": "https://deepfakemaker.io",
+    "categories": "AI Face Swap Generator, AI Face Swap Video, AI Photo Editor, Image to Video, AI Avatar Generator, AI Background Remover, AI Watermark Remover, AI Unblur Image, AI GIF Generator",
+    "slug": "deepfake-ai",
+    "created_at": "14:18:36 01/08/2026"
   },
   {
     "title": "Masonry AI",
@@ -17287,6 +17305,15 @@
     "created_at": "02:27:19 11/19/2025"
   },
   {
+    "title": "IMAGE CREATOR AI",
+    "name": "Img Creator AI",
+    "description": "Free AI image generator and editor using Google Gemini 2.5 Flash AI.",
+    "website": "https://imgcreatorai.io",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Photo Editor, AI Background Remover, AI Image Upscaler",
+    "slug": "img-creator-ai",
+    "created_at": "14:18:36 01/08/2026"
+  },
+  {
     "title": "MCP Showcase",
     "name": "MCP Showcase",
     "description": "Interactive platform for exploring, testing, and integrating MCP APIs.",
@@ -19238,6 +19265,15 @@
     "categories": "AI Email Assistant, Prompt, AI Content Generator, AI Creative Writing, AI Story Writing, AI Email Writer, AI Product Description Generator, Copywriting, AI Book Writing, Writing Assistants, Letter Writer, Report Writing, AI Rewriter, Paraphraser, Summarizer, AI Blog Writer, AI Script Writing, Essay Writer",
     "slug": "promptaa",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "Swiftproxy",
+    "name": "Swiftproxy",
+    "description": "High-quality residential proxies with non-expiring traffic and unlimited fast connections for global web scraping.",
+    "website": "https://www.swiftproxy.net",
+    "categories": "AI Web Scraping",
+    "slug": "swiftproxy",
+    "created_at": "14:18:36 01/08/2026"
   },
   {
     "title": "Deepsite",
