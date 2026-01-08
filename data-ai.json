@@ -4778,6 +4778,15 @@
     "created_at": "14:14:10 12/12/2025"
   },
   {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro - Free try AI Image Generator & editor",
+    "description": "Nano Banana Pro is a professional AI image generator and editor powered by Gemini Pro. Create, edit, and upscale images to 4K with high character consistency.",
+    "website": "https://nano-banana-pro.io",
+    "categories": "AI Image Generator, AI Inpainting, Image to Image, AI Unblur Image, AI Photo Restoration, AI Photo Enhancer, AI Photo Editor, AI Passport Photo, AI Image Enhancer, AI Background Generator, AI Image Combiner, AI Headshot Generator, AI Expand Image, AI Eraser, AI Crop Image, AI Background Remover, Text to Image",
+    "slug": "nano-banana-pro-free-try-ai-image-generator-editor",
+    "created_at": "02:53:25 01/08/2026"
+  },
+  {
     "title": "Nano Banana Pro API - Kie.ai",
     "name": "Nano Banana Pro API - Kie.ai",
     "description": "Generate production-quality 2K images with optional 4K output, advanced text rendering, and consistent characters using Nano Banana Pro API on Kie.ai.",
@@ -11985,6 +11994,15 @@
     "categories": "AI Knowledge Base, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Project Management, AI Code Generator",
     "slug": "packfiles-warp",
     "created_at": "14:12:35 05/06/2025"
+  },
+  {
+    "title": "Ghost Audit",
+    "name": "GhostAudit",
+    "description": "Audit Stripe accounts for ghost transactions and reduce payment fraud and revenue leakage.",
+    "website": "https://ghostaudit.io",
+    "categories": "AI For Finance, AI Detector, AI Monitor",
+    "slug": "ghostaudit",
+    "created_at": "02:53:25 01/08/2026"
   },
   {
     "title": "Whattocode",
@@ -23407,6 +23425,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Grok Bikini AI",
+    "name": "Grok Bikini",
+    "description": "AI tool to generate, customize, and visualize unique bikini and swimwear designs.",
+    "website": "https://grokbikini.ai",
+    "categories": "AI Bikini, AI Clothing Generator, AI Design Generator, Text to Image",
+    "slug": "grok-bikini",
+    "created_at": "02:53:25 01/08/2026"
+  },
+  {
     "title": "AI Detector for PPT",
     "name": "AI Detector for PPT",
     "description": "Accurate AI detector for PowerPoint presentations, checking for AI-generated content.",
@@ -28393,6 +28420,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ConceptViz",
+    "name": "ConceptViz",
+    "description": "AI tool generating accurate, classroom-ready scientific diagrams for STEM education and research.",
+    "website": "https://conceptviz.app",
+    "categories": "AI Diagram Generator, AI Illustration Generator, AI Teachers, AI Research Tool, AI Math, AI Graphic Design",
+    "slug": "conceptviz",
+    "created_at": "02:53:25 01/08/2026"
+  },
+  {
     "title": "StockBits.AI",
     "name": "StockBits.AI",
     "description": "The AI-Driven  all-in-one Trading Tools for Global Stock & Crypto Markets",
@@ -32864,6 +32900,15 @@
     "categories": "AI Recruiting, AI API, AI App Builder, AI Browsers, AI Developer Tools, AI Workflow, AI Chatbot, AI Dating Assistant",
     "slug": "hire-ai-developers-with-upstaff-com",
     "created_at": "02:44:54 08/13/2025"
+  },
+  {
+    "title": "LTX-2 AI",
+    "name": "LTX-2 AI",
+    "description": "Open-source 4K AI video model featuring native audio synchronization and local deployment.",
+    "website": "https://ltx-2ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Open Source AI Models, AI Short Video Generator, AI Commercial Generator, AI Youtube Video Maker, AI Tiktok Video Generator, AI API",
+    "slug": "ltx-2-ai",
+    "created_at": "02:53:25 01/08/2026"
   },
   {
     "title": "Sketch To",
