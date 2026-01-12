@@ -5516,6 +5516,15 @@
     "created_at": "14:17:17 12/16/2025"
   },
   {
+    "title": "IMGGen",
+    "name": "ImgGen",
+    "description": "Free AI image and video editor for editing, transforming, and generating visuals.",
+    "website": "https://www.imggen.org",
+    "categories": "AI Photo Editor, AI Image Generator, AI Video Editor, AI Video Generator, AI Art Generator, Text to Image, Image to Video, AI Background Remover, AI Watermark Remover, AI Face Swap Generator, AI Headshot Generator, AI Photo Restoration, AI Tattoo Generator",
+    "slug": "imggen",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "iOS App of AMA",
     "name": "AMA - Medical Assistant",
     "description": "An AI medical assistant for well-being.",
@@ -6864,6 +6873,15 @@
     "categories": "AI Image Generator, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler, AI Person Generator, AI Photo Editor, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration, AI Product Photography, Image to Image, Text to Image, AI Image Recognition",
     "slug": "best-nano-banana-pro",
     "created_at": "14:13:10 11/21/2025"
+  },
+  {
+    "title": "Dessix",
+    "name": "Dessix",
+    "description": "Logic-first visual AI workspace for deep creators focusing on shared human-AI alignment.",
+    "website": "https://dessix.io",
+    "categories": "AI Knowledge Management, AI Writing Assistants, AI Agent, AI Productivity Tools, AI Note Taker, AI Summarizer, AI Research Tool",
+    "slug": "dessix",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "AI KAT",
@@ -8747,6 +8765,15 @@
     "created_at": "14:12:36 08/19/2025"
   },
   {
+    "title": "Muze AI",
+    "name": "Muze AI",
+    "description": "Autonomous AI platform for creating, running, and optimizing performance ads end-to-end on Meta and Google.",
+    "website": "https://muzecmo.com",
+    "categories": "AI Ad Generator, AI Advertising, AI Ad Creative, AI Digital Marketing, Google Ads AI",
+    "slug": "muze-ai",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "Dora Studio",
     "name": "Dora Studio",
     "description": "AI Video Motion Graphics - Turn Text to Motion Video",
@@ -8988,6 +9015,15 @@
     "categories": "AI Assistant, AI Character, AI Life, AI Chatbot, AI Scheduling",
     "slug": "daymi",
     "created_at": "14:12:12 08/22/2025"
+  },
+  {
+    "title": "Destiny Matrix Karmic Tail Calculator",
+    "name": "Karmic tail calculator",
+    "description": "Free numerology calculator providing karmic tail and Destiny Matrix personal analysis.",
+    "website": "https://destiny-matrix.cc",
+    "categories": "Other",
+    "slug": "karmic-tail-calculator",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "Merlin",
@@ -12902,6 +12938,15 @@
     "categories": "AI Image Enhancer, AI Image Upscaler, AI Photo Enhancer, AI Photo Editor, AI Photo Restoration, AI Watermark Remover, AI Background Remover",
     "slug": "airbrush-ai-image-enhancer",
     "created_at": "02:46:42 12/27/2025"
+  },
+  {
+    "title": "Pane",
+    "name": "Pane",
+    "description": "AI-native spreadsheet enabling AI to edit data and formulas using natural language.",
+    "website": "https://paneapp.com",
+    "categories": "AI Spreadsheet, AI Agent, AI Assistant, AI For Data Analytics, AI Charting",
+    "slug": "pane",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "AI Bookkeeping",
@@ -21265,6 +21310,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tenki",
+    "name": "Tenki",
+    "description": "Stop betting with your gut. Tenki is an AI-powered trading engine that analyzes thousands of data points to find winning trades on Kalshi. We provide daily picks, probability estimates, and exact bet sizing to give you a mathematical edge over the market.",
+    "website": "https://trytenki.ai",
+    "categories": "AI Sports Predictions, AI Sports, AI Sports Betting",
+    "slug": "tenki-ai-sports-picks-for-kalshi-traders-nba-nfl-nhl-ncaa",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "Raphael AI",
     "name": "Raphael AI",
     "description": "Unlimited free AI image generator for high-quality image creation.",
@@ -23290,6 +23344,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Planelo",
+    "name": "Planelo",
+    "description": "Idea-first project hub with APIs for indie developers and founders.",
+    "website": "https://planelo.app",
+    "categories": "AI Project Management, AI Developer Tools, AI Workflow, AI Productivity Tools, AI Knowledge Management",
+    "slug": "planelo",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "Parseium",
     "name": "Parseium",
     "description": "AI-powered custom JSON APIs for web scraping and data extraction.",
@@ -23621,6 +23684,15 @@
     "categories": "AI Document Extraction, Translate, AI Rewriter",
     "slug": "translateair",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "AI Make Song",
+    "name": "AIMakeSong",
+    "description": "AI song generator turning text/lyrics into unique, royalty-free music instantly.",
+    "website": "https://www.aimakesong.com",
+    "categories": "AI Song Generator, AI Music Generator, AI Lyrics Generator, AI Rap Generator, AI Vocal Remover, AI Splitter, AI Instrumental Generator",
+    "slug": "aimakesong",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "ChatGPT Pulse",
@@ -24359,6 +24431,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Commercial Generator, AI Marketing, AI Advertising, AI Style Transfer",
     "slug": "kling-o1",
     "created_at": "02:43:46 12/02/2025"
+  },
+  {
+    "title": "PostSyncer",
+    "name": "PostSyncer",
+    "description": "AI social media scheduling tool offering unlimited team members and viral video generation.",
+    "website": "https://postsyncer.com",
+    "categories": "AI Social Media, AI Scheduling, AI Video Generator, AI Social Media Post Generator, AI UGC Video Generator, AI Caption Generator, AI Script Writing",
+    "slug": "postsyncer",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "Vid.AI",
@@ -26431,6 +26512,15 @@
     "created_at": "14:17:22 01/07/2026"
   },
   {
+    "title": "Wonderflow",
+    "name": "Wonderflow App",
+    "description": "AI-powered marketing planning platform for generating strategic, visual campaign flows.",
+    "website": "https://wonderflow.app",
+    "categories": "AI Marketing, AI Marketing Plan Generator, AI Assistant, AI Workflow",
+    "slug": "wonderflow-app",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "Sora Watermark Remover",
     "name": "Sora Watermark Remover-",
     "description": "Online tool to remove Sora video watermarks quickly and without quality loss.",
@@ -26474,6 +26564,15 @@
     "categories": "AI Developer Tools",
     "slug": "cubic",
     "created_at": "02:28:29 11/14/2025"
+  },
+  {
+    "title": "xPay",
+    "name": "xPay",
+    "description": "Cross-border payment, billing, and sales ops solution for global expansion.",
+    "website": "https://xpaycheckout.com",
+    "categories": "AI For Finance, AI Sales, AI Tax Assistant",
+    "slug": "xpay",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "TradeWind AI",
@@ -26654,6 +26753,15 @@
     "categories": "AI Video Generator, AI Animated Video, AI Cartoon Video Generator, AI Anime Generator, AI Voice Over, AI Story Generator, AI Youtube Video Maker",
     "slug": "videoinu",
     "created_at": "14:12:04 07/17/2025"
+  },
+  {
+    "title": "AppLaunchFlow",
+    "name": "AppLaunchFlow",
+    "description": "Automates App Store screenshots, ASO copy, and localization without design tools.",
+    "website": "https://www.applaunchflow.com",
+    "categories": "AI SEO Tools, AI Illustration Generator, AI Description Generator, AI Graphic Design, AI Translate",
+    "slug": "applaunchflow",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "Online Lebenslauf",
@@ -27961,6 +28069,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "NotebookLM Watermark Remover",
+    "name": "NotebookLM Watermark Remover",
+    "description": "AI tool to instantly and securely remove watermarks from NotebookLM PDFs.",
+    "website": "https://geminiwatermarkremover.net",
+    "categories": "AI Watermark Remover, AI PDF, Object Remover AI",
+    "slug": "notebooklm-watermark-remover",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "AI Picture Generator",
     "name": "AI Picture Generator",
     "description": "AI picture generator for text-to-image, image-to-image, and photo editing.",
@@ -28634,6 +28751,15 @@
     "categories": "AI Monitor & Report Builder, Report Writing, Resume Builder, Research Tool, AI Business Ideas Generator, AI Analytics Assistant, AI Roadmap Generator, AI Reviews Assistant, AI Social Media Assistant",
     "slug": "refinedea",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "FinEye",
+    "name": "FinEye",
+    "description": "AI-powered financial statement analysis for finance teams, offering tampering detection and faster decision-making.",
+    "website": "https://www.fineye.co",
+    "categories": "AI For Finance, AI For Data Analytics, AI API, AI Detector",
+    "slug": "fineye-financial-statement-analysis",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "Mixboard",
@@ -29329,6 +29455,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Flakes",
+    "name": "Flakes",
+    "description": "AI-native, keyboard-first macOS browser built for focused productivity.",
+    "website": "https://flakes.ai",
+    "categories": "AI Browsers, AI Assistant, AI Copilot, AI Productivity Tools",
+    "slug": "flakes",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "Floqer",
     "name": "Floqer",
     "description": "AI platform for GTM data automation, CRM enrichment, and personalized outreach.",
@@ -29651,6 +29786,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Realistic Image Generator, AI API",
     "slug": "ai-sora-2-video",
     "created_at": "02:16:29 10/02/2025"
+  },
+  {
+    "title": "SuperSEM",
+    "name": "SuperSEM Ai",
+    "description": "AI-enabled expert team providing affordable, comprehensive SEO execution, audits, content creation, and backlink building.",
+    "website": "https://supersem.ai",
+    "categories": "AI SEO Tools, AI Digital Marketing, SEO Writing AI, AI Marketing, AI Copywriting, AI Blog Generator",
+    "slug": "supersem-ai",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "wan ai video generator",
@@ -30236,6 +30380,15 @@
     "categories": "Other",
     "slug": "img2sheet",
     "created_at": "14:12:51 04/16/2025"
+  },
+  {
+    "title": "Tradeindata-Import Export Data Intelligence",
+    "name": "Tradeindata-Import Export Data Intelligence",
+    "description": "Unlock global growth with AI-powered import data and export data from 200+ countries to identify buyers, suppliers, and market trends.",
+    "website": "https://www.tradeindata.com",
+    "categories": "AI For Data Analytics, AI Lead Generation, AI Data Mining",
+    "slug": "tradeindata-import-export-data-intelligence",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "Rewrait",
@@ -32515,6 +32668,15 @@
     "created_at": "14:12:01 06/20/2025"
   },
   {
+    "title": "P402 Router | x402 Payment Infrastructure",
+    "name": "P402.io",
+    "description": "Routing control plane for reliable x402 crypto micropayments on Base, enabling paid APIs for agents.",
+    "website": "https://p402.io",
+    "categories": "AI Agent, AI Crypto, Blockchain, AI API",
+    "slug": "p402-io",
+    "created_at": "14:18:34 01/12/2026"
+  },
+  {
     "title": "Free AI Background Remover - Remover AI",
     "name": "Free AI Background Remover - Remover AI",
     "description": "AI Background Remover, Free Background Removal, Free BG Remover, Watermark Remover, Free AI Tool, Online Image Editor, AI Image Editing",
@@ -33791,6 +33953,15 @@
     "categories": "AI Script Writing, AI Story Writing, AI Content Generator, AI Social Media Assistant, AI YouTube Assistant, AI Tiktok Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Hashtag Assistant",
     "slug": "viral-you-ai",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "ReadyToRelease",
+    "name": "ReadyToRelease",
+    "description": "AI market research reports for SaaS idea validation delivered in 5 minutes.",
+    "website": "https://readytorelease.online",
+    "categories": "AI Research Tool, AI Report Generator, AI Marketing",
+    "slug": "readytorelease",
+    "created_at": "14:18:34 01/12/2026"
   },
   {
     "title": "Kill Frames",
