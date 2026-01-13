@@ -1503,6 +1503,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image Creator AI",
+    "name": "Image Creator AI",
+    "description": "Advanced AI image generator that turns text ideas into high-quality, ultra-fast visuals.",
+    "website": "https://imgcreatorai.org",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI API, Image to Image",
+    "slug": "image-creator-ai",
+    "created_at": "02:52:35 01/13/2026"
+  },
+  {
     "title": "Amsflow",
     "name": "Amsflow",
     "description": "AI-powered financial intelligence platform for smarter investment analysis and team collaboration.",
@@ -1852,6 +1861,15 @@
     "categories": "AI Baby Generator, AI Predictions, AI Image Generator, AI Realistic Image Generator",
     "slug": "baby-generator",
     "created_at": "02:21:32 10/16/2025"
+  },
+  {
+    "title": "Manex3D",
+    "name": "Manex3D",
+    "description": "High quality AI 3D model generation platform.",
+    "website": "https://manex3d.com",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D",
+    "slug": "manex3d",
+    "created_at": "02:52:35 01/13/2026"
   },
   {
     "title": "Raycast AI",
@@ -10025,6 +10043,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Conut.AI",
+    "name": "Conut.AI",
+    "description": "Conut is an AI-powered creative platform designed for content creators, artists, and builders who want to explore, iterate, and evolve AI-generated content. It brings together multiple state-of-the-art image and video models in one place, helping users move beyond simple prompting into richer creative workflows.",
+    "website": "https://conut.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Image Upscaler, AI Inpainting, Text to Image, AI Animated Video, AI Video Enhancer, Image to Video, Text to Video, Video to Video",
+    "slug": "conut-ai",
+    "created_at": "02:52:35 01/13/2026"
+  },
+  {
     "title": "Domain Crafter",
     "name": "Domain Crafter",
     "description": "AI platform for crafting unique domain names",
@@ -11553,6 +11580,15 @@
     "categories": "AI Image Generator, AI Photo Editor, AI Video Generator, Text to Image, Image to Image, AI Background Remover, AI Chatbot",
     "slug": "nano-banana-image-ai",
     "created_at": "14:12:43 09/11/2025"
+  },
+  {
+    "title": "Seedance 2",
+    "name": "Seedance 2.0 Video",
+    "description": "#1 AI video generator powered by ByteDance for lightning-fast text-to-video and image-to-video.",
+    "website": "https://www.seedance2.art",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "seedance-2-0-video",
+    "created_at": "02:52:35 01/13/2026"
   },
   {
     "title": "YourAIScroll",
@@ -17044,6 +17080,15 @@
     "created_at": "03:03:45 12/01/2025"
   },
   {
+    "title": "Square Face Generator",
+    "name": "Square Face Generator",
+    "description": "Free online avatar generator specializing in 30+ styles of professional square profile pictures.",
+    "website": "https://www.squarefacegeneratorai.app",
+    "categories": "Other",
+    "slug": "square-face-generator",
+    "created_at": "02:52:35 01/13/2026"
+  },
+  {
     "title": "Application Traffic Control",
     "name": "atccloud.net",
     "description": "AI system to control business processes",
@@ -21875,6 +21920,15 @@
     "categories": "AI Font Generator, AI Signature Generator, Text to Handwriting, AI Logo Generator",
     "slug": "refont-ai",
     "created_at": "14:13:19 08/21/2025"
+  },
+  {
+    "title": "Signal87 AI",
+    "name": "Signal87 AI",
+    "description": "AI-powered document intelligence for analysis, organization, and search of unstructured files.",
+    "website": "https://www.signal87.ai",
+    "categories": "AI Assistant, AI Document Extraction, AI Summarizer, AI Chatbot, AI Knowledge Management, AI PDF Summarizer",
+    "slug": "signal87-ai",
+    "created_at": "02:52:35 01/13/2026"
   },
   {
     "title": "Zimage",
