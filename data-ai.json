@@ -2394,6 +2394,15 @@
     "created_at": "02:47:04 07/10/2025"
   },
   {
+    "title": "Rewarx Studio - AI Product Photography & Virtual Studio",
+    "name": "Rewarx Studio - AI Product Photography & Virtual Studio",
+    "description": "RewarxStudio is a high-performance AI photography studio for products. Instantly transform raw snapshots into professional 4K commercial assets with AI lighting, cinematic video, and automated batch production for E-commerce.",
+    "website": "https://www.rewarx.com",
+    "categories": "AI Product Photography, AI Photography, AI Video Generator, AI Poster Generator, AI Commercial Generator, AI Background Remover, AI API",
+    "slug": "rewarx-studio-ai-product-photography-virtual-studio",
+    "created_at": "14:18:40 01/13/2026"
+  },
+  {
     "title": "Sparkco AI Spreadsheet Agent",
     "name": "Sparkco AI Sheets",
     "description": "AI spreadsheet agent for natural language data analysis and automation.",
@@ -8736,6 +8745,15 @@
     "categories": "AI Speech Synthesis, AI Music Generator, Text-to-Music, AI Audio Enhancer",
     "slug": "audiox",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "Design Arena",
+    "name": "Design Arena",
+    "description": "Global crowdsourced benchmark for evaluating and ranking AI design models.",
+    "website": "https://www.designarena.ai",
+    "categories": "AI Tools Directory, AI Models, AI Design Generator, AI Graphic Design",
+    "slug": "design-arena",
+    "created_at": "14:18:40 01/13/2026"
   },
   {
     "title": "Wan 2.6",
@@ -29471,6 +29489,15 @@
     "categories": "AI Grammar Checker, AI Writing Assistants, AI Paraphraser, AI Spell Check, AI Translate, AI Proofreading, AI Rewriter",
     "slug": "ai-grammar-checker-for-ios",
     "created_at": "14:12:54 06/25/2025"
+  },
+  {
+    "title": "PDF.beauty",
+    "name": "PDF.beauty",
+    "description": "AI converter specializing in turning Banana Pro image-based PDFs into fully editable PPTX.",
+    "website": "https://pdf.beauty",
+    "categories": "AI PDF, AI PPT Maker, AI API, AI Productivity Tools, AI Documents Generator",
+    "slug": "pdf-beauty",
+    "created_at": "14:18:40 01/13/2026"
   },
   {
     "title": "Brekky",
