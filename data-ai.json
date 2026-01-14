@@ -1332,6 +1332,15 @@
     "created_at": "14:13:07 11/14/2025"
   },
   {
+    "title": "GlowVideo",
+    "name": "GlowVideo",
+    "description": "Free AI generator transforming text and images into professional 4K videos.",
+    "website": "https://glowvideo.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "glowvideo",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "GemPix2.ai ：Free Google Gempix 2 For AI Image Generation & Photo Editor",
     "name": "GemPix2.ai ：Free Google Gempix 2 For AI Image Generation & Photo Editor",
     "description": "Free Gempix-2 image creation with clear text reproduction and high-resolution output.",
@@ -1672,6 +1681,15 @@
     "categories": "AI Celebrity Voice Generator, AI Speech Synthesis, AI Voice Cloning, Text-to-Speech, AI Audio Enhancer, AI Product Description Generator, AI Speech Recognition, AI Video Generator, Speech-to-Text",
     "slug": "vaanee-ai-engine",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Kutt.AI",
+    "name": "Kutt AI",
+    "description": "Professional AI studio for generating HD videos, images, and digital humans from text or photos.",
+    "website": "https://kutt.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Avatar Generator, AI Short Video Generator, AI Face Swap Video, Text to Image",
+    "slug": "kutt-ai",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "ChatBetter",
@@ -2860,6 +2878,15 @@
     "categories": "Captions or Subtitle, Summarizer, Transcription, Transcriber",
     "slug": "voxweave-youtube-video-to-mind-map",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TalkToSoul",
+    "name": "TalkToSoul",
+    "description": "Free AI personality and style tests for self-discovery and actionable growth.",
+    "website": "https://talktosoul.com",
+    "categories": "AI Testing, AI Quizzes, AI Assistant, AI Coaching",
+    "slug": "talktosoul",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "Eubrics",
@@ -4383,6 +4410,15 @@
     "created_at": "14:14:45 07/30/2025"
   },
   {
+    "title": "GLM Image",
+    "name": "GLM Image",
+    "description": "Next-Gen AI image generator with superior text rendering and hybrid architecture.",
+    "website": "https://glmimageai.ai",
+    "categories": "AI Image Generator, Text to Image, AI API, AI Poster Generator, AI Infographic Generator",
+    "slug": "glm-image",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Meloflow AI",
     "name": "Meloflow AI",
     "description": "AI music generator for royalty-free, professional music.",
@@ -5183,6 +5219,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "O/Page Website Builder",
+    "name": "O/Page Website Builder",
+    "description": "Browser-based AI IDE for generating and exporting portable HTML websites.",
+    "website": "https://o-page.com",
+    "categories": "AI Website Builder, AI Website Designer, AI Code Generator, No-Code&Low-Code",
+    "slug": "o-page-website-builder",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "NexaVoxa",
     "name": "NexaVoxa",
     "description": "AI voice agents for automated, human-like business calls, 24/7 support.",
@@ -5406,6 +5451,15 @@
     "categories": "AI Customer Service Assistant, AI Chatbot",
     "slug": "toolquix",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Baby Dance",
+    "name": "AI Baby Dance",
+    "description": "AI tool turning baby photos into viral dancing videos for social media platforms.",
+    "website": "https://aibabydance.com",
+    "categories": "AI Video Generator, Image to Video, AI Short Video Generator, AI Animated Video, AI Tiktok Video Generator, AI Reel Generator",
+    "slug": "ai-baby-dance",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "Typiq",
@@ -6875,6 +6929,15 @@
     "created_at": "02:54:34 08/18/2025"
   },
   {
+    "title": "GLM-Image",
+    "name": "GLM-image",
+    "description": "State-of-the-art open-source AI image generator excelling in text rendering and knowledge.",
+    "website": "https://glm-image.top",
+    "categories": "AI Image Generator, Text to Image, Open Source AI Models, AI Art Generator, Image to Image, AI Realistic Image Generator",
+    "slug": "glm-image-1",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Livespace.ai",
     "name": "Livespace.ai",
     "description": "AI platform for interior designers to showcase, monetize designs, and offer AI-powered room previews.",
@@ -7431,6 +7494,15 @@
     "categories": "AI Image Generator, AI Pixel Art, Text to Image, AI Poster Generator, AI Social Media Post Generator, AI Graphic Design, AI API",
     "slug": "ai-pixel-art-converter-for-wplace",
     "created_at": "14:14:05 08/13/2025"
+  },
+  {
+    "title": "Demumu",
+    "name": "Demumu",
+    "description": "Personal safety app with daily check-ins to alert loved ones if user misses confirmation.",
+    "website": "https://demumu.co",
+    "categories": "Other",
+    "slug": "demumu",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "Undetectable WTF",
@@ -9636,6 +9708,15 @@
     "categories": "Homework Helper, AI Education Assistant",
     "slug": "mathos-ai-math-solver-calculator",
     "created_at": "14:09:38 04/06/2025"
+  },
+  {
+    "title": "winlab",
+    "name": "winlab",
+    "description": "AI-powered CRO audits using synthetic A/B testing for validated, context-specific conversion insights.",
+    "website": "https://winlab.io",
+    "categories": "AI Marketing, AI Agent, AI UX Design, AI Predictions",
+    "slug": "winlab",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "Dechecker",
@@ -14128,6 +14209,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "WhatsApp wa.me with Prefilled Text",
+    "name": "WhatsApp wa.me with Prefilled Text",
+    "description": "Free generator for wa.me links with prefilled, URL-encoded text and automatic encoding.",
+    "website": "https://link.wadesk.io",
+    "categories": "Other",
+    "slug": "whatsapp-wa-me-with-prefilled-text",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Test DAL·E-3",
     "name": "Testdal",
     "description": "Test DAL·E-3 is a website to test DALL·E-3 in HD and get HD images.",
@@ -15775,6 +15865,15 @@
     "created_at": "14:18:04 08/04/2025"
   },
   {
+    "title": "GLM Image",
+    "name": "GLM-Image AI",
+    "description": "Fast, powerful AI Image Generator and Editor utilizing advanced GLM-Image diffusion technology.",
+    "website": "https://glmimage.com",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, Image to Image, AI Photo Editor, AI Realistic Image Generator",
+    "slug": "glm-image-ai",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "ChatGPT for Shop",
     "name": "ChatGPT for Shop",
     "description": "ChatGPT for Shop is a browser extension that analyzes user reviews, aiding in product selection.",
@@ -16675,6 +16774,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Alpine",
+    "name": "Alpine",
+    "description": "Unified workspace combining docs, tasks, chat, and AI to eliminate context switching.",
+    "website": "https://www.alpine.inc",
+    "categories": "AI Productivity Tools, AI Task Management, AI Knowledge Management, AI Assistant, AI Agent",
+    "slug": "alpine",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Doggo Eats",
     "name": "Doggo Eats",
     "description": "AI-powered app for dog nutrition, food scanning, and custom recipes.",
@@ -16916,6 +17024,15 @@
     "categories": "AI Agent, AI Avatar Video Generator, AI API, AI Video Generator",
     "slug": "trugen-ai",
     "created_at": "14:15:27 12/09/2025"
+  },
+  {
+    "title": "Agent Skills Marketplace (SkillsMP)",
+    "name": "Agent Skills Marketplace",
+    "description": "A marketplace for finding and exploring open-source AI agent skills.",
+    "website": "https://skillsmp.com",
+    "categories": "AI Tools Directory, AI Agent, AI Developer Tools, AI Code Assistant",
+    "slug": "agent-skills-marketplace",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "Nayla",
@@ -22210,6 +22327,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Blooio",
+    "name": "Blooio",
+    "description": "Scalable iMessage API for CRM integration with typing indicators, RCS fallback, and risk management.",
+    "website": "https://blooio.com",
+    "categories": "AI CRM, AI Sales, AI Sales Assistant, AI Customer Service, AI Voice Cloning",
+    "slug": "blooio",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "ChatGPT Watermark Remover",
     "name": "ChatGPT Watermark Remover",
     "description": "Free online tool to detect and remove invisible AI watermarks from text.",
@@ -23245,6 +23371,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "RoomX AI",
+    "name": "RoomX AI",
+    "description": "AI virtual staging software for real estate agents to transform listings instantly.",
+    "website": "https://roomxai.com",
+    "categories": "AI Real Estate, AI Interior Design, AI Room Planner, AI Video Generator",
+    "slug": "roomx-ai",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Trade Foresight",
     "name": "Trade Foresight",
     "description": "Platform offering analytics, AI, and data-driven insights for successful international trade.",
@@ -23776,6 +23911,15 @@
     "created_at": "14:10:41 09/26/2025"
   },
   {
+    "title": "EmailVerify",
+    "name": "EmailVerify AI",
+    "description": "Enterprise-grade email verification service with 99.9% accuracy to boost deliverability.",
+    "website": "https://emailverify.ai",
+    "categories": "AI Checker, AI Email Marketing, AI Sales",
+    "slug": "emailverify-ai",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "SAM 3D – Image to 3D Online",
     "name": "SAM 3D – Image to 3D Online",
     "description": "High-quality image to 3D model conversion for objects and human bodies.",
@@ -24170,6 +24314,15 @@
     "categories": "AI Files, AI Assistant, AI Productivity Tools, AI Search Engine, AI Chatbot",
     "slug": "dynbox-app",
     "created_at": "14:13:09 06/23/2025"
+  },
+  {
+    "title": "AIPrep",
+    "name": "AIPREP",
+    "description": "AI tutor generates animated educational videos from text or images in 30 seconds.",
+    "website": "https://aiprep.in",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animated Video, AI Homework Helper",
+    "slug": "aiprep-ai-video-tutor",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "BrandStori",
@@ -24782,6 +24935,15 @@
     "categories": "AI Customer Service Assistant, AI CRM Assistant, AI Lead Generation, AI Team Collaboration, AI Content Generator, Sales Assistant, Writing Assistants, AI Voice Assistants, AI Productivity Tools, AI Recruiting",
     "slug": "callhippo",
     "created_at": "02:19:38 04/12/2025"
+  },
+  {
+    "title": "a_OCR - APARATUS",
+    "name": "aOCR",
+    "description": "AI-powered OCR converts unstructured documents into structured, accurate data ready for workflows.",
+    "website": "https://www.aocr.in",
+    "categories": "AI OCR, AI Document Extraction, AI API, AI Agent",
+    "slug": "aocr",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "Clever AI Humanizer",
@@ -29455,6 +29617,15 @@
     "created_at": "14:12:57 05/15/2025"
   },
   {
+    "title": "AI FIRST",
+    "name": "AI FIRST",
+    "description": "The ecosystem to build, hire, and monetize autonomous AI agents that execute real work.",
+    "website": "https://aifirst.app",
+    "categories": "AI Agent, AI Assistant, AI Workflow, No-Code&Low-Code, AI Web Scraping, AI Productivity Tools",
+    "slug": "ai-first",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Tagshop AI",
     "name": "Tagshop AI",
     "description": "AI UGC video generator for ads",
@@ -29950,6 +30121,15 @@
     "created_at": "14:13:00 11/05/2025"
   },
   {
+    "title": "playmix.ai",
+    "name": "playmix.ai",
+    "description": "AI Game Maker that generates playable games, 2D/3D art, and animated sprites in seconds.",
+    "website": "https://playmix.ai",
+    "categories": "AI Game Generator, AI Art Generator, AI Animation Generator, AI Games",
+    "slug": "playmix-ai",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Notehub.ai",
     "name": "Notehub.ai",
     "description": "Easily share Jupyter notebooks.",
@@ -30218,6 +30398,15 @@
     "categories": "AI SEO Assistant, AI Social Media Assistant, AI Document Extraction, Research Tool, No-Code&Low-Code, Web Scraping",
     "slug": "gumloop",
     "created_at": "02:22:12 04/08/2025"
+  },
+  {
+    "title": "Surfn",
+    "name": "Surfn AI",
+    "description": "No-code platform to build conversational AI agents that drive leads and conversions.",
+    "website": "https://surfn.ai",
+    "categories": "AI Agent, AI Chatbot, No-Code&Low-Code, AI Lead Generation, AI Landing Page Builder, AI Sales Assistant, AI Customer Service",
+    "slug": "surfn-ai",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "ai sdk agents",
@@ -32299,6 +32488,15 @@
     "created_at": "14:11:07 11/15/2025"
   },
   {
+    "title": "GLM Image",
+    "name": "GLM Image Generator & Editor",
+    "description": "Next-gen AI platform for high-fidelity image generation, editing, and style transfer.",
+    "website": "https://glmimage.live",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Face Swap Generator",
+    "slug": "glm-image-generator-editor",
+    "created_at": "14:19:12 01/14/2026"
+  },
+  {
     "title": "Nine Star Ki Mystical Astrology",
     "name": "Nine Star Ki Mystical Astrology",
     "description": "Nine Star Ki AI blends Japanese astrology with modern AI. Based on your birth date, it creates a personalized chart and offers insights into personality, relationships, and future opportunities—ancient wisdom made simple and instant.",
@@ -33521,6 +33719,15 @@
     "categories": "AI Image Generator, Text to Image, AI Photo Editor",
     "slug": "qwen-image",
     "created_at": "03:00:39 08/05/2025"
+  },
+  {
+    "title": "Nuwa",
+    "name": "Nuwa",
+    "description": "World’s first Real World Social (RWS) Scanner for human identification via face or text search.",
+    "website": "https://nuwa.world",
+    "categories": "AI Face Recognition, AI Scanner, AI Search Engine, AI Image Scanning, AI Image Recognition",
+    "slug": "nuwa",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "SocioSim",
@@ -34826,6 +35033,15 @@
     "categories": "AI Workflow Management",
     "slug": "stellr",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "2-b.ai",
+    "name": "2-b.ai",
+    "description": "AI-powered browser extension combining a task manager with an LLM for instant task capture and execution.",
+    "website": "https://2-b.ai",
+    "categories": "AI Task Management, AI Productivity Tools, AI Assistant, AI Chatbot",
+    "slug": "2-b-ai",
+    "created_at": "14:19:12 01/14/2026"
   },
   {
     "title": "Offline Chat",
