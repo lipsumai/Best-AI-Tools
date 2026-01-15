@@ -747,6 +747,15 @@
     "created_at": "14:12:58 11/20/2025"
   },
   {
+    "title": "TeeDIY",
+    "name": "TeeDIY",
+    "description": "Easy, free AI tool to design custom apparel and t-shirts, paying only upon order.",
+    "website": "https://teediy.com",
+    "categories": "AI T Shirt Design, AI Design Generator, AI Image Generator, Text to Image, AI Clothing Generator, AI Background Remover",
+    "slug": "teediy",
+    "created_at": "14:18:15 01/15/2026"
+  },
+  {
     "title": "Designly AI",
     "name": "Designly AI",
     "description": "AI webdesign idea generator",
@@ -24881,6 +24890,15 @@
     "categories": "AI Accounting, AI Tax Assistant, AI For Finance, AI Report Generator",
     "slug": "tabby-ai-bookkeeper",
     "created_at": "14:14:45 07/30/2025"
+  },
+  {
+    "title": "PixaryAI",
+    "name": "PixaryAI",
+    "description": "AI tool for hyper-realistic virtual clothes try-on, outfit swaps, and photo dress changing.",
+    "website": "https://www.pixaryai.com",
+    "categories": "AI Clothing Generator, AI Outfit Generator, AI Photo Editor, Fashion AI",
+    "slug": "pixaryai",
+    "created_at": "14:18:15 01/15/2026"
   },
   {
     "title": "Sieve",
