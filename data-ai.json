@@ -10889,6 +10889,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Crevid AI",
+    "name": "Crevid AI",
+    "description": "An affordable all-in-one AI platform for generating videos and images from text or images.",
+    "website": "https://crevid.ai",
+    "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Song Generator, AI Voice Cloning, AI Social Media Post Generator, AI Avatar Video Generator, AI Cartoon Video Generator, AI Short Video Generator, Image to Video, Text to Video, Video to Video, AI Marketing",
+    "slug": "crevid-ai",
+    "created_at": "02:54:17 01/15/2026"
+  },
+  {
     "title": "Instories",
     "name": "Instories",
     "description": "AI-powered tool for creating animated stories, videos, and social media content.",
@@ -22651,6 +22660,15 @@
     "created_at": "14:08:51 09/13/2025"
   },
   {
+    "title": "Ask Weather",
+    "name": "Ask Weather",
+    "description": "AskWeather is an ad-free, high-density weather dashboard with a built-in AI planning agent. Instead of scrolling through ads, you can chat with your weather data to get smart packing lists, travel advice, and outage updates instantly.",
+    "website": "https://askweather.ai",
+    "categories": "AI Travel, AI Parenting, AI Trip Planner, AI Research Tool, Other",
+    "slug": "ask-weather",
+    "created_at": "02:54:17 01/15/2026"
+  },
+  {
     "title": "AskNova Astrocartography",
     "name": "AskNova Astrocartography",
     "description": "Astrocartography.io (by AskNova) turns your birth details into an interactive world map of planetary lines, with clear explanations and relocation charts to show how a place might feel for career, love, or life in general.",
@@ -30848,6 +30866,15 @@
     "categories": "AI Selfie & Portrait",
     "slug": "face-shape-detector",
     "created_at": "02:43:20 05/19/2025"
+  },
+  {
+    "title": "AnyToURL",
+    "name": "AnyToURL",
+    "description": "Instantly turn any file (image, PDF, video) into a shareable URL via global CDN.",
+    "website": "https://anytourl.com",
+    "categories": "Other",
+    "slug": "anytourl",
+    "created_at": "02:54:17 01/15/2026"
   },
   {
     "title": "Waldo Labs | Automating Hiring for Companies",
