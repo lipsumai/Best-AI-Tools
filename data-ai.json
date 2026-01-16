@@ -8315,6 +8315,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VFast AI",
+    "name": "VFast AI",
+    "description": "All-in-one generative AI platform for image and video creation and editing.",
+    "website": "https://vfast.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Video Editor, Text to Image, AI Photo Editor",
+    "slug": "vfast-ai",
+    "created_at": "14:17:13 01/16/2026"
+  },
+  {
     "title": "Reelit",
     "name": "Reelit",
     "description": "Instant marketing insights from sales calls.",
@@ -32144,6 +32153,15 @@
     "categories": "AI Photo Editor, AI Background Remover, AI Photo Enhancer, AI Background Generator, AI Watermark Remover, AI Image Upscaler, Object Remover AI, AI Expand Image",
     "slug": "pxbee",
     "created_at": "14:12:02 05/27/2025"
+  },
+  {
+    "title": "Z Image Turbo",
+    "name": "Z Image Turbo",
+    "description": "Ultra-fast AI image generator producing photorealistic results with bilingual support.",
+    "website": "https://zimageturbo.app",
+    "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, AI Art Generator",
+    "slug": "z-image-turbo-1",
+    "created_at": "14:17:13 01/16/2026"
   },
   {
     "title": "Talkzy",
