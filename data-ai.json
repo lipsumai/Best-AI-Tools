@@ -4104,6 +4104,15 @@
     "created_at": "14:12:43 09/11/2025"
   },
   {
+    "title": "CiteTrue",
+    "name": "CiteTrue",
+    "description": "CiteTrue is an AI-powered citation verification tool that helps researchers and students ensure their citations are authentic and accurate. CiteTrue is completely free to use. We search through vast authoritative academic databases to verify citations and flag any that appear to be fake or AI-generated.",
+    "website": "https://citetrue.com",
+    "categories": "AI Checker, AI Content Detector, AI Detector, AI Papers, AI Research Tool",
+    "slug": "citetrue",
+    "created_at": "02:55:29 01/16/2026"
+  },
+  {
     "title": "Picmojo",
     "name": "Picmojo",
     "description": "Transform ordinary photos into professional headshots.",
@@ -4821,6 +4830,15 @@
     "categories": "AI Reply Assistant, AI Response Generator, AI Content Generator, AI Dating Assistant",
     "slug": "reconnectex-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Fizzly AI",
+    "name": "Fizzly AI",
+    "description": "Professional AI studio for generating images, videos, and custom characters.",
+    "website": "https://fizzly.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Character, AI Photo Editor, AI Face Swap Generator, AI Image Upscaler, AI Hairstyle",
+    "slug": "fizzly-ai",
+    "created_at": "02:55:29 01/16/2026"
   },
   {
     "title": "Earmark",
@@ -14578,6 +14596,15 @@
     "created_at": "02:54:15 01/02/2026"
   },
   {
+    "title": "AI PDF Summarizer",
+    "name": "AI Pdf Summarizer",
+    "description": "Free AI tool for instant PDF summarization and chatting with document content.",
+    "website": "https://3pattilucky.org",
+    "categories": "AI PDF Summarizer, AI Summarizer, AI PDF, AI Chatbot",
+    "slug": "ai-pdf-summarizer",
+    "created_at": "02:55:29 01/16/2026"
+  },
+  {
     "title": "Reaidy.io",
     "name": "Reaidy.io",
     "description": "AI-powered job search assistant for faster, more effective hiring.",
@@ -19346,6 +19373,15 @@
     "categories": "AI Video Recording, Text to Video, AI Video Generator, AI Content Generator",
     "slug": "sand-ai",
     "created_at": "14:11:12 04/24/2025"
+  },
+  {
+    "title": "GLM-Image",
+    "name": "GLM-Image-1",
+    "description": "AI image editing platform using text prompts for professional photo transformations.",
+    "website": "https://glm-image.pro",
+    "categories": "AI Photo Editor, AI Image Enhancer, Image to Image, AI Background Remover, AI Background Generator, AI Product Photography, Object Remover AI",
+    "slug": "glm-image-1-1",
+    "created_at": "02:55:29 01/16/2026"
   },
   {
     "title": "Emblify",
@@ -24629,6 +24665,15 @@
     "categories": "AI Lead Generation",
     "slug": "leadhunt-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "CopilotHub",
+    "name": "CopilotHub",
+    "description": "CopilotHub is a curated directory of AI prompts, agents, tools, and MCP servers for GitHub Copilot. Discover community-driven resources to enhance your AI-powered development workflow.",
+    "website": "https://copilothub.directory",
+    "categories": "AI Developer Tools, Prompt Engineering, AI Code Assistant, AI Agent, AI Copilot, AI Tools Directory, Large Language Models (LLMs)",
+    "slug": "copilothub",
+    "created_at": "02:55:29 01/16/2026"
   },
   {
     "title": "Webjourney",
