@@ -31876,6 +31876,15 @@
     "created_at": "02:21:32 10/16/2025"
   },
   {
+    "title": "GLM-Image",
+    "name": "GLM-Image-pro",
+    "description": "GLM-Image brings you the most advanced AI image generator powered by GLM Image technology.",
+    "website": "https://glmimage.pro",
+    "categories": "AI Image Generator, AI Background Generator, AI Background Remover, AI Headshot Generator, AI Image Combiner, AI Passport Photo, AI Photo Restoration, AI Profile Picture Generator, AI Realistic Image Generator, Image to Image, Text to Image, Image to Video, Text to Video, Video to Video",
+    "slug": "glm-image-pro",
+    "created_at": "02:46:36 01/17/2026"
+  },
+  {
     "title": "S02AI",
     "name": "S02AI",
     "description": "AI video generator powered by Sora2 for high-quality videos with audio.",
