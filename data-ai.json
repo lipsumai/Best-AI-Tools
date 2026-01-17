@@ -1503,6 +1503,15 @@
     "created_at": "02:26:03 04/24/2025"
   },
   {
+    "title": "Veo 3.1 AI Video Generator",
+    "name": "Veo 3.1.io",
+    "description": "Google Veo 3.1 powered AI platform for cinematic video generation.",
+    "website": "https://veo-3-1.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Marketing, AI Advertising, AI Social Media",
+    "slug": "veo-3-1-io",
+    "created_at": "14:12:44 01/17/2026"
+  },
+  {
     "title": "Nano Banana Pro",
     "name": "Nano Banana - Revolutionary AI Image Model | Free Nano Banana Pro",
     "description": "AI text-to-image model with advanced editing.",
@@ -13759,6 +13768,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "NoteitHub",
+    "name": "Noteithub",
+    "description": "Turns ChatGPT conversations into organized, trackable to-do lists, journals, and reminders.",
+    "website": "https://noteithub.com",
+    "categories": "AI Task Management, AI Productivity Tools, AI Note Taker, AI Summarizer",
+    "slug": "noteithub",
+    "created_at": "14:12:44 01/17/2026"
+  },
+  {
     "title": "Runway Aleph",
     "name": "Runway Aleph",
     "description": "AI-powered video editor for multi-task video manipulation using natural language.",
@@ -15143,6 +15161,15 @@
     "categories": "AI Art Generator",
     "slug": "local-art",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Flux 2 klein AI Image Generator | Flux2 Klein AI",
+    "name": "Flux2 Klein",
+    "description": "Sub-second, photorealistic AI image generator with unified editing and open-source options.",
+    "website": "https://flux2klein.ai",
+    "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, Open Source AI Models, AI Photo Editor",
+    "slug": "flux2-klein",
+    "created_at": "14:12:44 01/17/2026"
   },
   {
     "title": "CrawlChat",
@@ -18176,6 +18203,15 @@
     "categories": "AI Browsers, AI Productivity Tools, AI Assistant, AI Research Tool, AI Summarizer",
     "slug": "pola-browser",
     "created_at": "14:10:08 09/24/2025"
+  },
+  {
+    "title": "workspeak",
+    "name": "workspeak",
+    "description": "WorkSpeak AI Assistant.Enhance your workplace communication skills with AI as your career coach",
+    "website": "https://workspeak.online",
+    "categories": "AI Paraphraser, AI Dialogue Generator",
+    "slug": "workspeak",
+    "created_at": "14:12:44 01/17/2026"
   },
   {
     "title": "DocDocsAI",
@@ -29356,6 +29392,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tea checker",
+    "name": "Tea checker",
+    "description": "Discreet, verified lookup service for the anonymous Tea dating feedback app.",
+    "website": "https://teachecker.net",
+    "categories": "AI Checker, AI Dating Assistant",
+    "slug": "tea-checker",
+    "created_at": "14:12:44 01/17/2026"
+  },
+  {
     "title": "BookLed",
     "name": "BookLed",
     "description": "Paper book with generative AI for interactive storytelling",
@@ -34360,6 +34405,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "AI Subtitle Translator",
+    "name": "AI Subtitle Translator",
+    "description": "AI tool for translating subtitle files into over 50 languages efficiently.",
+    "website": "https://aisubtitletranslator.com",
+    "categories": "AI Translate, AI Video Translator, AI Subtitle Generator, AI Writing",
+    "slug": "ai-subtitle-translator",
+    "created_at": "14:12:44 01/17/2026"
+  },
+  {
     "title": "ReadyToRelease",
     "name": "ReadyToRelease",
     "description": "AI market research reports for SaaS idea validation delivered in 5 minutes.",
@@ -34754,6 +34808,15 @@
     "categories": "Other",
     "slug": "gistreader",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TruVerifAI",
+    "name": "TruVerifAI",
+    "description": "TruVerifAI is a multi-model intelligence platform that queries four AI models simultaneously—one each from OpenAI, Anthropic, Google, and xAI—to deliver complete, verified responses from multiple model perspectives. The platform directly addresses the persistent problems of model blind spots and hallucinations by aggregating responses across models, surfacing areas of agreement and divergence, and verifying claims through web search and cross-model analysis.",
+    "website": "https://truverif.ai",
+    "categories": "AI Workflow, AI Reply, AI Consulting",
+    "slug": "truverifai",
+    "created_at": "14:12:44 01/17/2026"
   },
   {
     "title": "reeyee",
