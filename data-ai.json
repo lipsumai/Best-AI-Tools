@@ -1080,6 +1080,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Xian Chou - AI Video Open Source Community",
+    "name": "Xian Chou - AI Video Open Source Community",
+    "description": "Open-source community for AI video creation, sharing, learning, and replicating popular videos.",
+    "website": "https://xianchou.com",
+    "categories": "AI Video Generator, AI Video Editor, AI Short Video Generator, Open Source AI Models",
+    "slug": "xian-chou-ai-video-open-source-community",
+    "created_at": "14:12:20 01/18/2026"
+  },
+  {
     "title": "StoryShort AI",
     "name": "StoryShort AI",
     "description": "AI video creator for viral content on TikTok and YouTube.",
@@ -30974,6 +30983,15 @@
     "categories": "AI SEO Assistant, AI Website Designer, Translate, AI Website Builder",
     "slug": "gtranslate",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Banana AI",
+    "name": "Banana AI",
+    "description": "AI image generator and editor powered by Google Nano Banana technology.",
+    "website": "https://bananaai.studio",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Headshot Generator, AI Background Remover, AI Photo Restoration, AI Image Enhancer, AI Inpainting, AI Outpainting, AI Style Transfer, AI Watermark Remover",
+    "slug": "banana-ai",
+    "created_at": "14:12:20 01/18/2026"
   },
   {
     "title": "Face Shape Detector",
