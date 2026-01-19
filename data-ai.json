@@ -4320,6 +4320,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "Lynote",
+    "name": "Lynote",
+    "description": "Lynote is an all-in-one AI learning platform that checks originality with an AI detector,youtube transcript —more powerful  features coming.",
+    "website": "https://www.lynote.ai",
+    "categories": "AI Detector, AI Transcription",
+    "slug": "lynote",
+    "created_at": "14:20:05 01/19/2026"
+  },
+  {
     "title": "Winter Comics",
     "name": "Winter Comics",
     "description": "AI platform for creating consistent comics, characters, and animations.",
@@ -4660,6 +4669,15 @@
     "categories": "Whiteboard AI, AI Image Generator, AI Video Generator, AI Art Generator, AI Workflow",
     "slug": "graphis",
     "created_at": "14:12:59 11/13/2025"
+  },
+  {
+    "title": "Studioify",
+    "name": "Studioify",
+    "description": "Turn ordinary clothing photos into professional studio-quality images in seconds with AI.",
+    "website": "https://getstudioify.com",
+    "categories": "AI Product Photography, AI Avatar Generator, AI Background Generator, AI Background Remover, AI Photo Editor, AI Style Transfer",
+    "slug": "studioify",
+    "created_at": "14:20:05 01/19/2026"
   },
   {
     "title": "Uplodio",
@@ -8639,6 +8657,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nano Banana AI",
+    "name": "Nano Banana - Advanced AI Image Generate & Edit",
+    "description": "Advanced AI platform for high-quality image generation and editing using Gemini models.",
+    "website": "https://banana-nano.org",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Style Transfer, AI Background Generator",
+    "slug": "nano-banana-advanced-ai-image-generate-edit",
+    "created_at": "14:20:05 01/19/2026"
+  },
+  {
     "title": "Codewiki",
     "name": "Codewiki",
     "description": "Intelligence hub tracking Google's AI-powered Code Wiki and related entities.",
@@ -11247,6 +11274,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, Translate, E-commerce Assistant, Photo & Image Editor, AI Product Description Generator, Copywriting, Writing Assistants, Captions or Subtitle, AI Content Generator",
     "slug": "ai-image-translator-for-ecom-image",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Vonvo",
+    "name": "Vonvo",
+    "description": "Vonvo is an AI sales training platform for SDRs and sales reps, improving cold calling and meetings with AI role-play, call scoring, team training and hiring assessments.",
+    "website": "https://vonvo.ai",
+    "categories": "AI Sales Assistant, AI Sales",
+    "slug": "vonvo",
+    "created_at": "14:20:05 01/19/2026"
   },
   {
     "title": "Rebolt",
