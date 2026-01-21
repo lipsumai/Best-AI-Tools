@@ -12814,6 +12814,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "Drumics",
+    "name": "Drumics",
+    "description": "AI Music Generator creating studio-quality, royalty-free tracks instantly.",
+    "website": "https://drumics.com",
+    "categories": "AI Music Generator, AI Beat Generator, AI Song Generator, AI Rap Generator, AI Instrumental Generator",
+    "slug": "drumics",
+    "created_at": "14:22:24 01/21/2026"
+  },
+  {
     "title": "Open Lovable",
     "name": "Open Lovable",
     "description": "Free open-source AI tool transforming websites into React/Next.js apps.",
@@ -14666,6 +14675,15 @@
     "categories": "AI Drawing, AI Sketch Generator, AI Art Generator, Image to Image, AI Painting Generator",
     "slug": "picture-to-drawing",
     "created_at": "14:12:53 09/03/2025"
+  },
+  {
+    "title": "Moldable",
+    "name": "Moldable",
+    "description": "AI app generator for building and evolving custom, privacy-focused, local-first desktop software.",
+    "website": "https://moldable.sh",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Assistant, AI Productivity Tools",
+    "slug": "moldable",
+    "created_at": "14:22:24 01/21/2026"
   },
   {
     "title": "Travelwiz",
@@ -22865,6 +22883,15 @@
     "categories": "AI Music Video Generator, AI Video Generator, AI Animation Generator, Text to Video, Image to Video, AI Video Editor",
     "slug": "ai-music-video-generator",
     "created_at": "14:08:51 09/13/2025"
+  },
+  {
+    "title": "Interactpitch",
+    "name": "Interactpitch",
+    "description": "AI platform turning pitch decks into interactive experiences with real-time investor insights.",
+    "website": "https://interactpitch.ai",
+    "categories": "AI Pitch Deck Generator, AI Presentation Generator, AI Sales Assistant, AI Assistant",
+    "slug": "interactpitch",
+    "created_at": "14:22:24 01/21/2026"
   },
   {
     "title": "Ask Weather",
