@@ -4383,6 +4383,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ContentPod",
+    "name": "ContentPod",
+    "description": "AI platform transforming voice interviews into 8+ content pieces including blogs, images, and video.",
+    "website": "https://www.contentpod.co",
+    "categories": "AI Writing Assistants, AI Blog Generator, AI Social Media Post Generator, AI Video Generator, AI Image Generator, AI SEO Tools, AI Infographic Generator",
+    "slug": "contentpod",
+    "created_at": "02:55:29 01/21/2026"
+  },
+  {
     "title": "Newt",
     "name": "Newt",
     "description": "A comprehensive platform for reading, writing, and listening to stories.",
@@ -18131,6 +18140,15 @@
     "categories": "AI Real Estate, AI Image Generator, AI Photo Editor, AI Design Generator, AI Interior Design",
     "slug": "ai-virtual-staging",
     "created_at": "02:53:42 07/22/2025"
+  },
+  {
+    "title": "SaaSQuiver",
+    "name": "SaasQuiver",
+    "description": "Validate SaaS ideas instantly with competitor analysis, SWOT, and keyword research from one prompt.",
+    "website": "https://www.saasquiver.com",
+    "categories": "AI Marketing, AI SEO Tools, AI Research Tool, AI Productivity Tools, AI Business Ideas Generator",
+    "slug": "saasquiver",
+    "created_at": "02:55:29 01/21/2026"
   },
   {
     "title": "Sonura",
