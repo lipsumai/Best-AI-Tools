@@ -13993,6 +13993,15 @@
     "created_at": "02:22:28 08/27/2025"
   },
   {
+    "title": "Airbnb Genie AI",
+    "name": "Airbnb Genie AI",
+    "description": "Reply faster. Rank higher. Book more. Make more money from your Airbnb listings.",
+    "website": "https://www.enquirygenie.ai",
+    "categories": "AI Productivity Tools, AI SEO Tools, AI Email Assistant",
+    "slug": "airbnb-genie-ai",
+    "created_at": "03:00:56 01/22/2026"
+  },
+  {
     "title": "Spinach AI",
     "name": "Spinach AI",
     "description": "AI assistant for meetings that summarizes and automates tasks.",
@@ -21128,6 +21137,15 @@
     "categories": "AI Meeting Assistant, Large Language Models (LLMs), Translate",
     "slug": "mo",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "Birthday Invitation AI",
+    "name": "Birthday Invitation AI",
+    "description": "AI-Powered Birthday Invitation Generator with Online RSVP, Any Theme Made in 1 Minute.",
+    "website": "https://birthdayinvitation.ai",
+    "categories": "AI Image Generator, AI Image Combiner, AI Unblur Image, Text to Image, AI Art Generator, AI Design Assistant",
+    "slug": "birthday-invitation-ai",
+    "created_at": "03:00:56 01/22/2026"
   },
   {
     "title": "Nifty",
