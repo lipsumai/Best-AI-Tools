@@ -6956,6 +6956,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Blink AI App Builder",
+    "name": "Blink.new",
+    "description": "Full-stack AI app builder creating production-ready websites and apps using natural language.",
+    "website": "https://blink.new",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Agent",
+    "slug": "blink-new",
+    "created_at": "14:24:02 01/22/2026"
+  },
+  {
     "title": "Nano Banana",
     "name": "AI Banana - Advanced Gemini 2.5 Flash Image Editor - Free to Use",
     "description": "AI image editor powered by Gemini 2.5 Flash for fast, consistent editing.",
@@ -17773,6 +17782,15 @@
     "created_at": "02:27:19 11/19/2025"
   },
   {
+    "title": "Pencil",
+    "name": "Pencil – Design on canvas. Land in code.",
+    "description": "Agent-driven design canvas integrated into your IDE for speed and pixel-perfect code alignment.",
+    "website": "https://www.pencil.dev",
+    "categories": "AI Developer Tools, AI Code Generator, AI Design Generator, AI Design Assistant, AI UX Design",
+    "slug": "pencil-design-on-canvas-land-in-code",
+    "created_at": "14:24:02 01/22/2026"
+  },
+  {
     "title": "IMAGE CREATOR AI",
     "name": "Img Creator AI",
     "description": "Free AI image generator and editor using Google Gemini 2.5 Flash AI.",
@@ -18610,6 +18628,15 @@
     "created_at": "14:13:23 08/12/2025"
   },
   {
+    "title": "Fimo",
+    "name": "Fimo",
+    "description": "AI builder for motion-first multi-page websites with collaborative editing and CMS.",
+    "website": "https://fimo.ai",
+    "categories": "AI Website Builder, AI Website Designer, AI Landing Page Builder",
+    "slug": "fimo",
+    "created_at": "14:24:02 01/22/2026"
+  },
+  {
     "title": "Dynal.AI",
     "name": "Dynal.AI",
     "description": "AI agent for generating high-quality LinkedIn posts from diverse content.",
@@ -19085,6 +19112,15 @@
     "categories": "AI Code Assistant, AI Agent, AI Code Generator, AI Developer Tools",
     "slug": "cto-new",
     "created_at": "02:28:29 11/14/2025"
+  },
+  {
+    "title": "Veo 3",
+    "name": "Veo 3 AI",
+    "description": "Veo 3 is an advanced AI video generation model developed by Google that transforms text or images into high-quality videos with realistic motion and synchronized audio. Create stunning AI videos. Start for free.",
+    "website": "https://veo3-ai.io",
+    "categories": "AI Video Generator, Image to Video, Text to Video",
+    "slug": "veo-3-ai-generate-veo-3-ai-video-with-realistic-sound",
+    "created_at": "14:24:02 01/22/2026"
   },
   {
     "title": "Nano Banana Pro",
@@ -33352,6 +33388,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ForVibeApp",
+    "name": "Forvibe",
+    "description": "An AI-powered launch stack for mobile developers to automate ASO, localization, legal, and store publishing.",
+    "website": "https://www.forvibe.app",
+    "categories": "AI Developer Tools, AI Landing Page Builder, AI Customer Service, AI Documents Generator, AI Translate",
+    "slug": "forvibe",
+    "created_at": "14:24:02 01/22/2026"
+  },
+  {
     "title": "MediaGPT AI",
     "name": "MediaGPT AI",
     "description": "Ultimate Next‑Generation Video Creation Platform：no filter, One-click generation, image-to-video, text-to-video, all mainstream models, popular effects, popular templates",
@@ -34657,6 +34702,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AnimeAI",
+    "name": "AnimeAI-",
+    "description": "Advanced AI tool generating high-fidelity anime art, characters, and illustrations from text or images.",
+    "website": "https://genanime.art",
+    "categories": "AI Anime Generator, AI Art Generator, AI Image Generator, AI Anime Art, AI Waifu Generator, Text to Image, Image to Image",
+    "slug": "animeai-1",
+    "created_at": "14:24:02 01/22/2026"
+  },
+  {
     "title": "Convoso",
     "name": "Convoso",
     "description": "Innovating contact center solutions since 2006",
@@ -35555,6 +35609,15 @@
     "categories": "AI Chatbot, AI Reply Assistant, Large Language Models (LLMs), No-Code&Low-Code",
     "slug": "m1-chat-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "APIPASS API Marketplace",
+    "name": "APIPASS API Marketplace",
+    "description": "AI API marketplace for discovering and integrating powerful AI tools.",
+    "website": "https://apipass.dev",
+    "categories": "AI API, AI Developer Tools, AI Tools Directory",
+    "slug": "apipass-api-marketplace",
+    "created_at": "14:24:02 01/22/2026"
   },
   {
     "title": "AI ASMR",
