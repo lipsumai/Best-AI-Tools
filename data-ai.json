@@ -9764,6 +9764,15 @@
     "created_at": "14:46:22 04/01/2025"
   },
   {
+    "title": "ArchRender",
+    "name": "ArchRender",
+    "description": "Photorealistic AI rendering tool for architects and designers to create visuals quickly.",
+    "website": "https://archrender.ai",
+    "categories": "AI Realistic Image Generator, AI Interior Design, AI Design Generator, AI Image Upscaler",
+    "slug": "archrender",
+    "created_at": "14:21:04 01/23/2026"
+  },
+  {
     "title": "BestFaceSwap AI",
     "name": "BestFaceSwap AI",
     "description": "AI face swap platform for videos and photos.",
@@ -11436,6 +11445,15 @@
     "categories": "AI Presentation Generator, AI Design Generator, AI Assistant",
     "slug": "prezi",
     "created_at": "02:39:04 05/29/2025"
+  },
+  {
+    "title": "Genve AI",
+    "name": "Genve AI",
+    "description": "AI video translator and dubber with natural lip-sync for global content scaling.",
+    "website": "https://www.genve.ai",
+    "categories": "AI Video Translator, AI Dubbing, AI Lip Sync Generator, AI Voice Cloning",
+    "slug": "genve-ai",
+    "created_at": "14:21:04 01/23/2026"
   },
   {
     "title": "Paraphraser",
@@ -21580,6 +21598,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MovArt.ai",
+    "name": "Movart AI",
+    "description": "AI platform for creating viral videos and high-converting images using text-to-video and image-to-video.",
+    "website": "https://movart.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Text to Image, Image to Image",
+    "slug": "movart-ai",
+    "created_at": "14:21:04 01/23/2026"
+  },
+  {
     "title": "VSCO",
     "name": "VSCO",
     "description": "Photography and video editing app with creative community and professional tools.",
@@ -26762,6 +26789,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, Image to Video",
     "slug": "ai-nanobanana",
     "created_at": "02:28:29 10/01/2025"
+  },
+  {
+    "title": "Claude Skills Library",
+    "name": "Claude Skills Library",
+    "description": "Largest library of 90,000+ Agent Skills with real-world Use Cases & Community Reviews.",
+    "website": "https://claudeskills.club",
+    "categories": "AI Agent, Prompt Engineering, AI Developer Tools, AI Productivity Tools, AI Tools Directory",
+    "slug": "claude-skills-library",
+    "created_at": "14:21:04 01/23/2026"
   },
   {
     "title": "Nano Banana Pro in insMind",
@@ -32407,6 +32443,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nereo",
+    "name": "Nereo",
+    "description": "AI anime generator creating complete 60-second shorts from a single prompt.",
+    "website": "https://nereo.io",
+    "categories": "AI Anime Generator, AI Short Video Generator, Text to Video, Image to Video, AI Anime Art, AI Story Generator",
+    "slug": "nereo",
+    "created_at": "14:21:04 01/23/2026"
+  },
+  {
     "title": "mcp-use",
     "name": "mcp-use",
     "description": "Open-source platform for building and deploying AI agents and MCP servers.",
@@ -32477,6 +32522,15 @@
     "categories": "AI Meeting Assistant, AI Chatbot",
     "slug": "talkzy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "YTShortsdl.net",
+    "name": "YTshortsdl.net",
+    "description": "Free YouTube Shorts downloader and AI suite for video-to-script conversion and content repurposing.",
+    "website": "https://ytshortsdl.net",
+    "categories": "AI YouTube, AI Transcription, AI Script Writing, AI Watermark Remover, AI Repurpose, AI Social Media",
+    "slug": "ytshortsdl-net",
+    "created_at": "14:21:04 01/23/2026"
   },
   {
     "title": "Frugal",
