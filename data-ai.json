@@ -5192,6 +5192,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "My Talking Pet",
+    "name": "My Talking Pet",
+    "description": "My Talking Pet is the easiest way to create viral talking pet         videos using AI. Simply upload a photo of your dog, cat, or any       pet, type what you want them to say, and our AI generates a           stunning 5-second video with natural lip-sync and lifelike            expressions.",
+    "website": "https://mytalkingpet.ai",
+    "categories": "AI Lip Sync Generator, AI Short Video Generator, Image to Video",
+    "slug": "my-talking-pet",
+    "created_at": "14:13:13 01/24/2026"
+  },
+  {
     "title": "Snapmark",
     "name": "Snapmark-",
     "description": "Visual UI development tool for precise AI code generation.",
@@ -6900,6 +6909,15 @@
     "categories": "AI YouTube Assistant, Homework Helper, AI Course, AI Education Assistant, AI PDF, AI Charting",
     "slug": "unstuck-ai",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "Human Flow",
+    "name": "HumanFlow",
+    "description": "AI hiring platform for startups offering automated candidate scoring, interview prep, and transcript analysis.",
+    "website": "https://humanflow.app",
+    "categories": "AI Recruiting, AI Interview Assistant, AI Transcriber, AI Summarizer, AI Copilot",
+    "slug": "humanflow",
+    "created_at": "14:13:13 01/24/2026"
   },
   {
     "title": "DocMonster.ai",
@@ -19814,6 +19832,15 @@
     "categories": "AI Agent, AI Assistant, AI Search Engine, AI Files, AI Knowledge Management, AI OCR, AI Summarizer",
     "slug": "hyperlink-by-nexa-ai",
     "created_at": "14:11:58 09/19/2025"
+  },
+  {
+    "title": "NineFengShui",
+    "name": "NineFengShui",
+    "description": "A privacy-first, AI-powered tool for personalized home   Feng Shui analysis and remedies via a simple nine-grid   interface—no floor plan uploads required.",
+    "website": "https://ninefengshui.ai",
+    "categories": "AI Interior Design, AI Report Writing, AI Dream Interpreter",
+    "slug": "ninefengshui",
+    "created_at": "14:13:13 01/24/2026"
   },
   {
     "title": "Promptaa",
