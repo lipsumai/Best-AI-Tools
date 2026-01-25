@@ -7244,6 +7244,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Voor AI",
+    "name": "Voor AI",
+    "description": "AI generator for high-quality videos and images from text, images, or videos.",
+    "website": "https://voor.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Video to Video, Image to Image, AI Art Generator, AI Animation Generator",
+    "slug": "voor-ai",
+    "created_at": "14:12:58 01/25/2026"
+  },
+  {
     "title": "AI Response Comparison",
     "name": "Gemini Pro vs Chat GPT",
     "description": "Compare AI responses instantly.",
@@ -18844,6 +18853,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Mintshot.ai",
+    "name": "Mintshot.ai",
+    "description": "Mintshot is an AI headshot generator that creates professional, studio-quality portraits for LinkedIn, resumes, and personal websites, without a photoshoot.",
+    "website": "https://mintshot.ai",
+    "categories": "AI Headshot Generator",
+    "slug": "mintshot-ai",
+    "created_at": "14:12:58 01/25/2026"
+  },
+  {
     "title": "Sliq",
     "name": "Sliq",
     "description": "AI-powered platform for fast, accurate data cleaning and preparation.",
@@ -19400,6 +19418,15 @@
     "categories": "Large Language Models (LLMs), AI Content Generator, AI Developer Tools, AI API Design",
     "slug": "llm-api-costs-widget",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Soolo AI",
+    "name": "Soolo AI",
+    "description": "SooloAI is an AI-powered platform built for e-commerce founders and small business owners who want to turn an idea into a presentable brand quickly and without complexity. It generates complete brands and continues building around them with social content, marketing assets, campaigns, and product analysis, all within a single flow.",
+    "website": "https://soolo.ai",
+    "categories": "AI Marketing, AI Logo Generator, AI Business Name Generator, AI Advertising, AI Ad Generator, AI Marketing Plan Generator, AI Social Media Post Generator",
+    "slug": "soolo-ai",
+    "created_at": "14:12:58 01/25/2026"
   },
   {
     "title": "MotionExcel",
@@ -30272,6 +30299,15 @@
     "categories": "AI Image Generator, AI Meme Generator, Text to Image, AI Character, AI Name Generator",
     "slug": "italian-brainrot-generator",
     "created_at": "14:11:21 08/10/2025"
+  },
+  {
+    "title": "Whisk AI",
+    "name": "Whisk AI-",
+    "description": "Google Labs Powered Image Remix Platform",
+    "website": "https://whisk-ai.io",
+    "categories": "AI Image Generator, AI Inpainting, AI Outpainting, Image to Image, Text to Image",
+    "slug": "whisk-ai-1",
+    "created_at": "14:12:58 01/25/2026"
   },
   {
     "title": "Quicko Pro",
