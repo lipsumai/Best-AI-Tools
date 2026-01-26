@@ -25126,6 +25126,15 @@
     "created_at": "14:14:37 12/04/2025"
   },
   {
+    "title": "Loamly",
+    "name": "Loamly",
+    "description": "See who ChatGPT sends you — they convert 4x better",
+    "website": "https://www.loamly.ai",
+    "categories": "AI Digital Marketing, AI SEO Tools",
+    "slug": "loamly",
+    "created_at": "03:09:12 01/26/2026"
+  },
+  {
     "title": "AI Equalizer",
     "name": "AI Equalizer",
     "description": "Ultimate audio control and sound enhancement app for Android.",
@@ -34304,6 +34313,15 @@
     "categories": "AI Roleplay, AI Anime Girlfriend, AI Boyfriend, AI Character, AI Chatbot, AI Girlfriend, Dirty Talking AI",
     "slug": "spark-ai-ai-chat-roleplay-app",
     "created_at": "14:14:19 12/30/2025"
+  },
+  {
+    "title": "Clawdbot",
+    "name": "Clawdbot",
+    "description": "Open-source, self-hosted AI assistant providing full system access via common chat apps like WhatsApp.",
+    "website": "https://clawd.bot",
+    "categories": "AI Assistant, AI Agent, Open Source AI Models, AI Productivity Tools",
+    "slug": "clawdbot",
+    "created_at": "03:09:12 01/26/2026"
   },
   {
     "title": "Transcriptik AI",
