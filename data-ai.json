@@ -2790,6 +2790,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Sora2 Story Video Generator",
+    "name": "Sora2 Story Video Generator",
+    "description": "AI video generator using Sora 2 to create professional videos from text and images.",
+    "website": "https://sorax.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "sora2-story-video-generator",
+    "created_at": "14:21:20 01/26/2026"
+  },
+  {
     "title": "UseResume AI",
     "name": "UseResume AI",
     "description": "AI platform for creating and optimizing resumes and cover letters.",
@@ -3040,6 +3049,15 @@
     "categories": "AI Video Editor",
     "slug": "ai-video-narration",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "OnlyChatAI",
+    "name": "OnlyChatAI",
+    "description": "AI virtual assistant for OnlyFans creators automating chats, PPV sales, and scaling revenue.",
+    "website": "https://only-chat.ai",
+    "categories": "AI Only Fans, AI Assistant, AI Chatbot, AI Sales Assistant",
+    "slug": "onlychatai",
+    "created_at": "14:21:20 01/26/2026"
   },
   {
     "title": "PikPoet",
@@ -8376,6 +8394,15 @@
     "categories": "AI Marketing, AI Social Media, AI For Data Analytics, AI Copilot, AI Instagram, AI YouTube",
     "slug": "viral-app",
     "created_at": "14:12:58 09/15/2025"
+  },
+  {
+    "title": "Hunyuan 3D",
+    "name": "Hunyuan 3d",
+    "description": "AI 3D model generator transforming text and images into professional PBR assets.",
+    "website": "https://hunyuan-3d.org",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D",
+    "slug": "hunyuan-3d",
+    "created_at": "14:21:20 01/26/2026"
   },
   {
     "title": "DesignLumo",
@@ -30517,6 +30544,15 @@
     "created_at": "02:16:29 10/02/2025"
   },
   {
+    "title": "WeryAI",
+    "name": "WeryAI",
+    "description": "Free all-in-one platform for video, image, and music generation using top AI models.",
+    "website": "https://www.weryai.com",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, AI Video Editor, AI Photo Editor, Text to Video, Image to Video, AI Face Swap Video, AI Image Upscaler, AI Background Remover, AI Watermark Remover",
+    "slug": "weryai",
+    "created_at": "14:21:20 01/26/2026"
+  },
+  {
     "title": "SuperSEM",
     "name": "SuperSEM Ai",
     "description": "AI-enabled expert team providing affordable, comprehensive SEO execution, audits, content creation, and backlink building.",
@@ -31946,6 +31982,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Art Generator, AI Character, Image to Image",
     "slug": "banana-pro",
     "created_at": "14:14:37 12/04/2025"
+  },
+  {
+    "title": "InsMelo",
+    "name": "InsMelo",
+    "description": "AI song generator transforming lyrics, text, or images into original, royalty-free music.",
+    "website": "https://insmelo.com",
+    "categories": "AI Song Generator, AI Music Generator, AI Cover Generator, AI Lyrics Generator, AI Singing Generator",
+    "slug": "insmelo",
+    "created_at": "14:21:20 01/26/2026"
   },
   {
     "title": "Nano Banana Pro API",
