@@ -7100,6 +7100,15 @@
     "created_at": "14:13:10 11/21/2025"
   },
   {
+    "title": "Callum - AI calendar assistant",
+    "name": "Callum",
+    "description": "AI calendar assistant that uses natural language to intelligently schedule and manage team meetings.",
+    "website": "https://getcallum.com",
+    "categories": "AI Calendar, AI Assistant, AI Scheduling, AI Meeting Assistant, AI Productivity Tools",
+    "slug": "callum",
+    "created_at": "14:23:04 01/27/2026"
+  },
+  {
     "title": "Dessix",
     "name": "Dessix",
     "description": "Logic-first visual AI workspace for deep creators focusing on shared human-AI alignment.",
@@ -9530,6 +9539,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MarkPaper",
+    "name": "Markpaper.app",
+    "description": "Fast, private, browser-based Markdown to PDF converter with zero installation and professional themes.",
+    "website": "https://Markpaper.app",
+    "categories": "AI Documents Generator, AI PDF, AI Productivity Tools",
+    "slug": "markpaper-app",
+    "created_at": "14:23:04 01/27/2026"
+  },
+  {
     "title": "Psyke",
     "name": "Psyke",
     "description": "AI platform for scalable SEO content and visibility.",
@@ -10014,6 +10032,15 @@
     "categories": "AI Testing, AI Developer Tools, AI Github, AI Agent, AI Code Review",
     "slug": "debugg-ai",
     "created_at": "02:43:46 12/02/2025"
+  },
+  {
+    "title": "Lily",
+    "name": "Lily",
+    "description": "Claude Code-level AI agent and Skills platform requiring zero setup or configuration.",
+    "website": "https://chatlily.ai",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Research Tool, AI Writing, AI For Data Analytics",
+    "slug": "lily-crawdbot-level-agent-with-built-in-skills-for-non-coders",
+    "created_at": "14:23:04 01/27/2026"
   },
   {
     "title": "Seveum",
@@ -11852,6 +11879,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PixReunion",
+    "name": "PixReunion",
+    "description": "PixReunion is a specialized AI family photo studio dedicated to reuniting hearts by creating seamless family portraits from separate photographs.",
+    "website": "https://www.pixreunion.com",
+    "categories": "AI Realistic Image Generator, AI Colorize, AI Eraser, AI Image Generator, AI Image Upscaler, AI Photo Editor, AI Photo Filter, AI Photo Restoration, Image to Image, AI Face Recognition",
+    "slug": "pixreunion",
+    "created_at": "14:23:04 01/27/2026"
+  },
+  {
     "title": "Helpedby AI",
     "name": "Helpedby AI",
     "description": "Omni LLM chat platform for team productivity and customization.",
@@ -12875,6 +12911,15 @@
     "categories": "AI Video Generator, AI Animated Video, AI Reel Generator, AI Short Video Generator, AI Tiktok Video Generator, Image to Video",
     "slug": "bunnie-ai",
     "created_at": "14:12:35 10/09/2025"
+  },
+  {
+    "title": "Tonkotsu",
+    "name": "Tonkotsu",
+    "description": "GUI to manage autonomous AI coding agents using a structured doc workflow.",
+    "website": "https://tonkotsu.ai",
+    "categories": "AI Agent, AI Code Assistant, AI Developer Tools, AI Code Generator",
+    "slug": "tonkotsu",
+    "created_at": "14:23:04 01/27/2026"
   },
   {
     "title": "Iceburg CRM",
@@ -14189,6 +14234,15 @@
     "categories": "AI Resume Builder, AI Cover Letter Generator, AI Resume Checker, AI Writing Assistants",
     "slug": "rezzy",
     "created_at": "14:17:17 12/16/2025"
+  },
+  {
+    "title": "Somake AI",
+    "name": "Somake AI",
+    "description": "Create, Edit, and Share Stunning Images and Videos with AI-Powered Simplicity - Your All-in-One Creative Platform",
+    "website": "https://www.somake.ai",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, AI Logo Generator, AI Background Remover, AI Image Upscaler",
+    "slug": "somake-ai",
+    "created_at": "14:23:04 01/27/2026"
   },
   {
     "title": "FenPost",
@@ -19798,6 +19852,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Doclific",
+    "name": "Doclific",
+    "description": "Open-source internal documentation tool integrating AI, diagrams, and code snippets in your repo.",
+    "website": "https://doclific.com",
+    "categories": "AI Documents Generator, AI Developer Tools, AI Knowledge Base, AI Diagram Generator, AI Code Assistant",
+    "slug": "doclific",
+    "created_at": "14:23:04 01/27/2026"
+  },
+  {
     "title": "Veo3Video",
     "name": "Veo3Video",
     "description": "AI video generation with synchronized audio and lip-sync, powered by Google Veo3.",
@@ -19940,6 +20003,15 @@
     "categories": "AI SEO Assistant, AI Website Designer, E-commerce Assistant, AI Website Builder, No-Code&Low-Code, AI Landing Page Builder",
     "slug": "deepsite",
     "created_at": "02:21:21 04/04/2025"
+  },
+  {
+    "title": "Fansly Downloader",
+    "name": "Fansly Downloader",
+    "description": "Efficient Chrome extension for bulk downloading Fansly images and videos.",
+    "website": "https://fanslydownloader.com",
+    "categories": "Other",
+    "slug": "fansly-downloader",
+    "created_at": "14:23:04 01/27/2026"
   },
   {
     "title": "NovaFlick AI",
@@ -22739,6 +22811,15 @@
     "categories": "AI Dubbing, AI Lip Sync Generator, AI Video Generator, Image to Video, AI Voice Over",
     "slug": "infinitetalk-ai",
     "created_at": "14:11:34 09/10/2025"
+  },
+  {
+    "title": "NanoPic AI",
+    "name": "Nano Pic AI",
+    "description": "Advanced AI platform for high-quality image and video generation.",
+    "website": "https://nanopic.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Art Generator, Text to Image, Text to Video",
+    "slug": "nano-pic-ai",
+    "created_at": "14:23:04 01/27/2026"
   },
   {
     "title": "Pitch Roasters",
@@ -27203,6 +27284,15 @@
     "categories": "AI SEO Tools, AI CRM, AI Digital Marketing",
     "slug": "backlink-manager",
     "created_at": "02:48:12 09/01/2025"
+  },
+  {
+    "title": "Forums by BaseHub",
+    "name": "Forums",
+    "description": "AI agents explore GitHub source code to provide source-backed answers and remote CLI access.",
+    "website": "https://forums.basehub.com",
+    "categories": "AI Agent, AI Github, AI Developer Tools, AI Code Assistant, AI Answer",
+    "slug": "forums",
+    "created_at": "14:23:04 01/27/2026"
   },
   {
     "title": "Loveon AI - Bring Your Fantasies into Real Life",
@@ -32533,6 +32623,15 @@
     "created_at": "02:20:48 10/17/2025"
   },
   {
+    "title": "Hullo AI Bio Generator",
+    "name": "Hullo AI Bio Generator",
+    "description": "An AI-powered dating bio generator that helps users write authentic, high-quality bios for their dating profiles in seconds.",
+    "website": "https://hullo.dating",
+    "categories": "AI Bio Generator, AI Dating Assistant",
+    "slug": "hullo-ai-bio-generator",
+    "created_at": "14:23:04 01/27/2026"
+  },
+  {
     "title": "AI ASMR Generator",
     "name": "AI ASMR Generator",
     "description": "AI ASMR video generator for viral content on social media.",
@@ -36167,6 +36266,15 @@
     "categories": "Sports",
     "slug": "fight-iq",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GetLyricVideo AI",
+    "name": "GetLyricVideo AI",
+    "description": "The best platform for AI Music Video Generation. Transform your songs into storytelling animations with our advanced AI Lyric Video Generation engine that features Character Consistency. Create professional music videos in minutes.",
+    "website": "https://www.getlyricvideo.com",
+    "categories": "AI Music Video Generator, AI Tiktok Video Generator, AI Video Generator, AI Youtube Video Maker",
+    "slug": "getlyricvideo-ai",
+    "created_at": "14:23:04 01/27/2026"
   },
   {
     "title": "WizFairy",
