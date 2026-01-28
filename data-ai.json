@@ -11780,6 +11780,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "PayPing",
+    "name": "PayPing",
+    "description": "Subscription manager to track renewals, view analytics, and optimize recurring spending using AI.",
+    "website": "https://payping.space",
+    "categories": "AI For Finance, AI Assistant, AI Productivity Tools",
+    "slug": "payping",
+    "created_at": "02:58:42 01/28/2026"
+  },
+  {
     "title": "Video Maker AI - Video generation",
     "name": "Video Maker AI - Video generation",
     "description": "AI video generator for professional videos from text and images.",
@@ -22309,6 +22318,15 @@
     "created_at": "02:46:12 12/08/2025"
   },
   {
+    "title": "Thumbfa.st",
+    "name": "Thumbfa.st",
+    "description": "AI tool to instantly generate professional, consistent YouTube thumbnails fast.",
+    "website": "https://thumbfa.st",
+    "categories": "AI Youtube Thumbnail Generator, AI Thumbnail Maker, AI YouTube, AI Image Generator",
+    "slug": "thumbfa-st",
+    "created_at": "02:58:42 01/28/2026"
+  },
+  {
     "title": "Celebrity AI",
     "name": "Celebrity AI",
     "description": "AI generator for realistic celebrity videos, voice cloning, and messages.",
@@ -29075,6 +29093,15 @@
     "categories": "AI Interview Assistant, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition, AI Analytics Assistant, AI Recruiting",
     "slug": "pally-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "moltbot",
+    "name": "moltbot",
+    "description": "Open-source, self-hosted, privacy-first AI assistant for real automation and tasks.",
+    "website": "https://moltbot.you",
+    "categories": "AI Assistant, AI Agent, AI Developer Tools, AI Productivity Tools",
+    "slug": "moltbot",
+    "created_at": "02:58:42 01/28/2026"
   },
   {
     "title": "Monetize.ai",
