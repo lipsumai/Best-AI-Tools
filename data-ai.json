@@ -3807,6 +3807,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "Actionbook",
+    "name": "Actionbook",
+    "description": "the Action Playbook for Agents. Make agents act 10× faster with 100× token savings.",
+    "website": "https://actionbook.dev",
+    "categories": "AI Developer Tools, AI Browsers, AI Document Extraction, AI Search Engine, AI Data Mining, AI Research Tool",
+    "slug": "actionbook",
+    "created_at": "14:33:14 01/29/2026"
+  },
+  {
     "title": "Seedance AI",
     "name": "Seedance AI | seedanceai.app",
     "description": "AI platform for creating personalized videos from text or images.",
@@ -7404,6 +7413,15 @@
     "categories": "AI Travel, AI Trip Planner, AI Assistant, AI API",
     "slug": "navoy",
     "created_at": "14:15:50 08/01/2025"
+  },
+  {
+    "title": "AI World Generator",
+    "name": "AI World Generator",
+    "description": "Real-time AI platform generating interactive 3D worlds from text with persistent memory.",
+    "website": "https://aiworldgenerator.com",
+    "categories": "AI Game Generator, Text to 3D, AI 3D Model Generator, AI Landscape Generator",
+    "slug": "ai-world-generator",
+    "created_at": "14:33:14 01/29/2026"
   },
   {
     "title": "xoul ai",
@@ -22318,6 +22336,15 @@
     "created_at": "02:44:05 12/09/2025"
   },
   {
+    "title": "NewYouGo",
+    "name": "NewYouGo",
+    "description": "Powerful AI platform for lightning-fast, high-quality image and video generation.",
+    "website": "https://newyougo.com",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Video Generator, Image to Image, AI Inpainting, AI Photo Restoration",
+    "slug": "newyougo",
+    "created_at": "14:33:14 01/29/2026"
+  },
+  {
     "title": "AI Face Swap Video",
     "name": "AI Face Swap Video",
     "description": "AI tool for seamless face swapping in videos and photos.",
@@ -23603,6 +23630,15 @@
     "categories": "AI Youtube Video Maker, AI Video Generator, Script To Video AI Generator, AI Video Editor, AI Voice Generator",
     "slug": "1703-co",
     "created_at": "14:12:48 07/09/2025"
+  },
+  {
+    "title": "Scholar GPT AI",
+    "name": "Scholar GPT AI",
+    "description": "AI research, writing, and problem-solving assistant for academic, teaching, and learning needs.",
+    "website": "https://scholargpt.ai",
+    "categories": "AI Research Tool, AI Writing Assistants, AI Math, AI Rewriter, AI Homework Helper",
+    "slug": "scholar-gpt-ai-advanced-research-assistant",
+    "created_at": "14:33:14 01/29/2026"
   },
   {
     "title": "Joyn Chat",
@@ -29464,6 +29500,15 @@
     "created_at": "14:11:40 04/03/2025"
   },
   {
+    "title": "Moltbot AI",
+    "name": "Moltbot AI",
+    "description": "Open-source, self-hosted AI assistant that executes tasks across multiple chat platforms.",
+    "website": "https://moltbotai.ai",
+    "categories": "AI Assistant, AI Agent, Open Source AI Models, AI Productivity Tools",
+    "slug": "moltbot-ai",
+    "created_at": "14:33:14 01/29/2026"
+  },
+  {
     "title": "AI Notes",
     "name": "AI-Powered Notes Taker",
     "description": "AI-powered note-taking for summarizing, organizing, and enhancing thoughts.",
@@ -35276,6 +35321,15 @@
     "categories": "AI Assistant, AI Agent, AI Productivity Tools, No-Code&Low-Code",
     "slug": "alice",
     "created_at": "03:01:47 07/20/2025"
+  },
+  {
+    "title": "BananaKit",
+    "name": "BananaKit",
+    "description": "AI platform for generating consistent, production-ready images and videos.",
+    "website": "https://bananakit.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Background Remover, AI Headshot Generator, AI Image Enhancer, AI Inpainting, AI Photo Restoration",
+    "slug": "bananakit",
+    "created_at": "14:33:14 01/29/2026"
   },
   {
     "title": "Invoce.ai",
