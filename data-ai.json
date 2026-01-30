@@ -1485,6 +1485,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Openclaw",
+    "name": "Openclaw-",
+    "description": "Open-source AI automation framework for developers to build programmable, self-hosted AI workflows.",
+    "website": "https://openclaw.im",
+    "categories": "AI Agent, AI Assistant, AI Developer Tools, AI Workflow, Open Source AI Models",
+    "slug": "openclaw-1",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Khorus",
     "name": "Khorus",
     "description": "Platform for building, deploying, and tokenizing AI applications with on-chain agents.",
@@ -2194,6 +2203,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Watermark Remover, AI Image Generator, AI Photo Editor",
     "slug": "sora-2-2",
     "created_at": "02:26:33 11/04/2025"
+  },
+  {
+    "title": "UGCraft AI",
+    "name": "UGCraft AI",
+    "description": "UGCraft AI",
+    "website": "https://www.ugcraft.ai",
+    "categories": "AI 3D Model Generator, AI Avatar Generator, AI Game Generator",
+    "slug": "ugcraft-ai",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "EnhancePhoto AI",
@@ -6920,6 +6938,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Clawdbot AI",
+    "name": "Clawdbot AI",
+    "description": "Open-source, self-hosted personal AI assistant with 100+ integrations and full privacy control.",
+    "website": "https://clawdbotai.online",
+    "categories": "AI Assistant, AI Agent, AI Productivity Tools, Open Source AI Models",
+    "slug": "clawdbot-ai",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Photo Prompt",
     "name": "Photo Prompt",
     "description": "AI tool to convert photos into detailed prompts for image generation.",
@@ -8090,6 +8117,15 @@
     "created_at": "02:27:01 11/27/2025"
   },
   {
+    "title": "RemoverMarca",
+    "name": "Remover Marca",
+    "description": "AI tool for professional 4K watermark, logo, and stamp removal from static photos.",
+    "website": "https://removermarca.com",
+    "categories": "AI Watermark Remover, Object Remover AI, AI Inpainting, AI Eraser, AI Photo Editor",
+    "slug": "remover-marca",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Quiklearn",
     "name": "Quiklearn",
     "description": "AI-powered flashcards and quizzes from PDFs for smarter study.",
@@ -8115,6 +8151,15 @@
     "categories": "AI Code Assistant, AI Developer Tools, AI Code Generator, AI Copilot, AI Assistant",
     "slug": "lovelace",
     "created_at": "14:13:00 11/05/2025"
+  },
+  {
+    "title": "Imagine",
+    "name": "Imagine",
+    "description": "AI builder for functional products with complete cloud infrastructure.",
+    "website": "https://imagine.dev",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Code Generator, AI Game Generator, AI Agent",
+    "slug": "imagine",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "Mindelia",
@@ -8457,6 +8502,15 @@
     "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D",
     "slug": "hunyuan-3d",
     "created_at": "14:21:20 01/26/2026"
+  },
+  {
+    "title": "AutoSend",
+    "name": "AutoSend",
+    "description": "Reliable transactional and marketing email platform for developers, marketers, and AI agents.",
+    "website": "https://autosend.com",
+    "categories": "AI Email Marketing, AI Email Generator, AI API, AI Marketing, AI Email Assistant, AI Developer Tools",
+    "slug": "autosend",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "DesignLumo",
@@ -10097,6 +10151,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "Moltbot AI",
+    "name": "Moltbot AI-",
+    "description": "Self-hosted, open-source AI assistant with persistent memory and system actions.",
+    "website": "https://moltbotai.online",
+    "categories": "AI Assistant, AI Agent, Open Source AI Models, AI Productivity Tools",
+    "slug": "moltbot-ai-1",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Kling 2.6 AI",
     "name": "Kling 2.6 AI-",
     "description": "AI video generator with native audio for realistic, cinematic content.",
@@ -11481,6 +11544,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Facebook Assistant, AI Tiktok Assistant, AI Ad Creative Assistant, Translate, E-commerce Assistant, Photo & Image Editor, AI Product Description Generator, Copywriting, Writing Assistants, Captions or Subtitle, AI Content Generator",
     "slug": "ai-image-translator-for-ecom-image",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "OpenClawd AI",
+    "name": "Openclaw AI",
+    "description": "Open-source, self-hosted personal AI assistant offering complete data sovereignty and 100+ integrations.",
+    "website": "https://openclawd.ai",
+    "categories": "AI Assistant, AI Agent, Open Source AI Models, AI Productivity Tools",
+    "slug": "openclaw-ai",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "Vonvo",
@@ -12904,6 +12976,15 @@
     "created_at": "02:57:25 06/01/2025"
   },
   {
+    "title": "openclaw",
+    "name": "openclaw",
+    "description": "Self-hosted, open-source AI assistant for device automation and workflow management.",
+    "website": "https://openclaw.my",
+    "categories": "AI Assistant, AI Agent, AI Developer Tools, AI Productivity Tools",
+    "slug": "openclaw",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "AI Diagram Maker",
     "name": "AI Diagram Maker",
     "description": "AI-powered tool for generating diagrams from natural language.",
@@ -13820,6 +13901,15 @@
     "categories": "AI Novel, AI Story Generator, AI Book Writing, AI Writing Assistants, AI Plot Generator, AI Outline Generator",
     "slug": "webnovel-ai",
     "created_at": "14:12:46 10/08/2025"
+  },
+  {
+    "title": "AI Image to Video",
+    "name": "AI Image To Video",
+    "description": "Free AI generator converting images to HD videos using advanced models.",
+    "website": "https://aiimagetovideo.pro",
+    "categories": "Image to Video, AI Video Generator, Text to Video, AI Animation Generator, AI Tiktok Video Generator",
+    "slug": "ai-image-to-video",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "PostGenius",
@@ -18016,6 +18106,15 @@
     "created_at": "14:18:36 01/08/2026"
   },
   {
+    "title": "WA Export",
+    "name": "WA Export",
+    "description": "Free Download WhatsApp Group Number & Extract Contact to Excel/CSV/VCard. Best WhatsApp Number Export & Save WhatsApp Contact Tool.",
+    "website": "https://waexport.wadesk.io",
+    "categories": "AI Marketing, AI Productivity Tools",
+    "slug": "wa-export",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "MCP Showcase",
     "name": "MCP Showcase",
     "description": "Interactive platform for exploring, testing, and integrating MCP APIs.",
@@ -20005,6 +20104,15 @@
     "created_at": "02:45:11 12/04/2025"
   },
   {
+    "title": "AI Dance Generator",
+    "name": "Ai Dance",
+    "description": "Workflow-first AI tool generating consistent trending dance videos for TikTok, Reels, and Shorts.",
+    "website": "https://ai-dance.co",
+    "categories": "AI Video Generator, AI Short Video Generator, Image to Video, AI Tiktok Video Generator",
+    "slug": "ai-dance",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "MyShotAI",
     "name": "MyShotAI - AI Headshot",
     "description": "AI app for creating professional headshots from selfies.",
@@ -20435,6 +20543,15 @@
     "categories": "AI Anime Generator, AI Anime Art, AI Manga Generator, AI Art Generator, AI Comic Generator, AI Story Generator, AI Video Generator, AI Colorize",
     "slug": "anifun-ai",
     "created_at": "14:18:04 08/04/2025"
+  },
+  {
+    "title": "Presentation Mode for Notion",
+    "name": "Presentation Mode for Notion",
+    "description": "Chrome extension to turn Notion pages into professional slide presentations instantly.",
+    "website": "https://www.notion-presentation.com",
+    "categories": "AI Presentation Generator, AI Productivity Tools, AI Assistant",
+    "slug": "presentation-mode-for-notion",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "Transcriptly",
@@ -24793,6 +24910,15 @@
     "created_at": "02:42:53 05/04/2025"
   },
   {
+    "title": "RED",
+    "name": "RED",
+    "description": "Smart, floating AI assistant combining screen analysis, transcription, and automation in real-time.",
+    "website": "https://red-ai.app",
+    "categories": "AI Assistant, AI Productivity Tools, AI Copilot, AI Workflow, AI Transcription, AI Meeting Assistant",
+    "slug": "red",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Ryter Pro",
     "name": "Ryter Pro",
     "description": "Humanizes AI text to make it undetectable by AI detectors.",
@@ -27376,6 +27502,15 @@
     "created_at": "02:28:34 08/19/2025"
   },
   {
+    "title": "Disertus Labs (Milo AI Speech Therapist)",
+    "name": "Disertus Labs",
+    "description": "24/7 AI speech therapist providing real-time feedback, personalized exercises, and fluency tracking.",
+    "website": "https://disertuslabs.com",
+    "categories": "AI Therapist, AI Healthcare, AI Assistant, AI Speech Recognition, AI Speech-to-Text",
+    "slug": "disertus-labs",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Media.io",
     "name": "Media.io",
     "description": "Free online AI tools for video, image, and audio generation.",
@@ -27970,6 +28105,15 @@
     "created_at": "14:12:48 08/25/2025"
   },
   {
+    "title": "Whisk AI Image Generator",
+    "name": "Whisk AI Image Generator",
+    "description": "AI tool blending subject, scene, and style images to create 4K artwork.",
+    "website": "https://www.whisk-ai.co",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Photo Editor, AI Photo Restoration, AI Background Remover, AI Avatar Generator, AI Style Transfer",
+    "slug": "whisk-ai-image-generator",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Genmi AI",
     "name": "Genmi AI",
     "description": "Professional AI platform for image and video generation.",
@@ -28429,6 +28573,15 @@
     "created_at": "14:23:19 01/20/2026"
   },
   {
+    "title": "Apatero Studio",
+    "name": "Apatero Studio",
+    "description": "Professional AI platform for generating images, videos, and audio content.",
+    "website": "https://app.apatero.com",
+    "categories": "AI Image Generator, AI Video Generator, AI Art Generator",
+    "slug": "apatero-studio",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Leaves - Life Stories",
     "name": "Leaves - Life Stories",
     "description": "Tell, share, and preserve life stories and special memories.",
@@ -28769,6 +28922,15 @@
     "categories": "AI Audio Splitter, AI Audio Editing, AI Vocal Remover, AI Stems Splitter, AI Audio Enhancer, AI Noise Cancellation",
     "slug": "sam-audio",
     "created_at": "14:15:03 12/17/2025"
+  },
+  {
+    "title": "Sayline",
+    "name": "Sayline",
+    "description": "Private, local macOS voice dictation app that replaces typing in any text field.",
+    "website": "https://sayline.app",
+    "categories": "AI Speech-to-Text, AI Transcription, AI Productivity Tools, AI Transcriber, AI Writing Assistants",
+    "slug": "sayline",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "Stackie.AI",
@@ -32182,6 +32344,15 @@
     "created_at": "14:11:34 09/10/2025"
   },
   {
+    "title": "DunSocial",
+    "name": "DunSocial",
+    "description": "AI social media tool that remembers your brand voice and publishes platform-perfect content.",
+    "website": "https://dunsocial.com",
+    "categories": "AI Social Media Post Generator, AI Social Media, AI Scheduling, AI Writing",
+    "slug": "dunsocial",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Vizologi",
     "name": "Vizologi",
     "description": "AI tool for generating business ideas and automating business plans.",
@@ -33019,6 +33190,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Clevia",
+    "name": "Clevia",
+    "description": "AI research assistant that verifies citations and streamlines academic writing workflows.",
+    "website": "https://clevia.ai",
+    "categories": "AI Research Tool, AI Assistant, AI Writing Assistants, AI Research Papers, AI Knowledge Management",
+    "slug": "clevia",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "Hypercharge AI",
     "name": "Hypercharge AI",
     "description": "AI chatbot for diverse prompts",
@@ -33368,6 +33548,15 @@
     "categories": "AI Dream Interpreter, AI God, AI Chatbot, AI Dating Assistant",
     "slug": "nine-star-ki-mystical-astrology",
     "created_at": "14:10:11 08/23/2025"
+  },
+  {
+    "title": "Kuku",
+    "name": "kuku",
+    "description": "A native, local-first macOS Markdown editor with tool-calling AI and diff previews.",
+    "website": "https://kuku.mom",
+    "categories": "AI Writing Assistants, AI Knowledge Management, AI Assistant, AI Speech-to-Text, AI Summarizer",
+    "slug": "kuku",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "ModAI",
@@ -34477,6 +34666,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Piooy",
+    "name": "Piooy",
+    "description": "All-in-one AI platform for visual, motion, and creative image/video generation.",
+    "website": "https://piooy.com",
+    "categories": "AI Image Generator, AI Video Generator, AI Photo Editor, AI Photo Restoration, AI Watermark Remover",
+    "slug": "piooy",
+    "created_at": "14:28:33 01/30/2026"
+  },
+  {
     "title": "venturefy",
     "name": "venturefy AI",
     "description": "Venturefy utilizes AI to provide a verified corporate wiki for businesses to identify opportunities and accelerate growth.",
@@ -34961,6 +35159,15 @@
     "categories": "AI Browsers, AI Agent, AI Assistant",
     "slug": "opera-neon",
     "created_at": "14:12:11 05/29/2025"
+  },
+  {
+    "title": "AI Virtual Staging",
+    "name": "AI Virtual Staging with one click",
+    "description": "Instant AI virtual staging for real estate listings with MLS-ready, cost-effective images.",
+    "website": "https://www.aivirtualstaging.net",
+    "categories": "AI Real Estate, AI Interior Design, AI Room Planner, AI Floor Plan Generator",
+    "slug": "ai-virtual-staging-with-one-click",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "AI Blood Test Analysis",
@@ -36131,6 +36338,15 @@
     "categories": "AI Background Remover, AI Video Editor, Large Language Models (LLMs), Photo & Image Editor",
     "slug": "watermarkremoverai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "WA Sender",
+    "name": "WA Sender",
+    "description": "Free WhatsApp Bulk Message Sender extension. Send WhatsApp message without saving number to grow your business effectively.",
+    "website": "https://wasender.wadesk.io",
+    "categories": "AI Marketing, AI Productivity Tools",
+    "slug": "wa-sender",
+    "created_at": "14:28:33 01/30/2026"
   },
   {
     "title": "BigIdeasDB",
