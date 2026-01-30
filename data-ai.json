@@ -13714,6 +13714,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Genspark Speakly",
+    "name": "Genspark Speakly",
+    "description": "AI voice dictation app 4x faster than typing, converting messy speech into clear text.",
+    "website": "https://www.speakly.ai",
+    "categories": "AI Speech-to-Text, AI Transcription, AI Writing Assistants, AI Productivity Tools, AI Rewriter",
+    "slug": "genspark-speakly",
+    "created_at": "03:23:07 01/30/2026"
+  },
+  {
     "title": "Social AF",
     "name": "Social AF",
     "description": "AI tool for creating scroll-stopping social media posts and videos.",
@@ -22345,6 +22354,15 @@
     "created_at": "14:33:14 01/29/2026"
   },
   {
+    "title": "Sea Imagine AI",
+    "name": "Sea Imagine AI",
+    "description": "Unified platform for AI video and image art creation using advanced models.",
+    "website": "https://seaimagine.com",
+    "categories": "AI Video Generator, Image to Video, Text to Video, AI Art Generator, AI Image Generator",
+    "slug": "sea-imagine-ai-image-video-art-creation",
+    "created_at": "03:23:07 01/30/2026"
+  },
+  {
     "title": "AI Face Swap Video",
     "name": "AI Face Swap Video",
     "description": "AI tool for seamless face swapping in videos and photos.",
@@ -27385,6 +27403,15 @@
     "created_at": "14:23:04 01/27/2026"
   },
   {
+    "title": "AI Character Generator",
+    "name": "AI Character Generator – Create Realistic Virtual Characters from Photos",
+    "description": "Create Highly Realistic AI Virtual Characters",
+    "website": "https://aicharactergenerator.co",
+    "categories": "AI Person Generator, AI Avatar Generator, AI Image Combiner, AI Yearbook, Text to Image",
+    "slug": "ai-character-generator-create-realistic-virtual-characters-from-photos",
+    "created_at": "03:23:07 01/30/2026"
+  },
+  {
     "title": "Loveon AI - Bring Your Fantasies into Real Life",
     "name": "Loveon AI - Bring Your Fantasies into Real Life",
     "description": "Loveon AI is your gateway to meaningful conversations, creativity, and self-expression. Whether you’re seeking companionship after a long day, looking for inspiration, or simply want a safe place to share your thoughts, Loveon AI is designed to bring your imagination to life. With a variety of unique characters and endless conversation styles, you can explore new ideas, connect emotionally, and enjoy a space that’s always there for you.",
@@ -28814,6 +28841,15 @@
     "categories": "Bio Link, Game",
     "slug": "validator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Caimera",
+    "name": "Caimera",
+    "description": "Caimera is an AI-powered platform that generates realistic AI models for fashion brands, e-commerce, and advertising campaigns. Replace expensive photoshoots with AI-generated visuals that achieve 50% higher CTR and 50% lower cost per click. Create studio-quality product shots, campaign visuals, and model photography in minutes, not weeks.",
+    "website": "https://www.caimera.ai",
+    "categories": "AI Product Photography, AI Expand Image, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Inpainting, AI Photo Editor, AI Photo Enhancer, AI Realistic Image Generator",
+    "slug": "caimera",
+    "created_at": "03:23:07 01/30/2026"
   },
   {
     "title": "Bennu AI",
@@ -31406,6 +31442,15 @@
     "categories": "AI Detector, AI Writing Assistants, AI Rewriter, AI Content Detector, AI Grammar Checker, AI Paraphraser, AI Plagiarism Checker, AI Translate",
     "slug": "rewrait",
     "created_at": "14:10:14 08/24/2025"
+  },
+  {
+    "title": "Genie 3 - Interactive AI World Model",
+    "name": "Genie 3 - Interactive AI World Model",
+    "description": "DeepMind's AI world model generates real-time, interactive, physically consistent 3D environments from text prompts.",
+    "website": "https://3dgen.io",
+    "categories": "AI Video Generator, Text to Video",
+    "slug": "genie-3-interactive-ai-world-model",
+    "created_at": "03:23:07 01/30/2026"
   },
   {
     "title": "Line Art Generator",
