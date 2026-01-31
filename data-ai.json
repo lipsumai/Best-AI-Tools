@@ -3708,6 +3708,15 @@
     "created_at": "02:58:17 08/11/2025"
   },
   {
+    "title": "Moltbook",
+    "name": "Moltbook",
+    "description": "A social network built exclusively for AI agents for sharing, discussing, and upvoting content.",
+    "website": "https://www.moltbook.com",
+    "categories": "AI Agent, AI Social Media, AI Assistant, AI Roleplay",
+    "slug": "moltbook",
+    "created_at": "14:16:59 01/31/2026"
+  },
+  {
     "title": "Storydoc",
     "name": "Storydoc",
     "description": "Interactive presentation tool for engaging slide decks.",
@@ -23920,6 +23929,15 @@
     "created_at": "14:14:45 07/30/2025"
   },
   {
+    "title": "MuseGen | AI Music Generator",
+    "name": "MuseGen | AI Music Generator",
+    "description": "All-in-one AI music generator creating full, rights-safe songs instantly with lyrics and vocals.",
+    "website": "https://musegen.org",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Vocal Remover, AI Cover Generator, AI Rap Generator, AI Melody Generator, AI Mastering, AI Voice Generator",
+    "slug": "musegen-ai-music-generator",
+    "created_at": "14:16:59 01/31/2026"
+  },
+  {
     "title": "Preemedia - AI UGC Ads",
     "name": "Preemedia - AI UGC Ads",
     "description": "Create Winning Ads with AI Actors",
@@ -24161,6 +24179,15 @@
     "categories": "AI Chatbot, AI Art Generator, Homework Helper, AI Education Assistant, AI Tools Directory",
     "slug": "ai-app-finder-explore-ai",
     "created_at": "14:12:35 04/09/2025"
+  },
+  {
+    "title": "Project Genie",
+    "name": "Project Genie",
+    "description": "AI platform using Google Genie 3 to create photorealistic, interactive 3D worlds from text.",
+    "website": "https://project-genie.net",
+    "categories": "Text to 3D, AI 3D Model Generator, Image to 3D Model, AI Game Generator",
+    "slug": "project-genie",
+    "created_at": "14:16:59 01/31/2026"
   },
   {
     "title": "VisionAR",
@@ -29813,6 +29840,15 @@
     "categories": "AI Documents Generator, AI Copywriting, AI Project Management, AI Writing, AI Ad Generator, AI Social Media Post Generator, AI Email Generator",
     "slug": "writegenic-ai",
     "created_at": "14:12:38 05/30/2025"
+  },
+  {
+    "title": "TranslateImage",
+    "name": "translateimage.io",
+    "description": "AI image translator converting text in photos, manga, and documents to 130+ languages, preserving original design.",
+    "website": "https://translateimage.io",
+    "categories": "AI Image Translator, AI Translate, AI OCR, AI Inpainting",
+    "slug": "translateimage-io",
+    "created_at": "14:16:59 01/31/2026"
   },
   {
     "title": "FeedHive",
