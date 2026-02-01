@@ -1854,6 +1854,15 @@
     "created_at": "02:20:22 11/08/2025"
   },
   {
+    "title": "NoteAI",
+    "name": "NoteAI",
+    "description": "AI knowledge assistant summarizing videos, documents, and web content into summaries, mind maps, and insight cards.",
+    "website": "https://www.noteai.io",
+    "categories": "AI Summarizer, AI Youtube Summary, AI PDF Summarizer, AI Transcription, AI Translate, AI Mind Mapping",
+    "slug": "noteai-next-gen-ai-knowledge-extractor",
+    "created_at": "03:44:30 02/01/2026"
+  },
+  {
     "title": "Noiz Agent",
     "name": "Noiz Agent",
     "description": "Your all-in-one AI studio for voice, dubbing & audio magic",
