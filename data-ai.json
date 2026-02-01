@@ -22381,6 +22381,15 @@
     "created_at": "14:12:01 09/17/2025"
   },
   {
+    "title": "Kling3 AI",
+    "name": "Kling 3.0 AI",
+    "description": "Ultimate 4K AI video generator with native audio, motion control, and Canvas Agent.",
+    "website": "https://kling3.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Storyboard AI, AI Lip Sync Generator",
+    "slug": "kling-3-0-ai",
+    "created_at": "14:18:19 02/01/2026"
+  },
+  {
     "title": "Ai Sora2",
     "name": "Ai Sora2",
     "description": "AI video generator for stunning, photorealistic videos from text/images.",
@@ -25772,6 +25781,15 @@
     "categories": "AI Customer Service Assistant, AI CRM Assistant, AI Lead Generation, AI Team Collaboration, AI Content Generator, Sales Assistant, Writing Assistants, AI Voice Assistants, AI Productivity Tools, AI Recruiting",
     "slug": "callhippo",
     "created_at": "02:19:38 04/12/2025"
+  },
+  {
+    "title": "WhatsMyName.me",
+    "name": "WhatsMyName",
+    "description": "Online tool to find username footprints, check email leaks, and conduct AI analysis.",
+    "website": "https://whatsmyname.me",
+    "categories": "AI Search Engine, AI Research Tool",
+    "slug": "whatsmyname",
+    "created_at": "14:18:19 02/01/2026"
   },
   {
     "title": "a_OCR - APARATUS",
@@ -35483,6 +35501,15 @@
     "categories": "Other",
     "slug": "avif-to-png-converter",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Team9",
+    "name": "Team9",
+    "description": "Instant deployment of sovereign, local-first AI agents connected to the Moltbook ecosystem.",
+    "website": "https://Team9.ai",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Developer Tools, AI Knowledge Management, AI Workflow",
+    "slug": "team9",
+    "created_at": "14:18:19 02/01/2026"
   },
   {
     "title": "RichlyAI",
