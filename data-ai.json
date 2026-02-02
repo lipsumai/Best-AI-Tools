@@ -7460,6 +7460,15 @@
     "created_at": "14:15:50 08/01/2025"
   },
   {
+    "title": "Dokie AI",
+    "name": "Dokie AI",
+    "description": "Dokie AI is an all-in-one AI PPT maker that helps you create professional AI slides in minutes. Powered by advanced AI, Dokie works as a smart presentation generator, turning text, ideas, or documents into well-structured, visually polished PowerPoint slides—fast, easy, and beginner-friendly.",
+    "website": "https://dokie.ai",
+    "categories": "AI PPT Maker",
+    "slug": "dokie-ai",
+    "created_at": "14:36:15 02/02/2026"
+  },
+  {
     "title": "AI World Generator",
     "name": "AI World Generator",
     "description": "Real-time AI platform generating interactive 3D worlds from text with persistent memory.",
@@ -10349,6 +10358,15 @@
     "created_at": "14:15:19 07/24/2025"
   },
   {
+    "title": "YepCode",
+    "name": "YepCode",
+    "description": "Developer-first platform for building, running, and scaling secure AI-powered integrations.",
+    "website": "https://yepcode.io",
+    "categories": "AI Developer Tools, AI API, AI Agent, AI Workflow",
+    "slug": "yepcode",
+    "created_at": "14:36:15 02/02/2026"
+  },
+  {
     "title": "1stCollab",
     "name": "1stCollab",
     "description": "AI-powered influencer marketplace for brands and creators.",
@@ -12777,6 +12795,15 @@
     "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI Image Enhancer, AI Background Remover, Image to Image",
     "slug": "nanobananas-ai",
     "created_at": "02:24:31 09/08/2025"
+  },
+  {
+    "title": "TENDERD",
+    "name": "TENDERD",
+    "description": "AI-driven operational platform for heavy industries maximizing productivity, safety, and efficiency.",
+    "website": "https://tenderd.com",
+    "categories": "AI Productivity Tools, AI For Data Analytics, AI Monitor, AI Predictions",
+    "slug": "tenderd",
+    "created_at": "14:36:15 02/02/2026"
   },
   {
     "title": "isitPossible.ai",
@@ -16700,6 +16727,15 @@
     "categories": "AI Scheduling, AI Schedule Maker, AI Productivity Tools, AI Task Management",
     "slug": "rotageek",
     "created_at": "14:13:56 07/15/2025"
+  },
+  {
+    "title": "Vibe Architect for Cursor",
+    "name": "Vibe Architect for Cursor",
+    "description": "A visual, no-code backend for Cursor — see, understand, and control your data, logic, and AI behind the scenes.",
+    "website": "https://momen.app",
+    "categories": "AI Developer Tools, AI App Builder, AI Website Builder, No-Code&Low-Code",
+    "slug": "vibe-architect-for-cursor",
+    "created_at": "14:36:15 02/02/2026"
   },
   {
     "title": "IntelligenceLab - AI Generator",
@@ -29536,6 +29572,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Superagent",
+    "name": "Superagent from Airtable",
+    "description": "AI research assistant creating boardroom-ready, fact-checked reports from complex business questions.",
+    "website": "https://superagent.com",
+    "categories": "AI Agent, AI Research Tool, AI Report Generator, AI Presentation Generator, AI Website Builder",
+    "slug": "superagent-from-airtable",
+    "created_at": "14:36:15 02/02/2026"
+  },
+  {
     "title": "Gitcord",
     "name": "Gitcord",
     "description": "GitHub repo tracker with visuals, insights, and analytics for developers.",
@@ -33514,6 +33559,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Emra Voice",
+    "name": "Emra / Always on Transcription and PTT",
+    "description": "Always-on desktop voice toolkit for fast transcription, voice typing, and AI-powered summaries.",
+    "website": "https://emra.app",
+    "categories": "AI Transcription, AI Speech-to-Text, AI Summarizer, AI Productivity Tools",
+    "slug": "emra-always-on-transcription-and-ptt",
+    "created_at": "14:36:15 02/02/2026"
+  },
+  {
     "title": "SnapVault",
     "name": "Snapvault",
     "description": "Build knowledge base with snapshots",
@@ -35267,6 +35321,15 @@
     "categories": "AI Image Generator, AI Realistic Image Generator, AI Design Generator, Text to Image, Image to Image, AI Commercial Generator, AI Product Photography",
     "slug": "seedream-4-5-ai",
     "created_at": "02:45:11 12/04/2025"
+  },
+  {
+    "title": "Archimyst",
+    "name": "Archimyst",
+    "description": "AI platform for designing, simulating, and validating production system architectures.",
+    "website": "https://www.archimyst.com",
+    "categories": "AI Diagram Generator, AI Design Assistant, AI Agent, AI Developer Tools, AI Code Generator, AI Testing",
+    "slug": "archimyst",
+    "created_at": "14:36:15 02/02/2026"
   },
   {
     "title": "Nano Banana Pro",
