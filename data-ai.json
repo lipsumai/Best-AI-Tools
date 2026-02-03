@@ -5822,6 +5822,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GenSong",
+    "name": "Gen Song AI",
+    "description": "Free AI Song Generator for professional, copyright-free music instantly.",
+    "website": "https://gensong.ai",
+    "categories": "AI Song Generator, AI Music Generator, AI Lyrics Generator, AI Music Video Generator",
+    "slug": "gen-song-ai",
+    "created_at": "03:29:45 02/03/2026"
+  },
+  {
     "title": "UI root",
     "name": "UI root",
     "description": "A hub to discover and share UI/UX tools and resources.",
@@ -17332,6 +17341,15 @@
     "created_at": "02:27:19 11/19/2025"
   },
   {
+    "title": "Vaethat",
+    "name": "vaethat",
+    "description": "Specialized AI render enhancer and upscaler for architectural visualization professionals.",
+    "website": "https://www.vaethat.com",
+    "categories": "AI Image Enhancer, AI Image Upscaler, AI Interior Design, AI Graphic Design",
+    "slug": "vaethat",
+    "created_at": "03:29:45 02/03/2026"
+  },
+  {
     "title": "Books by AI",
     "name": "Books by AI",
     "description": "AI creates personalized books tailored to your interests",
@@ -24440,6 +24458,15 @@
     "categories": "AI Design Generator, AI 3D Model Generator, AI Inpainting, AI Design Assistant, AI Interior Design, AI Clothing Generator, Image to 3D Model",
     "slug": "supercraft",
     "created_at": "14:13:23 08/12/2025"
+  },
+  {
+    "title": "Z-Image",
+    "name": "Z-Image-Base",
+    "description": "Fast, high-quality AI image generator from text online.",
+    "website": "https://www.zimagebase.org",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI API, AI Models",
+    "slug": "z-image-base",
+    "created_at": "03:29:45 02/03/2026"
   },
   {
     "title": "Dia Browser",
