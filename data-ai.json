@@ -21814,6 +21814,15 @@
     "created_at": "14:13:12 07/25/2025"
   },
   {
+    "title": "Lucid Engine",
+    "name": "Lucid Engine",
+    "description": "Audit, track, and optimize your brand's visibility inside ChatGPT, Perplexity, and Gemini.The #1 Generative Engine Optimization (GEO) Platform.",
+    "website": "https://lucidengine.tech",
+    "categories": "AI SEO Tools, AI Digital Marketing, AI Marketing Plan Generator, AI For Data Analytics",
+    "slug": "lucid-engine",
+    "created_at": "14:38:20 02/03/2026"
+  },
+  {
     "title": "Pegleg.ai",
     "name": "pegleg.ai",
     "description": "Automated web scraping for copyright enforcement.",
@@ -29302,6 +29311,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "NanoClaw",
+    "name": "NanoClaw",
+    "description": "Lightweight, secure Claude assistant leveraging OS-level container isolation.",
+    "website": "https://nanoclaw.bot",
+    "categories": "AI Assistant, AI Agent, AI Developer Tools, AI Chatbot",
+    "slug": "nanoclaw",
+    "created_at": "14:38:20 02/03/2026"
+  },
+  {
     "title": "NotebookLM Watermark Remover",
     "name": "NotebookLM Watermark Remover",
     "description": "AI tool to instantly and securely remove watermarks from NotebookLM PDFs.",
@@ -36752,6 +36770,15 @@
     "categories": "AI Writing Assistants, AI Copywriting, AI Paraphraser, AI Proofreading, AI Rewriter, AI Spell Check, AI Writing",
     "slug": "toolsmart-free-humanize-ai",
     "created_at": "14:12:10 05/23/2025"
+  },
+  {
+    "title": "AI Music Maker (MusicMakerApp)",
+    "name": "musicmakerapp",
+    "description": "AI tool to generate studio-quality, royalty-free songs, beats, and vocals from text or lyrics.",
+    "website": "https://musicmakerapp.com",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Beat Generator, AI Instrumental Generator",
+    "slug": "musicmakerapp",
+    "created_at": "14:38:20 02/03/2026"
   },
   {
     "title": "Evolvoom",
