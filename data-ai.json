@@ -12194,6 +12194,15 @@
     "created_at": "02:48:22 12/12/2025"
   },
   {
+    "title": "EasyClaw",
+    "name": "Easyclaw",
+    "description": "The fastest, no-code installer for OpenClaw, ClawdBot, and MoltBot AI agent stack.",
+    "website": "https://easyclaw.app",
+    "categories": "AI Agent, AI Assistant, AI Developer Tools, Open Source AI Models",
+    "slug": "easyclaw",
+    "created_at": "03:27:05 02/04/2026"
+  },
+  {
     "title": "Unwink AI",
     "name": "Unwink AI",
     "description": "AI-powered platform for actionable customer insights and efficiency gains.",
@@ -15692,6 +15701,15 @@
     "categories": "AI Analytics Assistant, AI Team Collaboration, AI Project Management, AI Monitor & Report Builder, AI Log Management, AI Developer Tools, AI Code Assistant",
     "slug": "instalog",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Design In The Browser",
+    "name": "Design In The Browser",
+    "description": "AI-powered visual frontend development tool using point-and-click browser editing.",
+    "website": "https://designinthebrowser.com",
+    "categories": "AI Developer Tools, AI Code Assistant, AI Code Generator, AI Design Assistant",
+    "slug": "design-in-the-browser",
+    "created_at": "03:27:05 02/04/2026"
   },
   {
     "title": "TripleTen Career Aptitude Test",
@@ -24341,6 +24359,15 @@
     "categories": "AI Landing Page Builder, AI Website Designer, AI Website Builder, AI Documents Generator",
     "slug": "redesignr-ai-landing-page-builder-and-website-redesign",
     "created_at": "14:16:42 07/28/2025"
+  },
+  {
+    "title": "Nana Banana AI Image Editor",
+    "name": "Nana Banana AI Image Editor",
+    "description": "Advanced AI image editor and generator that transforms images with text prompts.",
+    "website": "https://nanaimage.ai",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI Image Enhancer, AI Background Generator, Object Remover AI",
+    "slug": "nana-banana-ai-image-editor",
+    "created_at": "03:27:05 02/04/2026"
   },
   {
     "title": "AI Image to Image Generator",
