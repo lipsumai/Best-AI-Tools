@@ -9656,6 +9656,15 @@
     "created_at": "14:13:38 11/10/2025"
   },
   {
+    "title": "Kaomojiya",
+    "name": "Kaomojiya",
+    "description": "Japan's largest kaomoji site offering over 3000 cute emoticons for free copy and paste.",
+    "website": "https://www.kaomojiya.org",
+    "categories": "Other",
+    "slug": "kaomojiya",
+    "created_at": "14:37:42 02/05/2026"
+  },
+  {
     "title": "BeautiAI",
     "name": "BeautiAI",
     "description": "Personalized AI feedback for your style",
@@ -10932,6 +10941,15 @@
     "categories": "AI Image Generator, Text to Image, AI Art Generator",
     "slug": "qwen-image-2512-ai",
     "created_at": "02:54:15 01/02/2026"
+  },
+  {
+    "title": "Kling 3 AI",
+    "name": "Kling 3.0",
+    "description": "AI platform for 4K cinematic video and image generation with character consistency.",
+    "website": "https://kling3.app",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, AI Lip Sync Generator, Image to Video, Video to Video",
+    "slug": "kling-3-0",
+    "created_at": "14:37:42 02/05/2026"
   },
   {
     "title": "Autohive",
@@ -12849,6 +12867,15 @@
     "categories": "AI Assistant, AI Models, AI Chatbot, AI Image Generator, AI Search Engine, AI PDF",
     "slug": "dotlane",
     "created_at": "02:47:04 07/10/2025"
+  },
+  {
+    "title": "AI UGC Video Generator",
+    "name": "AI UGC Video Generator",
+    "description": "AI UGC Video Generator for creating high-converting, cost-effective video ads instantly.",
+    "website": "https://aiugcvideogen.com",
+    "categories": "AI UGC Video Generator, AI Ad Generator, AI Video Generator, AI Commercial Generator, AI Short Video Generator",
+    "slug": "ai-ugc-video-generator",
+    "created_at": "14:37:42 02/05/2026"
   },
   {
     "title": "Quickads",
@@ -30004,6 +30031,15 @@
     "created_at": "14:12:41 05/14/2025"
   },
   {
+    "title": "Kling 3 AI",
+    "name": "Kling 3",
+    "description": "Next-Gen AI video generator creating professional 4K cinematic content from text.",
+    "website": "https://kling3.net",
+    "categories": "AI Video Generator, Text to Video, Script To Video AI Generator, Image to Video, AI API",
+    "slug": "kling-3",
+    "created_at": "14:37:42 02/05/2026"
+  },
+  {
     "title": "whisperthunder online - AI Video Generator",
     "name": "whisperthunder online - AI Video Generator",
     "description": "World's #1 AI video generator, transforming text into stunning 1080p videos.",
@@ -32830,6 +32866,15 @@
     "created_at": "14:10:26 06/04/2025"
   },
   {
+    "title": "Gologin Cloud Browser",
+    "name": "Gologin Cloud Browser",
+    "description": "Gologin Cloud Browser is a web browser for AI and automation that allows teams and developers to run, control, and scale real browser sessions in the cloud via UI or API.",
+    "website": "https://gologin.com",
+    "categories": "AI Browsers",
+    "slug": "gologin-cloud-browser",
+    "created_at": "14:37:42 02/05/2026"
+  },
+  {
     "title": "Denote",
     "name": "Denote",
     "description": "AI-powered platform to save, analyze, and generate social media ads.",
@@ -32855,6 +32900,15 @@
     "categories": "AI Illustration Generator, AI Image Generator, Text to Image, AI Drawing, AI Character",
     "slug": "illustro-ai-illustration-generator",
     "created_at": "02:59:02 08/07/2025"
+  },
+  {
+    "title": "Kling 3.0",
+    "name": "Kling 3.0-",
+    "description": "Free AI video generator by Kuaishou with text/image input and motion control.",
+    "website": "https://kling-3.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Script To Video AI Generator, AI API",
+    "slug": "kling-3-0-1",
+    "created_at": "14:37:42 02/05/2026"
   },
   {
     "title": "Aurk",
@@ -34637,6 +34691,15 @@
     "categories": "AI Image Scanning, AI Image Recognition",
     "slug": "ai-snap-sort",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "AIGAZOU",
+    "name": "AIGAZOU 1",
+    "description": "AIGAZOU is a powerful, free-to-try AI image generator that requires no signup. Powered by cutting-edge models like GPT-4o, SeeDream 4.5, and Nano Banana Pro, it transforms text into stunning visuals instantly. Join our Daily Check-in event to unlock more creative possibilities!",
+    "website": "https://aigazou.net",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator, AI Anime Generator, AI Realistic Image Generator, AI Illustration Generator",
+    "slug": "aigazou-1",
+    "created_at": "14:37:42 02/05/2026"
   },
   {
     "title": "Malloy Studio - You AI Motion Designer",
@@ -36527,6 +36590,15 @@
     "categories": "AI Design Generator, AI Floor Plan Generator, AI Interior Design, AI Realistic Image Generator, AI Landscape Generator",
     "slug": "ai-architectures",
     "created_at": "02:10:58 10/04/2025"
+  },
+  {
+    "title": "Lorka AI",
+    "name": "Lorka AI",
+    "description": "All-in-one platform combining multiple top AI models in a single, cost-saving subscription.",
+    "website": "https://www.lorka.ai",
+    "categories": "AI Assistant, AI Chatbot, AI Models, AI Productivity Tools, Large Language Models (LLMs)",
+    "slug": "lorka-ai",
+    "created_at": "14:37:42 02/05/2026"
   },
   {
     "title": "Linkjob.ai",
