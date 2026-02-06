@@ -4931,6 +4931,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Use AI",
+    "name": "Use AI",
+    "description": "Multi-Model AI Chat Assistant providing unified access to 25+ LLMs like GPT-5 and Claude.",
+    "website": "https://use.ai",
+    "categories": "AI Assistant, AI Chatbot, Large Language Models (LLMs), AI Models",
+    "slug": "use-ai",
+    "created_at": "14:35:44 02/06/2026"
+  },
+  {
     "title": "SigmaNote",
     "name": "SigmaNote - your second brain",
     "description": "AI-powered tool turning files/links into editable, searchable notes.",
@@ -8367,6 +8376,15 @@
     "categories": "AI Art Generator, AI Content Generator, AI Photo & Image Generator",
     "slug": "promptum-ai-images-feed",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Natural Write",
+    "name": "AI Natural Write",
+    "description": "Humanizes AI text using proprietary Anti-AI algorithm to bypass major AI detectors.",
+    "website": "https://ainaturalwrite.com",
+    "categories": "AI Bypasser, Undetectable AI, Humanizer AI, AI Rewriter, AI Content Detector",
+    "slug": "ai-natural-write",
+    "created_at": "14:35:44 02/06/2026"
   },
   {
     "title": "OpenAI Academy",
@@ -13865,6 +13883,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
     "slug": "veo-3-1-video-generator",
     "created_at": "14:12:57 10/16/2025"
+  },
+  {
+    "title": "ClawShip",
+    "name": "ClawShip",
+    "description": "Official, one-click, fully managed deployment platform for OpenClaw AI bots.",
+    "website": "https://clawship.ai",
+    "categories": "AI Assistant, AI Chatbot, AI Developer Tools, No-Code&Low-Code",
+    "slug": "clawship",
+    "created_at": "14:35:44 02/06/2026"
   },
   {
     "title": "Style3D AI",
@@ -34484,6 +34511,15 @@
     "categories": "AI Website Builder, AI Website Designer, No-Code&Low-Code, AI Assistant",
     "slug": "mysite-ai",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0-",
+    "description": "AI video generator (ByteDance Seedance V2) creating 1080p cinematic videos from text/images.",
+    "website": "https://www.seedance2ai.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "seedance-2-0-1",
+    "created_at": "14:35:44 02/06/2026"
   },
   {
     "title": "Sprk™",
