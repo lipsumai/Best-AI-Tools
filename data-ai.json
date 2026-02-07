@@ -4248,6 +4248,15 @@
     "created_at": "14:12:09 10/21/2025"
   },
   {
+    "title": "Kling 3.0 AI",
+    "name": "Kling 3.0 AI-",
+    "description": "Built around Kling 3.0, our API-powered platform helps you generate cinematic AI videos with multi-shot storyboarding, optional native audio, and stronger subject consistency — plus a full image suite with 10 frontier image models (Flux 2 family, Nano Banana, Seedream, GPT-4o, Z-Image). Generate multiple outputs per prompt, use up to 8 reference images on supported models, and pay with a transparent fixed credit system for images (2–6 credits per generation).",
+    "website": "https://kling3.co",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Short Video Generator, AI Video Editor",
+    "slug": "kling-3-0-ai-1",
+    "created_at": "03:20:16 02/07/2026"
+  },
+  {
     "title": "Kie.ai:Affordable and Reliable Nano Banana API for Image Generation & Editing",
     "name": "Kie.ai:Affordable and Reliable Nano Banana API for Image Generation & Editing",
     "description": "Affordable and seamless AI image workflows with the Nano Banana API through Kie.ai.",
