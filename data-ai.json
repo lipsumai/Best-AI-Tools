@@ -1044,6 +1044,15 @@
     "created_at": "14:17:22 01/07/2026"
   },
   {
+    "title": "Kolva",
+    "name": "Kolva",
+    "description": "Kolva is the smarter way to capture and action your meetings. Instantly record, transcribe, and get AI-powered summaries—no monthly subscription required. Pay only for what you use, from just 20p an hour. Try Kolva and get more from every meeting.",
+    "website": "https://kolva.io",
+    "categories": "AI Meeting Assistant, AI Productivity Tools, AI Task Management",
+    "slug": "kolva",
+    "created_at": "03:49:54 02/08/2026"
+  },
+  {
     "title": "Image To Image AI",
     "name": "Image To Image AI",
     "description": "AI tool to transform images using text prompts.",
@@ -6749,6 +6758,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2 AI",
+    "description": "ByteDance's AI video generator offering 1080p resolution, advanced motion, and multi-shot consistency.",
+    "website": "https://seedance-2-ai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "seedance-2-ai",
+    "created_at": "03:49:54 02/08/2026"
+  },
+  {
     "title": "SleekFlow",
     "name": "SleekFlow",
     "description": "AI platform for automating customer interactions across messaging channels.",
@@ -11879,6 +11897,15 @@
     "created_at": "14:13:57 10/22/2025"
   },
   {
+    "title": "Seedream 5.0 AI Image Generator",
+    "name": "Seedream 5.0-",
+    "description": "AI image generator specializing in perfect text rendering and industry-optimized commercial graphics.",
+    "website": "https://seedream5ai.org",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Ad Generator, AI Thumbnail Maker, AI Product Photography, AI Banner Generator, AI Background Remover, AI Image Upscaler, AI API",
+    "slug": "seedream-5-0-1",
+    "created_at": "03:49:54 02/08/2026"
+  },
+  {
     "title": "ReachInbox",
     "name": "ReachInbox",
     "description": "AI tool for cold email outreach and engagement.",
@@ -12858,6 +12885,15 @@
     "categories": "Writing Assistants, AI Code Assistant, AI Code Generator, AI Developer Tools, AI Response Generator, Large Language Models (LLMs)",
     "slug": "gaidme",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "NeatScribe",
+    "name": "NeatScribe",
+    "description": "Intelligent audio & video to text converter",
+    "website": "https://neatscribe.com",
+    "categories": "AI Voice Translator, AI Video Translator, AI Productivity Tools",
+    "slug": "neatscribe",
+    "created_at": "03:49:54 02/08/2026"
   },
   {
     "title": "NanoBananas AI",
@@ -14396,6 +14432,15 @@
     "categories": "AI Voice Cloning, Text-to-Speech, AI Speech Synthesis, AI Podcast Assistant",
     "slug": "minimax-audio",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Seedance 2.0 AI Video Generator",
+    "name": "Seedance 2.0-3",
+    "description": "AI tool generating professional, broadcast-ready 4K videos from text prompts.",
+    "website": "https://seedance-2.net",
+    "categories": "AI Video Generator, Text to Video, AI Short Video Generator, AI Tiktok Video Generator, AI Commercial Generator",
+    "slug": "seedance-2-0-3",
+    "created_at": "03:49:54 02/08/2026"
   },
   {
     "title": "AppStruct",
@@ -20122,6 +20167,15 @@
     "created_at": "14:10:54 06/22/2025"
   },
   {
+    "title": "seedance 2.0",
+    "name": "seedance 2.0-1",
+    "description": "The latest AI video generation platform for the next generation, which can generate short videos by inputting text or images, and supports transition between the first and last frames as well as video stylization.",
+    "website": "https://seedance20.net",
+    "categories": "AI Video Generator, AI Animated Video, AI Animation Generator, AI Movie Generator, AI Short Video Generator, AI Stock Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, AI Youtube Video Maker, Image to Video, Script To Video AI Generator, Text to Video, Video to Video",
+    "slug": "seedance-2-0-1-1",
+    "created_at": "03:49:54 02/08/2026"
+  },
+  {
     "title": "Sand.ai",
     "name": "Sand.ai",
     "description": "AI research and product company focusing on video generation models.",
@@ -24424,6 +24478,15 @@
     "created_at": "14:12:38 05/30/2025"
   },
   {
+    "title": "Seedance 2.0 AI Video Generator",
+    "name": "Seedance 2.0 AI Video Generator",
+    "description": "Seedance 2.0 is ByteDance's latest AI video generation model. It   supports text-to-video, image-to-video, video-to-video, and   audio-to-video — all in one model. Generate cinematic 2K videos   (4-15s) with multi-shot storytelling, character consistency,   native audio sync with 8+ language lip-sync, and precise camera   control from reference inputs. Built on Dual-Branch DiT   architecture. Free to start, no credit card required.",
+    "website": "https://seedance2-pro.com",
+    "categories": "AI Video Generator",
+    "slug": "seedance-2-0-ai-video-generator",
+    "created_at": "03:49:54 02/08/2026"
+  },
+  {
     "title": "reqmatch_",
     "name": "reqmatch_",
     "description": "AI platform for CV refinement and job match analysis.",
@@ -25052,6 +25115,15 @@
     "categories": "Life Assistant, Writing Assistants, AI Content Generator",
     "slug": "qoop-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedance 2 AI",
+    "name": "Seedance 2-2",
+    "description": "Multi-modal AI video generator with universal reference and built-in audio.",
+    "website": "https://seedance-2.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Music Generator, AI Sound Effect Generator",
+    "slug": "seedance-2-2",
+    "created_at": "03:49:54 02/08/2026"
   },
   {
     "title": "AI Image Editor",
@@ -28906,6 +28978,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "Seedance 2.0 AI Video Generator",
+    "name": "Seedance 2.0-2",
+    "description": "ByteDance AI video generator with native audio and 2K cinematic multi-shot narratives.",
+    "website": "https://seedance-2.top",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "seedance-2-0-2",
+    "created_at": "03:49:54 02/08/2026"
+  },
+  {
     "title": "ChatPLG",
     "name": "ChatPLG",
     "description": "On-demand PLG expert powered by Open AI",
@@ -30002,6 +30083,15 @@
     "categories": "AI Assistant, AI Agent, Open Source AI Models, AI Productivity Tools",
     "slug": "moltbot-ai",
     "created_at": "14:33:14 01/29/2026"
+  },
+  {
+    "title": "Orphiq",
+    "name": "Orphiq",
+    "description": "Orphiq gives music artists and their teams a personalized AI strategist that generates release timelines, content plans, copy drafts, and career growth advice.",
+    "website": "https://orphiq.com",
+    "categories": "AI Coaching, AI Copywriting, AI Social Media, AI Project Management, AI Email Marketing, AI Marketing, AI Marketing Plan Generator, AI Assistant, AI Productivity Tools, AI Scheduling",
+    "slug": "orphiq",
+    "created_at": "03:49:54 02/08/2026"
   },
   {
     "title": "AI Notes",
@@ -35195,6 +35285,15 @@
     "categories": "AI Games, AI Roleplay, AI Character, AI Girlfriend, AI Boyfriend",
     "slug": "questie-ai",
     "created_at": "14:12:57 10/16/2025"
+  },
+  {
+    "title": "Seedance2 AI",
+    "name": "Seedance 2-1",
+    "description": "ByteDance-powered AI platform generating cinematic 1080p video content from text and images.",
+    "website": "https://seedanceai.me",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Ad Creative, AI Social Media Post Generator",
+    "slug": "seedance-2-1",
+    "created_at": "03:49:54 02/08/2026"
   },
   {
     "title": "Spark AI",
