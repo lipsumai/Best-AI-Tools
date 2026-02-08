@@ -3330,6 +3330,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "clawbot",
+    "name": "Clawbot-1",
+    "description": "Open-source, self-hosted personal AI infrastructure for autonomous task execution and privacy.",
+    "website": "https://clawbot.ai",
+    "categories": "AI Assistant, AI Agent, AI Developer Tools, AI Productivity Tools",
+    "slug": "clawbot-1",
+    "created_at": "14:20:08 02/08/2026"
+  },
+  {
     "title": "Dataneko",
     "name": "DataNeko",
     "description": "Centralize and streamline data management with ease.",
@@ -23245,6 +23254,15 @@
     "created_at": "14:15:43 07/31/2025"
   },
   {
+    "title": "Seedance 2",
+    "name": "Seedance2",
+    "description": "ByteDance's multi-modal AI tool transforming text and images into cinematic videos up to 8K.",
+    "website": "https://seedance-2.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Animation Generator, AI Sound Effect Generator, AI Image Generator",
+    "slug": "seedance2",
+    "created_at": "14:20:08 02/08/2026"
+  },
+  {
     "title": "AI Clothes Changer",
     "name": "AI Clothes Changer",
     "description": "Transform your look in seconds with AI Clothes Changer — the easiest way to try on stylish outfits without changing your clothes. Whether you're browsing fashion ideas or planning your next photoshoot, this AI-powered tool helps you explore new styles instantly.",
@@ -24440,6 +24458,15 @@
     "categories": "AI Video Generator, AI Report Writing, AI Image Generator, AI Product Photography, Text to Image, AI Drawing, AI Cartoon Video Generator, AI Movie Generator, AI Short Video Generator, Image to Video, Text to Video",
     "slug": "winmov-veo-3-1-grok-kling-video-generator",
     "created_at": "14:22:15 01/28/2026"
+  },
+  {
+    "title": "WonderPic - AI Photo Editor",
+    "name": "WonderPic",
+    "description": "AI photo editor offering 40+ artistic styles, skin tone changes, and high-res output.",
+    "website": "https://www.wonderpic.art",
+    "categories": "AI Photo Editor, AI Image Generator, AI Art Generator, AI Cartoon Generator, AI Sketch Generator, Image to Image, AI Style Transfer",
+    "slug": "wonderpic",
+    "created_at": "14:20:08 02/08/2026"
   },
   {
     "title": "FloatAI",
@@ -34745,6 +34772,15 @@
     "categories": "AI Podcast Assistant, AI Interview Assistant, Legal Assistant, AI Education Assistant, AI Productivity Tools, AI Meeting Assistant, AI Notes Assistant, Transcription, Transcriber, AI Speech Recognition, Speech-to-Text, AI Team Collaboration, Summarizer, Captions or Subtitle",
     "slug": "soundtype-ai",
     "created_at": "14:12:51 04/16/2025"
+  },
+  {
+    "title": "Palix AI",
+    "name": "Palix AI",
+    "description": "Unified AI platform for generating images, videos, and music instantly.",
+    "website": "https://palix.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, Text to Video, Text to Image, Image to Video",
+    "slug": "palix-ai",
+    "created_at": "14:20:08 02/08/2026"
   },
   {
     "title": "YinYang AI",
