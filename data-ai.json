@@ -990,6 +990,15 @@
     "created_at": "02:17:27 09/30/2025"
   },
   {
+    "title": "Kubrix",
+    "name": "Kubrix",
+    "description": "AI platform for cinema-quality video generation and AI video application development.",
+    "website": "https://kubrix.co",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Commercial Generator, AI Video Editor",
+    "slug": "kubrix",
+    "created_at": "14:45:22 02/09/2026"
+  },
+  {
     "title": "make.ad",
     "name": "Make.ad",
     "description": "AI platform for creating high-converting ads from text.",
@@ -2743,6 +2752,15 @@
     "categories": "AI Email Marketing, AI Email Assistant, AI Advertising Assistant, AI Product Description Generator",
     "slug": "bec-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Kling 3.0 AI Video Generator",
+    "name": "Kling 3.0 Free",
+    "description": "Unified multimodal AI video engine generating physics-accurate, cinema-grade 4K videos with native audio.",
+    "website": "https://kling3.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Video Editor, AI Lip Sync Generator",
+    "slug": "kling-3-0-free",
+    "created_at": "14:45:22 02/09/2026"
   },
   {
     "title": "Doctorina",
@@ -4806,6 +4824,15 @@
     "created_at": "03:22:27 01/29/2026"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedancy 2",
+    "description": "Next-gen AI video generator by CapCut/ByteDance for cinematic 2K videos with perfect consistency.",
+    "website": "https://seedancy2.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Commercial Generator",
+    "slug": "seedancy-2",
+    "created_at": "14:45:22 02/09/2026"
+  },
+  {
     "title": "Studioify",
     "name": "Studioify",
     "description": "Turn ordinary clothing photos into professional studio-quality images in seconds with AI.",
@@ -4902,6 +4929,15 @@
     "categories": "AI Forms, AI Chatbot, AI Copilot, AI Quiz Generator",
     "slug": "pollystack",
     "created_at": "14:12:52 07/16/2025"
+  },
+  {
+    "title": "Gistilo",
+    "name": "Gistilo",
+    "description": "Clear your Watch Later backlog fast. Gistilo delivers 7 Key Insights or a Detailed Summary for any YouTube video in under 60 seconds. Pro adds optional fact-checking with cited sources.",
+    "website": "https://gistilo.com",
+    "categories": "AI Youtube Summary, AI Video Summarizer, AI Productivity Tools",
+    "slug": "gistilo",
+    "created_at": "14:45:22 02/09/2026"
   },
   {
     "title": "BLACKBOX.AI",
@@ -6918,6 +6954,15 @@
     "categories": "AI Chatbot, AI Assistant, AI Knowledge Management, AI Productivity Tools",
     "slug": "memorr-ai",
     "created_at": "14:12:59 11/13/2025"
+  },
+  {
+    "title": "RoxyBrowser",
+    "name": "RoxyBrowser",
+    "description": "The First MCP-Native Anti-Detect Browser for AI Agents",
+    "website": "https://roxybrowser.com",
+    "categories": "AI Developer Tools, AI API, AI App Builder, AI Browsers, AI Code Assistant, AI Github, AI Web Scraping, AI Website Builder",
+    "slug": "roxybrowser",
+    "created_at": "14:45:22 02/09/2026"
   },
   {
     "title": "AI Anime Generator",
@@ -9771,6 +9816,24 @@
     "categories": "AI Tools Directory, AI Advertising Assistant",
     "slug": "aiquare",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0-4",
+    "description": "ByteDance's advanced AI video generator producing 2K cinematic multi-shot videos with synchronized audio.",
+    "website": "https://seedance2.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator, AI Short Video Generator",
+    "slug": "seedance-2-0-4",
+    "created_at": "14:45:22 02/09/2026"
+  },
+  {
+    "title": "Seedance 2 Video Generator",
+    "name": "Seedance 2 Video",
+    "description": "Advanced AI video generator by ByteDance for cinematic videos from text and images.",
+    "website": "https://seedance2video.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Short Video Generator",
+    "slug": "seedance-2-video",
+    "created_at": "14:45:22 02/09/2026"
   },
   {
     "title": "Crafted",
@@ -17017,6 +17080,15 @@
     "created_at": "14:16:00 12/22/2025"
   },
   {
+    "title": "Video Cutter",
+    "name": "Video Cutter",
+    "description": "Free, fast online tool to cut and trim videos instantly with no login required.",
+    "website": "https://videocutter.io",
+    "categories": "Other",
+    "slug": "video-cutter",
+    "created_at": "14:45:22 02/09/2026"
+  },
+  {
     "title": "ProxyCC",
     "name": "ProxyCC",
     "description": "Global IP proxy provider for various online tasks.",
@@ -23101,6 +23173,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "EZTrimmer",
+    "name": "EZTrimmer – Free Online Video Cutter",
+    "description": "Free, ad-free online tool for precise video cutting and trimming.",
+    "website": "https://eztrimmer.io",
+    "categories": "Other",
+    "slug": "eztrimmer-free-online-video-cutter",
+    "created_at": "14:45:22 02/09/2026"
+  },
+  {
     "title": "Wan 2.5 AI",
     "name": "Wan 2.5 AI",
     "description": "Wan 2.5 AI Video Generator - text to video & image to video cinematic creation",
@@ -26899,6 +26980,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Seedance",
+    "name": "Seedance AI - 1",
+    "description": "AI video generator creating 1080p cinematic videos from text or images.",
+    "website": "https://seedance.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
+    "slug": "seedance-ai-1-1",
+    "created_at": "14:45:22 02/09/2026"
+  },
+  {
     "title": "AI-VideoCraft",
     "name": "Video Prompt AI",
     "description": "Effortlessly create captivating videos with AI visuals and speech integration.",
@@ -27545,6 +27635,15 @@
     "categories": "AI Cover Letter Generator, AI Resume Builder, AI Resume Checker, AI Writing Assistants",
     "slug": "ai-cover-letter-generator-free-professional-cover-letters",
     "created_at": "14:13:21 10/15/2025"
+  },
+  {
+    "title": "AudioCut",
+    "name": "AudioCut",
+    "description": "Free Online Audio Cut - Trim MP3, WAV & More",
+    "website": "https://audiocut.io",
+    "categories": "AI Audio Editing",
+    "slug": "audiocut",
+    "created_at": "14:45:22 02/09/2026"
   },
   {
     "title": "Grably",
