@@ -2619,6 +2619,15 @@
     "created_at": "14:10:54 06/22/2025"
   },
   {
+    "title": "PaperBanana",
+    "name": "PaperBanana",
+    "description": "Transform raw scientific content into publication-quality diagrams and plots automatically. PaperBanana lifts the illustration bottleneck in your research workflow.",
+    "website": "https://paper-banana.ai",
+    "categories": "AI Illustration Generator, AI Image Generator, AI Poster Generator, AI Diagram Generator, AI Research Tool",
+    "slug": "paperbanana-ai-academic-illustration-generator",
+    "created_at": "03:46:21 02/10/2026"
+  },
+  {
     "title": "AI Garden Design",
     "name": "AI Garden Design",
     "description": "AI tool for instant, personalized garden and landscape design.",
@@ -4822,6 +4831,15 @@
     "categories": "AI Art Generator, AI Image Generator, AI Video Generator, Text to Image, Text to Video, AI Design Assistant, AI Inpainting, AI Outpainting",
     "slug": "flora-ai",
     "created_at": "03:22:27 01/29/2026"
+  },
+  {
+    "title": "Storyship",
+    "name": "Storyship",
+    "description": "AI tool transforming raw screen recordings into professional product demo videos.",
+    "website": "https://storyship.app",
+    "categories": "AI Video Generator, AI Voice Over, AI Avatar Generator, AI Transcription, AI Voice Cloning, AI Thumbnail Maker",
+    "slug": "storyship",
+    "created_at": "03:46:21 02/10/2026"
   },
   {
     "title": "Seedance 2.0",
@@ -11582,6 +11600,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0-5",
+    "description": "AI platform transforming text and images into cinematic videos instantly.",
+    "website": "https://seedance2.studio",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "seedance-2-0-5",
+    "created_at": "03:46:21 02/10/2026"
+  },
+  {
     "title": "Bananaimg AI",
     "name": "Bananaimg AI",
     "description": "Unleash Your Creativity with BananaImg.online. Welcome to the premier hub for Nano Banana and Nano Banana Pro models. Experience lightning-fast AI image generation, advanced editing tools, and a vast library of preset effects. Explore our community gallery for endless inspiration and turn your ideas into visual reality—instantly.",
@@ -12849,6 +12876,15 @@
     "categories": "AI Blog Generator, AI SEO Tools, AI Writing, AI Writing Assistants",
     "slug": "tab",
     "created_at": "02:17:27 09/30/2025"
+  },
+  {
+    "title": "ImagineGo",
+    "name": "ImagineGo",
+    "description": "One-stop platform for top-tier AI video and image generation models.",
+    "website": "https://imaginego.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, Image to Image",
+    "slug": "imaginego",
+    "created_at": "03:46:21 02/10/2026"
   },
   {
     "title": "VO3 AI",
@@ -14740,6 +14776,15 @@
     "created_at": "14:09:56 09/20/2025"
   },
   {
+    "title": "SkillsConverter – Turn your brand manual into an AI-ready Skill Pack",
+    "name": "SkillsConverter – Turn your brand manual into an AI-ready Skill Pack",
+    "description": "We built a tool that solves a problem that kept frustrating us",
+    "website": "https://skillsconverter.com",
+    "categories": "AI Agent, AI Assistant, AI Writing Assistants, AI Design Assistant, AI Marketing",
+    "slug": "skillsconverter-turn-your-brand-manual-into-an-ai-ready-skill-pack",
+    "created_at": "03:46:21 02/10/2026"
+  },
+  {
     "title": "Powered_by Agency",
     "name": "Powered_by Agency",
     "description": "Powered_By is world's first AI agency for SMBs. We design and deploy super-smart AI agents for voice, email, SMS-text, & workflows. We take the most cutting-edge AI agent technology and make it deadly simple and really affordable to operate.",
@@ -15782,6 +15827,15 @@
     "categories": "AI Social Media Assistant, AI Gift Ideas, AI Email Writer, AI Advertising Assistant, AI Instagram Assistant, AI Content Generator, AI Analytics Assistant, AI Ad Creative Assistant, AI Product Description Generator, Digital Marketing Generator, AI Email Assistant, AI Tiktok Assistant, AI Email Marketing, Marketing Plan Generator",
     "slug": "spray",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Faysell",
+    "name": "Faysell",
+    "description": "AI platform transforming product photos into viral UGC videos for TikTok and Amazon e-commerce.",
+    "website": "https://faysell.com",
+    "categories": "AI Video Generator, AI UGC Video Generator, AI Short Video Generator, Image to Video, AI Marketing",
+    "slug": "faysell",
+    "created_at": "03:46:21 02/10/2026"
   },
   {
     "title": "AI Angels",
@@ -17924,6 +17978,15 @@
     "categories": "Other",
     "slug": "bpm-finder",
     "created_at": "02:23:05 09/07/2025"
+  },
+  {
+    "title": "Seedance2",
+    "name": "Seedance2 - AI Video Generator",
+    "description": "Next-Gen AI video generator creating cinematic shorts with native audio and lip-sync.",
+    "website": "https://www.aiseedance2.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Ad Generator, AI Short Video Generator",
+    "slug": "seedance2-ai-video-generator",
+    "created_at": "03:46:21 02/10/2026"
   },
   {
     "title": "Eatlink",
@@ -25925,6 +25988,15 @@
     "categories": "Large Language Models (LLMs), AI Art Generator, AI Design Generator, AI Graphic Design, Design Assistant",
     "slug": "gpt-shirt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedance 2 Video Generator",
+    "name": "Seedance 2-3",
+    "description": "AI tool for cinematic video generation via text, image, or video workflows.",
+    "website": "https://seedancev2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video",
+    "slug": "seedance-2-3",
+    "created_at": "03:46:21 02/10/2026"
   },
   {
     "title": "PhotoFox AI",
