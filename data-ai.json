@@ -4329,6 +4329,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "heyfish.ai",
+    "name": "heyfish.ai",
+    "description": "HeyFish AI is an AI-powered UGC video ads platform that Create high-quality UGC-style video ads using single-person and dual-person AI digital humans, built-in ad templates, multi-language support, and 4K video output—optimized for TikTok, Meta, and YouTube.",
+    "website": "https://heyfish.ai",
+    "categories": "AI Video Generator, AI UGC Video Generator, AI Advertising, AI Marketing",
+    "slug": "heyfish-ai",
+    "created_at": "14:52:07 02/10/2026"
+  },
+  {
     "title": "NanoBanana2AI.com：Free AI Image Generator & Photo Editor",
     "name": "NanoBanana2AI.com：Free AI Image Generator & Photo Editor",
     "description": "Create refined, high-quality images for free using Nano Banana 2 — describe your vision, and the AI will shape the scene with intent and clarity.",
@@ -6009,6 +6018,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Youtube Video Maker, AI Tiktok Video Generator",
     "slug": "veoe-ai-video-agent",
     "created_at": "14:12:34 09/23/2025"
+  },
+  {
+    "title": "Seedance 2.0 AI",
+    "name": "Seedance 2.0 AI-7",
+    "description": "AI cinematic video generator with 2K resolution, character consistency, and native audio synchronization.",
+    "website": "https://seedance-2.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Animation Generator",
+    "slug": "seedance-2-0-ai-7",
+    "created_at": "14:52:07 02/10/2026"
   },
   {
     "title": "GrowOnReddit",
@@ -9249,6 +9267,15 @@
     "categories": "Text to Image",
     "slug": "imgsearch",
     "created_at": "02:43:13 06/19/2025"
+  },
+  {
+    "title": "Seedream 5.0",
+    "name": "Seedream 5.0-1",
+    "description": "Seedream 5.0 is an AI image generator powered by the Seedream 5 model, transforming text prompts into high-quality, realistic images for creative and commercial use.",
+    "website": "https://seedream50.com",
+    "categories": "AI Image Generator, AI Avatar Generator, AI Background Generator, AI Colorize, AI Cosplay Generator, AI Face Swap Generator, AI Headshot Generator, AI Image Combiner, AI Profile Picture Generator, AI Style Transfer",
+    "slug": "seedream-5-0-1-1",
+    "created_at": "14:52:07 02/10/2026"
   },
   {
     "title": "NutriNote",
@@ -22804,6 +22831,15 @@
     "created_at": "02:48:54 11/24/2025"
   },
   {
+    "title": "Seedance AI",
+    "name": "Seedance AI-6",
+    "description": "AI video generator for high-quality, realistic short-form cinematic content and marketing.",
+    "website": "https://seedance-ai.xyz",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "seedance-ai-6",
+    "created_at": "14:52:07 02/10/2026"
+  },
+  {
     "title": "Watermelon",
     "name": "Watermelon Pulse",
     "description": "Watermelon is an AI-powered customer service tool that automates support and improves customer experience.",
@@ -25322,6 +25358,15 @@
     "categories": "AI Writing Assistants, AI Presentation Generator, AI Productivity Tools, AI Documents Generator, AI For Data Analytics, AI PPT Maker",
     "slug": "anygen",
     "created_at": "14:13:58 12/31/2025"
+  },
+  {
+    "title": "LessonPlanGenerator",
+    "name": "Lesson Plan Generator",
+    "description": "AI tool generating standards-aligned, differentiated lesson plans in under 60 seconds.",
+    "website": "https://lessonplangenerator.com",
+    "categories": "AI Lesson Plan Generator, AI Teachers, AI Productivity Tools",
+    "slug": "lesson-plan-generator",
+    "created_at": "14:52:07 02/10/2026"
   },
   {
     "title": "Loop",
@@ -28825,6 +28870,15 @@
     "created_at": "14:12:32 10/01/2025"
   },
   {
+    "title": "Codeace",
+    "name": "Codeace AI",
+    "description": "Undetectable real-time AI assistant for acing technical and coding interviews.",
+    "website": "https://codeace.ai",
+    "categories": "AI Interview Assistant, AI Code Assistant, Undetectable AI, AI Developer Tools, AI Code Generator",
+    "slug": "codeace-ai",
+    "created_at": "14:52:07 02/10/2026"
+  },
+  {
     "title": "AI Agents Directory",
     "name": "AI Agents Directory",
     "description": "Comprehensive directory to discover, compare, and implement AI agent tools.",
@@ -30472,6 +30526,15 @@
     "created_at": "02:54:34 08/18/2025"
   },
   {
+    "title": "Findtube.AI",
+    "name": "Findtube.AI",
+    "description": "AI-powered YouTube search for learners — find knowledge, skip clickbait.",
+    "website": "https://findtube.ai",
+    "categories": "AI Productivity Tools, AI YouTube, AI Lesson Plan Generator",
+    "slug": "findtube-ai",
+    "created_at": "14:52:07 02/10/2026"
+  },
+  {
     "title": "OhChat",
     "name": "OhChat",
     "description": "AI-powered platform for uncensored chat with virtual characters.",
@@ -30803,6 +30866,15 @@
     "categories": "AI Checker, AI Dating Assistant",
     "slug": "tea-checker",
     "created_at": "14:12:44 01/17/2026"
+  },
+  {
+    "title": "Wav2Lip",
+    "name": "Wav2Lip",
+    "description": "AI tool for generating realistic lip-synced talking videos from audio and images.",
+    "website": "https://www.wav2lip.org",
+    "categories": "AI Lip Sync Generator, AI Dubbing, AI Video Generator, AI Avatar Video Generator",
+    "slug": "wav2lip",
+    "created_at": "14:52:07 02/10/2026"
   },
   {
     "title": "BookLed",
