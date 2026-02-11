@@ -1008,6 +1008,15 @@
     "created_at": "14:45:22 02/09/2026"
   },
   {
+    "title": "GLM 5",
+    "name": "GLM 5",
+    "description": "745B parameter AI model built for agentic intelligence and frontier-level reasoning.",
+    "website": "https://glm5.net",
+    "categories": "Large Language Models (LLMs), AI Models, Open Source AI Models, AI Agent, AI Creative Writing, AI Code Generator",
+    "slug": "glm-5",
+    "created_at": "14:47:00 02/11/2026"
+  },
+  {
     "title": "make.ad",
     "name": "Make.ad",
     "description": "AI platform for creating high-converting ads from text.",
@@ -1258,6 +1267,15 @@
     "categories": "AI App Builder, AI Code Generator, AI Code Assistant, AI Developer Tools",
     "slug": "vitara-ai",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "Grok Prompts",
+    "name": "Grok Prompts",
+    "description": "Grok Prompts is the ultimate Grok imagine spicy mode platform. Generate Grok image and Grok video with 500+ curated NSFW prompts. Powered by Grok spicy mode — the best Grok AI spicy image and video generator. Free to start with 20 credits.",
+    "website": "https://grokprompts.app",
+    "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Animation Generator, Image to Video, Text to Video, Video to Video",
+    "slug": "grok-prompts",
+    "created_at": "14:47:00 02/11/2026"
   },
   {
     "title": "EzUGC",
@@ -12068,6 +12086,15 @@
     "created_at": "02:26:48 04/14/2025"
   },
   {
+    "title": "Magicboat AI",
+    "name": "Magicboat AI",
+    "description": "From Script to Screen",
+    "website": "https://www.magicboat.net",
+    "categories": "AI Video Generator, Script To Video AI Generator, Text to Video, AI Voice Over, Storyboard AI, AI Lip Sync Generator",
+    "slug": "magicboat-ai",
+    "created_at": "14:47:00 02/11/2026"
+  },
+  {
     "title": "Tethered AI",
     "name": "Tethered AI",
     "description": "Tethered AI combines web searches and note-taking for an improved user experience.",
@@ -13622,6 +13649,15 @@
     "categories": "AI Video Generator, AI Short Video Generator, AI Tiktok Video Generator, AI Youtube Video Maker, AI Social Media Post Generator",
     "slug": "ai-asmr-generator-create-viral-videos-instantly",
     "created_at": "14:12:34 09/25/2025"
+  },
+  {
+    "title": "Seedance 2",
+    "name": "Seedance 2.0 Video - 1",
+    "description": "A multimodal AI video generator creating cinematic, controllable videos from text, images, video, and audio.",
+    "website": "https://seedance-2.run",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor, Video to Video",
+    "slug": "seedance-2-0-video-1",
+    "created_at": "14:47:00 02/11/2026"
   },
   {
     "title": "Grok Imagine",
@@ -21499,6 +21535,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0-8",
+    "description": "AI video generator from text, image, or audio.",
+    "website": "https://seedance2-ai.net",
+    "categories": "AI Video Generator, AI Animated Video, AI Short Video Generator, Image to Video, Text to Video",
+    "slug": "seedance-2-0-8-1",
+    "created_at": "14:47:00 02/11/2026"
+  },
+  {
     "title": "EchoPod",
     "name": "EchoPod",
     "description": "AI-powered podcast creation from written content.",
@@ -22244,6 +22289,15 @@
     "categories": "AI Homework Helper, AI Assistant, AI Flashcard Maker, AI Mind Mapping, AI PDF Summarizer, AI Youtube Summary, AI Paraphraser, AI Quizzes",
     "slug": "studyfox",
     "created_at": "14:13:09 06/23/2025"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0-9",
+    "description": "ByteDance's multimodal AI video generator for controllable, consistent, and audio-synced cinematic content.",
+    "website": "https://seedance2-ai.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Image Generator, AI Video Editor",
+    "slug": "seedance-2-0-9",
+    "created_at": "14:47:00 02/11/2026"
   },
   {
     "title": "FaceSwapVideo",
@@ -23171,6 +23225,15 @@
     "categories": "AI Agent, AI Developer Tools, Open Source AI Models",
     "slug": "openagents",
     "created_at": "14:17:22 01/07/2026"
+  },
+  {
+    "title": "TemVideo - AI Viral Product Video Maker",
+    "name": "TemVideo - AI Viral Product Video Maker",
+    "description": "Turn static product images and raw phone footage into high-converting UGC video ads for TikTok & Reels.",
+    "website": "https://temvideo.ai",
+    "categories": "Image to Video, AI Tiktok Video Generator, AI UGC Video Generator, AI Ad Generator, AI Marketing, AI Video Translator",
+    "slug": "temvideo-ai-viral-product-video-maker",
+    "created_at": "14:47:00 02/11/2026"
   },
   {
     "title": "CrePal AI",
@@ -32902,6 +32965,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "GenPPT AI",
+    "name": "GenPPT AI",
+    "description": "AI-powered presentation maker that generates, beautifies, and enhances professional PPT slides instantly.",
+    "website": "https://genppt.ai",
+    "categories": "AI PPT Maker, AI Presentation Generator",
+    "slug": "genppt-ai",
+    "created_at": "14:47:00 02/11/2026"
+  },
+  {
     "title": "AI Song Creator",
     "name": "Online AI Song Generator That Respects Your Craft",
     "description": "Create studio-quality, royalty-free music in seconds. Turn text into songs with vocals using our professional AI Music Generator.",
@@ -34484,6 +34556,15 @@
     "categories": "AI Content Detector, AI Analytics Assistant",
     "slug": "secur3d",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Crun",
+    "name": "Crun AI",
+    "description": "Unified API for accessing 100+ top-tier video, image, and audio AI models cost-effectively.",
+    "website": "https://crun.ai",
+    "categories": "AI API, AI Developer Tools, AI Video Generator, AI Image Generator, AI Music Generator, AI Voice Generator",
+    "slug": "crun-ai",
+    "created_at": "14:47:00 02/11/2026"
   },
   {
     "title": "Lymio",
