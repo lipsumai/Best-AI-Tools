@@ -261,6 +261,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "WALink",
+    "name": "WAlink",
+    "description": "WhatsApp link and QR code generator with analytics and multi-agent management tools.",
+    "website": "https://link.wadesk.io",
+    "categories": "AI Social Link, AI QR Code Generator, AI Marketing, AI Lead Generation",
+    "slug": "walink",
+    "created_at": "03:43:43 02/11/2026"
+  },
+  {
     "title": "Kolors AI",
     "name": "Kolors AI",
     "description": "AI design agent for image generation and editing.",
@@ -4902,6 +4911,15 @@
     "categories": "AI Design Generator, AI Image Generator, AI Ad Generator, AI Background Remover, AI Image Upscaler, AI Graphic Design",
     "slug": "rustic-ai",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "OpenClaw",
+    "name": "OpenClaw-1",
+    "description": "An open-source, local autonomous AI agent managed via WhatsApp, Telegram, or Discord.",
+    "website": "https://open-claw.org",
+    "categories": "AI Assistant, AI Agent, AI Productivity Tools, AI Developer Tools",
+    "slug": "openclaw-1-1",
+    "created_at": "03:43:43 02/11/2026"
   },
   {
     "title": "Gempix 2 AI Image Generator",
@@ -17350,6 +17368,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "Seedance 2.0 AI Video Generator",
+    "name": "Seedance 2.0 Pro",
+    "description": "Cinematic AI video generator with native audio sync and multi-shot character consistency.",
+    "website": "https://seedance2pro.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "seedance-2-0-pro",
+    "created_at": "03:43:43 02/11/2026"
+  },
+  {
     "title": "GoodLearns",
     "name": "GoodLearns",
     "description": "Online learning platform revolutionized by AI",
@@ -21103,6 +21130,15 @@
     "created_at": "14:12:12 08/22/2025"
   },
   {
+    "title": "Seedance 2.0 AI",
+    "name": "Seedance 2.0 -8",
+    "description": "Advanced AI platform for cinematic multimodal video generation and multi-shot storytelling.",
+    "website": "https://aiseedance2.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Short Video Generator, Video to Video",
+    "slug": "seedance-2-0-8",
+    "created_at": "03:43:43 02/11/2026"
+  },
+  {
     "title": "Uncoop",
     "name": "Uncoop",
     "description": "AI-powered Uncoop platform reads and summarizes books, eliminating the need for reading.",
@@ -24748,6 +24784,15 @@
     "created_at": "14:11:58 09/19/2025"
   },
   {
+    "title": "China University Admission Assistant",
+    "name": "China University Admission Assistant",
+    "description": "Data-driven AI agent matching international students with 700+ English-taught programs in China based on 2026 tiers.",
+    "website": "https://www.crosslineedu.com",
+    "categories": "AI Teachers, AI Reply, AI Response Generator",
+    "slug": "china-university-admission-assistant",
+    "created_at": "03:43:43 02/11/2026"
+  },
+  {
     "title": "Grok Video AI",
     "name": "Grok Video AI",
     "description": "AI video generator",
@@ -26069,6 +26114,15 @@
     "categories": "AI Assistant, AI Agent, AI Copilot",
     "slug": "tikpal",
     "created_at": "14:14:37 12/04/2025"
+  },
+  {
+    "title": "ZeroRank AI",
+    "name": "ZeroRank AI",
+    "description": "Track and improve your brand's visibility in AI search with clear analytics, actionable insights, and a one-click content generation engine.",
+    "website": "https://zerorank.ai",
+    "categories": "AI SEO Tools, SEO Writing AI",
+    "slug": "zerorank-ai",
+    "created_at": "03:43:43 02/11/2026"
   },
   {
     "title": "Loamly",
@@ -27905,6 +27959,15 @@
     "categories": "AI PDF, AI PDF Editor, AI Translate, AI OCR",
     "slug": "bestpdf",
     "created_at": "14:09:12 09/28/2025"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "seedance 2-7",
+    "description": "AI video generator creating 2K cinematic videos with native audio and character consistency.",
+    "website": "https://www.seedance2.today",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "seedance-2-7",
+    "created_at": "03:43:43 02/11/2026"
   },
   {
     "title": "Teammates.ai",
@@ -30319,6 +30382,24 @@
     "created_at": "02:27:01 11/27/2025"
   },
   {
+    "title": "EverFold",
+    "name": "EverFold",
+    "description": "Transforms personal photos into professionally printed, custom colouring books using AI technology.",
+    "website": "https://everfold.co.uk",
+    "categories": "AI Coloring Book Generator, AI Sketch Generator, AI Gift Ideas",
+    "slug": "everfold",
+    "created_at": "03:43:43 02/11/2026"
+  },
+  {
+    "title": "Candidate Search AI — ATS AI Search ATS",
+    "name": "Candidate Search AI — ATS AI Search ATS",
+    "description": "AI-powered candidate search that sits on top of your ATS. Search your database in plain English instead of Boolean. Candidate Search AI doesn't replace your ATS. It makes the search actually work. Recruiters describe who they're looking for in normal language, and the AI finds matching candidates across the entire database, ranked by relevance. No more Boolean strings, keyword guessing, or missed candidates buried on page 12.",
+    "website": "https://www.candidately.com",
+    "categories": "AI Recruiting, AI Interview Assistant",
+    "slug": "candidate-search-ai-ats-ai-search-ats",
+    "created_at": "03:43:43 02/11/2026"
+  },
+  {
     "title": "ASKWay for Android-AI Chat&Assistants",
     "name": "ASKWay",
     "description": "AI-powered Android app for creating customizable AI companions and engaging in interactive role-play.",
@@ -30506,6 +30587,15 @@
     "categories": "AI Mental Health, AI Coaching, AI Therapist, AI Assistant",
     "slug": "reflection",
     "created_at": "14:14:10 12/12/2025"
+  },
+  {
+    "title": "OutdoorBrite",
+    "name": "OutdoorBrite",
+    "description": "AI landscape design tool for instant photorealistic backyard and garden transformations.",
+    "website": "https://www.outdoorbrite.com",
+    "categories": "AI Landscape Generator, AI Backyard Design, AI Design Generator, AI Design Assistant",
+    "slug": "outdoorbrite",
+    "created_at": "03:43:43 02/11/2026"
   },
   {
     "title": "Text to Video Generator",
