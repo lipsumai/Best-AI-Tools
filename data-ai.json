@@ -9323,6 +9323,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Veeso AI",
+    "name": "Veeso AI",
+    "description": "turns raw copywriting into clear, polished visuals in one click, one minute, no design skills required.",
+    "website": "https://veeso.ai",
+    "categories": "AI Presentation Generator, AI Ad Generator, AI Productivity Tools, AI PPT Maker, AI Pitch Deck Generator, AI Marketing, AI Flyer Generator, AI Digital Marketing, AI UX Design, AI Album Cover Generator, AI Infographic Generator, AI Design Generator, AI Business Card Generator, AI Brochure Maker, AI Book Cover Generator, AI Banner Generator, AI Resume Builder",
+    "slug": "veeso-ai",
+    "created_at": "03:38:04 02/12/2026"
+  },
+  {
     "title": "Vsub",
     "name": "Vsub",
     "description": "AI platform for creating faceless videos quickly and easily.",
@@ -23459,6 +23468,15 @@
     "categories": "AI For Finance, AI Stock Trading, AI Trading Bot, AI Crypto, AI Agent, AI Robot",
     "slug": "auto-ai-trendlines-indicator-to-tradingview",
     "created_at": "02:44:24 08/09/2025"
+  },
+  {
+    "title": "Veemo AI",
+    "name": "Veemo",
+    "description": "All-in-one AI platform for multi-model video, image, and audio generation.",
+    "website": "https://veemo.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, AI Photo Editor, AI Avatar Generator",
+    "slug": "veemo",
+    "created_at": "03:38:04 02/12/2026"
   },
   {
     "title": "Hyresynth",
