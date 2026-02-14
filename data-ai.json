@@ -12888,6 +12888,15 @@
     "created_at": "14:19:12 01/14/2026"
   },
   {
+    "title": "Seeddance",
+    "name": "Seeddance",
+    "description": "All-in-one multi-modal AI platform for cinematic video, image, and music generation.",
+    "website": "https://seeddance.video",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Music Generator, AI Video Editor",
+    "slug": "seeddance",
+    "created_at": "03:23:35 02/14/2026"
+  },
+  {
     "title": "ResolveBot",
     "name": "Resolvebot",
     "description": "Streamline email customer service with ResolveBot.",
@@ -13039,6 +13048,15 @@
     "categories": "Image to Image, AI Image Generator, Text to Image, AI Photo Editor, AI Image Enhancer, AI Background Remover, Object Remover AI, Image to Video, Text to Video",
     "slug": "lemon-ai",
     "created_at": "02:48:22 12/12/2025"
+  },
+  {
+    "title": "Seadance AI-Seedance 2.0",
+    "name": "Seadance AI-Seedance 2.0",
+    "description": "An all-in-one AI platform for professional video generation, image creation, and video effects.",
+    "website": "https://seadance.io",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image",
+    "slug": "seadance-ai-seedance-2-0",
+    "created_at": "03:23:35 02/14/2026"
   },
   {
     "title": "Ibuyprompts - AI Freelance Marketplace",
@@ -17709,6 +17727,15 @@
     "categories": "Other",
     "slug": "skyhitz",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "RNWY",
+    "name": "RNWY",
+    "description": "On-chain reputation system and identity infrastructure for verifying and tracking AI agents.",
+    "website": "https://rnwy.com",
+    "categories": "AI Agent, AI Social Media, Blockchain, Web3, AI Tools Directory",
+    "slug": "rnwy",
+    "created_at": "03:23:35 02/14/2026"
   },
   {
     "title": "Promptdle",
