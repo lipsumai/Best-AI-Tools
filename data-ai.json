@@ -23678,6 +23678,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ampere",
+    "name": "Ampere",
+    "description": "Ampere let's you Deploy OpenClaw AI agents in 60 seconds with free managed hosting and $500 in Claude credits. No servers. No Docker. No DevOps.",
+    "website": "https://www.ampere.sh",
+    "categories": "AI Developer Tools",
+    "slug": "ampere",
+    "created_at": "14:19:04 02/14/2026"
+  },
+  {
     "title": "Friendware",
     "name": "Friendware",
     "description": "A proactive, context-aware AI copilot for macOS that automates workflow and communication.",
@@ -36878,6 +36887,15 @@
     "categories": "AI Agent, AI Assistant, AI Chatbot, AI Customer Service, AI Lead Generation, AI Sales Assistant",
     "slug": "digital-self-by-fiction",
     "created_at": "14:12:46 10/24/2025"
+  },
+  {
+    "title": "Seeddance",
+    "name": "Seeddance-1",
+    "description": "Next-gen AI platform for cinematic video generation, consistent storytelling, and integrated audio tools.",
+    "website": "https://seeddance.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Models, AI Lip Sync Generator",
+    "slug": "seeddance-1",
+    "created_at": "14:19:04 02/14/2026"
   },
   {
     "title": "Mailteorite",
