@@ -7344,6 +7344,15 @@
     "created_at": "14:14:45 07/30/2025"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0-12",
+    "description": "An advanced AI video generation and enhancement platform specializing in high-quality, fluid cinematic creations through state-of-the-art diffusion models.",
+    "website": "https://seedance2pro.io",
+    "categories": "Text to Video, AI Animated Video, AI Music Video Generator, AI Short Video Generator, AI Video Editor, AI Video Generator, Image to Video, Script To Video AI Generator, Video to Video",
+    "slug": "seedance-2-0-12",
+    "created_at": "03:37:17 02/15/2026"
+  },
+  {
     "title": "Morphic",
     "name": "Morphic",
     "description": "Morphic is an all-in-one AI studio for generating everything from images and videos to ads and in-game assets.",
@@ -8764,6 +8773,15 @@
     "categories": "AI Advertising Assistant",
     "slug": "intellibizzai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FireRed Image AI",
+    "name": "FireRed Image",
+    "description": "SOTA AI for precise image editing, text rendering, and photo restoration.",
+    "website": "https://fireredimage.com",
+    "categories": "AI Photo Editor, AI Photo Restoration, AI Style Transfer, Image to Image, Open Source AI Models, AI Photo Enhancer, AI Image Upscaler",
+    "slug": "firered-image",
+    "created_at": "03:37:17 02/15/2026"
   },
   {
     "title": "OddsGPT – AI Odds Analysis Tool",
@@ -23372,6 +23390,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TripoSR",
+    "name": "TripoSR",
+    "description": "AI platform for rapidly converting text or images into high-quality 3D models.",
+    "website": "https://triposr.org",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D, AI API",
+    "slug": "triposr",
+    "created_at": "03:37:17 02/15/2026"
+  },
+  {
     "title": "Memories.ai",
     "name": "Memories.ai",
     "description": "AI that sees, remembers, and analyzes video for insights.",
@@ -33829,6 +33856,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AIWriteBook",
+    "name": "AIWriteBook",
+    "description": "Write, design, and publish your book with AI, from idea to KDP in hours",
+    "website": "https://aiwritebook.com",
+    "categories": "AI Book Writing, AI Creative Writing, AI Ebook Generator, AI Writing, AI Illustration Generator",
+    "slug": "aiwritebook",
+    "created_at": "03:37:17 02/15/2026"
+  },
+  {
     "title": "Landscapingai.site",
     "name": "Landscapingai.site",
     "description": "AI-powered landscape transformation visualization tool.",
@@ -36536,6 +36572,15 @@
     "categories": "AI Recruiting",
     "slug": "uppply",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GradingPal",
+    "name": "GradingPal",
+    "description": "AI Grading and Feedback Assistant for K-12",
+    "website": "https://www.gradingpal.com",
+    "categories": "AI Coaching, AI Course, AI Lesson Plan Generator, AI Math, AI Question Generator, AI Quizzes, AI Teachers, AI Papers, Other",
+    "slug": "gradingpal",
+    "created_at": "03:37:17 02/15/2026"
   },
   {
     "title": "SocioSim",
