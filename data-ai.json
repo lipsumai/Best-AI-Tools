@@ -13554,6 +13554,15 @@
     "created_at": "14:12:58 09/15/2025"
   },
   {
+    "title": "HeyVid AI",
+    "name": "HeyVid",
+    "description": "All-in-one AI platform for generating high-quality videos, images, voice, and music.",
+    "website": "https://heyvid.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Video to Video, AI Music Generator, AI Voice Generator",
+    "slug": "heyvid",
+    "created_at": "14:36:33 02/16/2026"
+  },
+  {
     "title": "Reindeer",
     "name": "Reindeer",
     "description": "AI-powered IDE for databases",
@@ -14011,6 +14020,15 @@
     "categories": "AI Newsletter Generator, AI YouTube, AI Email Marketing, AI Video Summarizer",
     "slug": "tubeletter",
     "created_at": "14:17:22 01/07/2026"
+  },
+  {
+    "title": "ClawDeploy",
+    "name": "ClawDeploy AI",
+    "description": "One-click platform for launching personal OpenClaw bots without coding or server setup.",
+    "website": "https://clawdeploy.com",
+    "categories": "AI Agent, AI Chatbot, No-Code&Low-Code, AI Assistant, AI Copilot",
+    "slug": "clawdeploy-ai",
+    "created_at": "14:36:33 02/16/2026"
   },
   {
     "title": "Fix Subs",
@@ -32911,6 +32929,15 @@
     "created_at": "14:12:40 09/16/2025"
   },
   {
+    "title": "ZeroClaw",
+    "name": "zeroclaw",
+    "description": "A lightweight, secure, Rust-native autonomous AI agent framework for high-efficiency automation.",
+    "website": "https://zeroclaw.bot",
+    "categories": "AI Agent, AI Developer Tools, AI Assistant",
+    "slug": "zeroclaw",
+    "created_at": "14:36:33 02/16/2026"
+  },
+  {
     "title": "Msty",
     "name": "Msty",
     "description": "A unified app for simplified local and online AI model interaction.",
@@ -37670,6 +37697,15 @@
     "categories": "AI Chatbot",
     "slug": "buddies",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GPU Per Hour",
+    "name": "GpuPerHour",
+    "description": "Real-time aggregator comparing cloud GPU prices across 25+ providers for AI and ML workloads.",
+    "website": "https://gpuperhour.com",
+    "categories": "AI Developer Tools, AI Tools Directory",
+    "slug": "gpuperhour",
+    "created_at": "14:36:33 02/16/2026"
   },
   {
     "title": "best AI tools",
