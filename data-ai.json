@@ -6012,6 +6012,15 @@
     "created_at": "03:04:59 01/04/2026"
   },
   {
+    "title": "QuikAuthor",
+    "name": "QuikAuthor",
+    "description": "QuikAuthor is an AI-powered microlearning platform that converts videos, PDFs, and text prompts into interactive, gamified elearning courses. Upload existing content or describe what you want to teach, and AI generates complete courses with quizzes, assessments, and engaging activities. Export as SCORM 1.2 or 2004 for any LMS.",
+    "website": "https://www.quikauthor.io",
+    "categories": "AI Course, AI Video Editor, AI Flashcard Maker, AI Question Generator, AI Quiz Generator, AI Quizzes, AI Translate, AI Video Translator, AI Document Extraction, AI Productivity Tools",
+    "slug": "quikauthor",
+    "created_at": "03:36:16 02/16/2026"
+  },
+  {
     "title": "Anyone.com",
     "name": "Anyone.com",
     "description": "Transforming home buying and selling with technology and transparency.",
@@ -33413,6 +33422,15 @@
     "categories": "AI Coloring Book Generator, AI Art Generator, AI Illustration Generator, Text to Image",
     "slug": "coloringstore",
     "created_at": "14:12:42 09/02/2025"
+  },
+  {
+    "title": "Seedance",
+    "name": "Seedance",
+    "description": "Cinematic AI video generator with superior structure control and realistic physics simulation.",
+    "website": "https://seedance.tv",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
+    "slug": "seedance",
+    "created_at": "03:36:16 02/16/2026"
   },
   {
     "title": "LightLayer",
