@@ -4464,6 +4464,15 @@
     "created_at": "02:21:14 10/25/2025"
   },
   {
+    "title": "Customerscore.io",
+    "name": "Customerscore.io",
+    "description": "Retention automation for PLG SaaS to detect churn signals and run automated playbooks.",
+    "website": "https://www.customerscore.io",
+    "categories": "AI Customer Service, AI Workflow, AI Sales, AI Predictions",
+    "slug": "customerscore-io",
+    "created_at": "03:30:52 02/17/2026"
+  },
+  {
     "title": "Lessie AI",
     "name": "Lessie AI",
     "description": "Your People Search AI Agent",
@@ -7819,6 +7828,15 @@
     "categories": "AI Thesis Generator, AI Grammar Checker, AI Spell Check, AI Writing, AI Writing Assistants, AI Bypasser, AI Detector, AI Plagiarism Checker, Humanizer AI, AI PDF Summarizer, AI Papers, AI Research Papers, AI Research Tool",
     "slug": "flashpaper",
     "created_at": "14:12:01 08/29/2025"
+  },
+  {
+    "title": "Nano Banana Pro",
+    "name": "Nano Banana Pro-5",
+    "description": "AI platform for high-quality image and video generation using Google's Gemini models.",
+    "website": "https://nanobananagen.org",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Image to Image, Text to Video, Image to Video",
+    "slug": "nano-banana-pro-5",
+    "created_at": "03:30:52 02/17/2026"
   },
   {
     "title": "xpander.ai",
@@ -11743,6 +11761,15 @@
     "categories": "AI Productivity Tools, AI Scheduling, AI Content Generator",
     "slug": "greetigo",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0 AI -AI Video Generator",
+    "description": "Next-gen AI generator for 15-second cinematic videos with physics-based audio and character consistency.",
+    "website": "https://ai-seedance.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Commercial Generator, AI Animation Generator, AI Anime Generator",
+    "slug": "seedance-2-0-ai-ai-video-generator",
+    "created_at": "03:30:52 02/17/2026"
   },
   {
     "title": "Becomechad.ai",
@@ -27195,6 +27222,15 @@
     "categories": "AI Plagiarism Checker, AI Grammar Checker, AI Rewriter, Paraphraser, Essay Writer, Writing Assistants, Papers, General Writing, Copywriting, Report Writing, Summarizer, AI Content Generator, AI Product Description Generator",
     "slug": "paraphraser-io",
     "created_at": "14:11:46 04/11/2025"
+  },
+  {
+    "title": "Anakin",
+    "name": "Anakin",
+    "description": "Turn any website into structured, LLM-ready data with a single API.",
+    "website": "https://anakin.io",
+    "categories": "AI API, AI Developer Tools, AI Web Scraping, AI Data Mining, AI Research Tool, Large Language Models (LLMs)",
+    "slug": "anakin",
+    "created_at": "03:30:52 02/17/2026"
   },
   {
     "title": "Aivvid AI",
