@@ -26432,6 +26432,15 @@
     "created_at": "14:13:00 11/05/2025"
   },
   {
+    "title": "Seedance 3.0",
+    "name": "Seedance 3.0",
+    "description": "Bytedance-powered AI tool for creating high-quality 1080p cinematic videos from text or images.",
+    "website": "https://www.seedance-3.org",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "seedance-3-0",
+    "created_at": "14:39:39 02/17/2026"
+  },
+  {
     "title": "InfiniteTalk",
     "name": "InfiniteTalk",
     "description": "AI lip-sync talking video generator for lifelike, infinite-length performances.",
@@ -26835,6 +26844,15 @@
     "categories": "AI Design Generator, AI Graphic Design, Design Assistant, AI Presentation Generator, Photo & Image Editor, AI Background Remover, AI Poster Generator, AI Thumbnail Maker, AI Social Media Assistant, AI YouTube Assistant, AI Quizzes",
     "slug": "miricanvas",
     "created_at": "02:24:06 04/17/2025"
+  },
+  {
+    "title": "Text to Song",
+    "name": "Text to Song",
+    "description": "AI song generator turning text and lyrics into professional music with vocals.",
+    "website": "https://texttosong.ai",
+    "categories": "AI Song Generator, AI Music Generator, AI Singing Generator, AI Lyrics Generator",
+    "slug": "text-to-song",
+    "created_at": "14:39:39 02/17/2026"
   },
   {
     "title": "Kuku",
@@ -35674,6 +35692,15 @@
     "created_at": "14:13:57 10/22/2025"
   },
   {
+    "title": "SideKicker AI",
+    "name": "SideKicker AI",
+    "description": "Sidekicker.ai is an AI-powered writing assistant that helps humanize AI-generated text, detect AI patterns, and check for plagiarism — all in one streamlined platform.",
+    "website": "https://sidekicker.ai",
+    "categories": "AI Content Detector, AI Writing, AI Writing Assistants, AI Detector, AI Plagiarism Checker, Humanizer AI",
+    "slug": "sidekicker-ai",
+    "created_at": "14:39:39 02/17/2026"
+  },
+  {
     "title": "XBuddy",
     "name": "XBuddy",
     "description": "Customize your virtual friend with XBuddy, your dream buddy by your side.",
@@ -36887,6 +36914,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, AI Short Video Generator",
     "slug": "imaginex",
     "created_at": "14:15:52 12/10/2025"
+  },
+  {
+    "title": "Permito",
+    "name": "Permito",
+    "description": "AI voice-to-voice mock interviews to help applicants pass US visa interviews with confidence.",
+    "website": "https://permito.ai",
+    "categories": "AI Interview Assistant, AI Coaching, AI Roleplay, AI Speech Recognition, AI Voice Generator",
+    "slug": "permito",
+    "created_at": "14:39:39 02/17/2026"
   },
   {
     "title": "Tikpal",
