@@ -90,6 +90,15 @@
     "created_at": "14:38:20 02/03/2026"
   },
   {
+    "title": "Onit",
+    "name": "Onit",
+    "description": "Onit is free, local, and private speech-to-text for macOS.",
+    "website": "https://www.getonit.ai",
+    "categories": "AI Speech-to-Text",
+    "slug": "onit",
+    "created_at": "03:33:32 02/18/2026"
+  },
+  {
     "title": "iGPT",
     "name": "iGPT-",
     "description": "Context intelligence API for AI agents and automation tools.",
@@ -4761,6 +4770,15 @@
     "created_at": "14:18:15 01/15/2026"
   },
   {
+    "title": "Atoms",
+    "name": "Atoms",
+    "description": "AI platform using specialized agents to build full-stack apps and websites without code.",
+    "website": "https://atoms.dev",
+    "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Agent, AI Code Generator, AI SEO Tools",
+    "slug": "atoms",
+    "created_at": "03:33:32 02/18/2026"
+  },
+  {
     "title": "Dropmagic",
     "name": "Dropmagic",
     "description": "AI platform to build high-converting Shopify stores in minutes.",
@@ -6721,6 +6739,15 @@
     "categories": "AI Customer Service Assistant, AI Social Media Assistant, AI Chatbot, E-commerce Assistant, AI Email Writer",
     "slug": "richpanel",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "Deckary",
+    "name": "Deckary",
+    "description": "The AI consulting toolkit for PowerPoint",
+    "website": "https://deckary.com",
+    "categories": "AI Presentation Generator, AI Agent, AI Assistant, AI Charting, AI PPT Maker, AI Productivity Tools",
+    "slug": "deckary",
+    "created_at": "03:33:32 02/18/2026"
   },
   {
     "title": "Omi AI",
@@ -24675,6 +24702,15 @@
     "categories": "AI Speech-to-Text, AI Transcriber, Audio To Text AI",
     "slug": "soundwise-ai",
     "created_at": "14:12:40 09/16/2025"
+  },
+  {
+    "title": "Tyan AI",
+    "name": "Tyan AI",
+    "description": "null",
+    "website": "https://click.samreshuu.online",
+    "categories": "AI Girlfriend, AI Roleplay",
+    "slug": "tyan-ai",
+    "created_at": "03:33:32 02/18/2026"
   },
   {
     "title": "Nifty",
