@@ -22931,6 +22931,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GPT For Work",
+    "name": "GPT For Work",
+    "description": "AI for Sheets and Excel that does your work",
+    "website": "https://gptforwork.com",
+    "categories": "AI Spreadsheet, AI Productivity Tools, AI For Data Analytics",
+    "slug": "gpt-for-work",
+    "created_at": "14:38:48 02/18/2026"
+  },
+  {
     "title": "NanoBananas AI",
     "name": "NanoBananas AI",
     "description": "AI photo editing and image generation tool for stunning visuals.",
@@ -25674,6 +25683,15 @@
     "categories": "SEO Writing AI, AI SEO Tools, AI Writing, AI Agent, AI Blog Generator",
     "slug": "verbite",
     "created_at": "14:17:21 08/06/2025"
+  },
+  {
+    "title": "GoalSim",
+    "name": "GoalSim",
+    "description": "GoalSim is an AI-powered life simulation RPG where you choose any life goal and play through a unique AI-generated story. Every decision reshapes your path — no two playthroughs are the same. Think BitLife meets generative AI.",
+    "website": "https://goalsim.com",
+    "categories": "AI Games, AI Roleplay",
+    "slug": "goalsim",
+    "created_at": "14:38:48 02/18/2026"
   },
   {
     "title": "Orate",
@@ -33152,6 +33170,15 @@
     "categories": "AI Art Generator, AI Content Generator, AI Illustration Generator, AI Photo & Image Generator",
     "slug": "digart365",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ScanSkinAI",
+    "name": "ScanSkinAI",
+    "description": "UKCA-certified AI skin health platform. Scan 160+ skin conditions from photos — including moles, rashes, wounds, and skin cancer screening. Free online tool and Android app.",
+    "website": "https://www.ScanSkinAI.com",
+    "categories": "AI Healthcare",
+    "slug": "scanskinai",
+    "created_at": "14:38:48 02/18/2026"
   },
   {
     "title": "Job Board Hub",
