@@ -1188,6 +1188,15 @@
     "created_at": "14:11:59 06/19/2025"
   },
   {
+    "title": "Lyria 3 AI",
+    "name": "Lyria 3 AI",
+    "description": "AI music generator creating professional songs from text or lyrics with commercial rights.",
+    "website": "https://lyria3-ai.com",
+    "categories": "AI Music Generator, AI Song Generator, AI Cover Generator, AI Singing Generator, AI Lyrics Generator",
+    "slug": "lyria-3-ai",
+    "created_at": "14:41:41 02/19/2026"
+  },
+  {
     "title": "Team9",
     "name": "Team9",
     "description": "Instant deployment of sovereign, local-first AI agents connected to the Moltbook ecosystem.",
@@ -4426,6 +4435,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Ad Generator, AI Short Video Generator, AI Tiktok Video Generator, AI Watermark Remover",
     "slug": "saro2",
     "created_at": "14:12:45 11/11/2025"
+  },
+  {
+    "title": "Seedance 3.0",
+    "name": "Seedance 3.0 - 1",
+    "description": "Professional ByteDance-powered AI video generator creating cinematic 4K videos from text prompts.",
+    "website": "https://seedance3ai.com",
+    "categories": "AI Video Generator, Text to Video, AI API, AI Short Video Generator",
+    "slug": "seedance-3-0-1",
+    "created_at": "14:41:41 02/19/2026"
   },
   {
     "title": "LipSync Studio",
@@ -11709,6 +11727,15 @@
     "created_at": "14:10:44 08/16/2025"
   },
   {
+    "title": "SEEDANCE 2 AI Video Generator",
+    "name": "SEEDANCE 2 AI Video Generator",
+    "description": "Multimodal AI generator for 15s multi-shot clips with synced audio and stable motion.",
+    "website": "https://seedance-ai.art",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Short Video Generator",
+    "slug": "seedance-2-ai-video-generator",
+    "created_at": "14:41:41 02/19/2026"
+  },
+  {
     "title": "Schedo",
     "name": "Schedo",
     "description": "AI-powered scheduling solution for managing bookings and payments.",
@@ -15658,6 +15685,15 @@
     "categories": "AI Logo Generator, AI Design Generator, AI Graphic Design",
     "slug": "ai-logo-creator-free-ai-logo-creator-online",
     "created_at": "14:12:46 10/13/2025"
+  },
+  {
+    "title": "AI KISS VIDEO GENERATOR",
+    "name": "AI KISS VIDEO GENERATOR",
+    "description": "Cinema-quality romantic kiss animations.",
+    "website": "https://aikiss.art",
+    "categories": "Image to Video, AI Music Video Generator, Text to Video, AI Video Search, AI Video Recording, AI Video Generator, AI Video Enhancer, AI Video Editor, AI UGC Video Generator, AI Tiktok Video Generator, AI Stock Video Generator, AI Short Video Generator, AI Reel Generator, AI Movie Generator, AI Age Progression, AI Commercial Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, AI Animated Video, AI Face Swap Generator, AI Expand Image, AI Eraser, AI Clothing Removal, AI Background Remover, AI Background Generator, AI Avatar Generator, Video to Video",
+    "slug": "ai-kiss-video-generator",
+    "created_at": "14:41:41 02/19/2026"
   },
   {
     "title": "AI Fiesta",
@@ -24225,6 +24261,15 @@
     "categories": "AI Mind Mapping, AI Summarizer, AI Diagram Generator, AI Productivity Tools, AI Chatbot, AI Presentation Generator, AI Youtube Summary",
     "slug": "instantmind",
     "created_at": "14:13:56 07/15/2025"
+  },
+  {
+    "title": "seedancetwo2.0",
+    "name": "seedancetwo2.0",
+    "description": "The video model that understands what you mean",
+    "website": "https://www.seedancetwo.com",
+    "categories": "Video to Video, AI Movie Generator, AI Video Generator, Image to Video, Text to Video",
+    "slug": "seedancetwo2-0",
+    "created_at": "14:41:41 02/19/2026"
   },
   {
     "title": "Telezen Dashboard",
@@ -34484,6 +34529,15 @@
     "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, AI Forms & Surveys, Sales Assistant, E-commerce Assistant, AI Product Description Generator, AI Instagram Assistant, AI Facebook Assistant",
     "slug": "chatblu",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Legasite",
+    "name": "Legasite - Website Redesigner",
+    "description": "AI-powered tool to migrate legacy websites to React and Next.js templates in minutes.",
+    "website": "https://legasite.io",
+    "categories": "AI Website Builder, AI Developer Tools, AI Code Generator, AI Productivity Tools",
+    "slug": "legasite-website-redesigner",
+    "created_at": "14:41:41 02/19/2026"
   },
   {
     "title": "AI greeting card wishes generator",
