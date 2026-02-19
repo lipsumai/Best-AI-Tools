@@ -18116,6 +18116,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "EZContact",
+    "name": "EZContact",
+    "description": "Unified AI-powered messaging platform for centralizing WhatsApp, Messenger, and Instagram sales and support.",
+    "website": "https://ezcontact.ai",
+    "categories": "AI Chatbot, AI Assistant, AI Sales Assistant, AI Customer Service, AI Social Media, AI Lead Generation",
+    "slug": "ezcontact",
+    "created_at": "03:32:25 02/19/2026"
+  },
+  {
     "title": "15Minutes",
     "name": "15Minutes",
     "description": "Provides 15-minute book summaries, analysis, and audiobooks for over 10,000 titles.",
@@ -29699,6 +29708,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "InkStudio.ai",
+    "name": "InkStudio.ai",
+    "description": "AI tool for generating, previewing, and estimating costs of custom tattoo designs.",
+    "website": "https://inkstudio.ai",
+    "categories": "AI Tattoo Generator, AI Design Generator, AI Art Generator",
+    "slug": "inkstudio-ai",
+    "created_at": "03:32:25 02/19/2026"
+  },
+  {
     "title": "Naptha AI",
     "name": "AutoMCP",
     "description": "Convert AI agents into MCP servers easily and quickly.",
@@ -29742,6 +29760,15 @@
     "categories": "Other",
     "slug": "blureasy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tame My Inbox",
+    "name": "Tame My Inbox",
+    "description": "AI-powered email assistant for Gmail with voice interface",
+    "website": "https://www.tamemyinbox.com",
+    "categories": "AI Email Assistant",
+    "slug": "tame-my-inbox",
+    "created_at": "03:32:25 02/19/2026"
   },
   {
     "title": "Z Image Turbo AI",
@@ -31362,6 +31389,15 @@
     "categories": "AI Video Generator, Image to Video, Text to Video, AI Short Video Generator, AI Video Enhancer, AI Watermark Remover",
     "slug": "imideo",
     "created_at": "14:12:34 09/23/2025"
+  },
+  {
+    "title": "Google DeepMind Lyria 3",
+    "name": "lyria 3",
+    "description": "AI music generator in Gemini using text, image, and video prompts.",
+    "website": "https://lyria3.art",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Models",
+    "slug": "lyria-3",
+    "created_at": "03:32:25 02/19/2026"
   },
   {
     "title": "SchoolAI",
@@ -37427,6 +37463,15 @@
     "categories": "AI Bio Generator, Bio Link, AI Social Media Assistant",
     "slug": "social-media-bio-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TalkBI",
+    "name": "Talk BI",
+    "description": "Conversational AI platform for instant data insights using natural language queries.",
+    "website": "https://talk.bi",
+    "categories": "AI For Data Analytics, AI Chatbot, AI Charting, AI Assistant",
+    "slug": "talk-bi",
+    "created_at": "03:32:25 02/19/2026"
   },
   {
     "title": "seedance 2.0",
