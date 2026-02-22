@@ -11258,6 +11258,15 @@
     "created_at": "02:41:23 10/29/2025"
   },
   {
+    "title": "Teal",
+    "name": "Teal",
+    "description": "AI-powered resume builder and comprehensive job search management platform.",
+    "website": "https://www.tealhq.com",
+    "categories": "AI Resume Builder, AI Cover Letter Generator, AI Resume Checker, Resume AI",
+    "slug": "teal",
+    "created_at": "14:19:08 02/22/2026"
+  },
+  {
     "title": "Flowie – Custom Webflow Solutions",
     "name": "Flowie",
     "description": "Flowie is a customizable platform for Webflow featuring code snippets and an AI Code Assistant.",
@@ -31316,6 +31325,15 @@
     "categories": "AI Product Photography, AI Background Remover, AI Image Upscaler, AI Photo Editor, AI Background Generator",
     "slug": "pixelshot",
     "created_at": "02:44:40 10/27/2025"
+  },
+  {
+    "title": "Clawd Bot",
+    "name": "Clawd Bot",
+    "description": "Open-source local AI assistant that automates tasks via popular chat apps like WhatsApp.",
+    "website": "https://www.clawd-bot.com",
+    "categories": "AI Assistant, AI Agent, AI Productivity Tools, AI Email Assistant, AI Scheduling, AI Calendar",
+    "slug": "clawd-bot",
+    "created_at": "14:19:08 02/22/2026"
   },
   {
     "title": "Apptrop",
