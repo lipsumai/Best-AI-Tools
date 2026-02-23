@@ -21184,6 +21184,15 @@
     "created_at": "14:12:01 09/17/2025"
   },
   {
+    "title": "Seedance 2.0 API (Seedance2API)",
+    "name": "Seedance2API",
+    "description": "Professional AI video generation API for 1080p text-to-video and consistent multi-shot storytelling.",
+    "website": "https://seedance2api.app",
+    "categories": "AI API, AI Video Generator, Text to Video, Image to Video",
+    "slug": "seedance2api",
+    "created_at": "03:35:34 02/23/2026"
+  },
+  {
     "title": "Deckary",
     "name": "Deckary",
     "description": "The AI consulting toolkit for PowerPoint",
@@ -23045,6 +23054,15 @@
     "categories": "AI Art Generator, AI Photo & Image Generator, AI Graphic Design",
     "slug": "sketchai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "DAIVIO",
+    "name": "Daivio",
+    "description": "AI-powered analytics platform for data exploration, visualization, and no-code machine learning.",
+    "website": "https://app.daivio.com",
+    "categories": "AI For Data Analytics, AI Data Mining, AI Predictions, AI Charting, AI Assistant",
+    "slug": "daivio",
+    "created_at": "03:35:34 02/23/2026"
   },
   {
     "title": "Tenki",
