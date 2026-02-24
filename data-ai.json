@@ -18655,6 +18655,15 @@
     "created_at": "03:30:52 02/17/2026"
   },
   {
+    "title": "OmniDetect",
+    "name": "OmniDetect",
+    "description": "Multi-engine AI detector aggregating GPTZero, Winston AI, and Originality.ai for accurate consensus results.",
+    "website": "https://omnidetect.ai",
+    "categories": "AI Detector, AI Content Detector, AI Checker, AI Checker Essay",
+    "slug": "omnidetect",
+    "created_at": "14:44:04 02/24/2026"
+  },
+  {
     "title": "GPT Image 1.5",
     "name": "GPT Image 1.5 - AI Image Generator & Editor | Create & Edit Images",
     "description": "AI-powered platform for professional image generation and editing from text or photos.",
@@ -31786,6 +31795,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Evalyze AI",
+    "name": "Evalyze AI",
+    "description": "AI fundraising copilot that helps startup founders raise capital faster — get investor-readiness scores, AI pitch deck coaching, smart investor matching from 12,000+ VCs, and automated outreach in one platform. Trusted by 7,000+ founders from YC, Techstars & Antler.",
+    "website": "https://www.evalyze.ai",
+    "categories": "AI For Finance, AI Consulting, AI Assistant, AI Copilot",
+    "slug": "evalyze-ai",
+    "created_at": "14:44:04 02/24/2026"
+  },
+  {
     "title": "Law Insider",
     "name": "Law Insider",
     "description": "AI tools for contract drafting, review, and redlining.",
@@ -33287,6 +33305,15 @@
     "categories": "Other",
     "slug": "anytourl",
     "created_at": "02:54:17 01/15/2026"
+  },
+  {
+    "title": "nano banana pro studio",
+    "name": "nano banana pro studio",
+    "description": "Gemini 3 Pro-powered AI image generator for photorealistic 4K visuals and precise text rendering.",
+    "website": "https://nanabananapro.com",
+    "categories": "AI Image Generator, AI Art Generator, AI Realistic Image Generator, Text to Image, AI API, AI Poster Generator, AI Graphic Design",
+    "slug": "nano-banana-pro-studio",
+    "created_at": "14:44:04 02/24/2026"
   },
   {
     "title": "Waldo Labs | Automating Hiring for Companies",
