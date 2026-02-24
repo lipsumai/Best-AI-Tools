@@ -315,6 +315,15 @@
     "created_at": "14:12:58 09/08/2025"
   },
   {
+    "title": "AppDeploy",
+    "name": "AppDeploy",
+    "description": "Deploy your first app from ChatGPT or Claude",
+    "website": "https://appdeploy.ai",
+    "categories": "AI App Builder, AI Developer Tools, AI Landing Page Builder, AI Testing",
+    "slug": "appdeploy",
+    "created_at": "03:31:21 02/24/2026"
+  },
+  {
     "title": "QuickCount",
     "name": "QuickCount from Photos",
     "description": "Website QuickCount helps users count objects quickly and accurately.",
@@ -13651,6 +13660,15 @@
     "created_at": "14:23:04 01/27/2026"
   },
   {
+    "title": "Runner AI",
+    "name": "Runner AI",
+    "description": "Runner AI is an AI-native e-commerce engine that builds, optimizes, and scales your online store autonomously.",
+    "website": "https://www.runnerai.com",
+    "categories": "AI Website Builder, AI Advertising, AI Marketing, AI SEO Tools, AI Website Designer",
+    "slug": "runner-ai",
+    "created_at": "03:31:21 02/24/2026"
+  },
+  {
     "title": "Iceburg CRM",
     "name": "IceburgCRM",
     "description": "AI-driven CRM creation",
@@ -15125,6 +15143,15 @@
     "categories": "Other",
     "slug": "receipts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Fabricate",
+    "name": "Fabricate",
+    "description": "AI app builder creating production-ready React apps from simple text descriptions.",
+    "website": "https://fabricate.build",
+    "categories": "AI App Builder, AI Code Generator, AI Website Builder, No-Code&Low-Code",
+    "slug": "fabricate",
+    "created_at": "03:31:21 02/24/2026"
   },
   {
     "title": "Diya",
@@ -34493,6 +34520,15 @@
     "categories": "AI Knowledge Base, AI Knowledge Graph, AI Knowledge Management, Large Language Models (LLMs), Newsletter",
     "slug": "topiq",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Modelence",
+    "name": "Modelence",
+    "description": "Full-stack platform for building and deploying production-ready AI applications faster.",
+    "website": "https://modelence.com",
+    "categories": "AI App Builder, AI Agent, AI Developer Tools, Large Language Models (LLMs)",
+    "slug": "modelence",
+    "created_at": "03:31:21 02/24/2026"
   },
   {
     "title": "Nereo",
