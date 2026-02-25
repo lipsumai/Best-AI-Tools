@@ -1341,6 +1341,15 @@
     "created_at": "14:15:24 07/23/2025"
   },
   {
+    "title": "Origami",
+    "name": "Origami.chat",
+    "description": "AI-powered prospecting platform for finding and enriching leads using natural language queries.",
+    "website": "https://origami.chat",
+    "categories": "AI Lead Generation, AI Sales, AI Sales Assistant, AI Web Scraping, AI Data Mining",
+    "slug": "origami-chat",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "AllAIs",
     "name": "ALLAIs",
     "description": "A hub for AI tools enhancing productivity and efficiency.",
@@ -6830,6 +6839,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Falconer",
+    "name": "Falconer",
+    "description": "AI-powered self-updating knowledge platform and shared memory for teams and codebase context.",
+    "website": "https://www.falconer.com",
+    "categories": "AI Knowledge Management, AI Knowledge Base, AI Assistant, AI Productivity Tools, AI Writing",
+    "slug": "falconer",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "Nextbroswer",
     "name": "Nextbroswer",
     "description": "Automate logins, scraping, outreach, and more — just by chatting with AI.",
@@ -8261,6 +8279,15 @@
     "created_at": "14:12:37 07/02/2025"
   },
   {
+    "title": "Straion",
+    "name": "Straion",
+    "description": "Centralized rule management and plan validation for AI coding agents like Cursor and Claude.",
+    "website": "https://www.straion.com",
+    "categories": "AI Code Assistant, AI Agent, AI Developer Tools, AI Code Review, AI Copilot",
+    "slug": "straion",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "Dreamomni2",
     "name": "Dreamomni2",
     "description": "Multimodal AI for instruction-based image editing and generation.",
@@ -8448,6 +8475,15 @@
     "categories": "Prompt, Large Language Models (LLMs), Paraphraser",
     "slug": "mutatio-dev",
     "created_at": "14:12:08 05/09/2025"
+  },
+  {
+    "title": "SkillKit",
+    "name": "Skillkit",
+    "description": "Universal open-source package manager to deploy and manage skills across 32+ AI coding agents.",
+    "website": "https://agenstskills.com",
+    "categories": "AI Agent, AI Developer Tools, AI Code Assistant, AI API, AI Copilot",
+    "slug": "skillkit",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "Deep Swap AI",
@@ -8925,6 +8961,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Video Editor, Text to Image, AI Photo Editor",
     "slug": "vfast-ai",
     "created_at": "14:17:13 01/16/2026"
+  },
+  {
+    "title": "Animate & Create",
+    "name": "Animate & Create",
+    "description": "Premier 3D animation and CGI studio specializing in product visualization and brand storytelling.",
+    "website": "https://animateandcreate.net",
+    "categories": "AI Animated Video, AI Video Generator, AI Commercial Generator, AI Image Generator, AI Music Video Generator",
+    "slug": "animate-create",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "Reelit",
@@ -9807,6 +9852,15 @@
     "categories": "AI Roleplay, AI Girlfriend, AI Chatbot, AI Character",
     "slug": "moonmate",
     "created_at": "14:12:01 06/20/2025"
+  },
+  {
+    "title": "Tidy",
+    "name": "Tidy",
+    "description": "AI personal agent that automates websites and apps via iMessage without coding.",
+    "website": "https://withtidy.com",
+    "categories": "AI Agent, No-Code&Low-Code, AI Assistant, AI Workflow",
+    "slug": "tidy",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "Daymi",
@@ -11969,6 +12023,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "semn.ai",
+    "name": "semn.ai",
+    "description": "Real-time Bitcoin microstructure analytics platform with AI context and sonic market encoding.",
+    "website": "https://semn.ai",
+    "categories": "AI Crypto, AI For Finance, AI Predictions, AI For Data Analytics",
+    "slug": "semn-ai",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "Gather",
     "name": "Gather Closed Beta",
     "description": "Gather is a secure agent that organizes and provides easy access to your digital life.",
@@ -12147,6 +12210,15 @@
     "categories": "AI Presentation Generator, AI Design Generator, AI Assistant",
     "slug": "prezi",
     "created_at": "02:39:04 05/29/2025"
+  },
+  {
+    "title": "ClawRecipes",
+    "name": "ClawRecipes",
+    "description": "OpenClaw plugin for scaffolding multi-agent teams with shared context and agile workflows.",
+    "website": "https://clawrecipes.com",
+    "categories": "AI Agent, AI Workflow, AI Developer Tools, AI Project Management",
+    "slug": "clawrecipes",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "Genve AI",
@@ -13317,6 +13389,15 @@
     "categories": "AI Product Manager, AI Roadmap, AI Project Management, AI Business Ideas Generator",
     "slug": "rock-n-roll",
     "created_at": "02:28:29 11/14/2025"
+  },
+  {
+    "title": "Cuto",
+    "name": "Cuto",
+    "description": "AI-powered commercial video editing workspace for automated, high-quality content creation.",
+    "website": "https://cuto.video",
+    "categories": "AI Video Editor, AI Video Generator, AI Commercial Generator, AI Marketing, AI Product Photography, AI Subtitle Generator, AI Short Video Generator",
+    "slug": "cuto",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "gaidme",
@@ -15188,6 +15269,15 @@
     "categories": "AI Presentation Generator, AI PPT Maker, AI Summarizer, AI PDF, AI Mind Mapping, AI Chatbot",
     "slug": "workppt",
     "created_at": "14:12:52 07/16/2025"
+  },
+  {
+    "title": "Prism",
+    "name": "Prism Videos",
+    "description": "AI platform to generate, organize, and edit short-form videos using multiple powerful AI models.",
+    "website": "https://www.prismvideos.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, AI Short Video Generator, AI Ad Generator, AI Lip Sync Generator, AI Video Editor",
+    "slug": "prism-videos",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "LuDe",
@@ -21463,6 +21553,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "Polsia",
+    "name": "Polsia",
+    "description": "Autonomous AI system that plans, codes, and markets companies 24/7 without human employees.",
+    "website": "https://polsia.com",
+    "categories": "AI Agent, AI Marketing, AI Code Generator, AI Copilot",
+    "slug": "polsia",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "MyPortfolio",
     "name": "MyPortfolio",
     "description": "Showcase your career through storytelling.",
@@ -21479,6 +21578,15 @@
     "categories": "AI Productivity Tools, AI Documents Generator, AI PDF",
     "slug": "toolwaves",
     "created_at": "02:22:34 10/23/2025"
+  },
+  {
+    "title": "Feedix",
+    "name": "Feedix",
+    "description": "AI-powered YouTube summaries delivered to your inbox for efficient knowledge acquisition.",
+    "website": "https://feedix.app",
+    "categories": "AI Youtube Summary, AI Video Summarizer, AI Summarizer, AI Newsletter",
+    "slug": "feedix",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "AI Social Media Manager",
@@ -21895,6 +22003,15 @@
     "created_at": "02:49:25 06/08/2025"
   },
   {
+    "title": "Reloop",
+    "name": "Reloop",
+    "description": "Conversational AI tool that generates high-converting UGC video ads from simple ideas in minutes.",
+    "website": "https://reloop.so",
+    "categories": "AI UGC Video Generator, AI Video Generator, AI Ad Generator, AI Avatar Generator, AI Advertising, AI Agent, AI Video Editor, AI Voice Cloning",
+    "slug": "reloop",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "Replika",
     "name": "Replika ai",
     "description": "AI companion for emotional support and companionship.",
@@ -22190,6 +22307,15 @@
     "categories": "AI Interview Assistant, AI Coaching, AI Roleplay, AI Speech Recognition, AI Voice Generator",
     "slug": "permito",
     "created_at": "14:39:39 02/17/2026"
+  },
+  {
+    "title": "TypeBoost",
+    "name": "TypeBoost",
+    "description": "Personal AI writing toolkit that works inside any macOS app via custom prompt actions.",
+    "website": "https://www.typeboost.ai",
+    "categories": "AI Writing Assistants, AI Writing, AI Productivity Tools, AI Rewriter, AI Copywriting, AI Email Assistant, AI Translate",
+    "slug": "typeboost",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "PushUp Pro",
@@ -23054,6 +23180,15 @@
     "categories": "AI Person Generator, AI Photo Editor, AI Product Photography, AI Influencer, AI Model Instagram, AI Commercial Generator, AI Reel Generator, AI Short Video Generator, AI UGC Video Generator, AI Video Generator, Image to Video, AI Ad Creative",
     "slug": "the-influencer-ai",
     "created_at": "02:40:27 06/06/2025"
+  },
+  {
+    "title": "Key Visual",
+    "name": "Key Visual",
+    "description": "Creative automation tool syncing Figma designs with CMS data to auto-generate marketing content.",
+    "website": "https://keyvisual.ai",
+    "categories": "AI Ad Generator, AI Advertising, AI Marketing, AI Social Media Post Generator, AI Video Generator",
+    "slug": "key-visual",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "Tinybird",
@@ -25576,6 +25711,15 @@
     "created_at": "14:18:04 08/04/2025"
   },
   {
+    "title": "Claudebin",
+    "name": "Claudebin",
+    "description": "Export and share Claude Code terminal sessions as navigable, embeddable web URLs.",
+    "website": "https://claudebin.com",
+    "categories": "AI Developer Tools, AI Code Assistant, AI Productivity Tools",
+    "slug": "claudebin",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "VibeOnly",
     "name": "VibeOnly",
     "description": "AI skills assessment platform for hiring and testing AI-native talent.",
@@ -26141,6 +26285,15 @@
     "categories": "AI Browsers, AI Assistant, AI Productivity Tools, AI Web Scraping",
     "slug": "aipex",
     "created_at": "02:28:15 10/30/2025"
+  },
+  {
+    "title": "Cencurity",
+    "name": "Cencurity",
+    "description": "Security gateway for LLMs that detects and masks sensitive data and risky code.",
+    "website": "https://cencurity.com",
+    "categories": "AI Developer Tools, AI Agent, Large Language Models (LLMs), Log Management",
+    "slug": "cencurity",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "fanfic generator",
@@ -28744,6 +28897,15 @@
     "created_at": "14:28:33 01/30/2026"
   },
   {
+    "title": "trnscrb",
+    "name": "trnscrb",
+    "description": "Local, private macOS meeting transcription tool with Whisper-powered offline processing and Claude integration.",
+    "website": "https://trnscrb.com",
+    "categories": "AI Meeting Assistant, AI Transcription, AI Transcriber, AI Speech-to-Text, AI Note Taker",
+    "slug": "trnscrb",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "Media.io",
     "name": "Media.io",
     "description": "Free online AI tools for video, image, and audio generation.",
@@ -29725,6 +29887,15 @@
     "created_at": "14:13:09 06/23/2025"
   },
   {
+    "title": "Dictato",
+    "name": "Dictato",
+    "description": "Private, on-device voice-to-text dictation app for Mac with no cloud processing.",
+    "website": "https://dicta.to",
+    "categories": "AI Speech-to-Text, AI Transcription, AI Transcriber, AI Writing Assistants",
+    "slug": "dictato",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "Shockvue",
     "name": "Shockvue",
     "description": "AI image editor for magic-like edits, describe and speak edits, instant visuals.",
@@ -30560,6 +30731,15 @@
     "categories": "AI PDF, AI Document Extraction, AI Accounting Assistant, Tax Assistant, AI Image Scanning, AI Spreadsheet, AI Reviews Assistant",
     "slug": "docuclipper",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "LiftSell",
+    "name": "Liftsell",
+    "description": "All-in-one e-commerce conversion platform with smart widgets, behavioral targeting, and revenue attribution tracking.",
+    "website": "https://liftsell.com",
+    "categories": "AI Sales Assistant, AI Sales, AI Marketing, AI Predictions, AI Lead Generation",
+    "slug": "liftsell",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "Heidi Health",
@@ -33361,6 +33541,15 @@
     "created_at": "02:57:21 01/20/2026"
   },
   {
+    "title": "Settle",
+    "name": "Settle",
+    "description": "AI platform for automated RFP discovery, high-quality response generation, and proposal management.",
+    "website": "https://usesettle.com",
+    "categories": "AI Response Generator, AI Project Management, AI Knowledge Management, AI Sales Assistant, AI Writing Assistants",
+    "slug": "settle",
+    "created_at": "14:42:50 02/25/2026"
+  },
+  {
     "title": "AskEdith",
     "name": "AskEdith Free Tier",
     "description": "Analytics tool for building dashboards and reports by asking questions.",
@@ -33674,6 +33863,15 @@
     "categories": "Translate, AI Presentation Generator, AI WORD, AI PDF, AI Document Extraction, AI Documents Assistant, AI Files Assistant",
     "slug": "molku-ai-autofill-pdfs-in-seconds-by-transferring-data-from-another-docs",
     "created_at": "14:12:24 05/05/2025"
+  },
+  {
+    "title": "Scriptmine",
+    "name": "Scriptmine",
+    "description": "Turns real-time Reddit conversations into camera-ready video scripts for short-form creators.",
+    "website": "https://scriptmine.ai",
+    "categories": "AI Script Writing, AI Social Media Post Generator, AI Writing Assistants, AI Content Detector",
+    "slug": "scriptmine",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "MCP Playground",
@@ -34142,6 +34340,15 @@
     "categories": "AI Advertising, AI Ad Creative, AI Ad Generator, AI Marketing, AI Script Writing",
     "slug": "denote",
     "created_at": "14:12:58 09/15/2025"
+  },
+  {
+    "title": "YTVidHub",
+    "name": "ytvidhub",
+    "description": "Bulk YouTube subtitle downloader for playlists and channels, optimized for AI data prep.",
+    "website": "https://ytvidhub.com",
+    "categories": "AI Youtube Summary, AI Video Summarizer, AI Transcriber, AI Research Tool",
+    "slug": "ytvidhub",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "BoldVoice",
@@ -36158,6 +36365,15 @@
     "categories": "AI Recruiting, AI API, AI App Builder, AI Browsers, AI Developer Tools, AI Workflow, AI Chatbot, AI Dating Assistant",
     "slug": "hire-ai-developers-with-upstaff-com",
     "created_at": "02:44:54 08/13/2025"
+  },
+  {
+    "title": "Guideless",
+    "name": "Guideless",
+    "description": "AI tool transforming browser workflows into professional narrated video guides instantly.",
+    "website": "https://guideless.ai",
+    "categories": "AI Video Generator, AI Tutorial, AI Documents Generator, AI Voice Over, AI Script Writing",
+    "slug": "guideless",
+    "created_at": "14:42:50 02/25/2026"
   },
   {
     "title": "LTX-2 AI",
