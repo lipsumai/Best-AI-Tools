@@ -22651,6 +22651,15 @@
     "created_at": "14:13:12 07/25/2025"
   },
   {
+    "title": "PovChat AI",
+    "name": "PovChat AI",
+    "description": "AI chatbot platform for chatting with customized characters and writing interactive stories for free",
+    "website": "https://povchat.ai",
+    "categories": "AI Chatbot, AI Book Writing, AI Chat Generator, AI Creative Writing, AI Novel, AI Plot Generator, AI Story Generator, AI Writing, AI Avatar Generator, AI Anime Girlfriend, AI Boyfriend, AI Girlfriend",
+    "slug": "povchat-ai",
+    "created_at": "03:32:13 02/25/2026"
+  },
+  {
     "title": "Lucid Engine",
     "name": "Lucid Engine",
     "description": "Audit, track, and optimize your brand's visibility inside ChatGPT, Perplexity, and Gemini.The #1 Generative Engine Optimization (GEO) Platform.",
@@ -36815,6 +36824,15 @@
     "categories": "Healthcare, AI PDF, AI Document Extraction, Report Writing",
     "slug": "ai-blood-test-analysis",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "LipsyncX",
+    "name": "LipsyncX",
+    "description": "AI lip sync generator for realistic long-form talking videos and multi-language dubbing.",
+    "website": "https://lipsyncx.com",
+    "categories": "AI Lip Sync Generator, AI Video Generator, AI Avatar Video Generator, AI Dubbing, Text to Video, AI Podcast, AI Video Translator",
+    "slug": "lipsyncx",
+    "created_at": "03:32:13 02/25/2026"
   },
   {
     "title": "CUT3",
