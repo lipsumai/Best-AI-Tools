@@ -2214,6 +2214,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "MaxClaw",
+    "name": "maxclaw",
+    "description": "Official cloud-hosted AI agent by MiniMax with instant deployment and long-term memory.",
+    "website": "https://maxclaw.ai",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Code Assistant",
+    "slug": "maxclaw",
+    "created_at": "14:41:24 02/26/2026"
+  },
+  {
     "title": "Raphael AI",
     "name": "Raphael AI",
     "description": "Unlimited free AI image generator for high-quality image creation.",
@@ -10791,6 +10800,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "IronClaw",
+    "name": "IronClaw",
+    "description": "Secure, open-source alternative to OpenClaw",
+    "website": "https://www.ironclaw.com",
+    "categories": "AI Agent",
+    "slug": "ironclaw",
+    "created_at": "14:41:24 02/26/2026"
+  },
+  {
     "title": "PushUp Pro",
     "name": "Top Pushup v2",
     "description": "Real-time AI pushup coach for improved form.",
@@ -19068,6 +19086,15 @@
     "categories": "AI Content Generator, AI Rewriter",
     "slug": "rewriteit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Adsturbo",
+    "name": "AdsTurbo",
+    "description": "AI video ad generator that transforms product images and URLs into high-performing marketing creatives.",
+    "website": "https://adsturbo.ai",
+    "categories": "AI Ad Generator, AI Ad Creative, AI Video Generator, AI Advertising, AI UGC Video Generator, AI Commercial Generator",
+    "slug": "adsturbo",
+    "created_at": "14:41:24 02/26/2026"
   },
   {
     "title": "mnml.ai",
@@ -29688,6 +29715,15 @@
     "categories": "Large Language Models (LLMs), AI Developer Tools, Open Source AI Models",
     "slug": "mcp-defender",
     "created_at": "14:10:26 06/04/2025"
+  },
+  {
+    "title": "AI Moire Remover",
+    "name": "AI Moire Remover",
+    "description": "AI-powered tool to remove moire patterns and descreen photos or scans instantly.",
+    "website": "https://moireremoval.com",
+    "categories": "AI Photo Enhancer, AI Image Enhancer, AI Photo Restoration, AI Photo Editor",
+    "slug": "ai-moire-remover",
+    "created_at": "14:41:24 02/26/2026"
   },
   {
     "title": "HackSocial.ai",
