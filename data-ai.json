@@ -7029,6 +7029,15 @@
     "created_at": "02:55:29 01/21/2026"
   },
   {
+    "title": "Image Inverter",
+    "name": "Image Inverter",
+    "description": "Free online tool to instantly invert image colors and create photo negatives.",
+    "website": "https://imageinverter.app",
+    "categories": "Other",
+    "slug": "image-inverter",
+    "created_at": "03:25:26 02/27/2026"
+  },
+  {
     "title": "FragCut",
     "name": "FragCut  - 10x faster clip creation with AI",
     "description": "AI tool generating viral vertical gaming clips 10x faster from VODs.",
@@ -7632,6 +7641,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2 - Free AI Image Generator & Editor | Gemini",
+    "description": "High-speed AI image generator with 4K resolution and subject consistency.",
+    "website": "https://nan0banana2.com",
+    "categories": "AI Image Generator, AI Art Generator, AI Photo Editor, Text to Image, AI Diagram Generator",
+    "slug": "nano-banana-2-free-ai-image-generator-editor-gemini",
+    "created_at": "03:25:26 02/27/2026"
+  },
+  {
     "title": "ContGpt - Article Builder with AI",
     "name": "ContGPT",
     "description": "ContGpt is a desktop AI program for generating articles efficiently.",
@@ -7639,6 +7657,15 @@
     "categories": "AI App Builder, AI Content Generator, AI Rewriter, AI Tutorial",
     "slug": "contgpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Image to Image AI",
+    "name": "Image to Image AI-",
+    "description": "AI image editor for face swap, restoration, and professional photo enhancement.",
+    "website": "https://www.imagetoimageai.ai",
+    "categories": "Image to Image, AI Photo Editor, AI Image Enhancer, AI Face Swap Generator, AI Photo Restoration, AI Image Upscaler, AI Background Remover, AI Watermark Remover, AI Colorize, AI Cartoon Generator, Object Remover AI, AI Style Transfer, AI Anime Generator",
+    "slug": "image-to-image-ai-1",
+    "created_at": "03:25:26 02/27/2026"
   },
   {
     "title": "Pollystack",
@@ -28158,6 +28185,15 @@
     "categories": "AI Content Generator, AI SEO Assistant, AI Website Designer, AI Blog Writer",
     "slug": "dub-io",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Wallnora",
+    "name": "Wallnora",
+    "description": "AI wall art generator with realistic room preview for custom home decor and commercial prints.",
+    "website": "https://www.wallnora.com",
+    "categories": "AI Art Generator, AI Image Generator, Text to Image, AI Painting Generator, AI Interior Design, AI Poster Generator",
+    "slug": "wallnora",
+    "created_at": "03:25:26 02/27/2026"
   },
   {
     "title": "Deta Surf",
