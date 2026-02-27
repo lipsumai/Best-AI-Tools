@@ -1152,6 +1152,15 @@
     "created_at": "02:54:15 01/02/2026"
   },
   {
+    "title": "Pexo",
+    "name": "Pexo",
+    "description": "Pexo is the AI video partner that meets you where you are.",
+    "website": "https://invite.pexo.ai",
+    "categories": "AI Commercial Generator, AI Reel Generator, AI Short Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, AI Video Generator, AI Youtube Video Maker, Script To Video AI Generator, AI Ad Generator, AI Advertising, AI Marketing, AI Agent, AI Assistant",
+    "slug": "pexo",
+    "created_at": "14:34:14 02/27/2026"
+  },
+  {
     "title": "Paraphraser",
     "name": "Paraphrase Tool & Rewrite App",
     "description": "Write clear, concise, and plagiarism-free text with Paraphraser.",
@@ -7783,6 +7792,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
     "slug": "seedance-2-0-2",
     "created_at": "03:49:54 02/08/2026"
+  },
+  {
+    "title": "Banana2",
+    "name": "banana 2",
+    "description": "AI platform for high-quality image and video generation using Nano Banana2 and Sora2 models.",
+    "website": "https://www.banana2.io",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Image to Image, Text to Video, Image to Video, AI Prompt Generator",
+    "slug": "banana-2",
+    "created_at": "14:34:14 02/27/2026"
   },
   {
     "title": "csv2ai",
@@ -24011,6 +24029,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "nano-bananaai.org",
+    "name": "nano-bananaai.org",
+    "description": "Advanced AI image generator and editor specializing in character consistency and batch processing.",
+    "website": "https://nano-bananaai.org",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image",
+    "slug": "nano-bananaai-org",
+    "created_at": "14:34:14 02/27/2026"
+  },
+  {
     "title": "grokipedia",
     "name": "grokipedia-",
     "description": "AI-generated encyclopedia by xAI, aiming for truthful, less biased knowledge.",
@@ -26178,6 +26205,15 @@
     "categories": "AI Course, AI Interior & Room Design",
     "slug": "ai-design-training",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "NanoBanana 2 API",
+    "name": "NanoBanana 2 API",
+    "description": "Developer-friendly RESTful API for high-speed, 4K AI image generation and editing.",
+    "website": "https://banana2api.com",
+    "categories": "AI API, AI Image Generator, AI Developer Tools, Text to Image, Image to Image",
+    "slug": "nanobanana-2-api",
+    "created_at": "14:34:14 02/27/2026"
   },
   {
     "title": "Veo 3",
@@ -28572,6 +28608,15 @@
     "categories": "AI Recruiting, AI Analytics Assistant, AI Interview Assistant, Resume Builder, Large Language Models (LLMs), Cover Letter Generator",
     "slug": "businessflow-recruit",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Artedge AI",
+    "name": "Artedge AI",
+    "description": "Professional AI Photo Enhancer to Unblur, Upscale, and Restore Images",
+    "website": "https://www.artedge.ai",
+    "categories": "AI Photo Enhancer, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler, AI Photo Restoration, AI Unblur Image, AI Video Enhancer, AI Video Upscaler",
+    "slug": "artedge-ai",
+    "created_at": "14:34:14 02/27/2026"
   },
   {
     "title": "Unsloth AI",
@@ -32585,6 +32630,15 @@
     "categories": "Captions or Subtitle",
     "slug": "dublai-com",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2 | AI Image Generator — Gemini 3.1 Flash Image",
+    "description": "High-speed AI image generator with subject consistency and 4K output powered by Gemini 3.1 Flash.",
+    "website": "https://nano-banana.app",
+    "categories": "AI Image Generator, Text to Image, AI Photo Editor, AI Image Enhancer, AI Image Upscaler, AI Photo Restoration, AI Avatar Generator",
+    "slug": "nano-banana-2-ai-image-generator-gemini-3-1-flash-image",
+    "created_at": "14:34:14 02/27/2026"
   },
   {
     "title": "Luma Ray3AI",
