@@ -8487,6 +8487,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Banana AI 2",
+    "name": "banana ai 2",
+    "description": "Next-gen AI platform for image generation, 3D editing, and creative workflow automation.",
+    "website": "https://bananaai2.com",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Photo Editor, AI Photo Restoration",
+    "slug": "banana-ai-2",
+    "created_at": "14:15:16 02/28/2026"
+  },
+  {
     "title": "Frugal",
     "name": "Frugal",
     "description": "Frugal – AI-powered Application Cost Engineering platform",
@@ -23705,6 +23714,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "DepthFlow AI",
+    "name": "Depthflow AI",
+    "description": "AI platform transforming static 2D images into dynamic, volumetric 3D motion videos instantly.",
+    "website": "https://depthflow.io",
+    "categories": "Image to 3D Model, AI Video Generator, AI Animation Generator, AI 3D Model Generator",
+    "slug": "depthflow-ai",
+    "created_at": "14:15:16 02/28/2026"
+  },
+  {
     "title": "CoGuide",
     "name": "CoGuide",
     "description": "AI platform for generating lesson plans and activities.",
@@ -38480,6 +38498,15 @@
     "categories": "AI Girlfriend, AI Chatbot, AI Image Generator, AI Character, AI Roleplay, AI Boyfriend, AI Anime Generator",
     "slug": "makegirl",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Creen AI",
+    "name": "Creen AI",
+    "description": "Free AI platform for unlimited high-quality image and video generation without registration.",
+    "website": "https://www.creen.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Art Generator, Image to Video, Text to Video, Image to Image, AI Animation Generator",
+    "slug": "creen-ai-free-ai-image-ai-video",
+    "created_at": "14:15:16 02/28/2026"
   },
   {
     "title": "Hunch",
