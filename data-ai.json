@@ -576,6 +576,15 @@
     "created_at": "02:54:34 07/23/2025"
   },
   {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2 -",
+    "description": "Fast AI image generator with 4K output, text rendering, and subject consistency.",
+    "website": "https://nanobanana2pro.net",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Realistic Image Generator, AI Design Generator, AI Poster Generator",
+    "slug": "nano-banana-2-3",
+    "created_at": "03:06:12 02/28/2026"
+  },
+  {
     "title": "Skywork",
     "name": "Skywork Super Agents",
     "description": "AI workspace agent for multimodal content creation and deep research.",
@@ -3166,6 +3175,15 @@
     "categories": "Other",
     "slug": "eatlink",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SurfSense",
+    "name": "SurfSense",
+    "description": "Open Source alternative to NotebookLM for teams.",
+    "website": "https://www.surfsense.com",
+    "categories": "AI Report Writing, AI Cover Generator, AI Pitch Deck Generator, AI Email Generator, AI Tax Assistant, AI Legal Assistant, AI Contract Review, AI Contract Management, AI Accounting, AI Web Scraping, AI Code Generator, AI Icon Generator, AI Design Generator, AI Design Assistant, AI Text-to-Speech, AI Blog Generator, Text to Image, AI Wallpaper Generator, AI Signature Generator, AI Image Enhancer, AI Avatar Generator, Prompt Engineering, AI Writing, AI Text Generator, AI Summarizer, AI Script Writing, AI Copywriting, AI Chat Generator, AI Response Generator",
+    "slug": "surfsense",
+    "created_at": "03:06:12 02/28/2026"
   },
   {
     "title": "AI ASMR Videos",
@@ -10971,6 +10989,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "ClawDaddy Managed Hosting for OpenClaw",
+    "name": "ClawDaddy Managed Hosting for OpenClaw",
+    "description": "Managed hosting to deploy and manage OpenClaw AI agents via Telegram chat.",
+    "website": "https://clawdaddy.run",
+    "categories": "AI Agent, No-Code&Low-Code, AI Models, AI Chatbot, AI Developer Tools",
+    "slug": "clawdaddy-managed-hosting-for-openclaw",
+    "created_at": "03:06:12 02/28/2026"
+  },
+  {
     "title": "Chargeblast AI",
     "name": "Chargeblast AI",
     "description": "A platform to reduce chargeback rates for startups.",
@@ -18557,6 +18584,15 @@
     "created_at": "14:09:38 04/06/2025"
   },
   {
+    "title": "fluents AI",
+    "name": "fluents AI",
+    "description": "AI Voice Agent calling that sounds human and scales to millions of inbound and outbound conversations",
+    "website": "https://www.fluents.ai",
+    "categories": "AI Call Center, AI Voice Assistants, AI Customer Service, AI Cold Calling, AI Chatbot, AI Agent, AI Assistant, AI Scheduling",
+    "slug": "fluents-ai",
+    "created_at": "03:06:12 02/28/2026"
+  },
+  {
     "title": "Artevia",
     "name": "Artevia",
     "description": "AI-powered platform for instant interior redesign from photos.",
@@ -18789,6 +18825,15 @@
     "categories": "AI Email Generator, AI Email Writer, AI Email Assistant",
     "slug": "speechly",
     "created_at": "14:12:56 06/16/2025"
+  },
+  {
+    "title": "Nana Banana 2",
+    "name": "Nana Banana 2",
+    "description": "Advanced AI image generator and editor delivering 4K photorealistic results at lightning-fast speeds.",
+    "website": "https://nanabanana2.ai",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI Image Enhancer, AI Photo Enhancer",
+    "slug": "nana-banana-2-advanced-ai-image-editor-nanabanana2-ai",
+    "created_at": "03:06:12 02/28/2026"
   },
   {
     "title": "Precog by Ubik",
@@ -38093,6 +38138,15 @@
     "categories": "AI SVG Generator, AI Icon Generator, AI T Shirt Design, AI Sticker Generator, AI Pokemon Generator, AI Logo Generator, AI Infographic Generator, AI Illustration Generator, AI Graphic Design, Text to Image, AI Font Generator, AI Disney Poster, AI Design Generator, AI Design Assistant, AI Cartoon Generator, AI Book Cover Generator, AI Banner Generator, AI Vector Graphics",
     "slug": "svgmaker",
     "created_at": "14:09:58 08/31/2025"
+  },
+  {
+    "title": "SureThing",
+    "name": "SureThing",
+    "description": "SureThing is an autonomous AI agent that remembers who you are, connects to 1000+ apps, and works while you sleep",
+    "website": "https://surething.io",
+    "categories": "AI Agent, AI Assistant, AI Copilot, AI Email Assistant",
+    "slug": "surething",
+    "created_at": "03:06:12 02/28/2026"
   },
   {
     "title": "Ultralgo",
