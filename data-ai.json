@@ -7677,6 +7677,15 @@
     "created_at": "03:25:26 02/27/2026"
   },
   {
+    "title": "xeditai",
+    "name": "xeditai",
+    "description": "Why settle for basic AI? More utilities. More power. More possibilities than ChatGPT or Gemini.   Not one-shot AI",
+    "website": "https://xeditai.com",
+    "categories": "AI Writing Assistants, AI Documents Generator, Large Language Models (LLMs), AI Writing, AI Productivity Tools",
+    "slug": "xeditai",
+    "created_at": "14:17:20 03/01/2026"
+  },
+  {
     "title": "ContGpt - Article Builder with AI",
     "name": "ContGPT",
     "description": "ContGpt is a desktop AI program for generating articles efficiently.",
@@ -23831,6 +23840,15 @@
     "created_at": "14:15:19 07/24/2025"
   },
   {
+    "title": "Phaet",
+    "name": "Phaet",
+    "description": "An AI platform for professional image, video, and marketing banner generation.",
+    "website": "https://phaet.ai",
+    "categories": "AI Image Generator, AI Video Generator, Text to Video, Image to Video, Text to Image, AI Banner Generator, AI Watermark Remover",
+    "slug": "phaet",
+    "created_at": "14:17:20 03/01/2026"
+  },
+  {
     "title": "PostEverywhere.ai",
     "name": "PostEverywhere.ai",
     "description": "Post your content across all socials in seconds.",
@@ -38705,6 +38723,15 @@
     "categories": "AI Real Estate",
     "slug": "homesage-ai",
     "created_at": "02:51:30 06/23/2025"
+  },
+  {
+    "title": "Gemini",
+    "name": "Gemini 3 - Google AI Chat | Online",
+    "description": "Multimodal AI platform for Gemini 3 chat, 4K image generation, and professional video creation.",
+    "website": "https://gemini3.us",
+    "categories": "AI Chatbot, AI Models, AI Image Generator, AI Video Generator, Large Language Models (LLMs), AI Assistant, Text to Image, Text to Video, AI Writing",
+    "slug": "gemini-3-google-ai-chat-online",
+    "created_at": "14:17:20 03/01/2026"
   },
   {
     "title": "LessonPlanGenerator",
