@@ -9828,6 +9828,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Remove BG Video",
+    "name": "remove bg video",
+    "description": "AI tool to remove video backgrounds instantly without green screens, supporting 4K and transparency.",
+    "website": "https://removebgvideo.com",
+    "categories": "AI Background Remover, AI Video Editor, AI Productivity Tools",
+    "slug": "remove-bg-video",
+    "created_at": "14:37:53 03/02/2026"
+  },
+  {
     "title": "Codapt",
     "name": "Codapt",
     "description": "Vibe code full-stack web apps. No supabase. No limits.",
@@ -31238,6 +31247,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Renamer.ai",
+    "name": "Renamer.ai",
+    "description": "AI tool that renames and organizes files by automatically reading their actual content.",
+    "website": "https://renamer.ai",
+    "categories": "AI Files, AI OCR, AI Productivity Tools, AI PDF",
+    "slug": "renamer-ai",
+    "created_at": "14:37:53 03/02/2026"
+  },
+  {
     "title": "Sayfone",
     "name": "Sayfone",
     "description": "Sayfone is the ultimate Skype replacement - cheap, fast, and reliable calls worldwide.",
@@ -37733,6 +37751,15 @@
     "categories": "AI Social Media Assistant, Fitness, AI Reviews Assistant, AI Coaching",
     "slug": "gear",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Dance Generator | DanceGenerator.AI",
+    "name": "AI Dance Generator | DanceGenerator.AI",
+    "description": "AI Dance Generator (dancegenerator.ai) is the easiest way to turn any character image into a realistic dancing video. No video editing skills, no complex software, no learning curve — just three simple steps",
+    "website": "https://dancegenerator.ai",
+    "categories": "AI Video Generator, Image to Video, Video to Video",
+    "slug": "ai-dance-generator-dancegenerator-ai",
+    "created_at": "14:37:53 03/02/2026"
   },
   {
     "title": "CiteTrue",
