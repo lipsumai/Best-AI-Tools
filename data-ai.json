@@ -756,6 +756,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Video to Text AI",
+    "name": "Video to Text AI",
+    "description": "AI-powered tool for fast, accurate video-to-text transcription and subtitle generation in 55+ languages.",
+    "website": "https://videototext.tools",
+    "categories": "AI Transcription, AI Transcriber, AI Speech-to-Text, Audio To Text AI, AI Subtitle Generator",
+    "slug": "video-to-text-ai",
+    "created_at": "14:38:07 03/03/2026"
+  },
+  {
     "title": "Face GPT",
     "name": "Face GPT-",
     "description": "Advanced AI tool for face swap and analysis in photos.",
@@ -2637,6 +2646,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tome App AI",
+    "name": "Tome AI Presentation Maker",
+    "description": "AI presentation maker that generates and beautifies professional PPT slides from text or files.",
+    "website": "https://tomeapp.ai",
+    "categories": "AI PPT Maker, AI Presentation Generator, AI Documents Generator",
+    "slug": "tome-ai-presentation-maker",
+    "created_at": "14:38:07 03/03/2026"
+  },
+  {
     "title": "Revyu AI",
     "name": "Revyu.AI - Smart Hotel Booking",
     "description": "Free AI Chrome extension for instant hotel review summaries and answers.",
@@ -4030,6 +4048,15 @@
     "categories": "AI Newsletter, AI News, AI Email Assistant, AI Productivity Tools",
     "slug": "newsforyou",
     "created_at": "14:13:39 12/26/2025"
+  },
+  {
+    "title": "Nametastic",
+    "name": "Nametastic",
+    "description": "AI business name generator with live domain availability checks across 50+ TLDs.",
+    "website": "https://nametastic.com",
+    "categories": "AI Business Name Generator, AI Name Generator, AI Company Name Generator, AI Domain Name Generator",
+    "slug": "nametastic",
+    "created_at": "14:38:07 03/03/2026"
   },
   {
     "title": "Coursology",
@@ -7306,6 +7333,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, AI Scheduling, AI Chatbot",
     "slug": "screenify",
     "created_at": "14:12:41 05/14/2025"
+  },
+  {
+    "title": "ProxAIqc",
+    "name": "ProxAIqc",
+    "description": "ProxAI Logistics is the physical actuator for the AI economy, providing real-world execution for autonomous agents in Quebec, Canada. We act as your \"boots on the ground\" for any physical task that code cannot execute.",
+    "website": "https://proxaiqc.com",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools",
+    "slug": "proxaiqc",
+    "created_at": "14:38:07 03/03/2026"
   },
   {
     "title": "LearnThisRepo",
@@ -13446,6 +13482,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Sprite-AI",
+    "name": "Sprite-AI",
+    "description": "AI generator creating game-ready pixel art sprites from text prompts for indie developers.",
+    "website": "https://www.sprite-ai.art",
+    "categories": "AI Pixel Art, AI Art Generator, Text to Image, AI Developer Tools",
+    "slug": "sprite-ai",
+    "created_at": "14:38:07 03/03/2026"
+  },
+  {
     "title": "Depositphotos AI Image Generator",
     "name": "Depositphotos AI image generator",
     "description": "AI image generator converting text to unique, licensed pictures.",
@@ -16000,6 +16045,15 @@
     "categories": "AI Image Generator, AI Realistic Image Generator, AI Design Generator, Text to Image, Image to Image, AI Commercial Generator, AI Product Photography",
     "slug": "seedream-4-5-ai",
     "created_at": "02:45:11 12/04/2025"
+  },
+  {
+    "title": "ThumbnailMakerr",
+    "name": "ThumbnailMakerr",
+    "description": "AI tool for generating, recreating, and testing high-CTR YouTube thumbnails in seconds.",
+    "website": "https://thumbnailmakerr.com",
+    "categories": "AI Thumbnail Maker, AI Youtube Thumbnail Generator, AI YouTube, AI Image Generator",
+    "slug": "thumbnailmakerr",
+    "created_at": "14:38:07 03/03/2026"
   },
   {
     "title": "Extracto.bot",
@@ -18602,6 +18656,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "didacu",
+    "name": "didacu.com",
+    "description": "AI platform that transforms any topic or document into interactive courses with quizzes.",
+    "website": "https://didacu.com",
+    "categories": "AI Course, AI Quiz Generator, AI Lesson Plan Generator, AI Presentation Generator",
+    "slug": "didacu-com",
+    "created_at": "14:38:07 03/03/2026"
+  },
+  {
     "title": "AI Face Swap",
     "name": "AI Face Swap by DRESSXME.com",
     "description": "AI-Powered Face Swapper with Ultra-Realistic Results. Bring your vision to life with the DRESSX AI face swap tool. Whether you're looking to replace a face in a photo online for free, try out a new look, or just have fun, our tool makes it easy. Simply upload your image and let our seamless face changer do the rest. The result is fast, realistic, and effortless.",
@@ -19680,6 +19743,15 @@
     "categories": "AI Social Media, AI Agent, AI Social Media Post Generator",
     "slug": "oasi",
     "created_at": "14:13:07 11/14/2025"
+  },
+  {
+    "title": "Rankai",
+    "name": "Rankai",
+    "description": "RankAI is the world's first AI-native SEO/GEO Agency that autonomously drives organic traffic from Google and AI search engines like ChatGPT, Gemini, and Perplexity. Backed by Y Combinator, Microsoft, a16z, and OpenAI.",
+    "website": "https://rankai.ai",
+    "categories": "AI SEO Tools, AI Blog Generator, AI Copywriting, SEO Writing AI",
+    "slug": "rankai",
+    "created_at": "14:38:07 03/03/2026"
   },
   {
     "title": "AI Drawing Pro",
@@ -22245,6 +22317,15 @@
     "categories": "AI Research Tool, AI Research Papers",
     "slug": "kael-ai-assistant-for-understanding-and-working-with-docunents",
     "created_at": "03:06:50 01/05/2026"
+  },
+  {
+    "title": "Krira Labs",
+    "name": "Krira Chunker",
+    "description": "Enterprise AI infrastructure for high-performance RAG pipelines and autonomous agentic systems.",
+    "website": "https://www.kriralabs.com",
+    "categories": "AI Developer Tools, AI Agent, Large Language Models (LLMs), AI Workflow",
+    "slug": "krira-chunker",
+    "created_at": "14:38:07 03/03/2026"
   },
   {
     "title": "ChatGPT Pulse",
@@ -30599,6 +30680,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "FlowSpeech",
+    "name": "FlowSpeech",
+    "description": "Context-aware AI text-to-speech tool with lifelike voices and precise emotion and pause control.",
+    "website": "https://flowspeech.io",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI Speech Synthesis, AI Voice Over, AI Dubbing",
+    "slug": "flowspeech",
+    "created_at": "14:38:07 03/03/2026"
+  },
+  {
     "title": "Claudebin",
     "name": "Claudebin",
     "description": "Export and share Claude Code terminal sessions as navigable, embeddable web URLs.",
@@ -31146,6 +31236,15 @@
     "categories": "Sales Assistant, AI Lead Generation, AI CRM Assistant, AI Email Marketing, Marketing Plan Generator, AI Email Assistant",
     "slug": "growcado",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FlowSubs",
+    "name": "FlowSubs- Subscriptions Management",
+    "description": "A comprehensive dashboard to track, manage, and optimize all your recurring subscriptions and expenses.",
+    "website": "https://flowsubs.app",
+    "categories": "AI For Finance, AI Assistant, AI Productivity Tools",
+    "slug": "flowsubs-subscriptions-management",
+    "created_at": "14:38:07 03/03/2026"
   },
   {
     "title": "Pawcracy",
@@ -38003,6 +38102,15 @@
     "categories": "AI Social Media, AI Marketing, AI Agent, AI Digital Marketing",
     "slug": "soshi",
     "created_at": "14:12:52 07/16/2025"
+  },
+  {
+    "title": "SellShots",
+    "name": "SellShots",
+    "description": "AI product photography tool for creating professional e-commerce lifestyle and studio images.",
+    "website": "https://sellshots.co",
+    "categories": "AI Product Photography, AI Photography, AI Image Generator, AI Ad Creative, AI Background Remover, AI Background Generator",
+    "slug": "sellshots",
+    "created_at": "14:38:07 03/03/2026"
   },
   {
     "title": "Pipiads",
