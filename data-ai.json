@@ -21167,6 +21167,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Tabbit Browser",
+    "name": "Tabbit",
+    "description": "AI-native browser with context-aware chat, task automation, and intelligent tab organization.",
+    "website": "https://www.tabbitbrowser.com",
+    "categories": "AI Browsers, AI Agent, AI Assistant, AI Chatbot",
+    "slug": "tabbit",
+    "created_at": "03:29:20 03/03/2026"
+  },
+  {
     "title": "InterviewBee",
     "name": "InterviewBee AI",
     "description": "AI assistant for live interviews and mock practice.",
