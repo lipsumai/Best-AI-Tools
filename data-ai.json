@@ -207,6 +207,15 @@
     "created_at": "14:13:10 11/21/2025"
   },
   {
+    "title": "Pixflux.AI",
+    "name": "Pixflux.AI",
+    "description": "Pixflux.AI is an AI photo editor for e-commerce and creators",
+    "website": "https://pixflux.ai",
+    "categories": "AI Background Remover, AI Background Generator, AI Eraser, AI Expand Image, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Photo Editor, AI Photo Enhancer, AI Unblur Image, AI Watermark Remover, Object Remover AI",
+    "slug": "pixflux-ai",
+    "created_at": "03:25:00 03/05/2026"
+  },
+  {
     "title": "Flux Kontext AI",
     "name": "Flux Kontext AI",
     "description": "AI image editor transforming photos with natural language prompts.",
@@ -5479,6 +5488,15 @@
     "categories": "AI Video Generator, AI Animated Video, AI Video Editor, Image to Video, Text to Video",
     "slug": "dora-studio",
     "created_at": "14:11:58 09/19/2025"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0",
+    "description": "Next-gen multimodal AI video generator for cinematic, production-ready content with synchronized audio.",
+    "website": "https://www.seedance20.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator, AI Short Video Generator, AI Commercial Generator",
+    "slug": "seedance-2-0-the-next-gen-multimodal-ai-video-generator",
+    "created_at": "03:25:00 03/05/2026"
   },
   {
     "title": "ReelMate AI",
@@ -13365,6 +13383,15 @@
     "created_at": "14:13:12 07/25/2025"
   },
   {
+    "title": "FormHug",
+    "name": "FormHug",
+    "description": "AI form builder for humans and AI agents — create surveys, registrations, bookings, quizzes, and assessments in seconds.",
+    "website": "https://formhug.ai",
+    "categories": "AI Forms, No-Code&Low-Code, AI Question Generator, AI Quiz Generator, AI Quizzes, AI Productivity Tools, AI Research Tool",
+    "slug": "formhug",
+    "created_at": "03:25:00 03/05/2026"
+  },
+  {
     "title": "Seedance 2 Video Generator",
     "name": "Seedance 2-3",
     "description": "AI tool for cinematic video generation via text, image, or video workflows.",
@@ -19437,6 +19464,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Sound Effect Generator, AI API",
     "slug": "dreamasmr",
     "created_at": "14:11:59 06/19/2025"
+  },
+  {
+    "title": "SparkReceipt",
+    "name": "SparkReceipt",
+    "description": "AI Expense Tracking & Receipt Automation (with Bank and Credit Card Statement Matching)",
+    "website": "https://sparkreceipt.com",
+    "categories": "AI Accounting, AI OCR, AI For Finance, AI Tax Assistant, AI Productivity Tools, AI Scanner, AI Tools Directory",
+    "slug": "sparkreceipt",
+    "created_at": "03:25:00 03/05/2026"
   },
   {
     "title": "Ucraft Next",
