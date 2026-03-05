@@ -6831,6 +6831,15 @@
     "created_at": "14:14:02 07/14/2025"
   },
   {
+    "title": "MonoDesk",
+    "name": "MonoDesk",
+    "description": "A calm, AI-powered workspace built specifically for freelance creative professionals managing solo projects.",
+    "website": "https://www.monodesk.com",
+    "categories": "AI Project Management, AI Assistant, AI Task Management, AI Copilot, AI Workflow",
+    "slug": "monodesk",
+    "created_at": "14:39:47 03/05/2026"
+  },
+  {
     "title": "SpellPrints",
     "name": "SpellPrints",
     "description": "Build and monetize generative AI-powered applications.",
@@ -8530,6 +8539,15 @@
     "categories": "AI Ad Generator, AI Advertising Assistant, AI Banner Generator",
     "slug": "slaitor",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Reclarify",
+    "name": "Reclarify",
+    "description": "AI-powered platform connecting Dubai property owners with verified agents through transparent, spam-free matching.",
+    "website": "https://www.reclarify.app",
+    "categories": "AI Real Estate, AI Sales Assistant, AI Lead Generation",
+    "slug": "reclarify",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "Pacely",
@@ -13077,6 +13095,15 @@
     "created_at": "14:11:46 04/11/2025"
   },
   {
+    "title": "Nano Banana 2",
+    "name": "Free Nano Banana 2 AI Image Generator",
+    "description": "Nano Banana 2 supports web search grounded in world knowledge and offers multi-resolution output up to 4K, including ultra-wide aspect ratios.",
+    "website": "https://www.nanobananapro.org",
+    "categories": "AI Image Generator, AI Image Combiner, AI Image Enhancer, AI Image Upscaler, AI Inpainting, AI Outpainting, AI Photo Editor, AI Photo Enhancer, AI Realistic Image Generator, AI Unblur Image, Image to Image, Text to Image",
+    "slug": "free-nano-banana-2-ai-image-generator",
+    "created_at": "14:39:47 03/05/2026"
+  },
+  {
     "title": "TMRA - The Most Ridiculous Adventure ever told",
     "name": "TMRA",
     "description": "Cooperative AI-generated gaming experience.",
@@ -15786,6 +15813,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VocoSpeech",
+    "name": "Voco Speech",
+    "description": "Offline AI voice generator and unlimited voice cloning app for Mac.",
+    "website": "https://vocospeech.com",
+    "categories": "AI Voice Cloning, AI Voice Generator, AI Text-to-Speech, AI Voice Over, AI Speech Synthesis",
+    "slug": "voco-speech",
+    "created_at": "14:39:47 03/05/2026"
+  },
+  {
     "title": "BeautiAI",
     "name": "BeautiAI",
     "description": "Personalized AI feedback for your style",
@@ -16189,6 +16225,15 @@
     "categories": "AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Social Media Assistant, AI Hashtag Assistant",
     "slug": "viralpulseai",
     "created_at": "02:39:22 05/05/2025"
+  },
+  {
+    "title": "DailyStack",
+    "name": "Dailystack",
+    "description": "AI morning digest summarizing emails, tasks, and calendars into one daily briefing.",
+    "website": "https://dailystack.ai",
+    "categories": "AI Summarizer, AI Assistant, AI Productivity Tools, AI Email Assistant, AI Meeting Assistant",
+    "slug": "dailystack",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "Gitcord",
@@ -16800,6 +16845,15 @@
     "categories": "AI Tools Directory, AI Content Generator, AI SEO Assistant",
     "slug": "kywrd",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "MysticX",
+    "name": "MysticX.AI",
+    "description": "Free AI tarot platform for instant spiritual guidance and interactive card spreads.",
+    "website": "https://mysticx.ai",
+    "categories": "AI Predictions, AI Answer, AI Mental Health, AI Life",
+    "slug": "mysticx-ai",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "Essay Title Generator",
@@ -18818,6 +18872,15 @@
     "created_at": "14:12:04 07/17/2025"
   },
   {
+    "title": "RepoClip",
+    "name": "RepoClip",
+    "description": "AI tool that automatically converts GitHub repositories into professional promotional videos with narration.",
+    "website": "https://repoclip.io",
+    "categories": "AI Video Generator, AI Developer Tools, Script To Video AI Generator, AI Github, AI Marketing",
+    "slug": "repoclip",
+    "created_at": "14:39:47 03/05/2026"
+  },
+  {
     "title": "Eleven Music AI",
     "name": "Eleven Music AI",
     "description": "AI music generator for songs, lyrics, and vocal removal.",
@@ -20562,6 +20625,15 @@
     "categories": "AI Analytics Assistant",
     "slug": "castello",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ghostype",
+    "name": "GHOSTYPE",
+    "description": "Context-aware AI voice interface for macOS that automates typing and workflow optimization.",
+    "website": "https://www.ghostype.one",
+    "categories": "AI Writing Assistants, AI Speech-to-Text, AI Writing, AI Productivity Tools, AI Translate, AI Assistant",
+    "slug": "ghostype",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "insMind AI Agent",
@@ -22976,6 +23048,15 @@
     "created_at": "14:14:37 12/04/2025"
   },
   {
+    "title": "Nano Banana 2 Hub",
+    "name": "Nano Banana 2 Hub",
+    "description": "High-speed AI engine for 4K images, character consistency, and technical illustrations.",
+    "website": "https://nano-banana-pro.org",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Realistic Image Generator, AI Anime Generator, AI Mockup Generator, AI Infographic Generator, AI Commercial Generator",
+    "slug": "nano-banana-2-hub",
+    "created_at": "14:39:47 03/05/2026"
+  },
+  {
     "title": "SpotScribe",
     "name": "SpotScribe",
     "description": "AI tool to extract Spotify transcripts, generate summaries, and chat with podcast episodes.",
@@ -23802,6 +23883,15 @@
     "categories": "AI Advertising Assistant, AI Content Generator, AI Lead Generation, AI Response Generator, AI Social Media Assistant, AI Reply Assistant, Large Language Models (LLMs), AI Email Marketing",
     "slug": "rizz-farm",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Accomplish It",
+    "name": "Accomplish It",
+    "description": "Email weekly/monthly/quarterly wins; AI rewrites into professional summaries you can share.",
+    "website": "https://www.goaccomplishit.com",
+    "categories": "Resume AI, AI Cover Letter Generator, AI Writing, AI Resume Builder",
+    "slug": "accomplish-it",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "Phrase (Frm. Memsource)",
@@ -24747,6 +24837,15 @@
     "categories": "Image to Video, AI Video Generator, Text to Video, AI Animation Generator, AI Commercial Generator, AI Anime Generator",
     "slug": "best-ai-image-to-video-free-cheapest-product-promo-maker",
     "created_at": "14:13:20 11/27/2025"
+  },
+  {
+    "title": "Secret Sauce 3D",
+    "name": "Secret Sauce 3D",
+    "description": "AI co-pilot for professional 3D mesh generation, retopology, and UV mapping.",
+    "website": "https://secretsauce3d.com",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D, AI Copilot",
+    "slug": "secret-sauce-3d",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "PawChamp",
@@ -27719,6 +27818,15 @@
     "created_at": "14:12:53 09/03/2025"
   },
   {
+    "title": "Nuggetz",
+    "name": "Nuggetz",
+    "description": "A shared social feed for AI agents to coordinate and collaborate autonomously without human intervention.",
+    "website": "https://nuggetz.ai",
+    "categories": "AI Agent, AI API, AI Workflow, AI Developer Tools, AI Productivity Tools",
+    "slug": "nuggetz",
+    "created_at": "14:39:47 03/05/2026"
+  },
+  {
     "title": "MCP Playground",
     "name": "MCP Playground",
     "description": "Web-based developer tool to inspect, test, debug, and develop MCP server integrations.",
@@ -30345,6 +30453,15 @@
     "categories": "AI YouTube Assistant, AI Document Extraction, Research Tool, Captions or Subtitle, Transcription, Transcriber",
     "slug": "youtube-transcript-generator",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "Viktor",
+    "name": "getviktor.com",
+    "description": "An autonomous AI coworker for Slack that executes tasks, writes code, and automates workflows.",
+    "website": "https://ref.getviktor.com",
+    "categories": "AI Agent, AI Assistant, AI Copilot, AI Productivity Tools, AI Workflow, AI Code Assistant",
+    "slug": "getviktor-com",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "BlogFAST",
@@ -33530,6 +33647,15 @@
     "categories": "AI Website Designer, AI Website Builder, No-Code&Low-Code, AI Landing Page Builder",
     "slug": "blaze-baby",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "PromptsPilot",
+    "name": "PromptsPilot",
+    "description": "AI research agent that automates scheduled web monitoring and competitor analysis.",
+    "website": "https://www.promptspilot.com",
+    "categories": "AI Agent, AI Monitor, AI Research Tool, AI Report Generator",
+    "slug": "promptspilot",
+    "created_at": "14:39:47 03/05/2026"
   },
   {
     "title": "Lkin",
