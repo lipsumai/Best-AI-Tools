@@ -9324,6 +9324,15 @@
     "created_at": "14:12:54 06/25/2025"
   },
   {
+    "title": "ClawGo",
+    "name": "ClawGo",
+    "description": "Managed hosting to deploy AI chatbots on Telegram, Discord, and WhatsApp without managing servers.",
+    "website": "https://clawgo.bot",
+    "categories": "AI Chatbot, AI Assistant, No-Code&Low-Code, AI Agent",
+    "slug": "clawgo",
+    "created_at": "14:30:56 03/06/2026"
+  },
+  {
     "title": "LiarLiar.ai - AI Lie Detector & Heart Rate Monitor",
     "name": "LiarLiar",
     "description": "\"LiarLiar.ai is an advanced AI tool that detects lies and heart rate changes during video calls.\"",
@@ -29591,6 +29600,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "ImageGeneratorAI.io",
+    "name": "ImageGeneratorAI.io",
+    "description": "ImageGeneratorAI.io",
+    "website": "https://imagegeneratorai.io",
+    "categories": "AI Image Generator, AI Photo Editor, AI Art Generator, AI Graphic Design",
+    "slug": "imagegeneratorai-io",
+    "created_at": "14:30:56 03/06/2026"
+  },
+  {
     "title": "PitchFit",
     "name": "PitchFit",
     "description": "AI platform for startup analysis, pitch training, and investor matching.",
@@ -31821,6 +31839,15 @@
     "categories": "AI Models, AI Tools Directory, Large Language Models (LLMs)",
     "slug": "bestmodelai",
     "created_at": "14:12:58 06/17/2025"
+  },
+  {
+    "title": "Janus",
+    "name": "Janus-",
+    "description": "Real-time AI avatar platform for streaming and video calls using a standard webcam.",
+    "website": "https://janus.cam",
+    "categories": "AI Avatar Generator, AI Vtuber, AI Character, AI Avatar Video Generator",
+    "slug": "janus-1",
+    "created_at": "14:30:56 03/06/2026"
   },
   {
     "title": "Flapico",
