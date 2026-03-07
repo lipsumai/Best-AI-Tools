@@ -21086,6 +21086,15 @@
     "created_at": "14:12:45 11/11/2025"
   },
   {
+    "title": "Auditic",
+    "name": "Auditic",
+    "description": "Most AI consulting projects start with a discovery call, but the output of that call is usually messy notes and guesswork.  Important signals get lost, opportunities are priced inconsistently, and proposals depend too much on instinct.  Auditic exists to bring structure to that process, turning discovery conversations into scored opportunities and ROI-backed proposals.",
+    "website": "https://auditic.app",
+    "categories": "AI Productivity Tools, AI Project Management, AI Workflow, AI Presentation Generator, AI Report Generator, AI Task Management",
+    "slug": "auditic",
+    "created_at": "03:11:15 03/07/2026"
+  },
+  {
     "title": "Deepfake Maker AI Halloween",
     "name": "Deepfake Maker AI Halloween",
     "description": "AI platform for spooky photos, deepfake face swaps, and various image/video effects.",
@@ -27053,6 +27062,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Beancount.io",
+    "name": "Beancount.io",
+    "description": "AI-powered plain-text accounting platform with Git-native version control for developers and professionals.",
+    "website": "https://beancount.io",
+    "categories": "AI Accounting, AI For Finance, AI Assistant, Large Language Models (LLMs)",
+    "slug": "beancount-io",
+    "created_at": "03:11:15 03/07/2026"
+  },
+  {
     "title": "O/Page Website Builder",
     "name": "O/Page Website Builder",
     "description": "Browser-based AI IDE for generating and exporting portable HTML websites.",
@@ -30410,6 +30428,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "Sora 2",
+    "name": "Sora 2 video",
+    "description": "Sora 2 is OpenAI's latest state-of-the-art video and audio generation model, offering more accurate physics, sharper realism, synchronized audio, and greater creative control built upon the original Sora",
+    "website": "https://sora2.video",
+    "categories": "AI Video Generator, Image to Video, Text to Video, Video to Video",
+    "slug": "sora-2-video",
+    "created_at": "03:11:15 03/07/2026"
+  },
+  {
     "title": "Hopx",
     "name": "The Cloud for AI Agents",
     "description": "Secure, blazing-fast Linux micro-VMs for AI agents and untrusted code execution.",
@@ -32496,6 +32523,15 @@
     "categories": "AI Art Generator, AI Design Generator, AI Graphic Design, Design Assistant, Prompt, Text to Image, AI Photo & Image Generator, AI Avatar Generator, AI Profile Picture Generator, AI Content Generator, AI Image Enhancer, Photo & Image Editor, AI Background Remover",
     "slug": "runware",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Poster.sh",
+    "name": "Poster.sh",
+    "description": "Turn any idea into a stunning poster in seconds. Poster.sh offers 120+ artistic styles — from classic Art Deco to futuristic Cyberpunk — with thousands of AI-generated designs ready to browse, download, and print. Supports both text-to-poster and image-to-poster generation. No design skills needed.",
+    "website": "https://poster.sh",
+    "categories": "AI Poster Generator, AI Design Generator, AI Graphic Design, AI Image Generator, AI Social Media Post Generator, Text to Image",
+    "slug": "poster-sh",
+    "created_at": "03:11:15 03/07/2026"
   },
   {
     "title": "AI Barbie",
