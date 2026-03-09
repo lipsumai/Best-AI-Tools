@@ -5391,6 +5391,15 @@
     "created_at": "02:42:51 11/03/2025"
   },
   {
+    "title": "1clickclaw",
+    "name": "1clickclaw",
+    "description": "1ClickClaw is a one-click deployment platform for OpenClaw AI agents. It lets developers launch AI bots for Telegram, Discord, and other channels without managing servers or infrastructure.",
+    "website": "https://1clickclaw.app",
+    "categories": "AI Agent, AI Chatbot",
+    "slug": "1clickclaw",
+    "created_at": "03:30:32 03/09/2026"
+  },
+  {
     "title": "Seedance AI",
     "name": "Seedance AI",
     "description": "ByteDance's AI video generator for multi-shot, cinematic videos.",
@@ -7612,6 +7621,15 @@
     "categories": "AI Anime Art, AI Cartoon Generator, AI Character, AI Video Editor, AI GIF Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, AI Animated Video, AI Pixel Art, AI Manga Generator, AI Emoji Generator, AI Comic, AI Art Generator, AI Script Writing, AI Image Recognition, Text to Image, Image to Image, AI Photo Editor, AI Person Generator, AI Image Generator, AI Headshot Generator, AI Background Generator, AI Avatar Generator, AI Text Generator, AI Short Story Generator, AI Sentence Generator, Whiteboard AI",
     "slug": "ocer-your-all-in-one-ai-oc-maker",
     "created_at": "14:12:15 10/10/2025"
+  },
+  {
+    "title": "Clever AI Humanizer",
+    "name": "clever ai humanizer-net",
+    "description": "Advanced tool transforming AI text into natural, undetectable human-like writing to bypass AI detection.",
+    "website": "https://cleveraihumanizer.net",
+    "categories": "AI Bypasser, Humanizer AI, Undetectable AI, AI Rewriter",
+    "slug": "clever-ai-humanizer-net",
+    "created_at": "03:30:32 03/09/2026"
   },
   {
     "title": "Sup AI",
@@ -14571,6 +14589,15 @@
     "created_at": "14:09:56 09/20/2025"
   },
   {
+    "title": "HandyClaw",
+    "name": "HandyClaw AI",
+    "description": "Managed cloud hosting for OpenClaw, offering one-click deployment and automated AI assistant management.",
+    "website": "https://handyclaw.ai",
+    "categories": "AI Agent, AI Assistant, No-Code&Low-Code, AI Productivity Tools",
+    "slug": "handyclaw-ai",
+    "created_at": "03:30:32 03/09/2026"
+  },
+  {
     "title": "Pixwit",
     "name": "Pixwit",
     "description": "Pixwit.ai — AI Video & Image Creator That Brings Your Ideas to Life  Pixwit.ai is an innovative AI‑powered creative platform designed to make professional video and visual content creation accessible to everyone — from content creators and marketers to storytellers and businesses. Whether you’re crafting short social media clips, dynamic product ads, animated avatars, or multi‑scene long‑form videos, Pixwit offers an all‑in‑one solution powered by cutting‑edge artificial intelligence.  Pixwit  At the heart of Pixwit is its suite of advanced AI video models, enabling users to turn text prompts or static images into stunning, high‑quality videos with just a few clicks. You can",
@@ -19239,6 +19266,15 @@
     "categories": "AI Analytics Assistant, Large Language Models (LLMs)",
     "slug": "afford-ai",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "MaxVideoAI",
+    "name": "MaxVideoAI",
+    "description": "Compare AI video models before you render, see pricing upfront, and generate faster with the right engine for each shot.",
+    "website": "https://maxvideoai.com",
+    "categories": "AI Video Generator, Image to Video, Text to Video, Video to Video",
+    "slug": "maxvideoai",
+    "created_at": "03:30:32 03/09/2026"
   },
   {
     "title": "GoCrazyAI",
@@ -30977,6 +31013,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "Couple AI",
+    "name": "couple ai",
+    "description": "AI tool generating realistic professional couple photos from individual selfies in seconds.",
+    "website": "https://couple-ai.com",
+    "categories": "AI Image Generator, AI Portrait Generator, AI Photography, AI Realistic Image Generator, AI Headshot Generator, AI Video Generator",
+    "slug": "couple-ai",
+    "created_at": "03:30:32 03/09/2026"
+  },
+  {
     "title": "Logoscapes.ai",
     "name": "Logoscapes.ai",
     "description": "Create professional logos easily with Logoscapes.ai, an online AI-powered logo design tool.",
@@ -38300,6 +38345,15 @@
     "categories": "AI Models, AI Healthcare, AI Medical Diagnosis, AI Research Papers, AI For Finance",
     "slug": "sandboxaq",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "Sugarbug",
+    "name": "Sugarbug",
+    "description": "Workflow intelligence that connects your tools into a living knowledge graph.",
+    "website": "https://sugarbug.ai",
+    "categories": "AI Productivity Tools",
+    "slug": "sugarbug",
+    "created_at": "03:30:32 03/09/2026"
   },
   {
     "title": "ParseMania.com",
