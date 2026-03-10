@@ -1476,6 +1476,15 @@
     "created_at": "14:19:12 01/14/2026"
   },
   {
+    "title": "CoPaw",
+    "name": "CoPaw",
+    "description": "Open-source personal AI workstation for local LLMs and multi-channel messaging integration.",
+    "website": "https://copaw.bot",
+    "categories": "AI Agent, AI Assistant, AI Chatbot, Large Language Models (LLMs), AI Productivity Tools, AI Workflow",
+    "slug": "copaw",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Tidy",
     "name": "Tidy",
     "description": "AI personal agent that automates websites and apps via iMessage without coding.",
@@ -2131,6 +2140,15 @@
     "categories": "AI Email Assistant, AI Email Generator, AI Response Generator",
     "slug": "draftr",
     "created_at": "14:15:50 08/01/2025"
+  },
+  {
+    "title": "MaxClaw",
+    "name": "MaxClaw - MiniMax OpenClaw",
+    "description": "AI agent builder for creating bots with specialized skills and multi-platform collaboration.",
+    "website": "https://agent.minimax.io",
+    "categories": "AI Agent, AI Assistant, AI Chatbot, AI Workflow",
+    "slug": "maxclaw-minimax-openclaw",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "AI Recipe Writer",
@@ -3087,6 +3105,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "OGImagen",
+    "name": "OGImagen",
+    "description": "AI-powered tool for generating professional Open Graph images and framework-ready meta tags.",
+    "website": "https://ogimagen.com",
+    "categories": "AI Image Generator, AI Social Media, AI Thumbnail Maker, AI Social Media Post Generator",
+    "slug": "ogimagen",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Design0",
     "name": "Design0 - Effortless AI Design for Everyone",
     "description": "Effortless AI design for everyone.",
@@ -3276,6 +3303,15 @@
     "created_at": "14:42:14 02/12/2026"
   },
   {
+    "title": "Getbeel",
+    "name": "GetBeel",
+    "description": "AI tool that automatically extracts, organizes, and reconciles invoices from your email inbox.",
+    "website": "https://getbeel.com",
+    "categories": "AI Accounting, AI Document Extraction, AI For Finance, AI Productivity Tools",
+    "slug": "getbeel",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Parallel",
     "name": "Parallel-",
     "description": "AI-CFO for Early Stage Companies",
@@ -3427,6 +3463,15 @@
     "categories": "AI Agent, AI Github, AI Developer Tools, AI Code Assistant, AI Answer",
     "slug": "forums",
     "created_at": "14:23:04 01/27/2026"
+  },
+  {
+    "title": "Qclaw",
+    "name": "Qclaw",
+    "description": "AI tool for remote PC control and task automation via WeChat.",
+    "website": "https://claw.guanjia.qq.com",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Research Tool, AI Social Media, AI Developer Tools",
+    "slug": "qclaw",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "Hitem3D",
@@ -5499,6 +5544,15 @@
     "created_at": "14:11:58 09/19/2025"
   },
   {
+    "title": "EasyClaw",
+    "name": "EasyClaw | The Native OpenClaw App for Mac & Windows",
+    "description": "Native desktop app for controlling secure, local AI agents without terminal commands.",
+    "website": "https://easyclaw.com",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Workflow",
+    "slug": "easyclaw-the-native-openclaw-app-for-mac-windows",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Seedance 2.0",
     "name": "Seedance 2.0",
     "description": "Next-gen multimodal AI video generator for cinematic, production-ready content with synchronized audio.",
@@ -5787,6 +5841,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Thinking Line",
+    "name": "Thinking Line",
+    "description": "AI tool for turning prompts into editable SVGs and doodle explainer videos.",
+    "website": "https://www.thinkingline.com",
+    "categories": "Whiteboard AI, AI Vector Graphics, AI Video Generator, AI Animation Generator, AI API",
+    "slug": "thinking-line",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Jotlin",
     "name": "Jotlin",
     "description": "An AI Agent that make your idea clear.",
@@ -5929,6 +5992,15 @@
     "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Game Generator",
     "slug": "instance",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "Kita",
+    "name": "Kita",
+    "description": "AI document intelligence for lenders in emerging markets to automate underwriting and fraud detection.",
+    "website": "https://usekita.com",
+    "categories": "AI Document Extraction, AI For Finance, AI Agent, AI Detector, AI API",
+    "slug": "kita",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "Image-ai",
@@ -7488,6 +7560,15 @@
     "created_at": "14:12:49 01/03/2026"
   },
   {
+    "title": "Spoke",
+    "name": "Spoke",
+    "description": "Privacy-focused macOS app for instant on-device dictation and AI-powered text processing.",
+    "website": "https://usespoke.app",
+    "categories": "AI Speech-to-Text, AI Transcription, AI Transcriber, AI Speech Recognition, AI Translate, AI Grammar Checker",
+    "slug": "spoke",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Nelly",
     "name": "Nelly",
     "description": "AI platform for building and sharing custom AI agents without coding.",
@@ -7819,6 +7900,15 @@
     "categories": "AI Content Detector, AI Content Generator, AI Detector, AI Rewriter, AI Response Generator, Writing Assistants, Paraphraser",
     "slug": "ai-bypass",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Cheetu AI",
+    "name": "Cheetu AI",
+    "description": "Your Lightweight Interpreter & AI Notetaker",
+    "website": "https://cheetu.ai",
+    "categories": "AI Speech-to-Text, AI Recording, AI Speech Recognition, AI Transcriber, AI Transcription, AI Voice Assistants, Audio To Text AI",
+    "slug": "cheetu-ai",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "SoundType AI",
@@ -13149,6 +13239,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "Reflct",
+    "name": "Reflct",
+    "description": "AI journaling app using guided prompts and mood tracking to reveal personal patterns.",
+    "website": "https://reflct.co",
+    "categories": "AI Mental Health, AI Assistant, AI Writing Assistants",
+    "slug": "reflct",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Matrix Game 2",
     "name": "Matrix Game 2",
     "description": "AI platform for interactive worlds and video generation.",
@@ -14191,6 +14290,15 @@
     "categories": "AI API, AI Developer Tools, AI Video Generator, AI Image Generator, AI Music Generator, AI Voice Generator",
     "slug": "crun-ai",
     "created_at": "14:47:00 02/11/2026"
+  },
+  {
+    "title": "Speclint",
+    "name": "Speclint",
+    "description": "Speclint scores your specs 0-100 across 5 dimensions before any AI agent touches them. Deterministic regex scoring — no AI hallucination in the diagnosis. CLI, GitHub Action, and MCP Server.",
+    "website": "https://speclint.ai",
+    "categories": "AI Developer Tools",
+    "slug": "speclint",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "Virtual Try On AI",
@@ -17270,6 +17378,15 @@
     "created_at": "02:41:36 11/26/2025"
   },
   {
+    "title": "PicoClaw",
+    "name": "PicoClaw",
+    "description": "Ultra-lightweight AI assistant running on $10 hardware with under 10MB RAM.",
+    "website": "https://picoclaw.io",
+    "categories": "AI Assistant, AI Agent, AI Developer Tools",
+    "slug": "picoclaw",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Gen Music IM",
     "name": "GenMusic Immediately",
     "description": "Free AI music generator transforming text into professional music.",
@@ -17666,6 +17783,15 @@
     "created_at": "14:12:44 06/12/2025"
   },
   {
+    "title": "AIReel",
+    "name": "AIReel",
+    "description": "Generate AI videos and images using the latest models and ready-to-use social media templates — fast, simple, and affordable.",
+    "website": "https://www.aireel.net",
+    "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Animation Generator, AI Reel Generator, AI Short Video Generator, AI Tiktok Video Generator, AI Youtube Video Maker, Image to Video, Text to Video",
+    "slug": "aireel",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "StoryLang",
     "name": "StoryLang",
     "description": "Generate stories, learn language, practice vocabulary",
@@ -18044,6 +18170,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ZeroClaw",
+    "name": "ZeroClaw — Private AI Assistant",
+    "description": "100% local, private AI assistant that runs entirely on your own hardware.",
+    "website": "https://www.zeroclawlabs.ai",
+    "categories": "AI Agent, AI Assistant, Open Source AI Models, AI Developer Tools, AI Chatbot",
+    "slug": "zeroclaw-private-ai-assistant",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Storydoc",
     "name": "Storydoc",
     "description": "Interactive presentation tool for engaging slide decks.",
@@ -18222,6 +18357,15 @@
     "categories": "AI Productivity Tools, AI Documents Generator, AI PDF",
     "slug": "toolwaves",
     "created_at": "02:22:34 10/23/2025"
+  },
+  {
+    "title": "Marketogen",
+    "name": "Marketogen",
+    "description": "AI assistant for generating production-ready marketing campaigns and editable Figma designs.",
+    "website": "https://marketogen.com",
+    "categories": "AI Ad Creative, AI Ad Generator, AI Graphic Design, AI Design Assistant, AI Advertising, AI Banner Generator",
+    "slug": "marketogen",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "Fimo",
@@ -20364,6 +20508,15 @@
     "categories": "AI Image Generator, AI Image Enhancer, Text to Image, AI Style Transfer, Image to Image, AI Photo Enhancer",
     "slug": "nano-banana-google",
     "created_at": "02:27:46 08/31/2025"
+  },
+  {
+    "title": "Termo",
+    "name": "Termo",
+    "description": "AI agents with virtual machines, persistent memory, and scheduled autonomous automation capabilities.",
+    "website": "https://termo.ai",
+    "categories": "AI Agent, AI Assistant, AI Code Generator, AI Research Tool, AI Web Scraping",
+    "slug": "termo",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "CVwizard",
@@ -23687,6 +23840,15 @@
     "created_at": "14:38:48 02/18/2026"
   },
   {
+    "title": "Clura",
+    "name": "Clura",
+    "description": "AI Chrome extension for effortless, no-code web data extraction and organization.",
+    "website": "https://clura.ai",
+    "categories": "AI Web Scraping, AI Data Mining, AI Agent, AI Lead Generation, AI Recruiting",
+    "slug": "clura",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "NanoBananas AI",
     "name": "NanoBananas AI",
     "description": "AI photo editing and image generation tool for stunning visuals.",
@@ -23757,6 +23919,15 @@
     "categories": "AI Notes Generator, AI Summarizer, AI Grammar Checker, AI Productivity Tools, AI Translate, AI Writing Assistants",
     "slug": "ai-powered-notes-taker",
     "created_at": "02:48:39 12/19/2025"
+  },
+  {
+    "title": "MixMemo - Visual AI Canvas",
+    "name": "MixMemo - Visual AI Canvas",
+    "description": "Turn PDFs, Excel, and images into AI summaries & flashcards on an infinite canvas (Get 100 Free AI Credits!).",
+    "website": "https://mixmemo.ai",
+    "categories": "AI Note Taker, AI Summarizer, AI Image Generator, AI Describe Image, Image to Prompt, AI Flashcard Maker, AI Mind Mapping, AI Translate, AI Document Extraction, AI PDF Summarizer",
+    "slug": "mixmemo-visual-ai-canvas",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "GPT Image 1.5 Generator",
@@ -24425,6 +24596,15 @@
     "created_at": "14:13:27 11/17/2025"
   },
   {
+    "title": "A9",
+    "name": "A9",
+    "description": "AI-powered generator creating professional product promo videos from URLs in minutes.",
+    "website": "https://a9ai.ai",
+    "categories": "AI Video Generator, AI Marketing, AI Commercial Generator, AI Short Video Generator, AI Advertising",
+    "slug": "a9",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Veo 3 AI",
     "name": "Veo-3-AI",
     "description": "Google's AI video generator for 4K videos with audio and lip-syncing.",
@@ -24936,6 +25116,15 @@
     "categories": "AI Chatbot",
     "slug": "chat-fu",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "happycapy",
+    "name": "happycapy",
+    "description": "A browser-based agent-native computer for running autonomous AI agents in secure sandboxes.",
+    "website": "https://happycapy.ai",
+    "categories": "AI Agent, AI Developer Tools, AI Assistant, AI Productivity Tools",
+    "slug": "happycapy",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "Minddex.ai",
@@ -31382,6 +31571,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vois",
+    "name": "Vois",
+    "description": "Offline desktop AI voice studio with unlimited generation, voice cloning, and multi-track mastering.",
+    "website": "https://vois.so",
+    "categories": "AI Voice Generator, AI Voice Over, AI Voice Cloning, AI Speech Synthesis, AI Audio Editing, AI Podcast",
+    "slug": "vois",
+    "created_at": "14:41:58 03/10/2026"
+  },
+  {
     "title": "Rotageek",
     "name": "Rotageek",
     "description": "AI-powered software for automating and optimizing employee schedules and workforce management.",
@@ -35042,6 +35240,15 @@
     "categories": "Healthcare, Legal Assistant, AI PDF, AI Productivity Tools, AI Workflow Management, AI Document Extraction, Large Language Models (LLMs), No-Code&Low-Code, Report Writing, AI Monitor & Report Builder",
     "slug": "v7-lab",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Speakoala",
+    "name": "Speakoala",
+    "description": "AI reading assistant that converts websites and local documents into natural speech.",
+    "website": "https://speakoala.com",
+    "categories": "AI Text-to-Speech, AI Speech Synthesis, AI Reader, AI Voice Generator, AI Assistant",
+    "slug": "speakoala",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "Cognitora",
@@ -39083,6 +39290,15 @@
     "categories": "AI Chatbot",
     "slug": "buddies",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GranthOS",
+    "name": "granthOS",
+    "description": "AI-powered online LaTeX editor for researchers to draft, compile, and format academic documents 10x faster.",
+    "website": "https://granthos.com",
+    "categories": "AI Writing, AI Writing Assistants, AI Research Tool, AI Diagram Generator",
+    "slug": "granthos",
+    "created_at": "14:41:58 03/10/2026"
   },
   {
     "title": "GPU Per Hour",
