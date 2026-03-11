@@ -4716,6 +4716,15 @@
     "created_at": "02:40:27 06/06/2025"
   },
   {
+    "title": "Stable Commerce",
+    "name": "Stable Commerce",
+    "description": "AI native infrastucture to build and operate eCommerce stores",
+    "website": "https://stablecommerce.ai",
+    "categories": "AI Website Builder, AI Landing Page Builder",
+    "slug": "stable-commerce",
+    "created_at": "14:40:35 03/11/2026"
+  },
+  {
     "title": "Tavern of Tales",
     "name": "Tavern of Tales",
     "description": "App for creating and sharing fantasy heroes and stories.",
@@ -7243,6 +7252,15 @@
     "categories": "Summarizer",
     "slug": "syft-ai-news-aggregator",
     "created_at": "14:11:12 04/24/2025"
+  },
+  {
+    "title": "C Dance AI — C Dance 2.0 Powered by Seedance 2.0",
+    "name": "C Dance AI — C Dance 2.0 Powered by Seedance 2.0",
+    "description": "AI video generator powered by Seedance 2.0 for cinematic text, image, and video conversion.",
+    "website": "https://cdance.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video",
+    "slug": "c-dance-ai-c-dance-2-0-powered-by-seedance-2-0",
+    "created_at": "14:40:35 03/11/2026"
   },
   {
     "title": "Pi（Presentation Intelligence）",
@@ -12850,6 +12868,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video",
     "slug": "s02ai",
     "created_at": "14:13:31 11/25/2025"
+  },
+  {
+    "title": "Ima Studio Claw",
+    "name": "Ima Claw",
+    "description": "All-in-one AI platform for generating high-quality images, videos, and music from text.",
+    "website": "https://www.imaclaw.ai",
+    "categories": "AI Agent, AI Image Generator, AI Video Generator, AI Music Generator, Text to Image, Text to Video",
+    "slug": "ima-claw",
+    "created_at": "14:40:35 03/11/2026"
   },
   {
     "title": "AI Song",
@@ -21905,6 +21932,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Kovvid AI",
+    "name": "kovvid ai",
+    "description": "All-in-one AI platform for multi-model image and video generation.",
+    "website": "https://kovvid.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Models",
+    "slug": "kovvid-ai",
+    "created_at": "14:40:35 03/11/2026"
+  },
+  {
     "title": "TryOnHaul",
     "name": "TryOnHaul",
     "description": "AI virtual try-on platform for fashion choices",
@@ -24929,6 +24965,15 @@
     "created_at": "14:13:21 10/15/2025"
   },
   {
+    "title": "Petclaw AI",
+    "name": "Petclaw AI",
+    "description": "AI desktop pet assistant for task automation and privacy-focused companionship.",
+    "website": "https://petclaw.ai",
+    "categories": "AI Assistant, AI Agent, AI Copilot, AI Productivity Tools",
+    "slug": "petclaw-ai",
+    "created_at": "14:40:35 03/11/2026"
+  },
+  {
     "title": "Knapsack Sidepanel",
     "name": "Knapsack Sidepanel",
     "description": "AI-powered Chrome extension for data interaction and workflow automation.",
@@ -27645,6 +27690,15 @@
     "categories": "AI Meeting Assistant, AI Summarizer, AI Transcription, AI Note Taker, AI Recording",
     "slug": "readmeeting",
     "created_at": "14:13:10 11/21/2025"
+  },
+  {
+    "title": "SocialKit",
+    "name": "SocialKit",
+    "description": "Social Media Scraping API",
+    "website": "https://www.socialkit.dev",
+    "categories": "AI Web Scraping, AI Social Media, AI API",
+    "slug": "socialkit",
+    "created_at": "14:40:35 03/11/2026"
   },
   {
     "title": "Hunyuan 3D",
@@ -31713,6 +31767,15 @@
     "categories": "AI API Design, AI Developer Tools",
     "slug": "cometapi",
     "created_at": "14:12:41 05/14/2025"
+  },
+  {
+    "title": "A9 AI",
+    "name": "A9 AI",
+    "description": "AI-powered generator creating professional product promo videos from URLs in minutes.",
+    "website": "https://a9ai.ai",
+    "categories": "AI Video Generator, AI Marketing, AI Commercial Generator, AI Short Video Generator, AI Advertising",
+    "slug": "a9-ai",
+    "created_at": "14:40:35 03/11/2026"
   },
   {
     "title": "Bryckel",
