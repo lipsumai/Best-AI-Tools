@@ -5283,6 +5283,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "Financial Fitness Passport",
+    "name": "Financial Fitness Passport",
+    "description": "AI-powered financial guidance platform for retirement tracking, debt management, and privacy-first financial planning.",
+    "website": "https://financialfitnesspassport.com",
+    "categories": "AI For Finance, AI Assistant, AI Copilot, AI Coaching, AI Chatbot",
+    "slug": "financial-fitness-passport",
+    "created_at": "03:22:18 03/11/2026"
+  },
+  {
     "title": "Law Insider",
     "name": "Law Insider",
     "description": "AI tools for contract drafting, review, and redlining.",
@@ -11619,6 +11628,15 @@
     "created_at": "14:12:34 09/25/2025"
   },
   {
+    "title": "HousesDecorate",
+    "name": "HousesDecorate",
+    "description": "AI home design tool for interior and exterior room makeovers from a single photo.",
+    "website": "https://housesdecorate.com",
+    "categories": "AI Interior Design, AI Kitchen Design, AI Room Planner, AI Backyard Design",
+    "slug": "housesdecorate",
+    "created_at": "03:22:18 03/11/2026"
+  },
+  {
     "title": "Hugo",
     "name": "Hugo",
     "description": "Here’s a concise, platform-ready description",
@@ -12814,6 +12832,15 @@
     "categories": "AI Developer Tools",
     "slug": "zegocloud",
     "created_at": "14:13:14 10/29/2025"
+  },
+  {
+    "title": "Doctor Handwriting Reader AI",
+    "name": "Handwriting AI",
+    "description": "AI tool that decodes messy handwritten medical prescriptions into clear, readable, and structured text.",
+    "website": "https://handwritingai.net",
+    "categories": "AI Reader, AI OCR, AI Healthcare, AI Transcription, AI Summarizer, AI Document Extraction",
+    "slug": "handwriting-ai",
+    "created_at": "03:22:18 03/11/2026"
   },
   {
     "title": "S02AI",
@@ -25739,6 +25766,15 @@
     "created_at": "14:12:40 09/16/2025"
   },
   {
+    "title": "Kling 2.6 Motion Control",
+    "name": "kling motion control",
+    "description": "AI tool for precise motion transfer from video to static images with high consistency.",
+    "website": "https://motioncontrol.app",
+    "categories": "AI Video Generator, Image to Video, AI Animation Generator, Video to Video",
+    "slug": "kling-motion-control",
+    "created_at": "03:22:18 03/11/2026"
+  },
+  {
     "title": "Tyan AI",
     "name": "Tyan AI",
     "description": "null",
@@ -25746,6 +25782,15 @@
     "categories": "AI Girlfriend, AI Roleplay",
     "slug": "tyan-ai",
     "created_at": "03:33:32 02/18/2026"
+  },
+  {
+    "title": "MiocAI",
+    "name": "MiocAI",
+    "description": "Impressive encrypted AI roleplay site with unlimited memory, image and video generation.",
+    "website": "https://miocai.com",
+    "categories": "AI Chatbot, AI Background Generator, AI Cosplay Generator, AI Image Combiner, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Anime Girlfriend, AI Boyfriend, AI Character, AI Dating Assistant, AI Girlfriend, AI Roleplay",
+    "slug": "miocai",
+    "created_at": "03:22:18 03/11/2026"
   },
   {
     "title": "Nifty",
