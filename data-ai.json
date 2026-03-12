@@ -3636,6 +3636,15 @@
     "created_at": "03:43:43 02/11/2026"
   },
   {
+    "title": "NemoClaw",
+    "name": "nemoclaw - io",
+    "description": "NVIDIA's open-source enterprise AI platform for secure, private, and scalable task automation.",
+    "website": "https://nemoclaws.io",
+    "categories": "AI Agent, Open Source AI Models, AI Task Management, AI Workflow",
+    "slug": "nemoclaw-io",
+    "created_at": "03:28:06 03/12/2026"
+  },
+  {
     "title": "Kirkified",
     "name": "Kirkified",
     "description": "AI face swap meme generator for viral Kirkified content with neon-glitch aesthetic.",
@@ -7666,6 +7675,15 @@
     "categories": "AI Summarizer",
     "slug": "ai-book-summarizer",
     "created_at": "02:43:59 07/02/2025"
+  },
+  {
+    "title": "Obsess AI",
+    "name": "Obsess AI",
+    "description": "AI content marketing and SEO automation platform specifically built for Shopify stores.",
+    "website": "https://www.obsessai.com",
+    "categories": "AI Marketing, AI SEO Tools, AI Blog Generator, AI Social Media Post Generator, AI Product Description Generator",
+    "slug": "obsess-ai",
+    "created_at": "03:28:06 03/12/2026"
   },
   {
     "title": "scraps",
@@ -12978,6 +12996,15 @@
     "created_at": "14:52:07 02/10/2026"
   },
   {
+    "title": "Nano Banana 2",
+    "name": "nano banana 2 | 4K AI Image Generator",
+    "description": "4K AI image generator specializing in precise text rendering and character consistency.",
+    "website": "https://nano-banana2.com",
+    "categories": "AI Image Generator, Text to Image, AI Poster Generator, AI Ad Generator, AI Marketing, AI Graphic Design",
+    "slug": "nano-banana-2-4k-ai-image-generator",
+    "created_at": "03:28:06 03/12/2026"
+  },
+  {
     "title": "SumsItUp",
     "name": "SumsItUp!",
     "description": "Use AI to summarize the Internet in any language, format, length, and style.",
@@ -14317,6 +14344,15 @@
     "categories": "AI Chatbot",
     "slug": "chatgpt5-so-free-gpt-5-online-with-no-login",
     "created_at": "02:44:24 08/09/2025"
+  },
+  {
+    "title": "Hermes Agent",
+    "name": "Hermes Agent",
+    "description": "Open-source autonomous AI agent with persistent memory and self-improving skill capabilities.",
+    "website": "https://hermesagent.agency",
+    "categories": "AI Agent, AI Assistant, Open Source AI Models, AI Developer Tools, AI Productivity Tools",
+    "slug": "hermes-agent",
+    "created_at": "03:28:06 03/12/2026"
   },
   {
     "title": "Ztalk.ai",
@@ -17520,6 +17556,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, Open Source AI Models, AI API",
     "slug": "ltx-2",
     "created_at": "02:19:21 10/24/2025"
+  },
+  {
+    "title": "NemoClaw",
+    "name": "nemoclaw",
+    "description": "Open-source enterprise AI agent platform for secure, scalable task automation.",
+    "website": "https://nemoclaws.org",
+    "categories": "AI Agent, AI Productivity Tools, AI Assistant, AI Developer Tools, AI Workflow, Open Source AI Models",
+    "slug": "nemoclaw",
+    "created_at": "03:28:06 03/12/2026"
   },
   {
     "title": "MuAPI",
@@ -30644,6 +30689,15 @@
     "created_at": "14:12:58 09/08/2025"
   },
   {
+    "title": "NemoVideo",
+    "name": "nemovideo",
+    "description": "AI video editing agent that creates viral content through simple chat commands.",
+    "website": "https://www.nemovideo.com",
+    "categories": "AI Video Editor, AI Agent, AI Assistant, AI Short Video Generator, AI Subtitle Generator, AI Voice Over",
+    "slug": "nemovideo",
+    "created_at": "03:28:06 03/12/2026"
+  },
+  {
     "title": "Web2PDF",
     "name": "Web2PDF",
     "description": "Convert web pages to PDF documents effortlessly online.",
@@ -37760,6 +37814,15 @@
     "categories": "AI Checker Essay, AI Writing Assistants, AI Language Learning, AI Grammar Checker, AI Rewriter",
     "slug": "ielts-writing-ai",
     "created_at": "14:12:58 11/20/2025"
+  },
+  {
+    "title": "Cashflowy",
+    "name": "Cashflowy",
+    "description": "Top AI-Powered Accounting Software for U.S. Solopreneurs",
+    "website": "https://www.cashflowy.ai",
+    "categories": "AI Accounting, AI For Finance, AI Tax Assistant",
+    "slug": "cashflowy",
+    "created_at": "03:28:06 03/12/2026"
   },
   {
     "title": "i10X",
