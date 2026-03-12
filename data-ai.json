@@ -6768,6 +6768,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nano Banana 2",
+    "name": "Nano Banana 2.co",
+    "description": "Advanced AI image and video editor powered by Google Gemini models.",
+    "website": "https://nanobanana.co",
+    "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI Video Generator, Image to Image, AI Photo Restoration, AI Graphic Design",
+    "slug": "nano-banana-2-co",
+    "created_at": "14:42:22 03/12/2026"
+  },
+  {
     "title": "Owl AI",
     "name": "OWL AI",
     "description": "Simplified logo creation tool",
@@ -25296,6 +25305,15 @@
     "categories": "AI Eraser, Object Remover AI, AI Inpainting",
     "slug": "magic-eraser-1",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "Paperclip",
+    "name": "Paperclip - ing",
+    "description": "Open-source orchestration platform for managing autonomous AI agent teams and companies.",
+    "website": "https://paperclip.ing",
+    "categories": "AI Agent, AI Project Management, AI Developer Tools, AI Task Management, Open Source AI Models",
+    "slug": "paperclip-ing",
+    "created_at": "14:42:22 03/12/2026"
   },
   {
     "title": "SMASHING LOGO",
