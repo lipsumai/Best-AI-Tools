@@ -6516,6 +6516,15 @@
     "created_at": "14:18:34 01/12/2026"
   },
   {
+    "title": "EVERYTHING Studios",
+    "name": "EVERYTHING Studios",
+    "description": "AI Powered Augmented Reality Infrastructure for the Internet",
+    "website": "https://everythingstudios.ai",
+    "categories": "AI 3D Model Generator",
+    "slug": "everything-studios",
+    "created_at": "03:24:54 03/13/2026"
+  },
+  {
     "title": "AI Dream Image Art Generator",
     "name": "AI Text to Image Magic Art",
     "description": "Innovative image creation app with AI technology",
@@ -9819,6 +9828,15 @@
     "created_at": "14:28:33 01/30/2026"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0 - tech",
+    "description": "AI video generator featuring native audio sync, 2K resolution, and multimodal input consistency.",
+    "website": "https://seedanceai.tech",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Music Video Generator, AI Lip Sync Generator",
+    "slug": "seedance-2-0-tech",
+    "created_at": "03:24:54 03/13/2026"
+  },
+  {
     "title": "VoxDeck",
     "name": "VoxDeck",
     "description": "AI presentation maker leading the visual revolution",
@@ -12301,6 +12319,15 @@
     "categories": "AI Chatbot, AI Lead Generation, AI Product Description Generator, Large Language Models (LLMs), No-Code&Low-Code, AI Advertising Assistant, AI Website Builder, AI Customer Service Assistant",
     "slug": "presbot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "HybridClaw",
+    "name": "HybridClaw",
+    "description": "Enterprise AI coworker unifying Discord, web, and terminal workflows with secure tool execution and memory.",
+    "website": "https://hybridclaw.io",
+    "categories": "AI Agent, AI Assistant, AI Developer Tools, AI Workflow, AI Productivity Tools",
+    "slug": "hybridclaw",
+    "created_at": "03:24:54 03/13/2026"
   },
   {
     "title": "PostPlanify",
@@ -16935,6 +16962,15 @@
     "categories": "AI Forms, AI Productivity Tools, No-Code&Low-Code, AI Lead Generation",
     "slug": "zinq-ai",
     "created_at": "14:18:04 08/04/2025"
+  },
+  {
+    "title": "StepClaw",
+    "name": "stepclaw",
+    "description": "Cloud AI agent for autonomous task automation and cross-platform workflow integration.",
+    "website": "https://stepclaw.org",
+    "categories": "AI Agent, AI Assistant, Large Language Models (LLMs), AI Productivity Tools",
+    "slug": "stepclaw",
+    "created_at": "03:24:54 03/13/2026"
   },
   {
     "title": "Image to Text Converter",
@@ -21779,6 +21815,15 @@
     "created_at": "14:10:40 06/28/2025"
   },
   {
+    "title": "Hermes 3000",
+    "name": "Hermes3000",
+    "description": "AI writing platform for creating, structuring, and exporting professional books and educational content.",
+    "website": "https://hermes3000.ai",
+    "categories": "AI Book Writing, AI Writing Assistants, AI Story Generator, AI Ebook Generator, AI Writing, AI Creative Writing",
+    "slug": "hermes3000",
+    "created_at": "03:24:54 03/13/2026"
+  },
+  {
     "title": "Spakfly",
     "name": "Spakfly",
     "description": "Spakfly is software that converts text into natural-sounding voiceovers for various purposes.",
@@ -23876,6 +23921,15 @@
     "created_at": "14:13:13 12/24/2025"
   },
   {
+    "title": "Free AI Image Editor with Prompt - Luckiss AI",
+    "name": "Free AI Image Editor with Prompt - Luckiss AI",
+    "description": "AI image editor for instant photo editing using natural language text prompts.",
+    "website": "https://luckiss.ai",
+    "categories": "AI Photo Editor, Object Remover AI, AI Background Remover, AI Inpainting, AI Watermark Remover",
+    "slug": "free-ai-image-editor-with-prompt-luckiss-ai",
+    "created_at": "03:24:54 03/13/2026"
+  },
+  {
     "title": "StudyFox",
     "name": "StudyFox",
     "description": "AI-powered learning assistant with smart study tools for academic excellence.",
@@ -24216,6 +24270,15 @@
     "categories": "AI Accounting, AI Agent, AI Copilot, AI Assistant, AI For Finance",
     "slug": "docyt",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "EasyAnnounce",
+    "name": "EasyAnnounce",
+    "description": "Automated PA announcements and international name pronunciation for airports, hospitals, and resorts.",
+    "website": "https://easyannounce.com",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI Speech Synthesis, AI API",
+    "slug": "easyannounce",
+    "created_at": "03:24:54 03/13/2026"
   },
   {
     "title": "UseChatGPT.AI",
@@ -34592,6 +34655,15 @@
     "categories": "AI Course, AI Coaching, AI Speech Recognition, Speech-to-Text, Transcription, Translate",
     "slug": "lingobo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nano Banana Video",
+    "name": "nana banana video",
+    "description": "All-in-one AI studio for generating professional, watermark-free videos, images, and music.",
+    "website": "https://nanobananavideo.net",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI UGC Video Generator, AI Ad Generator, AI Youtube Video Maker, AI Tiktok Video Generator",
+    "slug": "nana-banana-video",
+    "created_at": "03:24:54 03/13/2026"
   },
   {
     "title": "Codespect",
