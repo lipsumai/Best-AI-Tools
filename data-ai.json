@@ -513,6 +513,15 @@
     "created_at": "03:08:34 08/01/2025"
   },
   {
+    "title": "Raccoon AI",
+    "name": "Raccoon AI",
+    "description": "Collaborative AI agent that builds apps, analyzes data, and automates complex end-to-end workflows.",
+    "website": "https://raccoonai.tech",
+    "categories": "AI Agent, AI Assistant, AI Workflow, AI Presentation Generator, AI App Builder, AI For Data Analytics, AI Code Assistant, AI Design Generator, AI Video Generator, AI Image Generator, AI Documents Generator",
+    "slug": "raccoon-ai",
+    "created_at": "14:37:18 03/13/2026"
+  },
+  {
     "title": "Remy",
     "name": "Remy",
     "description": "AI cooking assistant for step-by-step recipe guidance.",
@@ -8757,6 +8766,15 @@
     "created_at": "14:15:16 02/28/2026"
   },
   {
+    "title": "OrangeLabs",
+    "name": "OrangeLabs",
+    "description": "AI platform for data visualization and analysis without coding or complex formulas.",
+    "website": "https://www.orangelabs.im",
+    "categories": "AI For Data Analytics, AI Charting, No-Code&Low-Code, AI Document Extraction, AI Presentation Generator, AI PDF, AI Spreadsheet",
+    "slug": "orangelabs",
+    "created_at": "14:37:18 03/13/2026"
+  },
+  {
     "title": "Frugal",
     "name": "Frugal",
     "description": "Frugal – AI-powered Application Cost Engineering platform",
@@ -9421,6 +9439,15 @@
     "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Inpainting, AI Outpainting, AI Background Remover, AI Anime Generator",
     "slug": "imagefx",
     "created_at": "02:58:17 08/11/2025"
+  },
+  {
+    "title": "MiroMind",
+    "name": "MiroMind",
+    "description": "A reasoning-first AI platform providing 99% verifiable accuracy for complex, critical-thinking tasks.",
+    "website": "https://www.miromind.ai",
+    "categories": "AI Agent, AI Predictions, Large Language Models (LLMs), AI For Finance, AI Legal Assistant, AI Developer Tools, AI Research Tool",
+    "slug": "miromind",
+    "created_at": "14:37:18 03/13/2026"
   },
   {
     "title": "MovieUncover",
@@ -17072,6 +17099,15 @@
     "created_at": "14:23:04 01/27/2026"
   },
   {
+    "title": "sitefire",
+    "name": "sitefire.ai",
+    "description": "Marketing suite to improve brand visibility and citations across AI search engines and agents.",
+    "website": "https://sitefire.ai",
+    "categories": "AI Marketing, AI SEO Tools, SEO Writing AI, AI Landing Page Builder",
+    "slug": "sitefire-ai",
+    "created_at": "14:37:18 03/13/2026"
+  },
+  {
     "title": "VidMe AI",
     "name": "VidMe AI",
     "description": "AI-powered platform for generating UGC videos quickly.",
@@ -18906,6 +18942,15 @@
     "categories": "AI Chatbot, AI Advertising Assistant, AI Customer Service Assistant",
     "slug": "gptconverts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "LobsterMail",
+    "name": "LobsterMail",
+    "description": "Instant email infrastructure for AI agents allowing autonomous inbox creation without human signup.",
+    "website": "https://lobstermail.ai",
+    "categories": "AI Agent, AI Developer Tools, AI Email Assistant, AI API",
+    "slug": "lobstermail",
+    "created_at": "14:37:18 03/13/2026"
   },
   {
     "title": "Morph Studio",
@@ -22787,6 +22832,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Ken AI",
+    "name": "Ken AI",
+    "description": "AI-powered cold email platform for personalized, human-level outreach and lead qualification at scale.",
+    "website": "https://www.getken.ai",
+    "categories": "AI Email Marketing, AI Lead Generation, AI Sales Assistant, AI Email Generator",
+    "slug": "ken-ai",
+    "created_at": "14:37:18 03/13/2026"
+  },
+  {
     "title": "TuxSEO",
     "name": "TuxSEO",
     "description": "AI-powered blog writer for automatic, SEO-optimized content generation and publishing.",
@@ -24891,6 +24945,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator, AI Animated Video",
     "slug": "seedance-ai-seedanceai-app",
     "created_at": "02:43:56 06/24/2025"
+  },
+  {
+    "title": "HTMLPub",
+    "name": "HTML Pub",
+    "description": "Publish AI-generated HTML instantly via MCP or code pasting with built-in hosting.",
+    "website": "https://htmlpub.com",
+    "categories": "AI Website Builder, AI Landing Page Builder, No-Code&Low-Code, AI Blog Generator",
+    "slug": "html-pub",
+    "created_at": "14:37:18 03/13/2026"
   },
   {
     "title": "Zavimo",
@@ -29726,6 +29789,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Prava",
+    "name": "Prava",
+    "description": "Payment infrastructure for AI agents to make secure, autonomous purchases via tokenized cards.",
+    "website": "https://prava.space",
+    "categories": "AI API, AI Agent, AI For Finance, AI Developer Tools",
+    "slug": "prava",
+    "created_at": "14:37:18 03/13/2026"
+  },
+  {
     "title": "Unstuck AI",
     "name": "Unstuck AI",
     "description": "AI tool for chatting with course materials and gaining insights.",
@@ -31704,6 +31776,15 @@
     "categories": "AI Image Upscaler, AI Image Enhancer, AI Image Sharpening, AI Photo Enhancer, AI Photo Restoration, AI Unblur Image",
     "slug": "aiupscaler-image-enhangcer",
     "created_at": "14:23:19 01/20/2026"
+  },
+  {
+    "title": "ListifyAI",
+    "name": "ListifyAI",
+    "description": "AI-powered Etsy listing generator for SEO-optimized titles, descriptions, and tags.",
+    "website": "https://www.listifyai.net",
+    "categories": "AI SEO Tools, AI Product Description Generator, AI Title Generator, AI Description Generator",
+    "slug": "listifyai",
+    "created_at": "14:37:18 03/13/2026"
   },
   {
     "title": "Floot",
@@ -35771,6 +35852,15 @@
     "categories": "AI Social Media Assistant, AI Lead Generation, Copywriting, AI Content Generator, AI Product Description Generator",
     "slug": "saaslink",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "Sonarly",
+    "name": "Sonarly",
+    "description": "AI agent that triages alerts and fixes production bugs with full system context.",
+    "website": "https://sonarly.com",
+    "categories": "AI Code Assistant, AI Agent, AI Developer Tools, AI Monitor",
+    "slug": "sonarly",
+    "created_at": "14:37:18 03/13/2026"
   },
   {
     "title": "Omnara",
