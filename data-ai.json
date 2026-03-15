@@ -9504,6 +9504,15 @@
     "created_at": "14:15:13 12/02/2025"
   },
   {
+    "title": "SkillCoach.io",
+    "name": "Skillcoach",
+    "description": "AI-powered career guidance platform identifying skill gaps and recommending personalized courses.",
+    "website": "https://www.skillcoach.io",
+    "categories": "AI Resume Checker, AI Coaching, Resume AI",
+    "slug": "skillcoach",
+    "created_at": "14:22:55 03/15/2026"
+  },
+  {
     "title": "PortfolioGPT",
     "name": "PortfolioGPT",
     "description": "AI-powered tool for generating personalized investment portfolios quickly.",
@@ -32784,6 +32793,15 @@
     "categories": "AI Expand Image, AI Outpainting, AI Photo Editor, AI Background Generator",
     "slug": "photocat-ai-image-extender",
     "created_at": "02:49:46 12/26/2025"
+  },
+  {
+    "title": "TitleGen",
+    "name": "TitleGen",
+    "description": "TitleGen is an AI YouTube title generator that creates niche-optimized titles using structural SEO patterns aligned with the YouTube algorithm.",
+    "website": "https://titlegen.ai",
+    "categories": "AI YouTube, AI Writing, AI SEO Tools",
+    "slug": "titlegen",
+    "created_at": "14:22:55 03/15/2026"
   },
   {
     "title": "The Agile You",
