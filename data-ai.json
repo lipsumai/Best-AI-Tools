@@ -12195,6 +12195,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ExpertPitch.com",
+    "name": "Expert Pitch - AI-powered PR assistant",
+    "description": "AI-powered PR assistant that automates journalist outreach for guaranteed high-authority backlinks.",
+    "website": "https://www.expertpitch.com",
+    "categories": "AI Assistant, AI Marketing, AI SEO Tools, AI Digital Marketing",
+    "slug": "expert-pitch-ai-powered-pr-assistant",
+    "created_at": "03:46:51 03/15/2026"
+  },
+  {
     "title": "Devare.dev",
     "name": "Devare.dev",
     "description": "Personalized developer dashboard for real-time news, tools, and trends.",
@@ -16245,6 +16254,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Nabbed",
+    "name": "Nabbed",
+    "description": "A Career CRM for revenue professionals to manage job searches like a sales pipeline.",
+    "website": "https://nabbed.io",
+    "categories": "AI CRM, AI Resume Builder, AI Cover Letter Generator, AI Email Writer, AI Interview Assistant",
+    "slug": "nabbed",
+    "created_at": "03:46:51 03/15/2026"
+  },
+  {
     "title": "HighlightFactCheck.com",
     "name": "HighlightFactCheck",
     "description": "A platform for quick and accurate online fact-checking.",
@@ -16872,6 +16890,15 @@
     "categories": "AI SEO Tools, AI Marketing, AI Landing Page Builder, AI Digital Marketing",
     "slug": "altpage-ai",
     "created_at": "02:39:10 05/28/2025"
+  },
+  {
+    "title": "VocalOps",
+    "name": "VocalOps",
+    "description": "AI phone answering service that automates interactions and integrates with CRMs and scheduling tools.",
+    "website": "https://vocalops.ca",
+    "categories": "AI Call Center, AI Customer Service, AI Voice Assistants, AI Speech-to-Text, AI Transcription",
+    "slug": "vocalops",
+    "created_at": "03:46:51 03/15/2026"
   },
   {
     "title": "Nano Banana Pro",
@@ -24344,6 +24371,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Nana Banana 2 AI",
+    "name": "Nana Banana 2 AI",
+    "description": "Professional AI image generator and editor focused on speed and precise text rendering.",
+    "website": "https://nanabanana2ai.io",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image",
+    "slug": "nana-banana-2-ai",
+    "created_at": "03:46:51 03/15/2026"
+  },
+  {
     "title": "Loopcv",
     "name": "Loopcv",
     "description": "AI-powered platform to automate and optimize job search and applications.",
@@ -28140,6 +28176,15 @@
     "categories": "AI Website Builder, AI Product Description Generator, No-Code&Low-Code, AI App Builder",
     "slug": "storymaster",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Unblur Image",
+    "name": "Unblur Image - io",
+    "description": "AI tool to automatically unblur, sharpen, and restore clarity to photos in seconds.",
+    "website": "https://unblur-image.io",
+    "categories": "AI Unblur Image, AI Image Enhancer, AI Photo Enhancer, AI Image Sharpening, AI Photo Restoration, AI Image Upscaler, AI Photo Editor",
+    "slug": "unblur-image-io",
+    "created_at": "03:46:51 03/15/2026"
   },
   {
     "title": "Interm AI - Interview Terminator",
