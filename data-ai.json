@@ -4707,6 +4707,15 @@
     "created_at": "14:15:45 07/22/2025"
   },
   {
+    "title": "Knowlify",
+    "name": "Knowlify",
+    "description": "Knowlify is an AI-powered animated explainer video generator for companies. Upload documents, scripts, or ideas and get professional animated videos in minutes — no design skills, camera, or voiceover artist needed.",
+    "website": "https://www.knowlify.com",
+    "categories": "AI Video Generator, AI Animated Video, AI Animation Generator, AI Cartoon Video Generator, AI Video Editor, Text to Video",
+    "slug": "knowlify",
+    "created_at": "03:51:02 03/16/2026"
+  },
+  {
     "title": "Kling 2.6 AI Video Generator",
     "name": "Kling 2.6 AI Video Generator",
     "description": "Advanced AI video generator for cinematic 1080p videos.",
@@ -19878,6 +19887,15 @@
     "categories": "AI Song Generator, AI Lyrics Generator, AI Music Generator, AI Vocal Remover",
     "slug": "gsong-ai",
     "created_at": "14:13:50 12/05/2025"
+  },
+  {
+    "title": "Kling 3.0 AI Video Generator",
+    "name": "Kling 3.0 Motion Control",
+    "description": "Advanced AI video generator with physics-accurate motion transfer and 4K production capabilities.",
+    "website": "https://kling3.io",
+    "categories": "AI Video Generator, AI Animation Generator, Image to Video, Video to Video",
+    "slug": "kling-3-0-motion-control",
+    "created_at": "03:51:02 03/16/2026"
   },
   {
     "title": "Content Generator",
@@ -37499,6 +37517,15 @@
     "categories": "AI Mockup Generator, AI Background Remover, AI Eraser, AI Image Enhancer, AI Image Generator, Text to Image, AI Pattern Generator, AI T Shirt Design",
     "slug": "mockuplabs",
     "created_at": "14:12:57 10/16/2025"
+  },
+  {
+    "title": "CanIRun.ai",
+    "name": "CanIRun.ai",
+    "description": "Browser-based hardware analyzer to check local AI model compatibility.",
+    "website": "https://www.canirun.ai",
+    "categories": "AI Models, AI Developer Tools, Large Language Models (LLMs), Open Source AI Models",
+    "slug": "canirun-ai",
+    "created_at": "03:51:02 03/16/2026"
   },
   {
     "title": "Prepostseo",
