@@ -11772,6 +11772,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Manifest",
+    "name": "Manifest",
+    "description": "Open-source LLM router for OpenClaw that optimizes model routing to save up to 70% costs.",
+    "website": "https://manifest.build",
+    "categories": "Large Language Models (LLMs), AI Developer Tools, Open Source AI Models, AI API",
+    "slug": "manifest",
+    "created_at": "14:53:52 03/16/2026"
+  },
+  {
     "title": "Seedream 4.0",
     "name": "Seedream 4.0-",
     "description": "ByteDance's AI image editor for professional 2K/4K visuals with multi-modal capabilities.",
@@ -12355,6 +12364,15 @@
     "categories": "AI For Data Analytics, AI Charting, AI Report Generator, AI Code Generator, No-Code&Low-Code",
     "slug": "data-visualization-and-analysis-with-ai",
     "created_at": "14:13:14 08/14/2025"
+  },
+  {
+    "title": "ModelHunter.AI",
+    "name": "ModelHunter.AI",
+    "description": "Unified AI API for video, image, and audio generation across 18+ leading models.",
+    "website": "https://modelhunter.ai",
+    "categories": "AI API, AI Video Generator, AI Image Generator, AI Developer Tools, Text to Video, Text to Image, Image to Video, Image to Image",
+    "slug": "modelhunter-ai",
+    "created_at": "14:53:52 03/16/2026"
   },
   {
     "title": "Veo3Video",
@@ -23255,6 +23273,15 @@
     "created_at": "14:12:10 05/23/2025"
   },
   {
+    "title": "AI Quiz Generator",
+    "name": "ai quiz generator - 1",
+    "description": "AI tool for generating quizzes from PDFs, text, images, and videos.",
+    "website": "https://graspeo.com",
+    "categories": "AI Quiz Generator, AI Question Generator, AI Flashcard Maker, AI Homework Helper",
+    "slug": "ai-quiz-generator-1",
+    "created_at": "14:53:52 03/16/2026"
+  },
+  {
     "title": "Qaprix Intelligence",
     "name": "Qaprix Intelligence",
     "description": "AI chatbot solutions for improving business communication and customer support.",
@@ -30815,6 +30842,15 @@
     "created_at": "03:01:47 07/20/2025"
   },
   {
+    "title": "connect the dots printable",
+    "name": "connect the dots printable",
+    "description": "AI-powered tool to create custom printable dot-to-dot puzzles from images or text prompts.",
+    "website": "https://connectthedotsprintable.online",
+    "categories": "AI Game Generator, AI Games, AI Image Generator, Text to Image, Image to Image",
+    "slug": "connect-the-dots-printable",
+    "created_at": "14:53:52 03/16/2026"
+  },
+  {
     "title": "flux context",
     "name": "flux context",
     "description": "Revolutionary AI image editing tool with unified framework and diffusion technology.",
@@ -37427,6 +37463,15 @@
     "categories": "AI Tools Directory, AI WORD",
     "slug": "custom-gpts-list",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FineVoice",
+    "name": "FineVoice Text to Speech",
+    "description": "AI text-to-speech platform with 1500+ lifelike voices, emotion control, and multilingual support.",
+    "website": "https://finevoice.ai",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI Voice Cloning, AI Voice Changer, AI Voice Enhancer, AI Voice Translator, AI Speech Synthesis, AI API",
+    "slug": "finevoice-text-to-speech",
+    "created_at": "14:53:52 03/16/2026"
   },
   {
     "title": "Elyspr",
