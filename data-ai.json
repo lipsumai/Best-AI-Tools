@@ -432,6 +432,15 @@
     "created_at": "14:13:43 11/24/2025"
   },
   {
+    "title": "SEO Ladders",
+    "name": "SEO Ladders",
+    "description": "AI platform that automates SEO keyword research, article writing, and CMS publishing.",
+    "website": "https://www.seoladders.com",
+    "categories": "AI SEO Tools, SEO Writing AI, AI Blog Generator, AI Writing",
+    "slug": "seo-ladders",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "Rebolt",
     "name": "Rebolt",
     "description": "No-code AI platform to build apps and agents by speaking with AI.",
@@ -889,6 +898,15 @@
     "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Realistic Image Generator, AI Ad Creative",
     "slug": "z-image-turbo",
     "created_at": "02:52:25 11/30/2025"
+  },
+  {
+    "title": "MeiGen",
+    "name": "MeiGen AI prompts gallery",
+    "description": "Curated gallery of trending AI prompts from X with built-in image generation.",
+    "website": "https://www.meigen.ai",
+    "categories": "AI Prompt Generator, AI Image Generator, AI Art Generator, Text to Image, Prompt Engineering",
+    "slug": "meigen-ai-prompts-gallery",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "Lens",
@@ -3267,6 +3285,15 @@
     "created_at": "14:16:05 12/18/2025"
   },
   {
+    "title": "MyBabes.ai",
+    "name": "MyBabes.ai",
+    "description": "AI platform for creating characters, generating images and videos and chat.",
+    "website": "https://mybabes.ai",
+    "categories": "AI Girlfriend, AI Image Generator, AI Video Generator, Script To Video AI Generator, AI Chatbot",
+    "slug": "mybabes-ai",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "Shockvue",
     "name": "Shockvue",
     "description": "AI image editor for magic-like edits, describe and speak edits, instant visuals.",
@@ -4183,6 +4210,15 @@
     "categories": "AI Video Generator",
     "slug": "seedance-2-0-ai-video-generator",
     "created_at": "03:49:54 02/08/2026"
+  },
+  {
+    "title": "AI Detector",
+    "name": "AI Detector - io",
+    "description": "An AI detector tool that scans and highlights AI-written content.",
+    "website": "https://detector.io",
+    "categories": "AI Detector, AI Paraphraser, AI Plagiarism Checker, Humanizer AI",
+    "slug": "ai-detector-io",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "Tella",
@@ -9945,6 +9981,15 @@
     "created_at": "14:12:34 09/25/2025"
   },
   {
+    "title": "Banana Prompts",
+    "name": "Banana Prompts - ai",
+    "description": "AI prompt library and generator for high-quality image, video, and text outputs.",
+    "website": "https://bananaprompts.ai",
+    "categories": "AI Prompt Generator, Prompt Engineering, AI Image Generator, AI Video Generator",
+    "slug": "banana-prompts-ai",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "Engagechat",
     "name": "EngageChat-AI",
     "description": "AI chatbot for lead qualification and sales automation.",
@@ -11662,6 +11707,15 @@
     "categories": "AI Art Generator, AI Interior & Room Design, AI 3D Model Generator, Text to 3D, Image to 3D Model, AI WORD, AI Anime Art, Game, AI Profile Picture Generator, AI Clothing Generator, AI Design Generator",
     "slug": "tripo-ai",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "Sora Watermark Remover",
+    "name": "Sora Watermark Remover - net",
+    "description": "Online tool to remove watermarks from Sora AI videos and download clean versions.",
+    "website": "https://www.sora-watermark-remover.net",
+    "categories": "AI Watermark Remover, AI Video Editor",
+    "slug": "sora-watermark-remover-net",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "ReviewForge",
@@ -14571,6 +14625,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Radiantly",
+    "name": "Radiantly",
+    "description": "AI platform for building human-managed automation workflows and intelligent agents.",
+    "website": "https://radiantly.space",
+    "categories": "AI Agent, AI Workflow, AI Assistant, No-Code&Low-Code",
+    "slug": "radiantly",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "FeedHive",
     "name": "feedhive.io",
     "description": "Create, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform.",
@@ -14668,6 +14731,15 @@
     "categories": "AI Character, AI Roleplay, AI Story Generator, AI Creative Writing",
     "slug": "ai-character-generator-1",
     "created_at": "02:18:17 09/24/2025"
+  },
+  {
+    "title": "RoastCV",
+    "name": "RoastCV",
+    "description": "AI resume roaster providing brutal feedback and actionable fixes to improve job prospects.",
+    "website": "https://roastedcv.com",
+    "categories": "AI Resume Checker, AI Resume Builder, Resume AI",
+    "slug": "roastcv",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "Lopus AI",
@@ -15930,6 +16002,15 @@
     "created_at": "14:17:22 01/07/2026"
   },
   {
+    "title": "Trainn AI",
+    "name": "Trainn AI",
+    "description": "AI-powered video and guide creation tool for your customer education needs",
+    "website": "https://trainn.co",
+    "categories": "AI Tutorial, AI Video Editor, AI Video Generator, AI Video Recording, AI Knowledge Base, AI Documents Generator",
+    "slug": "trainn-ai",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "nFactorial AI",
     "name": "nFactorial AI",
     "description": "AI platform for personalized Zoom tutoring with world's best minds.",
@@ -16549,6 +16630,15 @@
     "categories": "AI Photo Editor, AI Image Generator, Image to Image, Object Remover AI, AI Image Combiner",
     "slug": "ai-banana-advanced-gemini-2-5-flash-image-editor-free-to-use",
     "created_at": "14:13:21 10/15/2025"
+  },
+  {
+    "title": "Caption.IM",
+    "name": "Caption.IM",
+    "description": "Real-time AI captions and translation for any desktop application.",
+    "website": "https://caption.im",
+    "categories": "AI Caption Generator, AI Transcriber, AI Subtitle Generator, AI Speech-to-Text, AI Translate",
+    "slug": "caption-im",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "AnyMusic",
@@ -20274,6 +20364,15 @@
     "categories": "AI SEO Assistant, Marketing Plan Generator, AI Scheduling, AI Blog Writer, General Writing, Writing Assistants, AI Content Generator, Copywriting, AI Product Description Generator",
     "slug": "callio",
     "created_at": "14:11:12 04/24/2025"
+  },
+  {
+    "title": "Loni Technology",
+    "name": "Loni Technology",
+    "description": "AI automation agency building custom software, chatbots, and marketing solutions for business growth.",
+    "website": "https://www.lonitechnology.com",
+    "categories": "AI Agent, AI Chatbot, AI Voice Assistants, AI Marketing, AI Workflow",
+    "slug": "loni-technology",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "CopyOwl.ai",
@@ -25379,6 +25478,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ジェンスパーク",
+    "name": "ジェンスパーク",
+    "description": "An all-in-one AI workspace for automating business documents, presentations, and meeting productivity.",
+    "website": "https://www.genspark.ai",
+    "categories": "AI Productivity Tools, AI Presentation Generator, AI Image Generator, AI Video Generator, AI Documents Generator, AI Meeting Assistant, AI Music Generator",
+    "slug": "a86wdsptamdqabrshqj83xmhyjqgs2jk",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "Wan 2 AI",
     "name": "Wan 2 AI",
     "description": "Transform text into stunning AI-generated videos.",
@@ -26646,6 +26754,15 @@
     "categories": "AI Art Generator, Fun Tools, AI Tools Directory, AI Anime Art, Prompt, AI Photo & Image Generator, AI Image Enhancer, AI Background Remover, AI Face Swap Generator, AI Anime & Cartoon Generator",
     "slug": "max-studio-ai",
     "created_at": "14:09:23 04/05/2025"
+  },
+  {
+    "title": "Lemon",
+    "name": "Lemon",
+    "description": "AI voice agent that transforms spoken instructions into completed tasks across any application.",
+    "website": "https://heylemon.ai",
+    "categories": "AI Agent, AI Voice Assistants, AI Writing Assistants, AI Productivity Tools, AI Speech-to-Text",
+    "slug": "lemon",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "Facewow",
@@ -28070,6 +28187,15 @@
     "created_at": "02:17:27 09/30/2025"
   },
   {
+    "title": "RapidRazor",
+    "name": "RapidRazor",
+    "description": "AI plugin for Premiere Pro that automates silence removal, filler cuts, and captioning.",
+    "website": "https://rapidrazor.io",
+    "categories": "AI Video Editor, AI Podcast Editing, AI Subtitle Generator, Long Video To Short Video AI, AI Audio Editing",
+    "slug": "rapidrazor",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "AI Hay",
     "name": "AI Hay",
     "description": "The first AI answer engine of Vietnam",
@@ -28302,6 +28428,15 @@
     "categories": "AI Translate, AI Assistant, AI Productivity Tools",
     "slug": "bridgely",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "PUNK",
+    "name": "PUNK - Remote Control for Claude Code",
+    "description": "Mobile remote control for local Claude Code AI agents.",
+    "website": "https://punkcode.rocks",
+    "categories": "AI Agent, AI Code Assistant, AI Developer Tools, AI Assistant",
+    "slug": "punk-remote-control-for-claude-code",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "Melodiez",
@@ -30905,6 +31040,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Finetuning.ai",
+    "name": "Finetuning.ai",
+    "description": "AI music generator creating unique, royalty-free tracks from text descriptions in seconds.",
+    "website": "https://finetuning.ai",
+    "categories": "AI Music Generator, AI API, AI Instrumental Generator, AI Beat Generator",
+    "slug": "finetuning-ai",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "NeatScribe",
     "name": "NeatScribe",
     "description": "Intelligent audio & video to text converter",
@@ -33380,6 +33524,15 @@
     "created_at": "14:11:07 11/15/2025"
   },
   {
+    "title": "MyNextBrowser",
+    "name": "MyNextBrowser",
+    "description": "An agentic browser extension that automates research, writing, and web tasks locally.",
+    "website": "https://www.mynextbrowser.com",
+    "categories": "AI Agent, AI Browsers, AI Assistant, AI Productivity Tools, AI Research Tool, AI Writing Assistants, AI Presentation Generator, AI Prompt Generator",
+    "slug": "mynextbrowser",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "Activepieces",
     "name": "Activepieces",
     "description": "AI-first open-source automation platform for teams.",
@@ -33620,6 +33773,15 @@
     "categories": "Speech-to-Text, Research Tool, Translate, Summarizer, AI Roadmap Generator, AI Knowledge Base, AI Productivity Tools, AI Task Management, AI Project Management, AI Customer Service Assistant, AI Reply Assistant, AI Team Collaboration",
     "slug": "canny-autopilot",
     "created_at": "02:22:59 04/02/2025"
+  },
+  {
+    "title": "aitrips.io",
+    "name": "aitrips.io",
+    "description": "AI trip planning assistant that saves chat conversations into interactive, visual web itineraries.",
+    "website": "https://www.aitrips.io",
+    "categories": "AI Trip Planner, AI Travel, AI Assistant, AI Schedule Maker",
+    "slug": "aitrips-io",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "VidFlux - Image to Video AI",
@@ -35638,6 +35800,15 @@
     "created_at": "14:12:49 07/03/2025"
   },
   {
+    "title": "Moltcorp",
+    "name": "Moltcorp",
+    "description": "An autonomous network where AI agents build products and share 100% of the profits.",
+    "website": "https://moltcorporation.com",
+    "categories": "AI Agent, AI Developer Tools, AI Project Management, AI API, AI Website Builder",
+    "slug": "moltcorp",
+    "created_at": "03:29:01 03/17/2026"
+  },
+  {
     "title": "RED",
     "name": "RED",
     "description": "Smart, floating AI assistant combining screen analysis, transcription, and automation in real-time.",
@@ -36014,6 +36185,15 @@
     "categories": "Other",
     "slug": "knowu",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Arch Tools",
+    "name": "Arch Tools",
+    "description": "API platform with 58 tools allowing AI agents to pay and operate autonomously.",
+    "website": "https://archtools.dev",
+    "categories": "AI API, AI Agent, AI Developer Tools, AI Crypto, AI Text Generator, AI Image Generator, AI Web Scraping, AI Search Engine",
+    "slug": "arch-tools",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "Pano",
@@ -37616,6 +37796,15 @@
     "categories": "AI Voice Chat Generator, AI Voice Assistants, AI Chatbot",
     "slug": "xbuddy",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Struct",
+    "name": "Struct",
+    "description": "AI on-call agent that automates root-cause analysis for engineering alerts.",
+    "website": "https://struct.ai",
+    "categories": "AI Agent, AI Developer Tools, AI Assistant, AI Code Assistant",
+    "slug": "struct",
+    "created_at": "03:29:01 03/17/2026"
   },
   {
     "title": "Cuto",
