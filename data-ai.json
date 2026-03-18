@@ -1584,6 +1584,15 @@
     "created_at": "14:12:45 11/11/2025"
   },
   {
+    "title": "HelloGPT",
+    "name": "helloGPT",
+    "description": "AI translation assistant for cross-border e-commerce and multi-platform social management.",
+    "website": "https://gpt.cnhellogpt.com",
+    "categories": "AI Translate, AI Assistant, AI Social Media, AI Response Generator",
+    "slug": "hellogpt",
+    "created_at": "14:56:38 03/18/2026"
+  },
+  {
     "title": "TweetGrok - Twitter Creation and Growth Assistant",
     "name": "TweetGrok - Twitter Creation and Growth Assistant",
     "description": "AI tool for Twitter content generation, growth, and social engagement.",
@@ -9547,6 +9556,15 @@
     "categories": "AI Advertising, AI Ad Generator, AI Affiliate Marketing, AI Digital Marketing, AI Lead Generation, AI Marketing, AI Marketing Plan Generator, Ad Copy, Google Ads AI, SEO Writing AI",
     "slug": "aimy-ads",
     "created_at": "02:41:25 11/13/2025"
+  },
+  {
+    "title": "Tosea AI",
+    "name": "Tosea AI",
+    "description": "Tosea.ai is an AI presentation agent for high-stakes industries — it reads your research papers, financial reports, and complex documents, then autonomously builds accurate, presentation-ready slides with zero hallucination.",
+    "website": "https://tosea.ai",
+    "categories": "AI Presentation Generator, AI Agent, AI Document Extraction, AI Documents Generator, AI PDF, AI Research Papers",
+    "slug": "tosea-ai",
+    "created_at": "14:56:38 03/18/2026"
   },
   {
     "title": "Reaady.site",
@@ -26522,6 +26540,15 @@
     "created_at": "14:15:50 08/01/2025"
   },
   {
+    "title": "FateTell",
+    "name": "FateTell",
+    "description": "AI fortune teller using Eastern wisdom for personalized life destiny and Bazi analysis.",
+    "website": "https://fatetell.com",
+    "categories": "AI Predictions, AI Assistant, AI Life",
+    "slug": "fatetell",
+    "created_at": "14:56:38 03/18/2026"
+  },
+  {
     "title": "Fume",
     "name": "Fume",
     "description": "AI QA team creating and maintaining Playwright browser tests from video.",
@@ -34306,6 +34333,15 @@
     "created_at": "14:11:15 09/05/2025"
   },
   {
+    "title": "Photo Video AI",
+    "name": "Photo AI Video Generator",
+    "description": "AI tool that transforms static photos into professional cinematic videos in seconds.",
+    "website": "https://pvid.app",
+    "categories": "AI Video Generator, Image to Video, Text to Video, Video to Video, Image to Image, Text to Image, AI Style Transfer",
+    "slug": "photo-ai-video-generator",
+    "created_at": "14:56:38 03/18/2026"
+  },
+  {
     "title": "Merge JPG",
     "name": "Merge JPG",
     "description": "Free online tool to merge multiple JPG images into one file or PDF.",
@@ -37670,6 +37706,15 @@
     "categories": "Image to Image",
     "slug": "remakepic",
     "created_at": "02:56:06 12/22/2025"
+  },
+  {
+    "title": "Template.net",
+    "name": "Template.net",
+    "description": "AI generator for fully editable, production-ready branded documents and professional assets.",
+    "website": "https://www.template.net",
+    "categories": "AI Design Generator, AI Documents Generator, AI Presentation Generator, AI Social Media Post Generator, AI Logo Generator, AI Banner Generator, AI Diagram Generator, AI Photo Editor",
+    "slug": "template-net",
+    "created_at": "14:56:38 03/18/2026"
   },
   {
     "title": "OpenTrain AI",
