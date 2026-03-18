@@ -4329,6 +4329,15 @@
     "created_at": "14:12:18 11/07/2025"
   },
   {
+    "title": "GeoEvident",
+    "name": "GeoEvident",
+    "description": "AI geolocation platform for forensic indoor and outdoor photo identification and investigative evidence.",
+    "website": "https://geoevident.com",
+    "categories": "AI Image Recognition, AI Research Tool, AI Legal Assistant",
+    "slug": "geoevident",
+    "created_at": "03:35:51 03/18/2026"
+  },
+  {
     "title": "Thentic",
     "name": "Thentic",
     "description": "Automate Web3 tasks easily with Thentic, no coding required.",
@@ -7506,6 +7515,15 @@
     "created_at": "02:25:43 04/15/2025"
   },
   {
+    "title": "Biblee Chat",
+    "name": "Biblee Chat",
+    "description": "AI Bible study companion for scripture-based answers and personal spiritual journaling.",
+    "website": "https://www.bibleechat.com",
+    "categories": "AI Bible, AI Chatbot, AI Religion, AI Assistant",
+    "slug": "biblee-chat",
+    "created_at": "03:35:51 03/18/2026"
+  },
+  {
     "title": "Hooktok",
     "name": "Hooktok",
     "description": "Boost ROAS by shipping more winning ads—UGC-style TikTok/Meta creatives in minutes.",
@@ -9900,6 +9918,15 @@
     "created_at": "02:26:03 04/24/2025"
   },
   {
+    "title": "Nimbalyst",
+    "name": "Nimbalyst",
+    "description": "Visual workspace and session manager for building with Claude Code and Codex agents.",
+    "website": "https://nimbalyst.com",
+    "categories": "AI Code Assistant, AI Developer Tools, AI Code Generator, AI Project Management, AI Task Management, AI Agent, AI Diagram Generator",
+    "slug": "nimbalyst",
+    "created_at": "03:35:51 03/18/2026"
+  },
+  {
     "title": "WA Sender",
     "name": "WA Sender",
     "description": "Free WhatsApp Bulk Message Sender extension. Send WhatsApp message without saving number to grow your business effectively.",
@@ -12247,6 +12274,15 @@
     "categories": "Other",
     "slug": "articulate",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Cannabiva CBD Dosage Calculator",
+    "name": "Cannabiva CBD Dosage Calculator",
+    "description": "Personalized CBD calculator to find your ideal daily dose.",
+    "website": "https://www.cannabiva.com",
+    "categories": "AI Healthcare, AI Medical Diagnosis, AI Answer, AI Quizzes, AI Life, Other",
+    "slug": "cannabiva-cbd-dosage-calculator",
+    "created_at": "03:35:51 03/18/2026"
   },
   {
     "title": "LiftPilot",
@@ -23219,6 +23255,15 @@
     "created_at": "14:12:46 10/13/2025"
   },
   {
+    "title": "YEB",
+    "name": "YEB",
+    "description": "YEB.to is a free all-in-one platform with 100+ online tools and apps for everyday tasks — from file editing and format conversion to AI-powered content generation and workflow automation. No installation, no subscriptions. Every tool works in the browser and comes with a REST API for developers.",
+    "website": "https://yeb.to",
+    "categories": "AI Tools Directory, AI Caption Generator, AI Watermark Remover, AI SEO Tools, Other",
+    "slug": "yeb",
+    "created_at": "03:35:51 03/18/2026"
+  },
+  {
     "title": "Rosa Naruto Character Generator",
     "name": "ROSA",
     "description": "Transform into a Naruto character using Rosa Naruto Character Generator.",
@@ -29058,6 +29103,15 @@
     "categories": "AI Music Generator, AI Beat Generator, AI Instrumental Generator, AI Lyrics Generator, AI Melody Generator, AI Rap Generator, AI Rap Lyrics Generator, AI Singing Generator, AI Song Cover, AI Song Generator, AI Text-to-Music",
     "slug": "musicful",
     "created_at": "14:12:48 07/09/2025"
+  },
+  {
+    "title": "OpenMAIC",
+    "name": "OpenMAIC — Open Multi-Agent Interactive Classroom",
+    "description": "Open-source platform transforming topics into immersive, multi-agent AI-powered interactive classrooms.",
+    "website": "https://openmaic.io",
+    "categories": "AI Course, AI Agent, AI Teachers, AI Lesson Plan Generator, Large Language Models (LLMs), AI Presentation Generator, AI Tutorial",
+    "slug": "openmaic-open-multi-agent-interactive-classroom",
+    "created_at": "03:35:51 03/18/2026"
   },
   {
     "title": "Clarm",
@@ -39301,6 +39355,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "Sora Watermark Remover",
+    "name": "Remove Sora Watermark",
+    "description": "AI tool to instantly remove watermarks from Sora videos via public share links.",
+    "website": "https://removesorawatermark.ai",
+    "categories": "AI Watermark Remover, Object Remover AI, AI Video Editor",
+    "slug": "remove-sora-watermark",
+    "created_at": "03:35:51 03/18/2026"
+  },
+  {
     "title": "Leadpages",
     "name": "Leadpages",
     "description": "Landing page builder for high-converting lead generation.",
@@ -39929,6 +39992,15 @@
     "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, AI Art Generator",
     "slug": "z-image-turbo-1",
     "created_at": "14:17:13 01/16/2026"
+  },
+  {
+    "title": "Coolo AI",
+    "name": "Coolo AI",
+    "description": "All-in-one AI audio toolkit for vocal removal, stem splitting, noise reduction, and BPM & key detection.",
+    "website": "https://coolo.ai",
+    "categories": "AI Vocal Remover, AI Audio Enhancer, AI Audio Splitter, AI Noise Cancellation, AI Splitter, AI Stems Splitter, AI Voice Enhancer",
+    "slug": "coolo-ai",
+    "created_at": "03:35:51 03/18/2026"
   },
   {
     "title": "Kurt Converts",
