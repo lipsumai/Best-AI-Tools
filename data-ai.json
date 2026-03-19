@@ -8253,6 +8253,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Sign Customiser",
+    "name": "Sign Customiser",
+    "description": "Sign Customiser is an AI-powered sign design and selling platform that helps sign shops sell more custom signage online. It integrates with Shopify, WordPress, and Wix to give customers a visual sign builder where they can design, preview, and order custom signs — with real-time pricing, 3D mockups, and automated production files. Used by 700+ sign shops across 100 countries, Sign Customiser has processed over 200,000 orders and $75 million in merchant sales.",
+    "website": "https://www.signcustomiser.com",
+    "categories": "AI Design Generator, AI Design Assistant",
+    "slug": "sign-customiser",
+    "created_at": "14:45:27 03/19/2026"
+  },
+  {
     "title": "Spyro - Best AI Writer Tools",
     "name": "Spyro.ai",
     "description": "Spyro is an AI writing tool that produces exceptional content 10x faster.",
@@ -36790,6 +36799,15 @@
     "created_at": "02:58:17 08/11/2025"
   },
   {
+    "title": "Xiaomi MiMo",
+    "name": "Xiaomi MiMo",
+    "description": "Xiaomi's universal smart platform for multimodal AI, agentic tasks, and voice synthesis.",
+    "website": "https://mimo.xiaomi.com",
+    "categories": "AI Agent, AI API, AI Assistant, AI Text-to-Speech, AI Models",
+    "slug": "xiaomi-mimo",
+    "created_at": "14:45:27 03/19/2026"
+  },
+  {
     "title": "FinEye",
     "name": "FinEye",
     "description": "AI-powered financial statement analysis for finance teams, offering tampering detection and faster decision-making.",
@@ -38687,6 +38705,15 @@
     "categories": "AI Search Engine, AI News, AI Shopping Assistant, Fashion AI, AI Beauty",
     "slug": "pisearch",
     "created_at": "14:13:09 06/23/2025"
+  },
+  {
+    "title": "VisImagine",
+    "name": "VisImagine",
+    "description": "AI platform transforming scripts and images into professional videos with character consistency.",
+    "website": "https://visimagine.com",
+    "categories": "Storyboard AI, AI Video Generator, Script To Video AI Generator, Image to Video, AI Image Generator, Text to Video",
+    "slug": "visimagine",
+    "created_at": "14:45:27 03/19/2026"
   },
   {
     "title": "AppDeploy",
