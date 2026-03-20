@@ -1782,6 +1782,15 @@
     "created_at": "14:12:23 06/27/2025"
   },
   {
+    "title": "2paste.io",
+    "name": "2paste.io",
+    "description": "2paste.io is a browser-based workspace for managing, organizing, and deploying reusable text and prompts. Built for people who work with AI tools daily and need a fast, structured way to store hundreds of prompts with variable placeholders, version history, and one-click copy. No install required. Works entirely in the browser.",
+    "website": "https://2paste.io",
+    "categories": "Prompt Engineering",
+    "slug": "2paste-io",
+    "created_at": "14:38:09 03/20/2026"
+  },
+  {
     "title": "Bitterbot AI",
     "name": "Bitterbot AI",
     "description": "Open source AI assistant for tasks, research, data analysis, and daily challenges.",
@@ -2788,6 +2797,15 @@
     "categories": "AI Monitor & Report Builder, Report Writing",
     "slug": "report-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Scanner",
+    "name": "AI Scanner",
+    "description": "AI scanner that detects AI text with precision and speed.",
+    "website": "https://aiscanner.io",
+    "categories": "AI Detector, AI Paraphraser, AI Content Detector, AI Plagiarism Checker, Humanizer AI",
+    "slug": "ai-scanner",
+    "created_at": "14:38:09 03/20/2026"
   },
   {
     "title": "Korgi",
@@ -5794,6 +5812,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "joyn-chat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Drama.land",
+    "name": "Drama.land",
+    "description": "AI music video generator for cinematic storytelling with consistent characters and automatic synchronization.",
+    "website": "https://drama.land",
+    "categories": "AI Music Video Generator, AI Video Generator, AI Story Generator",
+    "slug": "drama-land",
+    "created_at": "14:38:09 03/20/2026"
   },
   {
     "title": "STOPPR",
@@ -9223,6 +9250,15 @@
     "categories": "AI Code Assistant, AI Agent, AI Developer Tools, AI Code Generator, AI Copilot",
     "slug": "qoder",
     "created_at": "14:12:15 08/27/2025"
+  },
+  {
+    "title": "Hackmamba",
+    "name": "Hackmamba",
+    "description": "Technical content marketing agency providing documentation and developer-focused content for SaaS companies.",
+    "website": "https://www.hackmamba.io",
+    "categories": "AI Marketing, AI Digital Marketing, AI Writing",
+    "slug": "hackmamba",
+    "created_at": "14:38:09 03/20/2026"
   },
   {
     "title": "Swiftproxy",
@@ -14247,6 +14283,15 @@
     "created_at": "14:20:08 02/08/2026"
   },
   {
+    "title": "DanceBetter",
+    "name": "DanceBetter",
+    "description": "Level Up Your Dance Skills with AI Dance Coach",
+    "website": "https://dancebetter.org",
+    "categories": "AI Coaching, AI Facebook, AI Influencer, AI Instagram, AI Social Media, AI Tiktok, AI YouTube, AI Fitness, AI Sports, AI Lesson Plan Generator, AI Teachers, Other",
+    "slug": "dancebetter",
+    "created_at": "14:38:09 03/20/2026"
+  },
+  {
     "title": "KOLverse",
     "name": "KOLverse",
     "description": "KOLverse is an AI agent providing high-fidelity sentiment analysis from Crypto KOLs. It filters social noise to deliver real-time dashboards on early gems and key narratives, giving traders a critical information edge.",
@@ -17765,6 +17810,15 @@
     "created_at": "14:12:34 09/23/2025"
   },
   {
+    "title": "DetectMy",
+    "name": "DetectMy",
+    "description": "Free AI detector with sentence-level checks, explanations, and no sign-up needed.",
+    "website": "https://detectmy.ai",
+    "categories": "AI Detector, AI Checker, AI Checker Essay, AI Content Detector, AI Plagiarism Checker",
+    "slug": "detectmy",
+    "created_at": "14:38:09 03/20/2026"
+  },
+  {
     "title": "Reel Rabbit",
     "name": "Reel Rabbit",
     "description": "AI platform for quick and cost-effective video creation.",
@@ -21120,6 +21174,15 @@
     "categories": "Captions or Subtitle, Transcription, Transcriber, Speech-to-Text",
     "slug": "createeasily",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Wan2.7 AI",
+    "name": "Wan2.7 AI",
+    "description": "Advanced AI video generator with 1080p output, audio sync, and precise editing controls.",
+    "website": "https://wan2-7.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor",
+    "slug": "wan2-7-ai",
+    "created_at": "14:38:09 03/20/2026"
   },
   {
     "title": "Manga Translator",
@@ -25730,6 +25793,15 @@
     "created_at": "02:44:03 11/10/2025"
   },
   {
+    "title": "ReplylessAI",
+    "name": "ReplylessAI",
+    "description": "AI email inbox that automates sorting, drafting, and lead qualification for professionals.",
+    "website": "https://replyless.ai",
+    "categories": "AI Email Assistant, AI Email Writer, AI Writing Assistants, AI Productivity Tools, AI Reply, AI Summarizer",
+    "slug": "replylessai",
+    "created_at": "14:38:09 03/20/2026"
+  },
+  {
     "title": "Mysite.ai",
     "name": "mysite.ai",
     "description": "AI-powered website builder for small businesses, no tech skills needed.",
@@ -28646,6 +28718,15 @@
     "created_at": "02:24:06 04/17/2025"
   },
   {
+    "title": "GPTVerify",
+    "name": "GPTVerify",
+    "description": "AI detector free tool with transparent, sentence-level results for students.",
+    "website": "https://gptverify.com",
+    "categories": "AI Detector, AI Content Detector",
+    "slug": "gptverify",
+    "created_at": "14:38:09 03/20/2026"
+  },
+  {
     "title": "Text to Song",
     "name": "Text to Song",
     "description": "AI song generator turning text and lyrics into professional music with vocals.",
@@ -30561,6 +30642,15 @@
     "categories": "AI Image Generator, AI Photo Editor, AI Art Generator, AI Graphic Design",
     "slug": "imagegeneratorai-io",
     "created_at": "14:30:56 03/06/2026"
+  },
+  {
+    "title": "KiloClaw",
+    "name": "KiloClaw",
+    "description": "Managed hosting for OpenClaw. Set up OpenClaw in seconds.",
+    "website": "https://kilo.ai",
+    "categories": "AI Agent, AI Social Media",
+    "slug": "kiloclaw",
+    "created_at": "14:38:09 03/20/2026"
   },
   {
     "title": "PitchFit",
@@ -32532,6 +32622,15 @@
     "categories": "AI Image Generator, AI Video Generator, Image to Image, AI Prompt Generator, AI Hairstyle, AI Interior Design, AI Photo Restoration",
     "slug": "nbpro-io",
     "created_at": "02:46:42 12/27/2025"
+  },
+  {
+    "title": "Nano Banana 2 AI Image Generator",
+    "name": "Nano Banana 2 AI Image Generator",
+    "description": "Multi-model AI platform for generating professional 4K images and cinematic visuals.",
+    "website": "https://nanaimg.app",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Realistic Image Generator, AI Photography",
+    "slug": "nano-banana-2-ai-image-generator",
+    "created_at": "14:38:09 03/20/2026"
   },
   {
     "title": "StoryPanda",
@@ -35566,6 +35665,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "FlipHTML5 AI Ebook Generator",
+    "name": "FlipHTML5 AI Ebook Generator",
+    "description": "FlipHTML5 AI Ebook Generator is a free online tool that turns your ideas or uploaded files into professionally laid-out ebooks with AI-powered design, supporting 25+ book types like catalogs, magazines, and brochures.",
+    "website": "https://fliphtml5.com",
+    "categories": "AI Ebook Generator",
+    "slug": "fliphtml5-ai-ebook-generator",
+    "created_at": "14:38:09 03/20/2026"
+  },
+  {
     "title": "Haxiom",
     "name": "Haxiom",
     "description": "AI-powered collaborative Markdown workspace for team documentation and knowledge management.",
@@ -36185,6 +36293,15 @@
     "categories": "AI Translate, AI Image Translator, AI Language Learning, AI PDF",
     "slug": "lufe-ai-translator",
     "created_at": "14:10:45 07/06/2025"
+  },
+  {
+    "title": "Industry's Fastest Sora Watermark Remover",
+    "name": "Industry's Fastest Sora Watermark Remover",
+    "description": "AI tool for removing Sora video watermarks and generating high-quality AI videos.",
+    "website": "https://removesorawatermark.video",
+    "categories": "AI Watermark Remover, AI Video Generator, AI Video Editor",
+    "slug": "industry-s-fastest-sora-watermark-remover",
+    "created_at": "14:38:09 03/20/2026"
   },
   {
     "title": "Lite Queen",
