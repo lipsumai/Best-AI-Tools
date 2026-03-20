@@ -1683,6 +1683,15 @@
     "created_at": "14:11:16 04/04/2025"
   },
   {
+    "title": "Painkiller Ideas",
+    "name": "Painkiller Ideas",
+    "description": "A curated database of real problems and validated startup ideas—backed by AI research—so you can pick a direction with confidence.",
+    "website": "https://painkillerideas.com",
+    "categories": "AI Business Ideas Generator, AI Marketing, AI Marketing Plan Generator, AI For Data Analytics",
+    "slug": "painkiller-ideas",
+    "created_at": "03:26:24 03/20/2026"
+  },
+  {
     "title": "Uxia",
     "name": "Uxia",
     "description": "AI-powered user testing platform for fast, reliable UX/UI insights.",
@@ -10872,6 +10881,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "Gamma App",
+    "name": "Gamma App",
+    "description": "Gamma App PPT Generator Gamma App is the leading AI PPT generator, Powered by  Claude Opus 4.6",
+    "website": "https://gammaapp.ai",
+    "categories": "AI PPT Maker",
+    "slug": "gamma-app",
+    "created_at": "03:26:24 03/20/2026"
+  },
+  {
     "title": "Scream AI",
     "name": "Scream AI",
     "description": "Transforms photos into Y2K horror movie posters with Ghostface.",
@@ -15469,6 +15487,15 @@
     "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Social Media Assistant, AI Ad Creative Assistant, AI Ad Generator, Digital Marketing Generator, AI Content Generator, AI Product Description Generator",
     "slug": "echo-memo",
     "created_at": "14:12:15 04/07/2025"
+  },
+  {
+    "title": "WebZum",
+    "name": "WebZum",
+    "description": "WebZum is an AI website builder that creates complete, multi-page business websites with custom images, logos, and content in under 5 minutes. Describe your business in plain language and WebZum builds the whole thing — pages, copy, SEO, hosting, SSL, and CDN included. Over 1,400 sites built. Plans start at $19/mo.",
+    "website": "https://webzum.com",
+    "categories": "AI Website Builder, AI Logo Generator, AI Website Designer",
+    "slug": "webzum",
+    "created_at": "03:26:24 03/20/2026"
   },
   {
     "title": "Enzzo AI",
@@ -36655,6 +36682,15 @@
     "created_at": "14:12:12 08/22/2025"
   },
   {
+    "title": "voiceslab",
+    "name": "voiceslab",
+    "description": "AI platform for instant voice cloning and high-quality multilingual text-to-speech generation.",
+    "website": "https://voiceslab.io",
+    "categories": "AI Voice Cloning, AI Voice Generator, AI Text-to-Speech",
+    "slug": "voiceslab",
+    "created_at": "03:26:24 03/20/2026"
+  },
+  {
     "title": "Raydian",
     "name": "Raydian",
     "description": "AI-first full-stack platform for reliable web app development via chat-to-build and visual editing.",
@@ -40064,6 +40100,15 @@
     "categories": "AI Fitness",
     "slug": "thebean-ai",
     "created_at": "14:16:05 12/18/2025"
+  },
+  {
+    "title": "AI Flowchart Generator",
+    "name": "AI Flowchart - net",
+    "description": "AI tool converting text and images into professional, editable flowcharts instantly.",
+    "website": "https://aiflowchart.net",
+    "categories": "AI Diagram Generator, AI Charting, AI Workflow, Text to Image",
+    "slug": "ai-flowchart-net",
+    "created_at": "03:26:24 03/20/2026"
   },
   {
     "title": "Cognizise",
