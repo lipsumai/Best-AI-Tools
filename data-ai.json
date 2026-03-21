@@ -9936,6 +9936,15 @@
     "created_at": "02:21:21 04/04/2025"
   },
   {
+    "title": "Astro Seek",
+    "name": "Astro Seek",
+    "description": "Free AI-powered birth chart generator and professional astrological analysis platform without mandatory sign-up.",
+    "website": "https://astroseek.org",
+    "categories": "AI Predictions, AI Report Generator, AI Charting",
+    "slug": "astro-seek",
+    "created_at": "14:19:30 03/21/2026"
+  },
+  {
     "title": "Daymi",
     "name": "Daymi",
     "description": "AI clone and companion mirroring your style for personal life management.",
@@ -12933,6 +12942,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Rewebly",
+    "name": "Rewebly",
+    "description": "AI tool that instantly redesigns websites and exports clean code by just pasting a URL.",
+    "website": "https://rewebly.com",
+    "categories": "AI Website Designer, AI Website Builder, No-Code&Low-Code, AI Design Generator",
+    "slug": "rewebly",
+    "created_at": "14:19:30 03/21/2026"
+  },
+  {
     "title": "Virtual Try On",
     "name": "Virtual Try On",
     "description": "AI tool for realistic virtual try-on of clothes, hairstyles, and accessories.",
@@ -14659,6 +14677,15 @@
     "categories": "AI Meeting Assistant, Translate, AI Speech Recognition, AI Noise Cancellation, Speech-to-Text, Captions or Subtitle",
     "slug": "ztalk-ai",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "One More Shot AI",
+    "name": "One More Shot AI",
+    "description": "One More Shot is the leading AI music video generator app that turns songs into finished videos in minutes. Artists and creators can upload a track, generate beat-synced visuals, add lip-sync, and export in the right format for TikTok, YouTube, Instagram, and other platforms.",
+    "website": "https://www.onemoreshot.ai",
+    "categories": "AI Music Video Generator",
+    "slug": "one-more-shot-ai",
+    "created_at": "14:19:30 03/21/2026"
   },
   {
     "title": "Open Lovable",
@@ -32154,6 +32181,15 @@
     "categories": "AI Image Generator, Text to Image, AI Infographic Generator, AI Diagram Generator, AI Math, Image to Image",
     "slug": "nanabanana2-run",
     "created_at": "02:51:14 12/25/2025"
+  },
+  {
+    "title": "VeoNano",
+    "name": "VeoNano",
+    "description": "Cinematic AI studio for high-quality video, image, and audio generation using Veo and Nano Banana.",
+    "website": "https://veonano.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image",
+    "slug": "veonano",
+    "created_at": "14:19:30 03/21/2026"
   },
   {
     "title": "Miaoyan",
