@@ -4149,6 +4149,15 @@
     "created_at": "02:38:30 05/21/2025"
   },
   {
+    "title": "VeriBite",
+    "name": "VeriBite AI",
+    "description": "AI food scanner that exposes hidden seed oils, processed ingredients, and misleading labels instantly.",
+    "website": "https://veribite.ai",
+    "categories": "AI Scanner, AI Detector, AI Assistant, AI Image Recognition, AI Healthcare",
+    "slug": "veribite-ai",
+    "created_at": "03:39:48 03/23/2026"
+  },
+  {
     "title": "Suna",
     "name": "Suna",
     "description": "Open source AI assistant for tasks and data analysis.",
@@ -16614,6 +16623,15 @@
     "created_at": "14:12:01 09/17/2025"
   },
   {
+    "title": "FreeWanvideo",
+    "name": "FreeWanvideo",
+    "description": "FreeWanVideo – AI video generator powered by Wan/Grok/Seedance/Veo/Sora model, create cinematic clips from text/image without watermark, fast online. Get 100 free credits to start !",
+    "website": "https://www.freewanvideo.com",
+    "categories": "AI Video Generator, AI Short Video Generator, Image to Video, Text to Video",
+    "slug": "freewanvideo",
+    "created_at": "03:39:48 03/23/2026"
+  },
+  {
     "title": "AIclicks",
     "name": "AIclicks",
     "description": "Optimize brand visibility in AI search answers.",
@@ -25557,6 +25575,15 @@
     "categories": "AI Assistant, AI Agent, AI Copilot, AI Productivity Tools",
     "slug": "petclaw-ai",
     "created_at": "14:40:35 03/11/2026"
+  },
+  {
+    "title": "MotionControlAI",
+    "name": "MotionControlAI",
+    "description": "Advanced AI framework for precise character motion control and professional cinematic video generation.",
+    "website": "https://ai-motion-control.org",
+    "categories": "AI Video Generator, AI Animation Generator, Video to Video, Image to Video, AI Character",
+    "slug": "motioncontrolai",
+    "created_at": "03:39:48 03/23/2026"
   },
   {
     "title": "Knapsack Sidepanel",
