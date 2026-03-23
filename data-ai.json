@@ -7227,6 +7227,15 @@
     "created_at": "02:26:50 10/22/2025"
   },
   {
+    "title": "ai enhance image",
+    "name": "ai enhance image",
+    "description": "AI Enhance Image uses advanced AI models to transform low-resolution, blurry, or noisy photos into sharp, high-quality images — all from your   browser. Simply upload a photo (JPG, PNG, WebP, or HEIC), select an enhancement mode like Crisp for general sharpening or Face for portrait   restoration, and download the enhanced result in seconds. Paid plans unlock batch processing for up to 20 images at once, commercial usage   rights, priority processing, and instant downloads with no wait time. No software to install, no design skills required — just upload and   enhance.",
+    "website": "https://aienhanceimage.com",
+    "categories": "AI Expand Image, AI Colorize",
+    "slug": "ai-enhance-image",
+    "created_at": "14:49:53 03/23/2026"
+  },
+  {
     "title": "ViralQR",
     "name": "ViralQR",
     "description": "Your All-in-One Solution for Dynamic QR Codes and Secure Sharing",
@@ -18890,6 +18899,15 @@
     "created_at": "14:14:02 07/14/2025"
   },
   {
+    "title": "Project Genie",
+    "name": "Project Genie - 1",
+    "description": "Project Genie is an AI world generation platform that transforms text prompts and reference images into interactive 3D worlds. It is built for creators who want to imagine, prototype, and explore environments without   traditional 3D modeling workflows.With Project Genie, users can generate worlds in real time, navigate them with full movement controls, and experience immersive AI-powered world building through a simple, user-friendly interface. It is well suited for   game ideation, previsualization, education, and spatial concept design.",
+    "website": "https://project-genie.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI 3D Model Generator, Image to 3D Model, Text to 3D, AI Video Editor",
+    "slug": "project-genie-1",
+    "created_at": "14:49:53 03/23/2026"
+  },
+  {
     "title": "ToolWaves",
     "name": "ToolWaves",
     "description": "ToolWaves is a free and unlimited online tool platform designed to simplify your daily tasks. It offers 130+ web tools for PDFs, images, SEO, students, and engineers — all in one place, with no sign-up required.",
@@ -26106,6 +26124,15 @@
     "categories": "AI Developer Tools, AI Agent, Large Language Models (LLMs), Log Management",
     "slug": "cencurity",
     "created_at": "14:42:50 02/25/2026"
+  },
+  {
+    "title": "秒聽錄音(Tinrec)",
+    "name": "秒聽錄音(Tinrec)",
+    "description": "一鍵生成會議記錄 & AI語音逐字稿",
+    "website": "https://tinrec.com",
+    "categories": "AI Meeting Assistant, AI Agent, AI Assistant, AI Copilot, AI Jobs, AI Note Taker, AI Productivity Tools, AI Task Management",
+    "slug": "秒聽錄音-tinrec",
+    "created_at": "14:49:53 03/23/2026"
   },
   {
     "title": "Udemy Quiz Generator",
@@ -35357,6 +35384,15 @@
     "categories": "AI PDF, AI Chatbot, AI Summarizer, AI Document Extraction, AI Research Tool",
     "slug": "odysseygpt",
     "created_at": "02:58:17 08/11/2025"
+  },
+  {
+    "title": "WhatsApp Group Marketing Tool",
+    "name": "WhatsApp Group Marketing Tool",
+    "description": "AI-powered WhatsApp automation for group discovery, broadcasting, and real-time lead detection.",
+    "website": "https://wagroup.wadesk.io",
+    "categories": "AI Marketing, AI Lead Generation, AI Digital Marketing, AI Sales Assistant, AI Affiliate Marketing",
+    "slug": "whatsapp-group-marketing-tool",
+    "created_at": "14:49:53 03/23/2026"
   },
   {
     "title": "Travlo",
