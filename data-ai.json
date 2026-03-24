@@ -3393,6 +3393,15 @@
     "created_at": "02:56:19 07/01/2025"
   },
   {
+    "title": "ProductBridge",
+    "name": "ProductBridge",
+    "description": "AI-powered feedback, roadmap, and changelog platform for SaaS to centralize and automate user insights.",
+    "website": "https://productbridge.io",
+    "categories": "AI Roadmap, AI Project Management, AI Productivity Tools, AI Knowledge Management",
+    "slug": "productbridge",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "NoteAI",
     "name": "NoteAI",
     "description": "AI knowledge assistant summarizing videos, documents, and web content into summaries, mind maps, and insight cards.",
@@ -4336,6 +4345,15 @@
     "categories": "AI Anime Generator, AI Short Video Generator, Text to Video, Image to Video, AI Anime Art, AI Story Generator",
     "slug": "nereo",
     "created_at": "14:21:04 01/23/2026"
+  },
+  {
+    "title": "Visdiff",
+    "name": "Visdiff",
+    "description": "AI agent that generates and fixes frontend code to perfectly match Figma designs.",
+    "website": "https://visdiff.com",
+    "categories": "AI Agent, AI Code Generator, AI Developer Tools, AI Code Assistant",
+    "slug": "visdiff",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "HorizonX",
@@ -5409,6 +5427,15 @@
     "created_at": "14:12:32 06/05/2025"
   },
   {
+    "title": "Adaptive",
+    "name": "Adaptive — The Agent Computer",
+    "description": "An AI agent computer that automates workflows through plain English and self-learning Encoded Memory.",
+    "website": "https://adaptive.ai",
+    "categories": "AI Agent, AI Workflow, No-Code&Low-Code, AI Productivity Tools",
+    "slug": "adaptive-the-agent-computer",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "Financial Fitness Passport",
     "name": "Financial Fitness Passport",
     "description": "AI-powered financial guidance platform for retirement tracking, debt management, and privacy-first financial planning.",
@@ -5641,6 +5668,15 @@
     "categories": "AI Video Generator, AI Image Generator, AI Photo Editor, Image to Image, Text to Image, AI Voice Generator, Image to Video, Text to Video, Video to Video, AI Chatbot",
     "slug": "mixhub-ai",
     "created_at": "14:12:58 09/08/2025"
+  },
+  {
+    "title": "APIXO.AI - AI Model API Provider",
+    "name": "APIXO.AI - AI Model API Provider",
+    "description": "APIXO is a performance-first AI API platform that unifies access to image, video, audio, and text models through a single developer-friendly API. Instead of integrating each provider separately, teams can use one API surface to experiment with multiple models, switch providers quickly, monitor usage, manage API keys, and control costs. APIXO is designed for production use, with routing flexibility, automatic failover, transparent pay-as-you-use pricing, per-project key controls, usage analytics, and support for modern async workflows such as task polling and webhooks. It is especially useful for startups, AI products, agencies, and SaaS teams that need multimodal AI infrastructure without the operational complexity of managing fragmented vendor stacks.",
+    "website": "https://apixo.ai",
+    "categories": "AI API, AI Image Generator, AI Music Generator, AI Video Generator, Large Language Models (LLMs)",
+    "slug": "apixo-ai-ai-model-api-provider",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "AI Art Generator And AI Art Search Engine",
@@ -8208,6 +8244,15 @@
     "created_at": "14:34:14 02/27/2026"
   },
   {
+    "title": "tldrr",
+    "name": "tldrr",
+    "description": "AI-powered read-later app that summarizes, organizes, and searches your saved digital content.",
+    "website": "https://tldrr.io",
+    "categories": "AI Summarizer, AI Search Engine, AI Article Summarizer, AI Video Summarizer, AI PDF Summarizer",
+    "slug": "tldrr",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "csv2ai",
     "name": "csv2ai",
     "description": "AI tools for optimizing e-commerce listings and translations.",
@@ -9126,6 +9171,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Educato",
+    "name": "Educato App",
+    "description": "AI-driven platform offering personalized prep and tools for 10,000+ global exams.",
+    "website": "https://educato.com",
+    "categories": "AI Homework Helper, AI Quiz Generator, AI Flashcard Maker, AI Question Generator, AI Assistant",
+    "slug": "educato-app",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "Clideo",
     "name": "Clideo",
     "description": "Easy online platform for video, image, and GIF editing.",
@@ -9187,6 +9241,15 @@
     "categories": "AI Agent, Prompt Engineering, AI Developer Tools, AI Productivity Tools, AI Tools Directory",
     "slug": "claude-skills-library",
     "created_at": "14:21:04 01/23/2026"
+  },
+  {
+    "title": "AuditTrail AI",
+    "name": "AuditTrail AI",
+    "description": "AI-powered financial reconciliation platform for automated transaction matching and audit-ready documentation.",
+    "website": "https://audittrail.online",
+    "categories": "AI Accounting, AI For Finance, AI Report Generator, AI Productivity Tools",
+    "slug": "audittrail-ai",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "TurboSQL",
@@ -12240,6 +12303,15 @@
     "created_at": "14:13:10 11/21/2025"
   },
   {
+    "title": "GB1",
+    "name": "GB1",
+    "description": "A privacy-first, sustainable British AI assistant powered by the Locai L1 model.",
+    "website": "https://www.gb1.ai",
+    "categories": "AI Assistant, AI Chatbot, Large Language Models (LLMs), AI Models",
+    "slug": "gb1-the-ai-from-the-uk",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "AI SEO Blogging",
     "name": "SEOLL-E",
     "description": "Elevate SEO efforts with AI SEO Blogging, an innovative programmatic tool for high-quality content.",
@@ -12427,6 +12499,15 @@
     "categories": "Large Language Models (LLMs), AI Education Assistant, Prompt, AI Response Generator, AI Chatbot, Homework Helper, Essay Writer, General Writing, Writing Assistants, AI Content Generator",
     "slug": "writesmith",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "StoryMotion",
+    "name": "StoryMotion",
+    "description": "AI tool for creating hand-drawn animated explainer videos and technical diagrams from documents.",
+    "website": "https://storymotion.video",
+    "categories": "AI Animated Video, AI Animation Generator, AI Video Generator, AI Diagram Generator, Whiteboard AI",
+    "slug": "storymotion",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "ExpertPitch.com",
@@ -13750,6 +13831,15 @@
     "categories": "AI For Finance, AI Assistant",
     "slug": "bon-credit",
     "created_at": "14:14:10 12/12/2025"
+  },
+  {
+    "title": "Proptradingvibes",
+    "name": "Proptradingvibes",
+    "description": "PropTradingVibes is the largest independent prop trading firm review platform. Built by a funded futures trader with $200K+ in verified payouts, it covers 60+ proprietary trading firms with in-depth reviews, rule breakdowns, payout analysis, and head-to-head comparisons. 15,000+ traders visit monthly to find the right prop firm, compare pricing, and access exclusive discount codes.",
+    "website": "https://proptradingvibes.com",
+    "categories": "Other",
+    "slug": "proptradingvibes",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "Iterato",
@@ -15678,6 +15768,24 @@
     "created_at": "14:12:54 06/25/2025"
   },
   {
+    "title": "Contral",
+    "name": "Contral",
+    "description": "An AI-powered IDE that teaches programming concepts in real-time as you build software.",
+    "website": "https://contral.ai",
+    "categories": "AI Code Assistant, AI Code Generator, AI Copilot, AI Developer Tools, AI Tutorial",
+    "slug": "contral",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
+    "title": "cvoice.ai",
+    "name": "cvoice ai",
+    "description": "AI text-to-speech platform with 20,000+ character and celebrity voices for professional audio.",
+    "website": "https://cvoice.ai",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI Celebrity Voice Generator, AI Voice Cloning, AI Speech Synthesis",
+    "slug": "cvoice-ai",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "EverMemOS",
     "name": "EverMemOS",
     "description": "Empowers AI with infinite memory, long-term identity, and evolving intelligence.",
@@ -17351,6 +17459,15 @@
     "created_at": "03:24:54 03/13/2026"
   },
   {
+    "title": "Tokyo Lore Ideas",
+    "name": "Tokyolore",
+    "description": "A platform for submitting, validating, and winning prizes for Tokyo-centric business and creative ideas.",
+    "website": "https://tokyolore.com",
+    "categories": "AI Pitch Deck Generator, AI Report Generator, AI Consulting, AI Image Generator",
+    "slug": "tokyolore",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "Image to Text Converter",
     "name": "Image to Text  CC",
     "description": "Online OCR tool for accurate text extraction from images.",
@@ -17925,6 +18042,15 @@
     "categories": "AI Assistant, AI Agent, AI Developer Tools",
     "slug": "picoclaw",
     "created_at": "14:41:58 03/10/2026"
+  },
+  {
+    "title": "Airbrush Studio",
+    "name": "Airbrush Studio - 1",
+    "description": "AI-powered desktop photo editor for professional portrait retouching, skin smoothing, and batch image processing.",
+    "website": "https://airbrush.com",
+    "categories": "AI Photo Editor, AI Photo Enhancer, AI Portrait Generator, AI Background Remover, Object Remover AI, AI Photo Restoration",
+    "slug": "airbrush-studio-1",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "Gen Music IM",
@@ -19221,6 +19347,15 @@
     "categories": "AI Chatbot, AI Assistant, AI Models, Large Language Models (LLMs)",
     "slug": "chatbotai-com",
     "created_at": "14:15:45 07/22/2025"
+  },
+  {
+    "title": "Sanota",
+    "name": "Sanota",
+    "description": "AI platform transforming spoken memories into beautifully written family stories and legacies.",
+    "website": "https://sanota.app",
+    "categories": "AI Story Generator, AI Speech-to-Text, Audio To Text AI, AI Writing Assistants",
+    "slug": "sanota",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "NanoBanana AI",
@@ -20798,6 +20933,15 @@
     "created_at": "14:16:01 01/06/2026"
   },
   {
+    "title": "ngram",
+    "name": "ngram.com",
+    "description": "Agentic AI platform for creating professional product demos, explainers, and on-brand marketing videos.",
+    "website": "https://www.ngram.com",
+    "categories": "AI Video Generator, AI Video Editor, AI Ad Creative, Text to Video, AI Script Writing, AI Tutorial",
+    "slug": "ngram-com",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "Crypto Tide",
     "name": "Crypto Tide Price Prediction Algorithm",
     "description": "AI tool providing accurate cryptocurrency price predictions.",
@@ -22328,6 +22472,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Link AI",
+    "name": "Link AI",
+    "description": "No-code agentic business suite for automating customer support, scheduling, and multi-channel communication.",
+    "website": "https://getlinkai.com",
+    "categories": "AI Agent, AI Chatbot, AI Customer Service, AI Scheduling, AI Assistant, No-Code&Low-Code",
+    "slug": "link-ai",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "AgentSphere",
     "name": "AgentSphere",
     "description": "AI-native cloud sandboxes for secure AI agent code execution.",
@@ -22407,6 +22560,15 @@
     "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Tutorial",
     "slug": "buildql",
     "created_at": "14:12:10 05/23/2025"
+  },
+  {
+    "title": "Donely",
+    "name": "Donely",
+    "description": "Multi-instance management platform for deploying and scaling isolated OpenClaw AI agents.",
+    "website": "https://donely.ai",
+    "categories": "AI Agent, No-Code&Low-Code, AI Assistant, AI Productivity Tools",
+    "slug": "donely",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "Asistee",
@@ -27593,6 +27755,15 @@
     "created_at": "14:11:45 04/02/2025"
   },
   {
+    "title": "GitAgent",
+    "name": "GitAgent by Lyzr",
+    "description": "Open standard for defining, versioning, and running AI agents natively in Git repositories.",
+    "website": "https://www.gitagent.sh",
+    "categories": "AI Agent, AI Developer Tools, AI Github, AI Workflow",
+    "slug": "gitagent-by-lyzr",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "Undetectable WTF",
     "name": "Undetectable WTF",
     "description": "Transforms AI text into human-like content to avoid detection.",
@@ -29157,6 +29328,15 @@
     "categories": "AI Landing Page Builder, AI Website Builder, AI Design Generator, AI SEO Tools",
     "slug": "ai-landingpage",
     "created_at": "14:12:34 09/23/2025"
+  },
+  {
+    "title": "Fourmula",
+    "name": "Fourmula AI",
+    "description": "AI platform creating on-brand fashion photos and videos from a single product image.",
+    "website": "https://fourmula.ai",
+    "categories": "AI Product Photography, AI Video Generator, AI Commercial Generator, AI Ad Generator, AI Image Generator",
+    "slug": "fourmula-ai",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "Ello",
@@ -33191,6 +33371,15 @@
     "created_at": "03:02:41 01/19/2026"
   },
   {
+    "title": "Backgrounder",
+    "name": "Backgrounder",
+    "description": "AI-powered scam detection and verification backed by human security experts for family safety.",
+    "website": "https://backgrounder.com",
+    "categories": "AI Detector, AI Checker, AI Assistant, AI Content Detector",
+    "slug": "backgrounder",
+    "created_at": "03:30:34 03/24/2026"
+  },
+  {
     "title": "Hello Pet Dreams",
     "name": "Hello Pet Dreams",
     "description": "AI platform transforming pet photos into high-res digital art in 30+ styles.",
@@ -33720,6 +33909,15 @@
     "categories": "AI Essay Writer, AI Creative Writing, AI Outline Generator, AI Paragraph Generator, AI Writing, AI Writing Assistants",
     "slug": "writemyessay-ai",
     "created_at": "02:46:04 07/03/2025"
+  },
+  {
+    "title": "Fractal",
+    "name": "Fractal",
+    "description": "An AI platform for rapid building, testing, and deploying ChatGPT and MCP applications.",
+    "website": "https://usefractal.dev",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Developer Tools, AI Code Assistant, AI Agent",
+    "slug": "fractal",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "AutoLaunched",
@@ -35942,6 +36140,15 @@
     "categories": "AI Reply Assistant, AI Response Generator, Large Language Models (LLMs)",
     "slug": "whattotext-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Pluto Door",
+    "name": "Pluto Door",
+    "description": "A modern macOS SSH client with integrated terminal, SFTP, editor, and AI assistant.",
+    "website": "https://plutodoor.com",
+    "categories": "AI Assistant, AI Code Assistant, AI Developer Tools, AI Copilot",
+    "slug": "pluto-door",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "Podcast 2 Newsletter",
@@ -39398,6 +39605,15 @@
     "categories": "AI Email Marketing, AI Predictions, AI Agent, AI Sales Assistant",
     "slug": "mocke",
     "created_at": "14:12:12 08/22/2025"
+  },
+  {
+    "title": "Gyanis",
+    "name": "Gyanis.ai",
+    "description": "AI-powered K-12 education platform offering personalized study plans and student mental wellness support.",
+    "website": "https://www.gyanis.ai",
+    "categories": "AI Homework Helper, AI Assistant, AI Teachers, AI Mental Health, AI Lesson Plan Generator",
+    "slug": "gyanis-ai",
+    "created_at": "03:30:34 03/24/2026"
   },
   {
     "title": "MyDreamTeam",
