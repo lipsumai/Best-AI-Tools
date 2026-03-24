@@ -13392,6 +13392,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Flyne AI",
+    "name": "Flyne AI",
+    "description": "Advanced all-in-one AI platform for high-quality image, video, and music generation.",
+    "website": "https://flyne.ai",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, AI Avatar Generator, AI Headshot Generator, AI Anime Generator, AI Photo Restoration, AI Background Remover, AI Cartoon Generator",
+    "slug": "flyne-ai",
+    "created_at": "14:51:39 03/24/2026"
+  },
+  {
     "title": "Wav2Lip",
     "name": "Wav2Lip",
     "description": "AI tool for generating realistic lip-synced talking videos from audio and images.",
@@ -13930,6 +13939,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
     "slug": "seedance-ai-1-1",
     "created_at": "14:45:22 02/09/2026"
+  },
+  {
+    "title": "OtterQuant",
+    "name": "OtterQuant",
+    "description": "AI-powered stock research platform featuring Congressional tracking and natural language screening.",
+    "website": "https://otterquant.com",
+    "categories": "AI Investing, AI Stock Trading, AI For Finance, AI Research Tool, AI Agent, AI Chatbot",
+    "slug": "otterquant",
+    "created_at": "14:51:39 03/24/2026"
   },
   {
     "title": "Faysell",
@@ -23228,6 +23246,15 @@
     "created_at": "03:01:29 07/28/2025"
   },
   {
+    "title": "PixPark AI",
+    "name": "PixPark AI",
+    "description": "Free, unlimited AI platform for image/video generation and editing with no sign-up required.",
+    "website": "https://pixpark.ai",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Ad Creative, AI Thumbnail Maker, AI Design Generator",
+    "slug": "pixpark-ai-ai-image-to-image-generator",
+    "created_at": "14:51:39 03/24/2026"
+  },
+  {
     "title": "xMode.ai",
     "name": "xMode.ai",
     "description": "xMode.ai is an advanced AI platform tailored towards adult content creators. Offering an array of AI-powered tools, its main function is to transform the content creation process.",
@@ -29879,6 +29906,15 @@
     "created_at": "03:49:54 02/08/2026"
   },
   {
+    "title": "ImageToVideoAI",
+    "name": "ImageToVideoAI",
+    "description": "AI-powered platform transforming static images into professional, high-quality cinematic videos.",
+    "website": "https://image-to-video.ai",
+    "categories": "AI Video Generator, Image to Video, Text to Video, Video to Video, Text to Image, Image to Image",
+    "slug": "imagetovideoai",
+    "created_at": "14:51:39 03/24/2026"
+  },
+  {
     "title": "AI Signature Generator",
     "name": "AI Signature Generator",
     "description": "AI toolkit for creating, editing, extracting, and managing digital signatures.",
@@ -35825,6 +35861,15 @@
     "categories": "AI Video Editor",
     "slug": "ai-video-narration",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "UNI-1 AI",
+    "name": "UNI-1 AI",
+    "description": "Unified AI model combining visual reasoning and image generation in a single transformer.",
+    "website": "https://uni-1ai.com",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Models, AI API",
+    "slug": "uni-1-ai",
+    "created_at": "14:51:39 03/24/2026"
   },
   {
     "title": "RFPILOT",
