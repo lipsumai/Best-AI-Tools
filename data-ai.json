@@ -1170,6 +1170,15 @@
     "created_at": "14:15:26 08/11/2025"
   },
   {
+    "title": "ChatReal AI",
+    "name": "ChatReal AI",
+    "description": "An immersive AI companion platform offering customizable, human-like conversations and interactive 3D experiences.",
+    "website": "https://chatreal.ai",
+    "categories": "AI Character, AI Girlfriend, AI Roleplay, AI Chatbot, AI Boyfriend, AI Avatar Generator",
+    "slug": "chatreal-ai",
+    "created_at": "03:33:46 03/25/2026"
+  },
+  {
     "title": "WorkRamp LMS",
     "name": "WorkRamp LMS",
     "description": "An all-in-one LMS for training employees, partners, and customers.",
@@ -26441,6 +26450,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Foca Upscaler - One-Click Physics-Aware AI Image Enhancer",
+    "name": "Foca Upscaler - One-Click Physics-Aware AI Image Enhancer",
+    "description": "Physics-aware AI image upscaler for one-click, UHD quality. Perfect for restoring precious memories, social media, and professional projects.",
+    "website": "https://focaupscaler.com",
+    "categories": "AI Image Upscaler, AI Image Enhancer, AI Photo Enhancer, AI Photo Restoration",
+    "slug": "foca-upscaler-one-click-physics-aware-ai-image-enhancer",
+    "created_at": "03:33:46 03/25/2026"
+  },
+  {
     "title": "Cheers",
     "name": "Cheers",
     "description": "Cheers is an AI-powered platform that shows you not just what your brand reputation is, but who on your frontline team is driving it. We turn brand analytics from guesswork into a precise science.",
@@ -30527,6 +30545,15 @@
     "created_at": "02:42:45 06/13/2025"
   },
   {
+    "title": "Unwildered",
+    "name": "Unwildered",
+    "description": "Unwildered brings you Caira, an AI-powered legal assistant designed to make law accessible, easy to understand, and affordable for everyone in the United States. Whether you are dealing with a landlord who won't fix a leak, navigating a complex divorce, or trying to understand a startup business contract, Caira provides instant answers and high-quality drafts in seconds.  Most people feel anxious and overwhelmed when they see legal documents or strange terminology. Unwildered was built to change that. For just $21 a month, you get a 24/7 legal copilot on your phone, tablet, or desktop. No more waiting days for an expensive lawyer or losing sleep over a document you don't understand.  Caira is powered by the same cutting-edge generative AI models as ChatGPT, but with a critical difference",
+    "website": "https://www.unwildered.com",
+    "categories": "AI Legal Assistant",
+    "slug": "unwildered",
+    "created_at": "03:33:46 03/25/2026"
+  },
+  {
     "title": "BafCloud",
     "name": "BafCloud",
     "description": "Simplify AI development with BafCloud",
@@ -31533,6 +31560,15 @@
     "categories": "AI Assistant, AI Agent, AI Productivity Tools, No-Code&Low-Code",
     "slug": "alice",
     "created_at": "03:01:47 07/20/2025"
+  },
+  {
+    "title": "TrendEdge",
+    "name": "TrendEdge",
+    "description": "TrendEdge is a market data and mock trading platform covering 6,000+ stocks across US and EU markets. It combines AI scoring with alternative data (web traffic, app downloads, job postings) and social media sentiment from Reddit, X, and StockTwits, alongside a full research-to-decision workflow.",
+    "website": "https://trendedgeai.com",
+    "categories": "AI For Finance",
+    "slug": "trendedge",
+    "created_at": "03:33:46 03/25/2026"
   },
   {
     "title": "connect the dots printable",
@@ -40820,6 +40856,15 @@
     "categories": "AI Workflow, AI Reply, AI Consulting",
     "slug": "truverifai",
     "created_at": "14:12:44 01/17/2026"
+  },
+  {
+    "title": "Alma by Olivares.AI",
+    "name": "Alma by Olivares.AI",
+    "description": "Give your AI persistent memory, identity, and a soul",
+    "website": "https://olivares.ai",
+    "categories": "AI Chatbot, AI News, AI Question Generator, AI Mind Mapping, AI Math, AI Knowledge Graph, AI Knowledge Base, AI Article Summarizer, AI Answer, AI Workflow, AI Roadmap, AI Project Management, AI Product Manager, AI Trip Planner, AI Gift Ideas, AI Chat Generator, AI Image Generator, Resume AI, Prompt Engineering, AI Writing, AI Thesis Generator, AI Text Message Generator, AI Text Generator, AI Text Classifier, AI Message Generator, AI Dialogue Generator, AI Description Generator, AI Creative Writing, AI Productivity Tools",
+    "slug": "alma-by-olivares-ai",
+    "created_at": "03:33:46 03/25/2026"
   },
   {
     "title": "Nano Banana 2 (Pro)",
