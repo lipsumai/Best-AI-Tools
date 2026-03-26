@@ -783,6 +783,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Saveto AI",
+    "name": "Saveto AI",
+    "description": "All-in-one free AI transcription and summarization tool online",
+    "website": "https://saveto.ai",
+    "categories": "AI Transcription",
+    "slug": "saveto-ai-all-in-one-ai video transcriber-and-summarizer",
+    "created_at": "03:43:42 03/26/2026"
+  },
+  {
     "title": "Video to Text AI",
     "name": "Video to Text AI",
     "description": "AI-powered tool for fast, accurate video-to-text transcription and subtitle generation in 55+ languages.",
@@ -2644,6 +2653,15 @@
     "categories": "AI Speech-to-Text, AI Transcription, AI Writing Assistants, AI Productivity Tools, AI Rewriter",
     "slug": "genspark-speakly",
     "created_at": "03:23:07 01/30/2026"
+  },
+  {
+    "title": "OnCallClerk",
+    "name": "OnCallClerk",
+    "description": "Launch AI receptionists in minutes. OnCallClerk answers calls, qualifies leads, and automates customer support with no setup required.",
+    "website": "https://OnCallClerk.com",
+    "categories": "AI Customer Service, AI Chat Generator, AI Voice Assistants, AI Call Center",
+    "slug": "oncallclerk",
+    "created_at": "03:43:42 03/26/2026"
   },
   {
     "title": "AICosts.ai",
@@ -9360,6 +9378,15 @@
     "created_at": "14:18:36 01/08/2026"
   },
   {
+    "title": "seedance 2.0",
+    "name": "seedance 2.0 - net",
+    "description": "C Dance AI - Seedance 2.0 AI Video Generator",
+    "website": "https://cdance.net",
+    "categories": "AI Video Generator, AI Animated Video, AI Short Video Generator, AI Stock Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, AI Video Editor, AI Video Enhancer, AI Video Recording, AI Video Search, AI Video Summarizer, Image to Video, Long Video To Short Video AI, Script To Video AI Generator, Text to Video, Video to Video",
+    "slug": "seedance-2-0-net",
+    "created_at": "03:43:42 03/26/2026"
+  },
+  {
     "title": "PhotoGov",
     "name": "PhotoGov",
     "description": "AI tool for creating compliant passport and ID photos.",
@@ -10753,6 +10780,15 @@
     "categories": "Design Assistant, AI Website Designer, Large Language Models (LLMs), AI Website Builder, AI Design Generator, AI Analytics Assistant, AI Graphic Design",
     "slug": "streos",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Clico",
+    "name": "Clico",
+    "description": "AI assistant that brings writing, summarization, and search to every browser text box.",
+    "website": "https://tryclico.com",
+    "categories": "AI Writing Assistants, AI Assistant, AI Summarizer, AI Browsers, AI Speech-to-Text",
+    "slug": "clico",
+    "created_at": "03:43:42 03/26/2026"
   },
   {
     "title": "Marketing Guide AI",
@@ -18836,6 +18872,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Anime AI Studio",
+    "name": "Anime AI Studio",
+    "description": "All-in-one AI platform for creating anime dramas from scripts to videos using an infinite canvas.",
+    "website": "https://animeaistudio.com",
+    "categories": "AI Anime Generator, AI Video Generator, Text to Video, AI Story Generator, AI Script Writing",
+    "slug": "anime-ai-studio",
+    "created_at": "03:43:42 03/26/2026"
+  },
+  {
     "title": "Clado",
     "name": "Clado",
     "description": "AI-powered global people search for sales, hiring, and research.",
@@ -22067,6 +22112,15 @@
     "created_at": "02:49:15 12/11/2025"
   },
   {
+    "title": "Seedance 2.0 - AI Video Generator",
+    "name": "Seedance 2.0 - AI Video Generator",
+    "description": "Welcome to Seedance 2.0, the ultimate unified multimodal AI video generator designed to turn your imagination into director-grade cinematic reality. Say goodbye to fragmented post-production workflows, steep learning curves, and expensive production crews. Seedance 2.0 empowers creators, marketers, and studios to generate stunning, realistic videos directly from text prompts, static images, or reference audio in a matter of seconds.  What truly sets Seedance 2.0 apart is its ability to natively generate visuals, dialogue, pixel-perfect lip-sync, and ambient sound effects all within a single pipeline. Whether you are producing commercial product demos, narrative short films, viral TikToks, or interactive digital avatars, our revolutionary engine delivers physics-accurate motion, extreme character consistency, and broadcast-ready audio without requiring any external editing software. With an industry-leading first-generation usable output rate exceeding 90%, Seedance 2.0 doesn't just generate video—it simulates real-world physics and cinematic artistry, making it the most cost-effective and capable AI video tool on the market today. Experience the future of content creation at seedance2.plus.",
+    "website": "https://seedance2.plus",
+    "categories": "AI Video Generator, AI Video Recording, Video to Video, Text to Video, Script To Video AI Generator, Long Video To Short Video AI, Image to Video, AI Youtube Video Maker, AI Video Upscaler, AI Video Summarizer, AI Video Search, AI Video Enhancer, AI Animated Video, AI Video Editor, AI UGC Video Generator, AI Tiktok Video Generator, AI Stock Video Generator, AI Short Video Generator, AI Music Video Generator, AI Face Swap Video, AI Cartoon Video Generator, AI Avatar Video Generator, AI Video Translator",
+    "slug": "seedance-2-0-ai-video-generator-2",
+    "created_at": "03:43:42 03/26/2026"
+  },
+  {
     "title": "Image Translator",
     "name": "Image Translator-",
     "description": "Advanced AI-powered image translation that preserves context and formatting. Translate text within images instantly with high accuracy across 130+ languages.",
@@ -24234,6 +24288,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, AI Short Video Generator, AI Ad Generator, AI Lip Sync Generator, AI Video Editor",
     "slug": "prism-videos",
     "created_at": "14:42:50 02/25/2026"
+  },
+  {
+    "title": "intervu.dev",
+    "name": "Intervu.dev",
+    "description": "AI-powered mock interview platform for practicing FAANG-style coding interviews and technical communication.",
+    "website": "https://intervu.dev",
+    "categories": "AI Interview Assistant, AI Coaching, AI Developer Tools",
+    "slug": "intervu-dev",
+    "created_at": "03:43:42 03/26/2026"
   },
   {
     "title": "MyShotAI",
@@ -29744,6 +29807,15 @@
     "created_at": "14:12:53 09/03/2025"
   },
   {
+    "title": "Wan 2.7 AI",
+    "name": "Wan 2.7 AI",
+    "description": "Video Generator | Get pro-level control with 1080P output up to 15s, 9-grid I2V, and precise first/last frame mastery.",
+    "website": "https://wan2-7ai.com",
+    "categories": "AI Video Generator, AI Animated Video, AI Video Editor, Image to Video, Text to Video, Video to Video",
+    "slug": "wan-2-7-ai",
+    "created_at": "03:43:42 03/26/2026"
+  },
+  {
     "title": "Video Tap",
     "name": "Video Tap",
     "description": "Repurpose and optimize videos with AI. Try for FREE.",
@@ -33965,6 +34037,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Fashion Diffusion AI",
+    "name": "Fashion Diffusion AI",
+    "description": "All-in-one AI fashion design and virtual try-on platform.",
+    "website": "https://www.fashiondiffusion.ai",
+    "categories": "AI Image Generator, AI Background Generator, AI Background Remover, AI Clothing Removal, AI Face Swap Generator, AI Inpainting, AI Person Generator, Text to Image, AI T Shirt Design",
+    "slug": "fashion-diffusion-ai",
+    "created_at": "03:43:42 03/26/2026"
+  },
+  {
     "title": "Managr",
     "name": "managr.ai",
     "description": "AI platform for PR workflows.",
@@ -35825,6 +35906,15 @@
     "categories": "AI Spreadsheet, AI Agent, AI Assistant, AI For Data Analytics, AI Charting",
     "slug": "pane",
     "created_at": "14:18:34 01/12/2026"
+  },
+  {
+    "title": "Agen",
+    "name": "Agen",
+    "description": "Fully Autonomous AI Coding Agents",
+    "website": "https://agenhq.com",
+    "categories": "AI Agent",
+    "slug": "agen",
+    "created_at": "03:43:42 03/26/2026"
   },
   {
     "title": "ai face swap",
