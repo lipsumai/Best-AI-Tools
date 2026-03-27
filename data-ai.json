@@ -2646,6 +2646,15 @@
     "created_at": "14:12:12 08/22/2025"
   },
   {
+    "title": "Claude Code API (code0.ai)",
+    "name": "Claude Code中转站API",
+    "description": "Stable domestic direct-connect proxy for Claude API with CNY payment and low latency.",
+    "website": "https://claudeapi.com",
+    "categories": "AI API, AI Developer Tools, Large Language Models (LLMs)",
+    "slug": "claude-code中转站api",
+    "created_at": "14:43:57 03/27/2026"
+  },
+  {
     "title": "Veo3API.ai",
     "name": "Veo3API.ai",
     "description": "Veo 3 API creates 1080p videos with Fast/Turbo & Quality Modes at low cost.",
@@ -2707,6 +2716,15 @@
     "categories": "AI Healthcare, AI Transcriber, AI Transcription, AI Speech-to-Text, AI Notes Generator",
     "slug": "claio-ai",
     "created_at": "14:12:46 10/24/2025"
+  },
+  {
+    "title": "Kling AI Motion Control",
+    "name": "Kling AI Motion Control",
+    "description": "AI tool generating cinematic character animations from reference images and motion videos.",
+    "website": "https://www.klingaimotioncontrol.com",
+    "categories": "AI Video Generator, AI Animation Generator, Image to Video, AI Character, AI Poster Generator, Text to Image",
+    "slug": "kling-ai-motion-control",
+    "created_at": "14:43:57 03/27/2026"
   },
   {
     "title": "1Template",
@@ -12168,6 +12186,15 @@
     "created_at": "03:02:17 12/29/2025"
   },
   {
+    "title": "Free AI Image Generator",
+    "name": "Free AI Image Generator -1",
+    "description": "Best Free AI Image Generator — No Sign-up, Unlimited Text to Image AI",
+    "website": "https://imagefree.net",
+    "categories": "AI Image Generator, AI Avatar Generator, AI Headshot Generator, AI Image Upscaler, AI Photo Editor, Text to Image, AI Art Generator",
+    "slug": "free-ai-image-generator-1",
+    "created_at": "14:43:57 03/27/2026"
+  },
+  {
     "title": "Seedance 2.0",
     "name": "Seedance 2.0-7",
     "description": "Professional AI video generator using world models for realistic, high-quality video creation.",
@@ -19907,6 +19934,15 @@
     "created_at": "14:10:55 11/23/2025"
   },
   {
+    "title": "Avocado AI",
+    "name": "Avocado AI",
+    "description": "All-in-one AI creative workspace for generating ad-ready videos, images, music, and voiceovers.",
+    "website": "https://www.avocadoai.co",
+    "categories": "AI Ad Generator, AI UGC Video Generator, AI Video Generator, AI Advertising, AI Image Generator, AI Music Generator, AI Voice Generator",
+    "slug": "avocado-ai",
+    "created_at": "14:43:57 03/27/2026"
+  },
+  {
     "title": "AdpexAI",
     "name": "AdpexAI",
     "description": "AdpexAI | The Ultimate Free AI Hub for Image and Video Generation",
@@ -23073,6 +23109,15 @@
     "categories": "AI Course, AI Assistant, AI Lesson Plan Generator, AI Quizzes, AI Language Learning",
     "slug": "breni",
     "created_at": "14:12:48 07/09/2025"
+  },
+  {
+    "title": "CodingPlanX",
+    "name": "CodingPlanX AI",
+    "description": "A unified AI gateway providing access to 600+ models with one API key.",
+    "website": "https://codingplanx.ai",
+    "categories": "AI API, AI Models, AI Developer Tools, Large Language Models (LLMs)",
+    "slug": "codingplanx-ai",
+    "created_at": "14:43:57 03/27/2026"
   },
   {
     "title": "Bosily",
