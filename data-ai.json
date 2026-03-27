@@ -4743,6 +4743,15 @@
     "created_at": "14:12:51 06/18/2025"
   },
   {
+    "title": "kinovi - Seedance 2.0 - Real Man AI Video",
+    "name": "kinovi - Seedance 2.0 - Real Man AI Video",
+    "description": "Kinovi is a free AI video generator powered by Seedance 2.0. Supports real man, text to video, image to video. No watermark, commercial use allowed.",
+    "website": "https://kinovi.ai",
+    "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Animated Video, AI Animation Generator, AI Cartoon Video Generator, AI Commercial Generator, AI Movie Generator, AI Stock Video Generator, Image to Video, Text to Video, Video to Video",
+    "slug": "kinovi-seedance-2-0-real-man-ai-video",
+    "created_at": "03:45:46 03/27/2026"
+  },
+  {
     "title": "IndieGTM",
     "name": "IndieGTM",
     "description": "Daily marketing operating system for video-first campaigns.",
@@ -8737,6 +8746,15 @@
     "categories": "AI Content Generator, AI Social Media Assistant, AI Response Generator, AI Advertising Assistant, AI Ad Generator",
     "slug": "post-genius",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Fruit",
+    "name": "ai fruit",
+    "description": "AI-powered generator for viral talking fruit videos and expressive vegetable character animations.",
+    "website": "https://www.aifruit.net",
+    "categories": "AI Video Generator, AI Image Generator, AI Tiktok Video Generator, AI Story Generator, AI Character",
+    "slug": "ai-fruit",
+    "created_at": "03:45:46 03/27/2026"
   },
   {
     "title": "WhatsApp CRM",
@@ -14697,6 +14715,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Face ID Search",
+    "name": "Face ID Search",
+    "description": "Reverse face search engine for social media, dating apps, and public records.",
+    "website": "https://www.faceidsearch.com",
+    "categories": "AI Face Recognition, AI Search Engine",
+    "slug": "face-id-search",
+    "created_at": "03:45:46 03/27/2026"
+  },
+  {
     "title": "yesTool AI",
     "name": "yesTool AI",
     "description": "All-in-one AI platform for video, image, and music generation.",
@@ -17845,6 +17872,15 @@
     "categories": "AI Interior Design, AI Design Generator, AI Room Planner, Text to Image, Image to Image",
     "slug": "home-design-ai",
     "created_at": "02:18:10 09/18/2025"
+  },
+  {
+    "title": "Uni-1 AI Image Generator",
+    "name": "Uni-1 AI - one",
+    "description": "A reasoning-powered AI generator for high-resolution images with legible text and spatial accuracy.",
+    "website": "https://www.uni-one.ai",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Sketch Generator, AI Anime Generator, AI Manga Generator",
+    "slug": "uni-1-ai-one",
+    "created_at": "03:45:46 03/27/2026"
   },
   {
     "title": "Contral",
@@ -21093,6 +21129,15 @@
     "categories": "AI Recruiting",
     "slug": "apply",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Decksy",
+    "name": "Decksy",
+    "description": "AI presentation maker that creates researched, professional slides from topics, text, or uploaded documents.",
+    "website": "https://decksy.com",
+    "categories": "AI Presentation Generator, AI PPT Maker, AI Productivity Tools",
+    "slug": "decksy",
+    "created_at": "03:45:46 03/27/2026"
   },
   {
     "title": "Chat With Media",
@@ -37265,6 +37310,15 @@
     "categories": "AI Rewriter, AI Advertising Assistant, Copywriting",
     "slug": "golden-chat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Springbase",
+    "name": "Springbase",
+    "description": "Springbase.ai is a unified AI workspace that replaces multiple subscriptions by consolidating top-tier models like GPT-5.4, Claude Opus, and Gemini into one platform. It functions as an autonomous command center featuring intelligent agents with 1,000+ app integrations, RAG-powered knowledge bases, and meeting transcribing. By combining the power of ChatGPT, Claude, Zapier, and Otter.ai into a single ecosystem, Springbase provides a high-performance solution for the price of a single subscription.",
+    "website": "https://springbase.ai",
+    "categories": "AI Productivity Tools, AI Agent, AI Assistant, AI Meeting Assistant",
+    "slug": "springbase",
+    "created_at": "03:45:46 03/27/2026"
   },
   {
     "title": "AI Video Translator",
