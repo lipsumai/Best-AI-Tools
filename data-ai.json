@@ -10836,6 +10836,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "MeetAssist",
+    "name": "MeetAssist",
+    "description": "Real-time AI interview assistant with phone sync for discrete suggestions and coding help.",
+    "website": "https://meetassist.io",
+    "categories": "AI Interview Assistant, AI Meeting Assistant, AI Response Generator, AI Code Assistant, AI Transcription",
+    "slug": "meetassist",
+    "created_at": "14:24:43 03/28/2026"
+  },
+  {
     "title": "Rewarx Studio - AI Product Photography & Virtual Studio",
     "name": "Rewarx Studio - AI Product Photography & Virtual Studio",
     "description": "RewarxStudio is a high-performance AI photography studio for products. Instantly transform raw snapshots into professional 4K commercial assets with AI lighting, cinematic video, and automated batch production for E-commerce.",
@@ -18583,6 +18592,15 @@
     "categories": "AI Content Generator, Copywriting, Writing Assistants, AI Social Media Assistant, General Writing",
     "slug": "artificial-intelligence-tools",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Apex",
+    "name": "Apex -1",
+    "description": "Apex is a personal AI agent that runs 24/7 on a dedicated server — handling email, automations, and business operations without you having to ask. Not a chatbot. Infrastructure.",
+    "website": "https://apex.host",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Email Assistant, AI Task Management",
+    "slug": "apex-1",
+    "created_at": "14:24:43 03/28/2026"
   },
   {
     "title": "AI Video Narration",
@@ -31040,6 +31058,15 @@
     "created_at": "14:12:49 07/03/2025"
   },
   {
+    "title": "MAI-Image-2",
+    "name": "MAI Image 2",
+    "description": "Frontier AI image generator specializing in photorealism, legible text, and professional marketing layouts.",
+    "website": "https://mai-image2.com",
+    "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, AI Infographic Generator, AI API",
+    "slug": "mai-image-2",
+    "created_at": "14:24:43 03/28/2026"
+  },
+  {
     "title": "Typiq",
     "name": "Typiq",
     "description": "AI tool for generating font pairings and type scales.",
@@ -32288,6 +32315,15 @@
     "categories": "AI Chatbot, AI Knowledge Base, AI Newsletter, AI Chat Generator",
     "slug": "bookshelf-turn-newsletters-into-gpts",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "Carly AI",
+    "name": "Carly AI",
+    "description": "AI assistant for email, scheduling, and CRM automation reachable via email and SMS.",
+    "website": "https://www.usecarly.com",
+    "categories": "AI Agent, AI Assistant, AI Email Assistant, AI Scheduling, AI Workflow, AI CRM",
+    "slug": "carly-ai",
+    "created_at": "14:24:43 03/28/2026"
   },
   {
     "title": "Nora",
