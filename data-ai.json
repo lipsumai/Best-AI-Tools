@@ -14409,6 +14409,15 @@
     "created_at": "14:13:14 10/29/2025"
   },
   {
+    "title": "AdsCreator",
+    "name": "AdsCreator.com",
+    "description": "AI tool that turns website URLs into on-brand ad creatives for social media.",
+    "website": "https://www.adscreator.com",
+    "categories": "AI Ad Generator, AI Ad Creative, AI Advertising, AI Marketing",
+    "slug": "adscreator-com",
+    "created_at": "03:55:20 03/30/2026"
+  },
+  {
     "title": "Image3D AI",
     "name": "Image3D AI",
     "description": "The #1 AI Image to 3D & STL Converter. Instantly turn any 2D image or multi-view photo into high-quality 3D models (STL, OBJ, GLB). Powered by the advanced Hunyuan 3D engine.",
@@ -15109,6 +15118,15 @@
     "categories": "Sports",
     "slug": "nerdytips",
     "created_at": "14:11:41 04/17/2025"
+  },
+  {
+    "title": "Corebee",
+    "name": "Corebee",
+    "description": "AI-powered customer support platform that executes real actions - refunds, orders, shipping. not just answers. $99/mo flat,unlimited. 32+ integrations, governed AI with full audit trail.",
+    "website": "https://corebee.ai",
+    "categories": "AI Customer Service, AI Chatbot",
+    "slug": "corebee",
+    "created_at": "03:55:20 03/30/2026"
   },
   {
     "title": "Tendem AI",
@@ -21680,6 +21698,15 @@
     "created_at": "14:16:01 01/06/2026"
   },
   {
+    "title": "AI Fruit",
+    "name": "AI Fruit - 1",
+    "description": "AI generator for viral fruit-eating-fruit ASMR videos for social media platforms.",
+    "website": "https://aifruit.app",
+    "categories": "AI Video Generator, AI Short Video Generator, Text to Video, AI Tiktok Video Generator, Image to Video",
+    "slug": "ai-fruit-1",
+    "created_at": "03:55:20 03/30/2026"
+  },
+  {
     "title": "IPPeak",
     "name": "IPPeak",
     "description": "Fast, reliable residential and ISP proxy service for global data access.",
@@ -23894,6 +23921,15 @@
     "created_at": "03:31:21 02/24/2026"
   },
   {
+    "title": "TimelessHome.AI",
+    "name": "TimelessHome.AI",
+    "description": "AI-powered interior redesign and virtual staging platform where every product in every design is real, priced, and shoppable from major online retailers.",
+    "website": "https://timelesshome.ai",
+    "categories": "AI Interior Design, AI Kitchen Design",
+    "slug": "timelesshome-ai",
+    "created_at": "03:55:20 03/30/2026"
+  },
+  {
     "title": "BloomNote",
     "name": "BloomNote",
     "description": "An AI tool for efficient and personalized learning.",
@@ -24639,6 +24675,15 @@
     "categories": "AI Agent, AI Chatbot, No-Code&Low-Code, AI Assistant, AI Copilot",
     "slug": "clawdeploy-ai",
     "created_at": "14:36:33 02/16/2026"
+  },
+  {
+    "title": "DayOneJobs",
+    "name": "DayOneJobs",
+    "description": "Real-time job aggregator providing fresh, verified listings updated every minute from thousands of sources.",
+    "website": "https://www.dayonejobs.com",
+    "categories": "AI Jobs, AI Recruiting, AI Search Engine",
+    "slug": "dayonejobs",
+    "created_at": "03:55:20 03/30/2026"
   },
   {
     "title": "TMRA - The Most Ridiculous Adventure ever told",
@@ -26160,6 +26205,15 @@
     "categories": "Research Tool, Papers, Summarizer, Writing Assistants, AI Education Assistant, AI Productivity Tools, AI Notes Assistant, AI Project Management",
     "slug": "scholar-ai",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Kuli",
+    "name": "Kuli",
+    "description": "Kuli is an AI agent that watches all creator videos across Instagram, TikTok, and YouTube to discover and vet influencers based on what they actually produce. It analyzes thousands of videos in parallel, evaluating tone, topics, cultural context, and brand alignment to surface insights that would take human teams weeks to compile.",
+    "website": "https://kuli.one",
+    "categories": "AI Agent, AI Social Media, AI Marketing",
+    "slug": "kuli",
+    "created_at": "03:55:20 03/30/2026"
   },
   {
     "title": "MiniMax Agent",
@@ -30851,6 +30905,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Oniichan",
+    "name": "Oniichan",
+    "description": "Oniichan is the best free AI manga generator and anime art creator. Turn any story idea into fully illustrated manga pages with consistent characters, dynamic panel layouts, and cinematic storytelling — no drawing skills needed.",
+    "website": "https://www.oniichan.app",
+    "categories": "AI Anime Art, AI Avatar Generator, AI Colorize, AI Style Transfer, AI Waifu Generator, Image to Image, Text to Image, AI Anime Generator, AI Manga Generator",
+    "slug": "oniichan",
+    "created_at": "03:55:20 03/30/2026"
+  },
+  {
     "title": "PixaryAI",
     "name": "PixaryAI",
     "description": "AI tool for hyper-realistic virtual clothes try-on, outfit swaps, and photo dress changing.",
@@ -34585,6 +34648,15 @@
     "created_at": "14:12:35 10/09/2025"
   },
   {
+    "title": "CareerBoom AI",
+    "name": "CareerBoom AI",
+    "description": "AI-powered career toolkit for building resumes, cover letters, and tracking job applications.",
+    "website": "https://careerboom.ai",
+    "categories": "AI Resume Builder, AI Cover Letter Generator, AI Headshot Generator, AI Interview Assistant, AI Jobs",
+    "slug": "careerboom-ai",
+    "created_at": "03:55:20 03/30/2026"
+  },
+  {
     "title": "SnapVault",
     "name": "Snapvault",
     "description": "Build knowledge base with snapshots",
@@ -36304,6 +36376,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "DaVinci MagiHuman",
+    "name": "DaVinci MagiHuman",
+    "description": "Open-source AI generating lip-synced talking videos from a single photo and audio/text.",
+    "website": "https://davinci-magihuman.com",
+    "categories": "AI Avatar Video Generator, AI Video Generator, AI Lip Sync Generator, Open Source AI Models, Image to Video, Text to Video",
+    "slug": "davinci-magihuman",
+    "created_at": "03:55:20 03/30/2026"
+  },
+  {
     "title": "SEO45 AI",
     "name": "SEO45™ AI",
     "description": "Automated AI platform for daily SEO blog content creation and publishing.",
@@ -37735,6 +37816,15 @@
     "created_at": "14:18:27 08/05/2025"
   },
   {
+    "title": "AI Peeps",
+    "name": "AI Peeps",
+    "description": "Create and chat with customizable AI companions featuring advanced memory, images, and video generation.",
+    "website": "https://aipeeps.com",
+    "categories": "AI Girlfriend, AI Boyfriend, AI Roleplay, AI Character, AI Video Generator, AI Image Generator, AI Chat Generator, AI Waifu Generator",
+    "slug": "ai-peeps",
+    "created_at": "03:55:20 03/30/2026"
+  },
+  {
     "title": "Hedy AI",
     "name": "Hedy 2.0 MacOS App",
     "description": "AI tool for real-time insights in conversations and meetings.",
@@ -38066,6 +38156,15 @@
     "categories": "AI Cartoon Generator, AI Avatar Generator, AI Portrait Generator, Image to Image",
     "slug": "caricature-maker",
     "created_at": "02:56:28 07/14/2025"
+  },
+  {
+    "title": "Omni Video",
+    "name": "Omni Video",
+    "description": "OmniVideo is an all-in-one AI platform for creating videos and images using advanced models like Seedance2.0. It allows users to generate short videos from text, images, audio, and video inputs through simple workflows, making it useful for content creation, marketing, and rapid idea testing.",
+    "website": "https://omnivideo.net",
+    "categories": "AI Video Generator",
+    "slug": "omni-video",
+    "created_at": "03:55:20 03/30/2026"
   },
   {
     "title": "MyBabes.ai",
