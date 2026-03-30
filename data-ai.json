@@ -1008,6 +1008,15 @@
     "created_at": "03:06:12 02/28/2026"
   },
   {
+    "title": "Vooka",
+    "name": "Vooka",
+    "description": "AI virtual try-on tool for generating realistic on-model fashion images without photoshoots.",
+    "website": "https://vooka.app",
+    "categories": "AI Outfit Generator, AI Product Photography, Fashion AI, AI Models",
+    "slug": "vooka",
+    "created_at": "14:56:52 03/30/2026"
+  },
+  {
     "title": "Tagshop AI",
     "name": "Tagshop AI",
     "description": "AI UGC video generator for ads",
@@ -1899,6 +1908,15 @@
     "created_at": "14:38:09 03/20/2026"
   },
   {
+    "title": "MyInk.ai",
+    "name": "myink ai",
+    "description": "AI tattoo generator for creating custom designs with virtual try-on and stencil exports.",
+    "website": "https://myink.ai",
+    "categories": "AI Tattoo Generator, AI Image Generator, AI Design Generator, AI Art Generator, Text to Image",
+    "slug": "myink-ai",
+    "created_at": "14:56:52 03/30/2026"
+  },
+  {
     "title": "Codien",
     "name": "Codien",
     "description": "AI agent for migrating Protractor/Selenium tests to Playwright and writing new tests.",
@@ -2374,6 +2392,15 @@
     "categories": "Homework Helper, AI Education Assistant",
     "slug": "ai-math-gpt-solver-online-powered-by-gpt-4o-math-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Fly Labs",
+    "name": "Fly Labs",
+    "description": "Open-source hub for solo builders featuring AI-scored startup ideas and productivity tools.",
+    "website": "https://flylabs.fun",
+    "categories": "AI Business Ideas Generator, AI Prompt Generator, AI Productivity Tools, AI Assistant",
+    "slug": "fly-labs",
+    "created_at": "14:56:52 03/30/2026"
   },
   {
     "title": "Fizzly AI",
@@ -19242,6 +19269,15 @@
     "created_at": "02:58:57 08/06/2025"
   },
   {
+    "title": "Kling AI Video Generator",
+    "name": "Kling AI Video Generator",
+    "description": "AI video platform for cinematic clips with native audio and precise motion control.",
+    "website": "https://www.klingaivideo.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Animation Generator",
+    "slug": "kling-ai-video-generator",
+    "created_at": "14:56:52 03/30/2026"
+  },
+  {
     "title": "GPU Per Hour",
     "name": "GpuPerHour",
     "description": "Real-time aggregator comparing cloud GPU prices across 25+ providers for AI and ML workloads.",
@@ -20121,6 +20157,15 @@
     "categories": "AI Tools Directory, AI Image Generator, AI Video Generator, AI Music Generator, AI Art Generator, Text to Image",
     "slug": "dreamega-ai",
     "created_at": "14:13:04 11/28/2025"
+  },
+  {
+    "title": "KroniQ AI",
+    "name": "KroniQ AI",
+    "description": "An all-in-one AI marketing workspace integrating 70+ models for text, image, and video content.",
+    "website": "https://www.kroniqai.com",
+    "categories": "AI Marketing, AI Social Media Post Generator, AI Image Generator, AI Video Generator, AI Writing, AI Chatbot",
+    "slug": "kroniq-ai",
+    "created_at": "14:56:52 03/30/2026"
   },
   {
     "title": "Civitai green",
@@ -21635,6 +21680,15 @@
     "created_at": "14:56:45 03/26/2026"
   },
   {
+    "title": "HaciendaIQ",
+    "name": "Hacienda IQ",
+    "description": "AI assistant for Spanish tax queries and automated document data extraction.",
+    "website": "https://haciendaiq.com",
+    "categories": "AI Tax Assistant, AI Document Extraction, AI Accounting, AI Assistant, AI OCR",
+    "slug": "hacienda-iq",
+    "created_at": "14:56:52 03/30/2026"
+  },
+  {
     "title": "WayinVideo",
     "name": "WayinVideo",
     "description": "All-in-one AI video platform for create viral video clips.",
@@ -22749,6 +22803,15 @@
     "categories": "Other",
     "slug": "freeaikit-org",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SonificaLabs",
+    "name": "SonificaLabs",
+    "description": "AI platform for professional audio production including scripts, voices, music, and mixing.",
+    "website": "https://sonificalabs.com",
+    "categories": "AI Ad Generator, AI Podcast, AI Audio Editing, AI Voice Generator, AI Commercial Generator, AI Sound Effect Generator, AI Voice Over, AI Music Generator",
+    "slug": "sonificalabs",
+    "created_at": "14:56:52 03/30/2026"
   },
   {
     "title": "Placy AI",
@@ -28646,6 +28709,15 @@
     "created_at": "14:12:58 11/20/2025"
   },
   {
+    "title": "Maestri",
+    "name": "Maestri",
+    "description": "Infinite visual canvas for orchestrating and connecting multiple AI coding agents on macOS.",
+    "website": "https://www.themaestri.app",
+    "categories": "AI Agent, AI Developer Tools, AI Assistant, AI Productivity Tools, AI Copilot",
+    "slug": "maestri",
+    "created_at": "14:56:52 03/30/2026"
+  },
+  {
     "title": "Smart Palette",
     "name": "Smart Palette",
     "description": "AI platform for creating and ordering custom artwork and prints.",
@@ -32270,6 +32342,15 @@
     "categories": "Other",
     "slug": "iirc-if-i-recall-correctly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Neko",
+    "name": "Neko Studio",
+    "description": "AI 3D motion editor and automated Instagram manager for viral Reels and TikToks.",
+    "website": "https://myneko.studio",
+    "categories": "AI Video Editor, AI Instagram, AI Reel Generator, AI Short Video Generator, AI Caption Generator, AI Tiktok",
+    "slug": "neko-studio",
+    "created_at": "14:56:52 03/30/2026"
   },
   {
     "title": "Veozon AI Video Generator",
@@ -37366,6 +37447,15 @@
     "created_at": "14:13:10 11/21/2025"
   },
   {
+    "title": "Hooksy",
+    "name": "Hooksy",
+    "description": "All-in-one ad spy tool to discover, save, and track winning creative from 10M+ brands.",
+    "website": "https://hooksy.ai",
+    "categories": "AI Advertising, AI Ad Creative, AI Marketing, Ad Copy",
+    "slug": "hooksy",
+    "created_at": "14:56:52 03/30/2026"
+  },
+  {
     "title": "Lemon AI",
     "name": "Lemon AI",
     "description": "AI platform for transforming images and generating art.",
@@ -38012,6 +38102,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator, Writing Assistants, AI Content Generator",
     "slug": "careerswift",
     "created_at": "14:13:14 05/12/2025"
+  },
+  {
+    "title": "SuperMegaFit",
+    "name": "Supermegafit",
+    "description": "All-in-one AI health platform for fitness syncing, blood analysis, and nutrition planning.",
+    "website": "https://supermegafit.com",
+    "categories": "AI Fitness, AI Healthcare, AI For Data Analytics, AI Assistant",
+    "slug": "supermegafit",
+    "created_at": "14:56:52 03/30/2026"
   },
   {
     "title": "PhotoGov",
@@ -41405,6 +41504,15 @@
     "categories": "AI Call Center, AI Agent, AI Voice Assistants, AI Cold Calling, AI Customer Service, AI Transcription, AI Sales, AI Real Estate, AI Healthcare",
     "slug": "mena-ai-voice-launch",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "Verilian",
+    "name": "Verilian",
+    "description": "AI platform for real-time social behavior analysis and predictive trend intelligence.",
+    "website": "https://verilian.app",
+    "categories": "AI Marketing, AI Predictions, AI Investing, AI For Data Analytics, AI Social Media",
+    "slug": "verilian",
+    "created_at": "14:56:52 03/30/2026"
   },
   {
     "title": "kat dev",
