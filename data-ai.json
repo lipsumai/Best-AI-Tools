@@ -3492,6 +3492,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Topview AI",
+    "name": "TopView.ai",
+    "description": "#1 Marketing Video Agent - Turn Your Product Into Viral Videos",
+    "website": "https://www.topview.ai",
+    "categories": "AI Video Editor, AI Video Generator, AI Marketing, AI Avatar Video Generator, AI Script Writing, Script To Video AI Generator, AI Voice Over, AI Subtitle Generator, AI Short Video Generator, AI Ad Generator",
+    "slug": "topview-ai",
+    "created_at": "03:46:17 03/31/2026"
+  },
+  {
     "title": "GEMPIX2 - Free Nano Banana 2 AI Image Generator",
     "name": "GEMPIX2 - Free Nano Banana 2 AI Image Generator",
     "description": "Free AI image generator powered by Google Nano Banana 2.",
@@ -3688,6 +3697,15 @@
     "categories": "AI Script Writing, AI Writing Assistants, AI Story Generator, Script To Video AI Generator, AI Social Media",
     "slug": "creaibo",
     "created_at": "14:17:22 01/07/2026"
+  },
+  {
+    "title": "Veo 4 AI",
+    "name": "Veo4 AI",
+    "description": "Professional AI video generator for cinematic 4K content and precise motion control.",
+    "website": "https://veov4.com",
+    "categories": "AI Video Generator, Text to Video, AI Ad Generator, AI Commercial Generator",
+    "slug": "veo4-ai",
+    "created_at": "03:46:17 03/31/2026"
   },
   {
     "title": "Postify AI",
@@ -6316,6 +6334,15 @@
     "categories": "AI Face Swap Generator, AI Face Swap Video, AI API, NSFW",
     "slug": "deep-swap-ai",
     "created_at": "02:27:01 11/27/2025"
+  },
+  {
+    "title": "Sora Alternative",
+    "name": "Sora Alternative",
+    "description": "Sora Alternative is an AI video generation platform designed to provide easy access to tools similar to Sora without restrictions such as invite codes or limited availability. It allows users to create short videos from text prompts and images through simple workflows, making AI video creation more accessible to a wider audience.  The platform focuses on usability, offering fast generation, multiple model options, and fewer barriers to entry compared to closed systems. It is suitable for content creators, marketers, and developers who want to generate AI videos for social media, marketing, and creative projects without complex setup.",
+    "website": "https://soraalternative.com",
+    "categories": "AI Video Generator, AI Image Description Generator, AI Image Generator, Text to Image, AI Music Video Generator",
+    "slug": "sora-alternative",
+    "created_at": "03:46:17 03/31/2026"
   },
   {
     "title": "Daetama",
@@ -17388,6 +17415,15 @@
     "created_at": "14:12:41 01/11/2026"
   },
   {
+    "title": "Linked Helper – The Safest and Most Powerful LinkedIn Automation Tool",
+    "name": "Linked Helper – The Safest and Most Powerful LinkedIn Automation Tool",
+    "description": "Trusted by over 500,000 users with nearly 10 years of market leadership, Linked Helper is the most advanced and secure desktop-based solution for LinkedIn lead generation. Backed by hundreds of 5-star reviews on Trustpilot, G2, and Capterra, our platform provides a reliable, professional-grade environment for sales teams, recruiters, and agencies to scale their outreach without risking their accounts.",
+    "website": "https://www.linkedhelper.com",
+    "categories": "AI Lead Generation, AI Message Generator",
+    "slug": "linked-helper-the-safest-and-most-powerful-linkedin-automation-tool",
+    "created_at": "03:46:17 03/31/2026"
+  },
+  {
     "title": "NanoPic AI",
     "name": "Nano Pic AI",
     "description": "Advanced AI platform for high-quality image and video generation.",
@@ -27069,6 +27105,15 @@
     "categories": "Other",
     "slug": "receipts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ribbi",
+    "name": "Ribbi AI",
+    "description": "Self-evolving AI creative agent for multi-modal content generation through natural conversation.",
+    "website": "https://ribbi.ai",
+    "categories": "AI Agent, AI Image Generator, AI Video Generator, AI Social Media, AI Song Generator, AI Dubbing, AI Song Cover",
+    "slug": "ribbi-ai",
+    "created_at": "03:46:17 03/31/2026"
   },
   {
     "title": "PXZ AI",
@@ -37553,6 +37598,15 @@
     "categories": "AI Speech-to-Text, AI Transcription, Audio To Text AI, AI Transcriber, Open Source AI Models",
     "slug": "openwispr",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "Nano Banana",
+    "name": "Nanobanana-ai",
+    "description": "AI image editor and generator using natural language powered by Google Gemini.",
+    "website": "https://bananananoai.ai",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Video Generator, AI Background Remover",
+    "slug": "nanobanana-ai-1",
+    "created_at": "03:46:17 03/31/2026"
   },
   {
     "title": "Golden Chat",
