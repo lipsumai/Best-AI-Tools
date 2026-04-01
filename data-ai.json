@@ -666,6 +666,15 @@
     "created_at": "14:12:52 10/31/2025"
   },
   {
+    "title": "CreateVision AI",
+    "name": "CreateVision AI",
+    "description": "CreateVision AI is your personal creative sidekick — the friend who's amazing at photo editing and always ready to help. Whether you're a complete beginner who has never written a prompt, or someone looking to level up your AI-generated images, CreateVision AI handles the complexity for you. Just upload a reference image or pick a template, and get professional-quality results in seconds. Powered by an intelligent AI Agent that automatically selects the best model and enhances your prompts, plus 16 Legendary AI Mentors (Miyazaki, Da Vinci, Picasso, Van Gogh, and more) who craft expert prompts in their signature styles. No design skills needed — just your imagination.",
+    "website": "https://createvision.ai",
+    "categories": "AI Image Generator",
+    "slug": "createvision-ai",
+    "created_at": "03:57:58 04/01/2026"
+  },
+  {
     "title": "Vedeeo",
     "name": "Vedeeo",
     "description": "Video calling platform for showroom interaction and product experience.",
@@ -4309,6 +4318,15 @@
     "categories": "AI App Builder, No-Code&Low-Code, AI Developer Tools, AI Code Assistant, AI Agent",
     "slug": "fractal",
     "created_at": "03:30:34 03/24/2026"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0",
+    "description": "AI video generator for cinematic 2K videos with native audio and physics-based motion.",
+    "website": "https://aiseedance2.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "seedance-2-0-create-cinematic-videos-online",
+    "created_at": "03:57:58 04/01/2026"
   },
   {
     "title": "FullReviews",
@@ -28808,6 +28826,15 @@
     "created_at": "14:16:01 01/06/2026"
   },
   {
+    "title": "BidHelm",
+    "name": "BidHelm",
+    "description": "The Autonomous AI Marketing Agent",
+    "website": "https://bidhelm.com",
+    "categories": "Google Ads AI, AI Advertising, AI Digital Marketing, AI Marketing",
+    "slug": "bidhelm",
+    "created_at": "03:57:58 04/01/2026"
+  },
+  {
     "title": "MuAPI",
     "name": "MuAPI",
     "description": "AI Image/Video API platform for rapid generation.",
@@ -32461,6 +32488,15 @@
     "created_at": "14:13:05 10/14/2025"
   },
   {
+    "title": "Pineify - Pine Script AI & Finance AI Agent",
+    "name": "Pineify - Pine Script AI & Finance AI Agent",
+    "description": "The ultimate AI Pine Script generator and coding agent for TradingView. Create profitable trading indicators and strategies in minutes with zero coding required.",
+    "website": "https://pineify.app",
+    "categories": "AI For Finance, AI Code Assistant, AI Code Generator, No-Code&Low-Code",
+    "slug": "pineify-pine-script-ai-finance-ai-agent",
+    "created_at": "03:57:58 04/01/2026"
+  },
+  {
     "title": "Bryckel",
     "name": "Bryckel",
     "description": "AI lease abstraction software for real estate efficiency.",
@@ -32468,6 +32504,15 @@
     "categories": "AI Document Extraction, AI Contract Management, AI Documents Assistant, Writing Assistants, AI Productivity Tools",
     "slug": "bryckel",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "Chatr AI",
+    "name": "Chatr AI",
+    "description": "AI platform for immersive fantasy roleplay and custom character creation.",
+    "website": "https://thechatr.ai",
+    "categories": "AI Character, AI Chatbot, AI Roleplay, AI Girlfriend",
+    "slug": "chatr-ai",
+    "created_at": "03:57:58 04/01/2026"
   },
   {
     "title": "Verdent AI",
@@ -36916,6 +36961,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "KeepClaw",
+    "name": "KeepClaw",
+    "description": "24/7 personal AI agent hosting with zero setup, multi-model access, and platform integrations.",
+    "website": "https://keepclaw.ai",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Code Assistant, AI Summarizer, AI Email Assistant, AI Meeting Assistant",
+    "slug": "keepclaw",
+    "created_at": "03:57:58 04/01/2026"
+  },
+  {
     "title": "Higgsfield",
     "name": "Higgsfield",
     "description": "AI platform for cinematic video generation and dynamic camera control.",
@@ -41326,6 +41380,15 @@
     "created_at": "14:09:56 09/20/2025"
   },
   {
+    "title": "Claw Code",
+    "name": "Claw Code",
+    "description": "Open-source Python/Rust rewrite of the Claude Code AI agent framework.",
+    "website": "https://claw-code.codes",
+    "categories": "AI Agent, AI Code Assistant, AI Developer Tools, AI Copilot",
+    "slug": "claw-code",
+    "created_at": "03:57:58 04/01/2026"
+  },
+  {
     "title": "Free video face swap - NovaImg AI",
     "name": "Free video face swap - NovaImg AI",
     "description": "Free online AI tool for realistic video face swaps.",
@@ -41738,6 +41801,15 @@
     "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Agent, AI Code Generator, AI SEO Tools",
     "slug": "atoms",
     "created_at": "03:33:32 02/18/2026"
+  },
+  {
+    "title": "Grok Imagine",
+    "name": "Imagine Grok",
+    "description": "AI image and video generator with multi-modal inputs and unfiltered creative freedom.",
+    "website": "https://imagine-grok.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, AI Video Enhancer",
+    "slug": "imagine-grok",
+    "created_at": "03:57:58 04/01/2026"
   },
   {
     "title": "Music AI Studio",
