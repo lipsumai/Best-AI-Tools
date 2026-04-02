@@ -7479,6 +7479,15 @@
     "created_at": "02:43:46 12/02/2025"
   },
   {
+    "title": "SEOZilla",
+    "name": "SEOZilla",
+    "description": "SEOZilla.ai is an AI SEO and GEO content automation platform that writes quality articles ranking on Google and found on ChatGPT. Specialised AI agents produce human-verified, AI-detection-resistant content 24/7, then syndicate it across social channels to build EEAT and brand authority. Built for agencies and SaaS teams scaling organic search without scaling headcount.",
+    "website": "https://www.seozilla.ai",
+    "categories": "SEO Writing AI, AI SEO Tools",
+    "slug": "seozilla",
+    "created_at": "14:48:34 04/02/2026"
+  },
+  {
     "title": "ChatWise",
     "name": "ChatWise",
     "description": "Versatile AI chatbot supporting multiple models for quick interactions.",
@@ -28151,6 +28160,15 @@
     "created_at": "02:55:29 01/16/2026"
   },
   {
+    "title": "VEO 3 Video Generator",
+    "name": "Veo 3 Video Generator - 1",
+    "description": "AI generator for high-quality 8-second cinematic videos with integrated native audio and lip-syncing.",
+    "website": "https://www-veo3.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator",
+    "slug": "veo-3-video-generator-1",
+    "created_at": "14:48:34 04/02/2026"
+  },
+  {
     "title": "Apptrop",
     "name": "Apptrop",
     "description": "Free cloud business suite with 50+ specialized tools.",
@@ -31443,6 +31461,15 @@
     "categories": "Cover Letter Generator, AI Notes Assistant",
     "slug": "cover-letter-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "TinyMusic",
+    "name": "Tiny Music",
+    "description": "AI music generator for creating royalty-free tracks for videos, games, and podcasts.",
+    "website": "https://tinymusic.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Song Cover",
+    "slug": "tiny-music",
+    "created_at": "14:48:34 04/02/2026"
   },
   {
     "title": "Tianfu Agent",
