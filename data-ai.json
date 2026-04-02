@@ -10791,6 +10791,15 @@
     "created_at": "02:26:46 09/28/2025"
   },
   {
+    "title": "Musikalis AI",
+    "name": "Musikalis AI",
+    "description": "AI music generator creating original songs and royalty-free soundtracks from text prompts.",
+    "website": "https://musikalis.com",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Instrumental Generator, AI Vocal Remover, AI Rap Generator, AI Midi Generator",
+    "slug": "musikalis-ai",
+    "created_at": "03:39:18 04/02/2026"
+  },
+  {
     "title": "Draft.co",
     "name": "Draft.co",
     "description": "On-demand content writing service with vetted human writers and AI tools.",
@@ -11707,6 +11716,15 @@
     "categories": "AI Chatbot, AI Assistant, No-Code&Low-Code, AI Agent",
     "slug": "clawgo",
     "created_at": "14:30:56 03/06/2026"
+  },
+  {
+    "title": "Muse Art AI",
+    "name": "Muse Art AI",
+    "description": "All-in-one multi-model AI platform for generating professional images, videos, and music.",
+    "website": "https://www.museartai.com",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, AI Music Generator",
+    "slug": "muse-art-ai",
+    "created_at": "03:39:18 04/02/2026"
   },
   {
     "title": "TwainGPT",
@@ -23561,6 +23579,15 @@
     "created_at": "14:12:58 09/15/2025"
   },
   {
+    "title": "Call Flow",
+    "name": "Call Flow",
+    "description": "AI role-play training platform for sales and support teams to practice calls safely.",
+    "website": "https://callflow.dev",
+    "categories": "AI Call Center, AI Sales, AI Customer Service, AI Roleplay, AI Coaching",
+    "slug": "call-flow",
+    "created_at": "03:39:18 04/02/2026"
+  },
+  {
     "title": "ScaleSuggest",
     "name": "ScaleSuggest",
     "description": "SEO strategy for brand visibility",
@@ -28853,6 +28880,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "Musid AI",
+    "name": "Musid AI",
+    "description": "AI-powered music video generator with automatic lip-sync and beat-matched visuals.",
+    "website": "https://musid.ai",
+    "categories": "AI Music Video Generator, AI Video Generator, AI Music Generator, AI Image Generator, AI Lyrics Generator",
+    "slug": "musid-ai",
+    "created_at": "03:39:18 04/02/2026"
+  },
+  {
     "title": "Revise",
     "name": "Revise",
     "description": "AI writing and grammar assistant that preserves your authentic voice.",
@@ -29706,6 +29742,15 @@
     "categories": "AI Chatbot, AI Code Assistant, AI Developer Tools, AI Code Generator, AI API",
     "slug": "gpt-5-ai",
     "created_at": "02:53:42 07/24/2025"
+  },
+  {
+    "title": "Wan 2.7",
+    "name": "Wan 2.7",
+    "description": "Wan 2.7 is a powerful all-in-one AI platform that serves as both an advanced image generator and a controllable video generator & editor. It delivers high-quality images and videos with precise creative control in a single workflow.",
+    "website": "https://wan27.org",
+    "categories": "AI Video Generator, AI Image Description Generator, AI Image Enhancer, AI Image Generator, AI Realistic Image Generator, Image to Image, Text to Image, AI Video Editor, AI Video Enhancer, AI Video Upscaler",
+    "slug": "wan-2-7",
+    "created_at": "03:39:18 04/02/2026"
   },
   {
     "title": "Airbrush Studio",
@@ -36061,6 +36106,15 @@
     "created_at": "14:12:09 10/21/2025"
   },
   {
+    "title": "DramaPixel",
+    "name": "DramaPixel",
+    "description": "An all-in-one AI workspace for generating images, videos, and music from text and references.",
+    "website": "https://dramapixel.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Music Generator, Image to Video, Text to Video",
+    "slug": "dramapixel",
+    "created_at": "03:39:18 04/02/2026"
+  },
+  {
     "title": "GenPPT AI",
     "name": "GenPPT AI",
     "description": "AI-powered presentation maker that generates, beautifies, and enhances professional PPT slides instantly.",
@@ -38156,6 +38210,15 @@
     "categories": "AI SEO Tools, AI Search Engine, Large Language Models (LLMs), SEO Writing AI, AI Marketing",
     "slug": "whiterank",
     "created_at": "14:14:16 12/19/2025"
+  },
+  {
+    "title": "MyClaw.ai",
+    "name": "MyClaw",
+    "description": "Managed cloud hosting for OpenClaw, offering one-click deployment of a 24/7 private AI assistant.",
+    "website": "https://myclaw.ai",
+    "categories": "AI Assistant, AI Agent, Open Source AI Models, AI Productivity Tools, AI Copilot",
+    "slug": "myclaw",
+    "created_at": "03:39:18 04/02/2026"
   },
   {
     "title": "SaaSQuiver",
