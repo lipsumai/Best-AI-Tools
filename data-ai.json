@@ -7749,6 +7749,15 @@
     "created_at": "02:46:12 12/08/2025"
   },
   {
+    "title": "Wan 2.7 AI",
+    "name": "Wan 2.7 AI - 4K",
+    "description": "4K AI video generator with 30-second clips and native lip-synced audio.",
+    "website": "https://wantvideo.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Anime Generator, AI Video Editor",
+    "slug": "wan-2-7-ai-4k",
+    "created_at": "03:41:24 04/03/2026"
+  },
+  {
     "title": "LessonPlanGenerator",
     "name": "Lesson Plan Generator",
     "description": "AI tool generating standards-aligned, differentiated lesson plans in under 60 seconds.",
@@ -9747,6 +9756,15 @@
     "created_at": "14:15:43 07/31/2025"
   },
   {
+    "title": "PodShrink",
+    "name": "PodShrink",
+    "description": "PodShrink is an AI-powered podcast summarizer that transforms full-length podcast episodes into concise, narrated audio summaries you can listen to on the go.",
+    "website": "https://podshrink.com",
+    "categories": "AI Podcast, AI Podcast Clip Generator, AI Speech-to-Text, AI Transcriber, AI Transcription, AI Productivity Tools, AI Research Tool",
+    "slug": "podshrink",
+    "created_at": "03:41:24 04/03/2026"
+  },
+  {
     "title": "StreamGen",
     "name": "StreamGen",
     "description": "Turn your Twitch streams into viral TikTok clips. 10x faster.",
@@ -10258,6 +10276,15 @@
     "categories": "AI Photo Editor, AI Image Generator, AI Art Generator, Text to Image, AI Background Remover, AI Inpainting, AI Drawing",
     "slug": "nano-banana-2",
     "created_at": "14:12:01 08/29/2025"
+  },
+  {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0 - visualgpt",
+    "description": "Seedance 2.0 is one of the most powerful AI video generation models in the world—now available on VisualGPT.",
+    "website": "https://visualgpt.io",
+    "categories": "AI Video Generator, AI Animated Video, AI Short Video Generator, AI Tiktok Video Generator, AI Video Editor, AI Video Enhancer, AI Video Upscaler, Image to Video, Text to Video, Video to Video",
+    "slug": "seedance-2-0-visualgpt",
+    "created_at": "03:41:24 04/03/2026"
   },
   {
     "title": "Linux Helper",
@@ -17919,6 +17946,15 @@
     "created_at": "03:03:45 12/01/2025"
   },
   {
+    "title": "Seedance AI",
+    "name": "Seedance Ai - 2",
+    "description": "Multimodal AI video generator with native synced audio and character consistency.",
+    "website": "https://seedanceai.com",
+    "categories": "AI Video Generator, AI Animation Generator, AI Movie Generator, AI Short Video Generator, AI Music Video Generator, AI Lip Sync Generator, Text to Video, Image to Video, AI Commercial Generator, AI Social Media, AI Character",
+    "slug": "seedance-ai-2",
+    "created_at": "03:41:24 04/03/2026"
+  },
+  {
     "title": "Seekario",
     "name": "Seekario",
     "description": "An all-in-one AI platform for your entire job search. Build and tailor resumes, write personalized cover letters and KSC documents, practice for interviews, and create an optimized LinkedIn profile to land your next role.",
@@ -20481,6 +20517,15 @@
     "categories": "AI Agent, No-Code&Low-Code, AI Workflow, AI Productivity Tools, AI Assistant",
     "slug": "dabe-agents",
     "created_at": "02:28:34 08/19/2025"
+  },
+  {
+    "title": "Kreat3D",
+    "name": "Kreat3D - AI  3D Model Creation Platform",
+    "description": "AI platform transforming text and images into high-quality 3D models fast.",
+    "website": "https://kreat3d.io",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D, AI Design Generator",
+    "slug": "kreat3d-ai-3d-model-creation-platform",
+    "created_at": "03:41:24 04/03/2026"
   },
   {
     "title": "AI Product Photography",
@@ -38264,6 +38309,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator, AI Short Video Generator",
     "slug": "seedance-2-0-4",
     "created_at": "14:45:22 02/09/2026"
+  },
+  {
+    "title": "FindTourGuide",
+    "name": "FindTourGuide",
+    "description": "FindTourGuide is an AI-powered travel inquiry platform that connects travelers with trusted local tour operators.",
+    "website": "https://www.findtourguide.com",
+    "categories": "AI Travel, AI Trip Planner",
+    "slug": "findtourguide",
+    "created_at": "03:41:24 04/03/2026"
   },
   {
     "title": "Attio",
