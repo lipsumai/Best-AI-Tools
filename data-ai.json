@@ -2961,6 +2961,15 @@
     "created_at": "14:11:17 06/11/2025"
   },
   {
+    "title": "Tokenhot",
+    "name": "TokenHot",
+    "description": "Unified LLM API gateway for 100+ models with up to 90% cost savings.",
+    "website": "https://tokenhot.ai",
+    "categories": "AI API, Large Language Models (LLMs), AI Developer Tools",
+    "slug": "tokenhot",
+    "created_at": "14:37:03 04/03/2026"
+  },
+  {
     "title": "Promptist",
     "name": "Promptist",
     "description": "Promptist optimizes user input into model-preferred prompts.",
@@ -8280,6 +8289,15 @@
     "created_at": "14:10:45 07/06/2025"
   },
   {
+    "title": "Whacka",
+    "name": "Whacka",
+    "description": "Whacka helps you turn any idea into your own little app, right from your phone.",
+    "website": "https://whacka.app",
+    "categories": "No-Code&Low-Code",
+    "slug": "whacka",
+    "created_at": "14:37:03 04/03/2026"
+  },
+  {
     "title": "AI Detector",
     "name": "AI Detector - io",
     "description": "An AI detector tool that scans and highlights AI-written content.",
@@ -9439,6 +9457,15 @@
     "categories": "AI Search Engine, AI Agent, AI Research Tool, AI Lead Generation, AI Recruiting, AI Productivity Tools",
     "slug": "clado",
     "created_at": "14:12:11 05/29/2025"
+  },
+  {
+    "title": "Wan 2.7 - AI Generator & Editor",
+    "name": "Wan 2.7 - AI Generator & Editor",
+    "description": "Turn text and images into cinematic AI videos and visuals with Wan 2.7 instantly. Create high-quality content with improved realism and motion. Perfect for creators, marketers, and modern content workflows.",
+    "website": "https://wan27ai.net",
+    "categories": "AI Video Generator, AI Animated Video, AI Video Editor, Image to Video, Text to Video, Video to Video",
+    "slug": "wan-2-7-ai-generator-editor",
+    "created_at": "14:37:03 04/03/2026"
   },
   {
     "title": "Mew Design",
@@ -13428,6 +13455,15 @@
     "created_at": "14:10:26 06/04/2025"
   },
   {
+    "title": "Dageno AI",
+    "name": "Dageno AI",
+    "description": "Data-driven GEO and marketing agent platform",
+    "website": "https://dageno.ai",
+    "categories": "AI SEO Tools, AI Blog Generator, AI Marketing, AI Monitor, AI Search Engine",
+    "slug": "dageno-ai",
+    "created_at": "14:37:03 04/03/2026"
+  },
+  {
     "title": "MuseGen | AI Music Generator",
     "name": "MuseGen | AI Music Generator",
     "description": "All-in-one AI music generator creating full, rights-safe songs instantly with lyrics and vocals.",
@@ -15181,6 +15217,15 @@
     "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator",
     "slug": "open-source-flux-ai-image-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "insmelo AI Music Generator",
+    "name": "insmelo AI Music Generator",
+    "description": "AI music generator creating original, royalty-free songs from text or lyrics in seconds.",
+    "website": "https://insmelo.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Text-to-Music, AI Song Cover, AI Instrumental Generator, AI Voice Generator",
+    "slug": "insmelo-ai-music-generator",
+    "created_at": "14:37:03 04/03/2026"
   },
   {
     "title": "Telezen Dashboard",
@@ -29033,6 +29078,15 @@
     "created_at": "02:28:29 10/01/2025"
   },
   {
+    "title": "Linso",
+    "name": "Linso",
+    "description": "Linso is an AI assistant that calls you when you have an important task. Talk to create tasks, upload screenshots from WhatsApp or Wechat, and get location-based reminders when you're near the right place. Available on iPhone.",
+    "website": "https://linso.ai",
+    "categories": "AI Assistant, AI Productivity Tools, AI Schedule Maker, AI Scheduling, AI Task Management",
+    "slug": "linso",
+    "created_at": "14:37:03 04/03/2026"
+  },
+  {
     "title": "Managelify",
     "name": "Managelify",
     "description": "AI-powered platform for unified project, task, and communication management.",
@@ -30273,6 +30327,15 @@
     "categories": "AI Website Builder, No-Code&Low-Code, AI Design Generator, AI SEO Tools, AI Customer Service",
     "slug": "ucraft-next",
     "created_at": "02:44:18 06/27/2025"
+  },
+  {
+    "title": "Topular AI",
+    "name": "Topular AI",
+    "description": "Topular AI is the AI-powered property analysis tool built within the Topular platform, designed to give property owners and investors a clearer understanding of real market value beyond basic online estimates.",
+    "website": "https://topular.com",
+    "categories": "AI Predictions, AI For Data Analytics",
+    "slug": "topular-ai",
+    "created_at": "14:37:03 04/03/2026"
   },
   {
     "title": "AI Subtitle Translator",
@@ -33928,6 +33991,15 @@
     "created_at": "03:00:56 01/22/2026"
   },
   {
+    "title": "Arcloop AI",
+    "name": "Arcloop AI",
+    "description": "ARCLOOP is an AI-powered video creation agent built for anime-style storytelling and production.  You can go from idea or script to into characters, storyboards, videos, voiceover, and final edits quickly through simple conversation.",
+    "website": "https://arcloop.ai",
+    "categories": "AI Animation Generator, AI Animated Video, AI Cartoon Video Generator, AI Movie Generator, Image to Video, Script To Video AI Generator, Text to Video",
+    "slug": "arcloop-ai",
+    "created_at": "14:37:03 04/03/2026"
+  },
+  {
     "title": "Madespace",
     "name": "Madespace",
     "description": "AI-powered interior design app for everyone to design, shop, and get expert help.",
@@ -35843,6 +35915,15 @@
     "categories": "AI Reply Assistant",
     "slug": "myjournee",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Promptizy",
+    "name": "Promptizy",
+    "description": "Expert prompts for Claude, ChatGPT & 9 more — free",
+    "website": "https://www.promptizy.ai",
+    "categories": "AI Prompt Generator",
+    "slug": "promptizy",
+    "created_at": "14:37:03 04/03/2026"
   },
   {
     "title": "Biography Studio AI",
@@ -38075,6 +38156,15 @@
     "categories": "AI Sales Assistant, AI Sales, AI Coaching, AI Agent, AI Assistant",
     "slug": "nonverbia",
     "created_at": "14:12:00 09/12/2025"
+  },
+  {
+    "title": "wan2.7-image",
+    "name": "wan2.7-image",
+    "description": "Free AI image generator and editor. Create stunning images from text, enhance photos, and generate high-quality visuals instantly with Wan2.7 Image.",
+    "website": "https://wan27image.com",
+    "categories": "AI Art Generator, AI Image Generator, Text to Image",
+    "slug": "wan2-7-image",
+    "created_at": "14:37:03 04/03/2026"
   },
   {
     "title": "Product Roaster",
