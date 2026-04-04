@@ -720,6 +720,15 @@
     "created_at": "14:13:05 10/14/2025"
   },
   {
+    "title": "Lyria 3 Pro",
+    "name": "Lyria 3 Pro",
+    "description": "Google DeepMind's AI for creating full-length, high-fidelity songs from text or images.",
+    "website": "https://lyria3pro.pro",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI API, AI Text-to-Music, AI Singing Generator",
+    "slug": "lyria-3-pro",
+    "created_at": "14:26:52 04/04/2026"
+  },
+  {
     "title": "Enote",
     "name": "Enote - AI Note Notebook",
     "description": "AI-based note-taking app with custom prompts and powerful editing options.",
@@ -1006,6 +1015,15 @@
     "categories": "AI Animation Generator, Image to Video, AI Animated Video, AI Video Generator, Text to Video",
     "slug": "ai-animate-image",
     "created_at": "02:58:17 08/11/2025"
+  },
+  {
+    "title": "Ignitvio",
+    "name": "Ignitvio",
+    "description": "Ignitvio is an AI-powered answering and lead capture platform built for local and home service businesses.",
+    "website": "https://www.ignitvio.com",
+    "categories": "AI Call Center",
+    "slug": "ignitvio",
+    "created_at": "14:26:52 04/04/2026"
   },
   {
     "title": "SureThing",
@@ -4453,6 +4471,15 @@
     "categories": "Humanizer AI, AI Content Detector, AI Writing Assistants, AI Rewriter, AI Bypasser",
     "slug": "humanify-ai-detect-ai-humanize",
     "created_at": "14:12:56 06/16/2025"
+  },
+  {
+    "title": "Seedance 2.0 AI Video Generator",
+    "name": "Seedance 2.0 AI Video Generator - 1",
+    "description": "Create scroll-stopping AI videos in minutes with Seedance 2.0. Turn text or images into short cinematic clips for TikTok, Instagram Reels, YouTube Shorts, Facebook Reels, and paid social ads worldwide",
+    "website": "https://www.seedance-2.ink",
+    "categories": "AI Video Generator, AI Animation Generator, AI Avatar Video Generator, AI Cartoon Video Generator, AI Commercial Generator, AI Movie Generator, AI Short Video Generator, AI Stock Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, Image to Video, Text to Video, Video to Video",
+    "slug": "seedance-2-0-ai-video-generator-1-1",
+    "created_at": "14:26:52 04/04/2026"
   },
   {
     "title": "Caption.IM",
@@ -8251,6 +8278,15 @@
     "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Cover Generator, AI Vocal Remover, AI Beat Generator, AI Voice Changer",
     "slug": "nafy-ai",
     "created_at": "03:02:29 01/27/2026"
+  },
+  {
+    "title": "MygomSEO",
+    "name": "MygomSEO",
+    "description": "MygomSEO is an AI marketing agent that scans your site, writes SEO content, publishes it, promotes it on social - and monitors everything 24/7.",
+    "website": "https://mygomseo.com",
+    "categories": "AI SEO Tools, AI Blog Generator, AI Facebook, AI Hashtag, AI Instagram, AI Social Media, AI Social Media Post Generator, AI Tweet Generator, AI Twitter, AI Digital Marketing, AI Marketing, AI Marketing Plan Generator, SEO Writing AI, AI Chatbot, AI For Data Analytics",
+    "slug": "mygomseo",
+    "created_at": "14:26:52 04/04/2026"
   },
   {
     "title": "CuriosityXR",
@@ -12328,6 +12364,15 @@
     "categories": "AI Report Writing, AI Cover Generator, AI Pitch Deck Generator, AI Email Generator, AI Tax Assistant, AI Legal Assistant, AI Contract Review, AI Contract Management, AI Accounting, AI Web Scraping, AI Code Generator, AI Icon Generator, AI Design Generator, AI Design Assistant, AI Text-to-Speech, AI Blog Generator, Text to Image, AI Wallpaper Generator, AI Signature Generator, AI Image Enhancer, AI Avatar Generator, Prompt Engineering, AI Writing, AI Text Generator, AI Summarizer, AI Script Writing, AI Copywriting, AI Chat Generator, AI Response Generator",
     "slug": "surfsense",
     "created_at": "03:06:12 02/28/2026"
+  },
+  {
+    "title": "Nexscope",
+    "name": "Nexscope",
+    "description": "The ecommerce AI agent for Amazon, Shopify, TikTok Shop sellers and more. Automate product research, market intelligence, and competitor analysis in one place.",
+    "website": "https://www.nexscope.ai",
+    "categories": "AI Agent, AI Advertising, AI Marketing, AI Assistant, AI For Data Analytics, AI Research Tool",
+    "slug": "nexscope",
+    "created_at": "14:26:52 04/04/2026"
   },
   {
     "title": "Prospectli",
@@ -22598,6 +22643,15 @@
     "created_at": "02:24:31 09/08/2025"
   },
   {
+    "title": "Lyria 3 Pro - AI Music Generator",
+    "name": "Lyria 3 Pro - AI Music Generator",
+    "description": "Powered by Google DeepMind's most advanced AI music model. Turn text prompts, photos, or videos into studio-quality, royalty-free tracks with custom lyrics and realistic vocals in seconds.",
+    "website": "https://lyria3.pro",
+    "categories": "AI Music Generator, AI Text-to-Music, AI Music Video Generator",
+    "slug": "lyria-3-pro-ai-music-generator",
+    "created_at": "14:26:52 04/04/2026"
+  },
+  {
     "title": "grimly.ai",
     "name": "grimly.ai",
     "description": "AI security against prompt injections and jailbreaks in real-time.",
@@ -24198,6 +24252,15 @@
     "categories": "Other",
     "slug": "notehub-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedream AI",
+    "name": "Seedream",
+    "description": "Advanced AI platform for generating professional images from text prompts and reference images.",
+    "website": "https://seedream.ai",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator, AI Photo Editor",
+    "slug": "seedream",
+    "created_at": "14:26:52 04/04/2026"
   },
   {
     "title": "Preso Budget",
@@ -32326,6 +32389,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "SnapTo3D",
+    "name": "snapto3d",
+    "description": "Turn photos into custom 3D characters, interactive scenes, and 3D-printed figurines.",
+    "website": "https://www.snapto3d.dev",
+    "categories": "Image to 3D Model, AI 3D Model Generator, AI Character, AI Avatar Generator",
+    "slug": "snapto3d",
+    "created_at": "14:26:52 04/04/2026"
+  },
+  {
     "title": "Nabbed",
     "name": "Nabbed",
     "description": "A Career CRM for revenue professionals to manage job searches like a sales pipeline.",
@@ -40343,6 +40415,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Upscaler, AI Video Enhancer",
     "slug": "ray-3-ai-video",
     "created_at": "14:09:56 09/20/2025"
+  },
+  {
+    "title": "Chattee",
+    "name": "Chattee",
+    "description": "GDPR-compliant app builder with AI",
+    "website": "https://chattee.ai",
+    "categories": "AI Productivity Tools",
+    "slug": "chattee",
+    "created_at": "14:26:52 04/04/2026"
   },
   {
     "title": "Autonomy AI",
