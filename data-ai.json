@@ -9126,6 +9126,15 @@
     "created_at": "02:49:46 12/26/2025"
   },
   {
+    "title": "ClipMake.ai",
+    "name": "ClipMake.ai",
+    "description": "AI UGC video generator for creating ad creatives with 300+ AI actors. Generates ready-to-run video ads for Meta, TikTok, and YouTube in under 3 minutes. Supports 20+ languages with voice-matched dubbing, product placement in scenes, and batch generation. Plans from $39/month ($2.50/video).",
+    "website": "https://clipmake.ai",
+    "categories": "AI UGC Video Generator, Long Video To Short Video AI, AI Stock Video Generator, AI Tiktok Video Generator, AI Video Editor, AI Video Enhancer, AI Video Generator, AI Video Recording, AI Video Search, AI Video Summarizer, AI Video Upscaler, AI Vtuber, AI Youtube Video Maker, Image to Video, Script To Video AI Generator, AI Reel Generator, Text to Video, Video to Video, AI Portrait Generator, AI Selfie Generator, AI Workflow, AI Ad Creative, AI Ad Generator, AI Advertising, AI Digital Marketing, AI Marketing, AI Marketing Plan Generator, AI Sales, AI Sales Assistant, AI Short Video Generator, AI Music Video Generator, AI Product Description Generator, AI Tweet Generator, Image to Prompt, AI Facebook, AI Hashtag, AI Influencer, AI Instagram, AI Instagram Caption Generator, AI Meme Generator, AI Model Instagram, AI Social Link, AI Social Media, AI Social Media Post Generator, AI Tiktok, AI Twitter, AI Movie Generator, AI YouTube, AI Youtube Summary, AI Youtube Thumbnail Generator, Bio Link, Youtube Tags Generator, AI Animated Video, AI Animation Generator, AI Avatar Video Generator, AI Cartoon Video Generator, AI Commercial Generator, AI Face Swap Video, AI GIF Generator, AI Lip Sync Generator, Ad Copy",
+    "slug": "clipmake-ai",
+    "created_at": "14:29:07 04/05/2026"
+  },
+  {
     "title": "Runable",
     "name": "Runable",
     "description": "General automation agent for any digital task on a computer.",
@@ -11662,6 +11671,15 @@
     "categories": "AI Trip Planner, AI Travel, AI Assistant, AI Schedule Maker",
     "slug": "supertravel",
     "created_at": "03:28:13 02/05/2026"
+  },
+  {
+    "title": "MurmurCast",
+    "name": "MurmurCast",
+    "description": "AI tool summarizing YouTube, podcasts, and newsletters into a single daily email digest.",
+    "website": "https://murmurcast.com",
+    "categories": "AI Summarizer, AI Youtube Summary, AI PDF Summarizer, AI Newsletter Generator, AI Transcription, AI Podcast",
+    "slug": "murmurcast",
+    "created_at": "14:29:07 04/05/2026"
   },
   {
     "title": "Editly",
@@ -14859,6 +14877,15 @@
     "created_at": "14:12:10 05/23/2025"
   },
   {
+    "title": "EdgeDNS",
+    "name": "EdgeDNS",
+    "description": "Private domain monitoring and AI-ready DNS intelligence API.",
+    "website": "https://edgedns.dev",
+    "categories": "AI API, AI Developer Tools, AI Search Engine, AI SEO Tools",
+    "slug": "edgedns",
+    "created_at": "14:29:07 04/05/2026"
+  },
+  {
     "title": "Verbite",
     "name": "Verbite",
     "description": "AI tool for publish-ready, high-ranking SEO content.",
@@ -17541,6 +17568,15 @@
     "created_at": "14:12:41 05/14/2025"
   },
   {
+    "title": "Izbaviz",
+    "name": "Izbaviz",
+    "description": "AI interior design platform for instant room visualization and virtual staging.",
+    "website": "https://izbaviz.com",
+    "categories": "AI Interior Design, AI Room Planner, AI Design Generator, AI Image Generator, AI Background Remover",
+    "slug": "izbaviz",
+    "created_at": "14:29:07 04/05/2026"
+  },
+  {
     "title": "ImageCombiner AI",
     "name": "ImageCombiner AI",
     "description": "AI-powered tool for seamlessly merging and blending multiple images into one frame.",
@@ -17782,6 +17818,15 @@
     "categories": "AI CRM, AI Sales, AI Sales Assistant, AI Meeting Assistant",
     "slug": "clarify",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "aivideoapi",
+    "name": "AI Video API - 1",
+    "description": "Unified API for top AI video models with 50% lower costs.",
+    "website": "https://aivideoapi.ai",
+    "categories": "AI API, AI Video Generator, AI Developer Tools, AI Image Generator",
+    "slug": "ai-video-api-1",
+    "created_at": "14:29:07 04/05/2026"
   },
   {
     "title": "Numberly",
@@ -19824,6 +19869,15 @@
     "categories": "AI Course, AI Education Assistant",
     "slug": "natulang",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Lyria 3 Pro",
+    "name": "Lyria 3 Pro - 1",
+    "description": "AI music generator for creating long, custom tracks, instrumentals, and jingles from various prompts.",
+    "website": "https://lyria3-pro.com",
+    "categories": "AI Music Generator, AI Text-to-Music, AI Song Generator, AI Instrumental Generator, AI Lyrics Generator, AI Audio Enhancer",
+    "slug": "lyria-3-pro-1",
+    "created_at": "14:29:07 04/05/2026"
   },
   {
     "title": "Feeedbackr",
@@ -39074,6 +39128,15 @@
     "categories": "AI Trading Bot Assistant, Investing Assistant, Blockchain, Web3, AI Tools Directory",
     "slug": "stockbits-ai",
     "created_at": "14:12:41 05/14/2025"
+  },
+  {
+    "title": "HireMe AI (即答侠)",
+    "name": "即答侠(HireMe AI)",
+    "description": "Real-time AI interview assistant for live coaching, mock interviews, and resume optimization.",
+    "website": "https://interviewasssistant.com",
+    "categories": "AI Interview Assistant, AI Resume Builder, AI Speech Recognition, AI Coaching",
+    "slug": "即答侠-hireme-ai",
+    "created_at": "14:29:07 04/05/2026"
   },
   {
     "title": "Ask Weather",
