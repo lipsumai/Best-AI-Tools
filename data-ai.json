@@ -13095,6 +13095,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Panorama",
+    "name": "Panorama",
+    "description": "AI workplace tool that analyzes data to find and automate repetitive team workflows.",
+    "website": "https://withpanorama.com",
+    "categories": "AI Workflow, AI Agent, AI Productivity Tools, AI Assistant",
+    "slug": "panorama",
+    "created_at": "15:00:12 04/07/2026"
+  },
+  {
     "title": "Odyssea",
     "name": "ODYSSEA",
     "description": "AI game for decoding subconscious mind patterns.",
@@ -28565,6 +28574,15 @@
     "created_at": "14:13:00 11/05/2025"
   },
   {
+    "title": "Nomie",
+    "name": "Nomie",
+    "description": "An AI wellness app replacing doomscrolling with somatic tools for nervous system regulation.",
+    "website": "https://mynomie.com",
+    "categories": "AI Mental Health, AI Therapist, AI Assistant",
+    "slug": "nomie",
+    "created_at": "15:00:12 04/07/2026"
+  },
+  {
     "title": "Blueprint",
     "name": "Blueprint",
     "description": "AI-powered project management tool for IT projects.",
@@ -30482,6 +30500,15 @@
     "created_at": "14:14:09 12/08/2025"
   },
   {
+    "title": "PaprDeck",
+    "name": "PaprDeck",
+    "description": "AI-powered tool that converts notes and PDFs into study-ready flashcards instantly.",
+    "website": "https://www.paprdeck.com",
+    "categories": "AI Flashcard Maker, AI Question Generator, AI Homework Helper, AI Notes Generator",
+    "slug": "paprdeck",
+    "created_at": "15:00:12 04/07/2026"
+  },
+  {
     "title": "GeoEvident",
     "name": "GeoEvident",
     "description": "AI geolocation platform for forensic indoor and outdoor photo identification and investigative evidence.",
@@ -31004,6 +31031,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Fastlane",
+    "name": "Fastlane",
+    "description": "AI engine that remixes viral videos into short-form content for businesses and schedules them.",
+    "website": "https://usefastlane.ai",
+    "categories": "AI Short Video Generator, AI Video Generator, AI UGC Video Generator, AI Social Media Post Generator, AI Marketing, AI Tiktok Video Generator",
+    "slug": "fastlane",
+    "created_at": "15:00:12 04/07/2026"
+  },
+  {
     "title": "Instance",
     "name": "Instance",
     "description": "AI-powered app builder for iOS, Android, and web, no coding needed.",
@@ -31047,6 +31083,15 @@
     "categories": "AI Animated Video, AI Face Swap Generator, AI Avatar Video Generator, AI Face Swap Video, Image to Video",
     "slug": "a2e-free-and-uncensored-ai-videos",
     "created_at": "02:49:49 06/30/2025"
+  },
+  {
+    "title": "PayForChat",
+    "name": "PayForChat",
+    "description": "Secure WeChat-based recharge service for ChatGPT Plus and Pro subscriptions.",
+    "website": "https://payforchat.com",
+    "categories": "AI Assistant, AI Code Assistant, AI Writing Assistants, AI Tools Directory",
+    "slug": "payforchat",
+    "created_at": "15:00:12 04/07/2026"
   },
   {
     "title": "Openclaw",
@@ -34106,6 +34151,15 @@
     "categories": "AI Workflow, AI Agent, No-Code&Low-Code, AI Developer Tools",
     "slug": "n8n",
     "created_at": "02:44:18 06/27/2025"
+  },
+  {
+    "title": "AVA",
+    "name": "Your 24/7 AI Front Desk Voice Agent",
+    "description": "24/7 AI voice agent for automated call answering, lead qualification, and appointment booking.",
+    "website": "https://thanksava.com",
+    "categories": "AI Voice Generator, AI Assistant, AI Call Center, AI Customer Service, AI Scheduling, AI Agent",
+    "slug": "your-24-7-ai-front-desk-voice-agent",
+    "created_at": "15:00:12 04/07/2026"
   },
   {
     "title": "Renée Space - Your AI Friend",
