@@ -1674,6 +1674,15 @@
     "created_at": "02:43:59 07/02/2025"
   },
   {
+    "title": "Wan 2.7 AI Video Generator",
+    "name": "Wan 2.7 AI Video Generator - 1",
+    "description": "Next-generation AI platform generating cinematic 1080P videos from text or images.",
+    "website": "https://wan2-7.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Avatar Video Generator, AI Voice Generator, AI Video Editor",
+    "slug": "wan-2-7-ai-video-generator-1",
+    "created_at": "03:45:14 04/07/2026"
+  },
+  {
     "title": "Droidrun",
     "name": "Droidrun",
     "description": "Open-source platform for AI-powered mobile app automation and data extraction.",
@@ -9279,6 +9288,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Seedance 2 Pro",
+    "name": "Seedance 2 Pro",
+    "description": "Cinema-grade AI video generator with native synchronized audio and multi-modal reference support.",
+    "website": "https://seedance2.pro",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator, AI Lip Sync Generator, AI Animated Video",
+    "slug": "seedance-2-pro",
+    "created_at": "03:45:14 04/07/2026"
+  },
+  {
     "title": "WeryAI",
     "name": "WeryAI",
     "description": "Free all-in-one platform for video, image, and music generation using top AI models.",
@@ -11214,6 +11232,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Trellis 2 - 3D Model | Image to 3D Model",
+    "name": "Trellis 2 - 3D Model | Image to 3D Model",
+    "description": "AI-powered tool converting 2D images into high-quality 3D models via Microsoft's SLAT architecture.",
+    "website": "https://trellis2.app",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D",
+    "slug": "trellis-2-3d-model-image-to-3d-model",
+    "created_at": "03:45:14 04/07/2026"
+  },
+  {
     "title": "Textalyz",
     "name": "Textalyz",
     "description": "AI writing assistant for clear, confident communication in Chrome and Slack.",
@@ -11916,6 +11943,15 @@
     "created_at": "14:18:04 08/04/2025"
   },
   {
+    "title": "gptimg2.io",
+    "name": "gptimg2",
+    "description": "All-in-one AI platform for high-fidelity image and video generation and editing.",
+    "website": "https://gptimg2.io",
+    "categories": "AI Image Generator, AI Video Generator, AI Photo Editor, AI Photo Restoration, AI Prompt Generator, AI Portrait Generator, AI Infographic Generator, AI Face Swap Generator",
+    "slug": "gptimg2",
+    "created_at": "03:45:14 04/07/2026"
+  },
+  {
     "title": "Data Science Kit",
     "name": "Data Science Kit",
     "description": "On-demand data science at a fixed monthly rate.",
@@ -12087,6 +12123,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "DisVideoAI",
+    "name": "DisVideo AI",
+    "description": "AI platform for generating controlled, high-quality videos, images, and music using simple credits.",
+    "website": "https://disvideo.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Voice Generator",
+    "slug": "disvideo-ai",
+    "created_at": "03:45:14 04/07/2026"
+  },
+  {
     "title": "Key Visual",
     "name": "Key Visual",
     "description": "Creative automation tool syncing Figma designs with CMS data to auto-generate marketing content.",
@@ -12148,6 +12193,15 @@
     "categories": "AI Product Description Generator, AI Content Generator, AI Advertising Assistant",
     "slug": "product-buying-guides",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Musiv - AI Music Video Generator",
+    "name": "Musiv - AI Music Video Generator",
+    "description": "Musiv is an AI-powered music video generator. Upload your audio, and AI analyzes rhythm and mood to create storyboards and seamless video segments in minutes.",
+    "website": "https://musiv.ai",
+    "categories": "AI Music Video Generator",
+    "slug": "musiv-ai-music-video-generator",
+    "created_at": "03:45:14 04/07/2026"
   },
   {
     "title": "Website2GPT",
@@ -16225,6 +16279,15 @@
     "categories": "Large Language Models (LLMs), AI Reply Assistant, AI Chatbot, AI Response Generator, Prompt, AI Team Collaboration, AI Tools Directory",
     "slug": "yaseen-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Best API",
+    "name": "Beat API",
+    "description": "OpenAI-compatible API layer offering 25% lower costs with minimal migration efforts.",
+    "website": "https://apibest.ai",
+    "categories": "AI API, AI Developer Tools, Large Language Models (LLMs)",
+    "slug": "beat-api",
+    "created_at": "03:45:14 04/07/2026"
   },
   {
     "title": "STRATmind.AI",
@@ -32407,6 +32470,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Wan 2.7 AI Video & Image",
+    "name": "Wan 2.7 AI Video & Image",
+    "description": "Professional AI video and image generator creating cinematic content from text or images.",
+    "website": "https://aiwan27.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Prompt Generator",
+    "slug": "wan-2-7-ai-video-image",
+    "created_at": "03:45:14 04/07/2026"
+  },
+  {
     "title": "Bitchat",
     "name": "Bitchat",
     "description": "Decentralized offline messaging app by Jack Dorsey using Bluetooth mesh.",
@@ -32522,6 +32594,15 @@
     "categories": "AI Flashcard Maker, AI Quiz Generator, AI Mind Mapping, AI Quizzes, AI Homework Helper",
     "slug": "keepmind",
     "created_at": "14:12:52 07/16/2025"
+  },
+  {
+    "title": "Seedance 2.0 Video Generator",
+    "name": "Seedance 2.0 Video Generator - 1",
+    "description": "Zzo AI Video Generator brings Seedance 2.0 — ByteDance's #1-ranked AI video model — directly into a clean, no-setup web interface. Generate cinematic short videos from text prompts, reference images, or keyframe inputs, complete with synchronized audio, in seconds. No CapCut, no Dreamina account needed. Just open zzo.ai, select Seedance 2.0, and start creating.",
+    "website": "https://zzo.ai",
+    "categories": "Text to Video, Gender Swap AI, Image to Video, AI Video Generator, AI Stock Video Generator, AI Short Video Generator, AI Reel Generator, AI Movie Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, AI Animated Video, Text to Image, Object Remover AI, Image to Image, AI Yearbook, AI Background Generator, AI Watermark Remover, AI Style Transfer, AI Photo Restoration, AI Photo Enhancer, AI Photo Editor, AI Passport Photo, AI Image Upscaler, AI Image Generator, AI Image Enhancer, AI Image Combiner, AI Eraser, AI Colorize, AI Background Remover, Video to Video",
+    "slug": "seedance-2-0-video-generator-1",
+    "created_at": "03:45:14 04/07/2026"
   },
   {
     "title": "Bennu AI",
@@ -35798,6 +35879,15 @@
     "categories": "AI Web Scraping, AI Data Mining, AI Agent, AI Lead Generation, AI Recruiting",
     "slug": "clura",
     "created_at": "14:41:58 03/10/2026"
+  },
+  {
+    "title": "Healz.AI",
+    "name": "Healz.AI",
+    "description": "The Best AI Doctor.  Top choice of executives, entrepreneurs, cancer survivors.",
+    "website": "https://healz.ai",
+    "categories": "AI Healthcare",
+    "slug": "healz-ai",
+    "created_at": "03:45:14 04/07/2026"
   },
   {
     "title": "BafCloud",
