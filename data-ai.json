@@ -243,6 +243,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "Stageflow",
+    "name": "StageFlow",
+    "description": "AI mockup generator creating professional Etsy product photography and lifestyle scenes instantly.",
+    "website": "https://stageflow.ai",
+    "categories": "AI Mockup Generator, AI Product Photography, AI Image Generator, AI Image Upscaler",
+    "slug": "stageflow",
+    "created_at": "03:47:30 04/08/2026"
+  },
+  {
     "title": "TeraBox",
     "name": "TeraBox",
     "description": "Free cloud storage, file transfer, and AI content generation tools.",
@@ -9970,6 +9979,15 @@
     "categories": "AI Advertising Assistant, AI Analytics Assistant, AI Ad Generator, AI Ad Creative Assistant",
     "slug": "adlamp",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hermes Agent",
+    "name": "Hermes-Agent",
+    "description": "An open-source autonomous agent framework that grows, learns, and automates tasks across multiple platforms.",
+    "website": "https://hermes-agent.nousresearch.com",
+    "categories": "AI Agent, AI Assistant, AI Developer Tools, Open Source AI Models",
+    "slug": "hermes-agent-1",
+    "created_at": "03:47:30 04/08/2026"
   },
   {
     "title": "Magic Animator",
@@ -20654,6 +20672,15 @@
     "created_at": "02:26:35 04/29/2025"
   },
   {
+    "title": "Fylia AI",
+    "name": "Fylia AI",
+    "description": "All-in-one AI platform for high-fidelity image and video generation and editing.",
+    "website": "https://fylia.ai",
+    "categories": "AI Video Generator, AI Image Generator, Image to Video, AI Avatar Generator, AI Headshot Generator, AI Anime Generator, AI Music Video Generator, AI Photo Enhancer, AI Prompt Generator",
+    "slug": "fylia-ai",
+    "created_at": "03:47:30 04/08/2026"
+  },
+  {
     "title": "NanoBananaAPI.ai",
     "name": "NanoBananaAPI.ai",
     "description": "Affordable image generation and precise editing with the Nano Banana API—now accessible at NanoBananaAPI.ai.",
@@ -21606,6 +21633,15 @@
     "categories": "AI Presentation Generator, AI PPT Maker, AI Productivity Tools",
     "slug": "decksy",
     "created_at": "03:45:46 03/27/2026"
+  },
+  {
+    "title": "Batch Banana",
+    "name": "Batch Banana",
+    "description": "AI image generation platform for prompt variations, multi-model comparison, batch editing, and real-time collaboration.",
+    "website": "https://batchbanana.com",
+    "categories": "AI Art Generator, AI Photo Editor, AI Photo Enhancer, AI Photo Filter",
+    "slug": "batch-banana",
+    "created_at": "03:47:30 04/08/2026"
   },
   {
     "title": "Chat With Media",
@@ -24063,6 +24099,15 @@
     "categories": "AI App Builder, AI Code Generator, AI Website Builder, No-Code&Low-Code",
     "slug": "fabricate",
     "created_at": "03:31:21 02/24/2026"
+  },
+  {
+    "title": "Happy Horse",
+    "name": "Happy Horse",
+    "description": "AI video generator creating 1080p cinematic clips from text and images.",
+    "website": "https://happyhorse.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator, AI Short Video Generator, AI Animation Generator",
+    "slug": "happy-horse",
+    "created_at": "03:47:30 04/08/2026"
   },
   {
     "title": "Weavely.ai",
@@ -31715,6 +31760,15 @@
     "created_at": "14:13:13 12/24/2025"
   },
   {
+    "title": "Lyria 3 Pro",
+    "name": "lyria 3 pro - 2",
+    "description": "Professional AI music generator for studio-quality 192kHz cinematic scores and vocal songs.",
+    "website": "https://www.lyria3pro.video",
+    "categories": "AI Music Generator, AI Song Generator, AI Audio Splitter, AI API, AI Vocal Remover",
+    "slug": "lyria-3-pro-2",
+    "created_at": "03:47:30 04/08/2026"
+  },
+  {
     "title": "Seedance2 AI",
     "name": "Seedance 2-1",
     "description": "ByteDance-powered AI platform generating cinematic 1080p video content from text and images.",
@@ -32630,6 +32684,15 @@
     "categories": "AI Real Estate",
     "slug": "homesage-ai",
     "created_at": "02:51:30 06/23/2025"
+  },
+  {
+    "title": "Anijam AI",
+    "name": "Anijam AI",
+    "description": "An all-in-one AI animation agent for generating consistent characters and full-length videos.",
+    "website": "https://www.anijam.ai",
+    "categories": "AI Animation Generator, AI Agent, AI Character, AI Video Generator, AI Lip Sync Generator, AI Story Generator, AI Anime Generator",
+    "slug": "anijam-ai",
+    "created_at": "03:47:30 04/08/2026"
   },
   {
     "title": "Keepmind",
@@ -34673,6 +34736,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs), AI Voice Assistants, AI Voice Chat Generator",
     "slug": "gptchat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Flaq AI API Platform",
+    "name": "Flaq AI API Platform",
+    "description": "Unified platform and API for fast, high-quality AI image and video generation.",
+    "website": "https://flaq.ai",
+    "categories": "AI API, AI Video Generator, AI Image Generator, AI Text Generator",
+    "slug": "flaq-ai-api-platform",
+    "created_at": "03:47:30 04/08/2026"
   },
   {
     "title": "Banana Prompts",
