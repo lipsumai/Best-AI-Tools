@@ -324,6 +324,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Celavii",
+    "name": "Celavii",
+    "description": "Celavii is the first agentic creator intelligence platform. AI agents replace your entire influencer marketing stack — discover creators, analyze audiences, detect fake followers, map network connections, generate campaign content, and manage relationships from a single platform. Works from your dashboard, WhatsApp, Slack, Discord, Telegram, or email. Starting at $49/mo, no annual contracts.",
+    "website": "https://www.celavii.com",
+    "categories": "AI Affiliate Marketing, AI CRM, AI Social Media, AI API, AI Short Video Generator, Image to Video, Text to Video, Video to Video, AI Workflow, AI Influencer, AI Ad Creative, AI Advertising, AI Digital Marketing, AI Email Generator, AI Email Marketing, AI Lead Generation, AI Instagram Caption Generator, AI Hashtag, AI Caption Generator, AI Describe Image, AI Image Description Generator, AI Image Generator, AI Product Photography, AI Realistic Image Generator, Image to Image, Text to Image, Image to Prompt, AI Bio Generator, AI Music Generator, AI Text-to-Music, AI Text-to-Speech, AI Voice Cloning, AI Voice Generator, AI Photography, AI Marketing",
+    "slug": "celavii",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "Seedance 2.0 AI",
     "name": "Seedance 2.0 -8",
     "description": "Advanced AI platform for cinematic multimodal video generation and multi-shot storytelling.",
@@ -709,6 +718,15 @@
     "categories": "AI Avatar Video Generator, AI Avatar Generator, AI Video Generator, AI Lip Sync Generator",
     "slug": "avatar-2",
     "created_at": "02:44:35 12/05/2025"
+  },
+  {
+    "title": "KindredMind",
+    "name": "KindredMind",
+    "description": "When someone lives with dementia, anxiety doesn't follow a schedule. They call looking for a familiar voice, the same question over and over, at 2am, at dinner, mid-meeting. That call matters. So does the caregiver who can't always answer. KindredMind responds in the caregiver's own cloned voice, calm, familiar, present. Built in Canada by a caregiver, grounded in simulated presence therapy and Alzheimer Society of Canada guidelines. The caregiver is still there, supported and amplified.",
+    "website": "https://kindredmind.care",
+    "categories": "AI Voice Assistants, AI Voice Cloning, AI Healthcare",
+    "slug": "kindredmind",
+    "created_at": "03:55:50 04/10/2026"
   },
   {
     "title": "Drama.land",
@@ -11754,6 +11772,15 @@
     "created_at": "14:12:59 08/20/2025"
   },
   {
+    "title": "Happy Horse",
+    "name": "Happy Horse",
+    "description": "Professional AI video generator focused on high-quality cinematic motion and realism.",
+    "website": "https://www.happy-horse.net",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator, AI Animation Generator, AI Ad Generator",
+    "slug": "happy-horse-seedance-2-0-killer",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "MakeHub",
     "name": "MakeHub.ai",
     "description": "AI API load balancer for optimal performance and cost savings.",
@@ -15822,6 +15849,15 @@
     "created_at": "14:38:20 02/03/2026"
   },
   {
+    "title": "LeadFlux AI",
+    "name": "LeadFlux AI",
+    "description": "AI-powered system that builds entire lead generation funnels in under 30 minutes.",
+    "website": "https://skillotaproducts.com",
+    "categories": "AI Lead Generation, AI Marketing, AI Email Generator, AI Landing Page Builder, AI Email Marketing, AI Sales Assistant",
+    "slug": "leadflux-ai",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "Flux2 Klein AI Image Generator — Ultra-Fast Sub-Second Generation & Editing, Multi-Model Playground",
     "name": "Flux2 Klein AI Image Generator — Ultra-Fast Sub-Second Generation & Editing, Multi-Model Playground",
     "description": "Flux2 Klein AI Generator on Flux2KleinAI.com delivers ultra‑fast sub‑second text‑to‑image generation and unified image editing powered by the FLUX.2 [klein] model, enabling creators to produce high‑quality visuals with minimal latency. Our service combines flexible subscription plans and one‑time credit packs to support diverse user needs.",
@@ -17251,6 +17287,15 @@
     "categories": "AI Developer Tools, AI Code Assistant, AI Code Review, AI For Finance",
     "slug": "frugal",
     "created_at": "14:12:01 09/17/2025"
+  },
+  {
+    "title": "NanoMaker AI",
+    "name": "NanoMaker AI",
+    "description": "All-in-one AI platform for image, video, music, and audio generation.",
+    "website": "https://nanomaker.im",
+    "categories": "AI Image Generator, AI Video Generator, AI Music Generator, AI Voice Generator, AI Photo Editor, AI Headshot Generator, AI Background Remover, AI Watermark Remover, AI Age Progression, AI Anime Generator, AI Meme Generator, AI Coloring Book Generator, AI Youtube Thumbnail Generator, AI Mockup Generator",
+    "slug": "nanomaker-ai",
+    "created_at": "03:55:50 04/10/2026"
   },
   {
     "title": "Seedance Pro",
@@ -20061,6 +20106,15 @@
     "created_at": "14:12:46 10/08/2025"
   },
   {
+    "title": "Happy Horse-1.0 AI",
+    "name": "Happy Horse-1.0 AI",
+    "description": "Open-source SOTA AI video generator with native audio-video sync and fast 1080p output.",
+    "website": "https://happy-horse.art",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Lip Sync Generator, AI Voice Generator",
+    "slug": "happy-horse-1-0-ai",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "RoomLab.app",
     "name": "Roomlab",
     "description": "Professional AI tool for instant photorealistic interior design and virtual staging.",
@@ -21915,6 +21969,15 @@
     "created_at": "02:40:27 06/06/2025"
   },
   {
+    "title": "Happy Horses AI",
+    "name": "Happy Horses AI",
+    "description": "Happy Horses AI is a browser-based platform for HappyHorse 1.0 AI video generation. HappyHorse 1.0 is the #1 ranked open-source AI video model on Artificial Analysis Video Arena (Elo 1333 text-to-video, Elo 1392 image-to-video). Use HappyHorse 1.0 to turn text prompts or reference images into cinematic HD videos with natural motion and scene coherence.",
+    "website": "https://www.happyhorsesai.net",
+    "categories": "Image to Video, AI Video Editor, Text to Video, Video to Video",
+    "slug": "happy-horses-ai",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "Vidbyte",
     "name": "Vidbyte",
     "description": "AI-generated video explanations for learning complex topics.",
@@ -22578,6 +22641,15 @@
     "categories": "AI Content Generator, AI Landing Page Builder, AI SEO Assistant",
     "slug": "yourdomainsite",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SoraLum AI",
+    "name": "SoraLum AI",
+    "description": "All-in-one AI platform to generate images, turn visuals into prompts, edit photos, and create videos—fast, simple, and built for creators who want more in one workflow.",
+    "website": "https://soralum.com",
+    "categories": "AI Photo Editor, AI Tiktok Video Generator, AI Animated Video, AI Animation Generator, AI Avatar Video Generator, AI Cartoon Video Generator, AI Commercial Generator, AI Face Swap Video, AI GIF Generator, AI Lip Sync Generator, AI Movie Generator, AI Music Video Generator, AI Reel Generator, AI Short Video Generator, AI Stock Video Generator, AI UGC Video Generator, Text to Image, AI Video Editor, AI Video Enhancer, AI Video Generator, AI Video Recording, AI Video Search, AI Video Summarizer, AI Video Upscaler, AI Vtuber, AI Youtube Video Maker, Image to Video, Long Video To Short Video AI, Script To Video AI Generator, Text to Video, AI Describe Image, Text to Handwriting, AI Age Progression, AI Image Sharpening, AI Avatar Generator, AI Background Generator, AI Background Remover, AI Clothing Removal, AI Colorize, AI Cosplay Generator, AI Eraser, AI Expand Image, AI Face Swap Generator, AI Headshot Generator, AI Image Combiner, AI Image Enhancer, AI Image Generator, AI Image Upscaler, Object Remover AI, AI Outpainting, AI Passport Photo, AI Person Generator, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration, AI Product Photography, AI Realistic Image Generator, AI Style Transfer, AI Texture Generator, AI Wallpaper Generator, AI Watermark Remover, Gender Swap AI, Image to Image, Video to Video",
+    "slug": "soralum-ai",
+    "created_at": "03:55:50 04/10/2026"
   },
   {
     "title": "My Resume Hero",
@@ -24991,6 +25063,15 @@
     "created_at": "02:43:59 07/02/2025"
   },
   {
+    "title": "Virlo",
+    "name": "Nicolas Mauro",
+    "description": "AI analytics tool for tracking TikTok, Reels, and YouTube Shorts trends and competitors.",
+    "website": "https://virlo.ai",
+    "categories": "AI Social Media, AI Social Media Post Generator, AI Video Generator, AI Tiktok, AI API",
+    "slug": "nicolas-mauro",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "Sora2 AI",
     "name": "Sora2 AI",
     "description": "Advanced AI video generator with audio, physics, and HD output.",
@@ -25997,6 +26078,15 @@
     "categories": "AI Chatbot, AI Reviews Assistant, E-commerce Assistant, AI Product Description Generator",
     "slug": "chatgpt-for-shop",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Tapni - Business Card CRM",
+    "name": "Tapni - Business Card CRM",
+    "description": "Tapni is a digital business card and lead capture platform for teams that want to share smarter, capture more leads, and sync contacts directly to their CRM.",
+    "website": "https://tapni.com",
+    "categories": "AI Business Card Generator, AI QR Code Generator, AI CRM",
+    "slug": "tapni-business-card-crm",
+    "created_at": "03:55:50 04/10/2026"
   },
   {
     "title": "Calorica",
@@ -27230,6 +27320,15 @@
     "categories": "AI Forms & Surveys, Newsletter, Summarizer, Paraphraser, AI Rewriter",
     "slug": "sincero",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Palabra.ai",
+    "name": "Palabra.ai",
+    "description": "Palabra.ai is a real-time AI speech translation platform for video calls, live events, broadcasting and API integrations, supporting 60+ languages with near-zero latency.",
+    "website": "https://www.palabra.ai",
+    "categories": "AI Voice Translator, AI Translate, AI Video Translator",
+    "slug": "palabra-ai",
+    "created_at": "03:55:50 04/10/2026"
   },
   {
     "title": "MemeClip",
@@ -31408,6 +31507,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Devokr",
+    "name": "DevOKR",
+    "description": "Enterprise OKR software for strategic goal management and performance tracking.",
+    "website": "https://devokr.com",
+    "categories": "AI Project Management, AI CRM, AI Task Management, AI Productivity Tools",
+    "slug": "devokr",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "Kling 2.5",
     "name": "Kling 2.5",
     "description": "AI video generator",
@@ -32009,6 +32117,15 @@
     "categories": "AI Video Generator, AI Watermark Remover, Image to Video, AI Face Swap Video, AI Animated Video, AI Hairstyle, AI Bikini, Text to Image, AI Unblur Image, AI Background Remover, AI Photo Restoration, AI Photo Filter, AI Photo Enhancer, AI Image Generator, AI Face Swap Generator, AI Clothing Removal, Text to Video",
     "slug": "funy-ai-ai-video-ai-image-face-swap",
     "created_at": "14:12:11 05/29/2025"
+  },
+  {
+    "title": "Happy Horse",
+    "name": "Happy Horse - 6",
+    "description": "#1 AI Video Generator with Synced Audio.Built on the #1-ranked HappyHorse 1.0 model, our platform generates cinematic 1080p video with synchronized audio from text or images. Professional results in seconds with native multilingual lip-sync.",
+    "website": "https://happy-horse.me",
+    "categories": "AI Video Generator, AI Animated Video, AI Animation Generator, AI Avatar Video Generator, AI Cartoon Video Generator, AI Movie Generator, AI Short Video Generator, AI Video Editor, Image to Video, Text to Video, Video to Video",
+    "slug": "happy-horse-6",
+    "created_at": "03:55:50 04/10/2026"
   },
   {
     "title": "CanIRun.ai",
@@ -38491,6 +38608,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Trymusic AI",
+    "name": "Trymusic AI",
+    "description": "AI music generator converting lyrics and text into professional, royalty-free songs.",
+    "website": "https://trymusic.ai",
+    "categories": "AI Song Generator, AI Music Generator, AI Lyrics Generator, AI Vocal Remover, AI Audio Splitter, AI Song Cover",
+    "slug": "trymusic-ai",
+    "created_at": "03:55:50 04/10/2026"
+  },
+  {
     "title": "Asyntai",
     "name": "Asyntai",
     "description": "AI live chat support for businesses, offering instant 24/7 responses.",
@@ -39893,6 +40019,15 @@
     "categories": "AI Content Generator, AI Diagram Generator, AI Mind Mapping, AI Project Management, AI Charting",
     "slug": "edraw-software",
     "created_at": "02:22:49 04/11/2025"
+  },
+  {
+    "title": "Drop Beacon",
+    "name": "Drop Beacon",
+    "description": "Real-time drop notifications and market intelligence platform for EDC gear collectors.",
+    "website": "https://edc4me.com",
+    "categories": "Other",
+    "slug": "drop-beacon",
+    "created_at": "03:55:50 04/10/2026"
   },
   {
     "title": "Kling 3 AI",
