@@ -2790,6 +2790,15 @@
     "created_at": "03:30:34 03/24/2026"
   },
   {
+    "title": "SadHorse Studio",
+    "name": "SadHorse Studio",
+    "description": "AI video generator creating 1080p cinematic clips from text and images with synchronized audio.",
+    "website": "https://sadhorse.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator, AI Movie Generator, AI API",
+    "slug": "sadhorse-studio",
+    "created_at": "14:42:37 04/10/2026"
+  },
+  {
     "title": "VEO 3.1",
     "name": "Veo 3.1",
     "description": "Google's AI video generator for cinematic 1080p videos.",
@@ -2851,6 +2860,15 @@
     "categories": "AI Content Generator, AI Cooking Assistant, AI Recipe Assistant, AI Creative Writing",
     "slug": "ai-recipe-writer",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SBTI Test",
+    "name": "sbti test",
+    "description": "A fun, 15-dimension personality quiz with 27 unique internet-flavored types.",
+    "website": "https://sbti-test.io",
+    "categories": "AI Games, AI Chatbot, AI Life",
+    "slug": "sbti-test",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "Simplora",
@@ -3348,6 +3366,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Happy Horse AI",
+    "name": "HappyHorse.AI",
+    "description": "AI platform generating cinema-grade videos with synchronized audio from text or images.",
+    "website": "https://happyhorseai.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Anime Generator, AI Video Editor",
+    "slug": "happyhorse-ai-1",
+    "created_at": "14:42:37 04/10/2026"
+  },
+  {
     "title": "Text to Song",
     "name": "Text to Song",
     "description": "AI song generator turning text and lyrics into professional music with vocals.",
@@ -3364,6 +3391,15 @@
     "categories": "Other",
     "slug": "promptr",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Photo Editor AI",
+    "name": "Photo Editor AI",
+    "description": "An all-in-one AI photo editor for portraits, restoration, upscaling, and artistic styling.",
+    "website": "https://photo-editor-ai.io",
+    "categories": "AI Photo Editor, AI Portrait Generator, AI Photo Restoration, AI Image Upscaler, AI Image Enhancer, AI Anime Generator, AI Headshot Generator",
+    "slug": "photo-editor-ai",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "Mondial3D",
@@ -8082,6 +8118,15 @@
     "created_at": "03:09:12 01/26/2026"
   },
   {
+    "title": "SkillBoss",
+    "name": "Skillboss",
+    "description": "Unified API platform providing 700+ models and skills for AI agents.",
+    "website": "https://www.skillboss.co",
+    "categories": "AI API, AI Agent, AI Developer Tools, AI Web Scraping, AI Image Generator, AI Video Generator",
+    "slug": "skillboss",
+    "created_at": "14:42:37 04/10/2026"
+  },
+  {
     "title": "Lecturio",
     "name": "Lecturio",
     "description": "An all-in-one health education platform for medical and nursing students.",
@@ -8332,6 +8377,15 @@
     "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, AI Art Generator, AI Avatar Generator, AI Voice Generator",
     "slug": "renderflow-ai",
     "created_at": "14:13:27 11/17/2025"
+  },
+  {
+    "title": "SpeedAI",
+    "name": "SpeedAI - com",
+    "description": "The ultimate academic ally",
+    "website": "https://speedai.com",
+    "categories": "Humanizer AI, AI Detector, AI Productivity Tools, AI Presentation Generator, AI PPT Maker, AI Agent, Undetectable AI, Bypass AI, AI Plagiarism Checker, AI Content Detector, AI Paraphraser, AI Checker Essay, AI Checker, AI Bypasser, AI Writing Assistants, AI Writing, AI Text Generator, AI Report Writing, AI WORD",
+    "slug": "speedai-com",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "Morphic",
@@ -12303,6 +12357,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Floor Plan Generator",
+    "name": "AI Floor Plan Generator",
+    "description": "AI platform for generating 2D/3D floor plans and photorealistic interior/exterior designs.",
+    "website": "https://floorplan.aiai.com",
+    "categories": "AI Floor Plan Generator, AI Interior Design, AI Landscape Generator, AI Kitchen Design",
+    "slug": "ai-floor-plan-generator",
+    "created_at": "14:42:37 04/10/2026"
+  },
+  {
     "title": "DetectMy",
     "name": "DetectMy",
     "description": "Free AI detector with sentence-level checks, explanations, and no sign-up needed.",
@@ -14427,6 +14490,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "HappyHorse AI",
+    "name": "HappyHorse - 7",
+    "description": "AI video generator turning prompts and images into polished short videos.",
+    "website": "https://www.happyhorse20.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Ad Generator, AI Social Media Post Generator, AI Tools Directory",
+    "slug": "happyhorse-7",
+    "created_at": "14:42:37 04/10/2026"
+  },
+  {
     "title": "WPSummarize",
     "name": "WPSummarize",
     "description": "Automates AI summaries for WordPress blogs to enhance engagement.",
@@ -15433,6 +15505,15 @@
     "categories": "AI Marketing, AI Ad Generator, AI Social Media Post Generator, AI Email Generator",
     "slug": "holo",
     "created_at": "14:13:00 11/05/2025"
+  },
+  {
+    "title": "Lorey AI",
+    "name": "Lorey AI",
+    "description": "An immersive platform for creating and roleplaying with custom, lifelike AI characters.",
+    "website": "https://lorey.ai",
+    "categories": "AI Roleplay, AI Character, AI Girlfriend, AI Boyfriend, AI Story Generator",
+    "slug": "lorey-ai",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "Kiro",
@@ -16693,6 +16774,15 @@
     "categories": "AI Legal Assistant, AI Assistant, AI Documents Generator",
     "slug": "crux-legacy",
     "created_at": "14:13:04 11/28/2025"
+  },
+  {
+    "title": "URLtoVideo",
+    "name": "URLtoVideo",
+    "description": "URL To Video is an AI tool that converts any product URL into ready-to-publish, high-converting marketing videos in minutes.",
+    "website": "https://urltovideo.ai",
+    "categories": "AI Ad Generator, AI Productivity Tools",
+    "slug": "urltovideo",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "MyClaw.Host",
@@ -29023,6 +29113,15 @@
     "created_at": "14:12:02 10/20/2025"
   },
   {
+    "title": "HappyHorse AI",
+    "name": "HappyHorse AI - 8",
+    "description": "AI video generator creating 1080p cinematic videos with native audio and lip-sync.",
+    "website": "https://happyhorseai.video",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Movie Generator, AI Music Video Generator",
+    "slug": "happyhorse-ai-8",
+    "created_at": "14:42:37 04/10/2026"
+  },
+  {
     "title": "FlipHTML5 AI Ebook Generator",
     "name": "FlipHTML5 AI Ebook Generator",
     "description": "FlipHTML5 AI Ebook Generator is a free online tool that turns your ideas or uploaded files into professionally laid-out ebooks with AI-powered design, supporting 25+ book types like catalogs, magazines, and brochures.",
@@ -29957,6 +30056,15 @@
     "categories": "AI Lesson Plan Generator, AI Teachers, AI Productivity Tools",
     "slug": "lesson-plan-generator",
     "created_at": "14:52:07 02/10/2026"
+  },
+  {
+    "title": "SBTI Personality Test",
+    "name": "SBTI",
+    "description": "A 15-dimension personality test with 27 unique types and deep emotional analysis.",
+    "website": "https://sbti.fast",
+    "categories": "AI Quizzes, AI Mental Health, AI Question Generator",
+    "slug": "sbti",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "Floyo",
@@ -32243,6 +32351,15 @@
     "categories": "AI Caption Generator, AI Transcriber, AI Subtitle Generator, AI Speech-to-Text, AI Translate",
     "slug": "caption-im",
     "created_at": "03:29:01 03/17/2026"
+  },
+  {
+    "title": "AI Video Editor",
+    "name": "AI Video Editor",
+    "description": "All-in-one AI toolkit to resize, compress, and convert videos online for free.",
+    "website": "https://resize.aiai.com",
+    "categories": "AI Video Editor, AI Social Media, AI Video Enhancer",
+    "slug": "ai-video-editor",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "LandingPage AI",
@@ -34583,6 +34700,15 @@
     "categories": "AI API, AI Developer Tools, Large Language Models (LLMs)",
     "slug": "claude-code中转站api",
     "created_at": "14:43:57 03/27/2026"
+  },
+  {
+    "title": "Nut Studio",
+    "name": "Nut Studio",
+    "description": "Nut Studio lets anyone deploy a personal AI Agent on their own computer—in 3 minutes, with one click, no coding required. ✅ 3-Minute Setup — No terminal, no Docker, no config files ✅ Multi-Channel Access — Chat via Desktop App, Telegram, or Discord—your Agent, anywhere ✅ Multi-Agent Support — Create specialized Agents, each with own memory, skills, and config ✅ 100% Local & Private — Your data never leaves your machine ✅ Free to Start — Built-in API credits,30 free credits daily.",
+    "website": "https://www.nutstudio.ai",
+    "categories": "AI Agent, AI Assistant, AI Copilot, AI Tools Directory",
+    "slug": "nut-studio",
+    "created_at": "14:42:37 04/10/2026"
   },
   {
     "title": "AI Cleaner Guru",
