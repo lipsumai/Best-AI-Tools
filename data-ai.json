@@ -441,6 +441,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AIKissfiy",
+    "name": "AIKissfiy",
+    "description": "AIKissfiy is an AI-powered photo transformation tool that creates natural and expressive interactions between people from separate images, enabling engaging visual storytelling.",
+    "website": "https://aikissfiy.com",
+    "categories": "Image to Video, AI Video Generator",
+    "slug": "aikissfiy",
+    "created_at": "14:30:01 04/11/2026"
+  },
+  {
     "title": "SellShots",
     "name": "SellShots",
     "description": "AI product photography tool for creating professional e-commerce lifestyle and studio images.",
@@ -4923,6 +4932,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GMapsScraper.AI",
+    "name": "GMapsScraper.AI",
+    "description": "AI tool to scrape Google Maps business leads, emails, and phone numbers to CSV/JSON.",
+    "website": "https://gmapsscraper.ai",
+    "categories": "AI Lead Generation, AI Web Scraping, AI Digital Marketing, AI Marketing",
+    "slug": "gmapsscraper-ai",
+    "created_at": "14:30:01 04/11/2026"
+  },
+  {
     "title": "HeyBoss",
     "name": "HeyBoss",
     "description": "AI development agency for websites, apps, and games.",
@@ -5821,6 +5839,15 @@
     "categories": "AI Marketing, AI Digital Marketing, AI Advertising",
     "slug": "head-ai-alpha",
     "created_at": "14:12:10 05/23/2025"
+  },
+  {
+    "title": "HappyHorse AI",
+    "name": "HappyHorse - 9",
+    "description": "Premium AI video generator for cinematic brand films, product motion, and social media clips.",
+    "website": "https://happyhorse-ai.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor, AI Ad Generator, AI Social Media Post Generator",
+    "slug": "happyhorse-9",
+    "created_at": "14:30:01 04/11/2026"
   },
   {
     "title": "MetaMonster SEO Crawler",
@@ -13419,6 +13446,15 @@
     "created_at": "14:18:04 08/04/2025"
   },
   {
+    "title": "HappyHorse Video",
+    "name": "HappyHorse Video",
+    "description": "HappyHorseVideo is an AI video generation platform that turns text prompts and images into polished short-form videos up to 15 seconds long, with cinematic motion, strong scene consistency, and creator-friendly workflows.",
+    "website": "https://happyhorsevideo.online",
+    "categories": "AI Video Generator",
+    "slug": "happyhorse-video",
+    "created_at": "14:30:01 04/11/2026"
+  },
+  {
     "title": "supermemory™",
     "name": "supermemory™",
     "description": "Universal memory API for personalized AI experiences.",
@@ -13966,6 +14002,15 @@
     "categories": "AI Chatbot, AI Assistant, AI Knowledge Management, AI Productivity Tools",
     "slug": "memorr-ai",
     "created_at": "14:12:59 11/13/2025"
+  },
+  {
+    "title": "SymptomGPT",
+    "name": "SymptomGPT",
+    "description": "AI health tool for symptom checking and plain-English lab result analysis.",
+    "website": "https://symptomgpt.ai",
+    "categories": "AI Symptom Checker, AI Healthcare, AI Medical Diagnosis, AI Assistant",
+    "slug": "symptomgpt",
+    "created_at": "14:30:01 04/11/2026"
   },
   {
     "title": "Avatalks",
@@ -21303,6 +21348,15 @@
     "created_at": "14:14:17 12/23/2025"
   },
   {
+    "title": "Skygen",
+    "name": "Skygen",
+    "description": "AI agent that completes complex, long-running tasks like a human",
+    "website": "https://skygen.ai",
+    "categories": "AI Agent, AI Assistant, AI Copilot, AI Productivity Tools",
+    "slug": "skygen",
+    "created_at": "14:30:01 04/11/2026"
+  },
+  {
     "title": "Tako",
     "name": "Tako AI",
     "description": "AI platform for real-time, trusted data and visual knowledge cards.",
@@ -25981,6 +26035,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Happy Horse AI",
+    "name": "HappyHorse - 8",
+    "description": "Browser-based AI video generator for text, image, and reference-guided workflows.",
+    "website": "https://www.happyhorse-ai.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor, AI Video Enhancer",
+    "slug": "happyhorse-8",
+    "created_at": "14:30:01 04/11/2026"
+  },
+  {
     "title": "AI-Powered TailwindCSS Code Generator",
     "name": "TailwindGenAI",
     "description": "AI tool for generating TailwindCSS code from text prompts.",
@@ -29635,6 +29698,15 @@
     "created_at": "14:38:09 03/20/2026"
   },
   {
+    "title": "Bleeper",
+    "name": "Bleeper",
+    "description": "Best AI-powered automated profanity word detection and censoring.",
+    "website": "https://bleeper.eu",
+    "categories": "AI Video Editor, AI Audio Editing, AI Audio Splitter, AI Speech Recognition, NSFW",
+    "slug": "bleeper",
+    "created_at": "14:30:01 04/11/2026"
+  },
+  {
     "title": "Nimbalyst",
     "name": "Nimbalyst",
     "description": "Visual workspace and session manager for building with Claude Code and Codex agents.",
@@ -31649,6 +31721,15 @@
     "categories": "AI Social Media, AI Marketing, AI Assistant, AI Rewriter",
     "slug": "socialecho",
     "created_at": "14:15:00 12/29/2025"
+  },
+  {
+    "title": "GoHumanize",
+    "name": "GoHumanize",
+    "description": "AI-powered tool that transforms AI-generated text into natural, human-like writing.",
+    "website": "https://gohumanize.ai",
+    "categories": "Humanizer AI, AI Text Generator, AI Rewriter, Bypass AI, Undetectable AI, AI Writing Assistants, AI Content Detector",
+    "slug": "gohumanize",
+    "created_at": "14:30:01 04/11/2026"
   },
   {
     "title": "buzz-cut",
@@ -38390,6 +38471,15 @@
     "categories": "AI Social Media Assistant, AI Twitter Assistant",
     "slug": "buildnplay",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "OpenFate AI",
+    "name": "OpenFate AI",
+    "description": "OpenFate AI helps you understand who you are, why you struggle, and what your birth chart reveals about love, wealth, career, and your next steps.",
+    "website": "https://openfate.ai",
+    "categories": "AI Predictions, AI Dream Interpreter, AI Assistant",
+    "slug": "openfate-ai",
+    "created_at": "14:30:01 04/11/2026"
   },
   {
     "title": "Vozart AI Music & Lyrics Generator",
