@@ -18009,6 +18009,15 @@
     "created_at": "14:13:57 10/22/2025"
   },
   {
+    "title": "AI Dancing Generator",
+    "name": "AI Dancing Generator",
+    "description": "AI Dancing Generator that creates viral TikTok-style dance videos from any image. Powered by advanced motion models like Kling 3.0 and Wan 2.2, it turns photos into smooth, realistic dance clips while preserving character consistency. With an integrated AI image generator for a full text-to-image-to-video workflow, you can easily create trending, social-ready content in seconds without any editing skills.",
+    "website": "https://aidancing.io",
+    "categories": "AI Video Generator, AI Animation Generator, Text to Video, Image to Video, AI Youtube Video Maker, AI Tiktok Video Generator, AI Short Video Generator, AI Face Swap Video, AI Animated Video, AI Face Swap Generator, Text to Image, Image to Image, AI Photo Enhancer, AI Photo Editor, AI Image Generator, AI Image Enhancer, Video to Video",
+    "slug": "ai-dancing-generator",
+    "created_at": "15:09:09 04/13/2026"
+  },
+  {
     "title": "Kling O1",
     "name": "Kling O1-",
     "description": "Unified AI video model for generation and editing with director-level control.",
@@ -23614,6 +23623,15 @@
     "created_at": "02:50:01 07/12/2025"
   },
   {
+    "title": "Happy Horse AI",
+    "name": "Happy Horse AI",
+    "description": "Unified AI model generating high-quality video and audio from text or images.",
+    "website": "https://happyhorse-ai.co",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator, AI Image Generator, AI Music Generator, AI Short Video Generator, Open Source AI Models",
+    "slug": "happy-horse-ai",
+    "created_at": "15:09:09 04/13/2026"
+  },
+  {
     "title": "Tragal AI",
     "name": "Tragal",
     "description": "AI-enabled business process automation through chatbots and voice assistants.",
@@ -24881,6 +24899,15 @@
     "categories": "Other",
     "slug": "duplicatus",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Seedance 2 API - Poyo.ai",
+    "name": "Seedance 2 API - Poyo.ai",
+    "description": "Multimodal AI video generator with native audio, multi-shot storytelling, and 8+ language lip-sync.",
+    "website": "https://poyo.ai",
+    "categories": "AI API, AI Video Generator, Text to Video, Image to Video, AI Voice Generator, AI Lip Sync Generator",
+    "slug": "seedance-2-api-poyo-ai",
+    "created_at": "15:09:09 04/13/2026"
   },
   {
     "title": "Teachfloor",
@@ -33460,6 +33487,15 @@
     "created_at": "14:12:52 10/31/2025"
   },
   {
+    "title": "Katie AI",
+    "name": "Katie AI Sales Agent WorkFlow Automation",
+    "description": "AI sales agent automating ICP analysis, cold outreach, call scripts, and follow-up workflows.",
+    "website": "https://katie.chat",
+    "categories": "AI Agent, AI Sales, AI Sales Assistant, AI Email Generator, AI Lead Generation, AI Copywriting, AI Script Writing",
+    "slug": "katie-ai-sales-agent-workflow-automation",
+    "created_at": "15:09:09 04/13/2026"
+  },
+  {
     "title": "PopStory!!",
     "name": "PopStory!!",
     "description": "Create unique audiobooks with pictures for pre-reading children.",
@@ -38140,6 +38176,15 @@
     "created_at": "02:43:13 06/19/2025"
   },
   {
+    "title": "digxi studio",
+    "name": "digxi studio",
+    "description": "Transform text or images into high-fidelity 3D models instantly. Our AI-powered engine lets you generate, share within a creator community, and transition from digital assets to physical products with 3D printing.",
+    "website": "https://studio.digxipop.com",
+    "categories": "AI 3D Model Generator, AI Art Generator, Image to 3D Model, Text to 3D",
+    "slug": "digxi-studio",
+    "created_at": "15:09:09 04/13/2026"
+  },
+  {
     "title": "EVERYTHING Studios",
     "name": "EVERYTHING Studios",
     "description": "AI Powered Augmented Reality Infrastructure for the Internet",
@@ -42728,6 +42773,15 @@
     "categories": "AI Report Generator, AI Report Writing, AI Mental Health, AI Healthcare, AI Writing Assistants",
     "slug": "psynth-ai",
     "created_at": "14:12:36 08/19/2025"
+  },
+  {
+    "title": "Floto",
+    "name": "Floto",
+    "description": "AI-powered design feedback, audits, and persona testing directly inside Figma.",
+    "website": "https://floto.ai",
+    "categories": "AI Design Assistant, AI UX Design, AI Assistant, AI Research Tool",
+    "slug": "floto",
+    "created_at": "15:09:09 04/13/2026"
   },
   {
     "title": "Doclingo",
