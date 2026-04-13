@@ -1467,6 +1467,15 @@
     "created_at": "14:12:51 06/30/2025"
   },
   {
+    "title": "Tokeny",
+    "name": "Tokeny",
+    "description": "Tokeny — 你的AI全能搭子。多模型自由切换、Skill技能一键安装、MCP插件无限扩展，覆盖搜索、设计、数据分析、文档生成全场景。数据本地存储，隐私零收集，安全可控。",
+    "website": "https://tokeny.techxh.cn",
+    "categories": "AI App Builder, SQL Query Builder, AI Data Mining, AI Project Management, AI Stock Trading, AI Legal Assistant, AI Investing, AI For Finance, AI Contract Review, AI Contract Management, AI Accounting, AI Website Builder, AI Book Writing, AI Web Scraping, AI Testing, AI Github, AI Developer Tools, AI Code Review, AI Code Generator, AI Code Assistant, AI API, AI Creative Writing, AI Copywriting, AI For Data Analytics",
+    "slug": "tokeny",
+    "created_at": "04:16:30 04/13/2026"
+  },
+  {
     "title": "Callab AI",
     "name": "MENA AI-voice Launch",
     "description": "AI-powered voice agents for automated call handling.",
@@ -3859,6 +3868,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Voice Cloning",
     "slug": "ray3",
     "created_at": "14:09:56 09/20/2025"
+  },
+  {
+    "title": "HappyHorse AI",
+    "name": "HappyHorse AI - 9",
+    "description": "Free AI video and image generator for cinematic 1080p content.",
+    "website": "https://happyhorseai.art",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Animation Generator",
+    "slug": "happyhorse-ai-9",
+    "created_at": "04:16:30 04/13/2026"
   },
   {
     "title": "Progressier",
@@ -8494,6 +8512,15 @@
     "categories": "AI Question Generator, AI Quiz Generator, AI PDF, AI Youtube Summary",
     "slug": "workbookly",
     "created_at": "02:28:34 08/19/2025"
+  },
+  {
+    "title": "TeleIQ",
+    "name": "Teleiq",
+    "description": "AI-powered phone answering service for 24/7 automated customer support and appointment booking.",
+    "website": "https://teleiq.ai",
+    "categories": "AI Call Center, AI Customer Service, AI Voice Generator, AI Assistant",
+    "slug": "teleiq",
+    "created_at": "04:16:30 04/13/2026"
   },
   {
     "title": "qwen-image-edit",
@@ -15046,6 +15073,15 @@
     "categories": "AI PDF Summarizer, AI PDF",
     "slug": "pdf-summarizer",
     "created_at": "14:10:05 05/24/2025"
+  },
+  {
+    "title": "AI Marcus",
+    "name": "aiMarcus",
+    "description": "AI website builder for professional, multi-page sites in minutes.",
+    "website": "https://aimarcus.eu",
+    "categories": "AI Website Builder, AI Website Designer, AI Copywriting, AI Image Generator, AI SEO Tools",
+    "slug": "aimarcus",
+    "created_at": "04:16:30 04/13/2026"
   },
   {
     "title": "Make Movie AI",
@@ -23218,6 +23254,15 @@
     "created_at": "14:10:11 08/23/2025"
   },
   {
+    "title": "ReportRocket",
+    "name": "ReportRocket",
+    "description": "AI-powered report comments for Australian primary school teachers. Generate personalised, Australian Curriculum V9-aligned comments in seconds. Free to start.",
+    "website": "https://reportrocket.com.au",
+    "categories": "AI Teachers",
+    "slug": "reportrocket",
+    "created_at": "04:16:30 04/13/2026"
+  },
+  {
     "title": "gpt-oss playground",
     "name": "gpt-oss playground",
     "description": "Demo platform for OpenAI's open-weight models for developers.",
@@ -23531,6 +23576,15 @@
     "categories": "AI SEO Assistant, AI Content Generator",
     "slug": "content-canvas",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Chunk",
+    "name": "Chunk - 1",
+    "description": "Time Block Planner for macOS",
+    "website": "https://www.chunkapp.net",
+    "categories": "AI Productivity Tools, AI Calendar, AI Schedule Maker, AI Scheduling, AI Task Management",
+    "slug": "chunk-1",
+    "created_at": "04:16:30 04/13/2026"
   },
   {
     "title": "Enzzo AI",
@@ -23909,6 +23963,15 @@
     "categories": "AI Analytics Assistant, AI Chatbot, Life Assistant, Large Language Models (LLMs), AI Monitor & Report Builder, AI Log Management, AI Customer Service Assistant",
     "slug": "raindrop",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "Storyloft – AI Writing & Publishing Platform for Authors",
+    "name": "Storyloft – AI Writing & Publishing Platform for Authors",
+    "description": "AI-powered writing platform to write, illustrate, and publish books in one place.",
+    "website": "https://storyloft.app",
+    "categories": "AI Book Writing, AI Writing Assistants, AI Book Cover Generator, AI Illustration Generator, AI Story Generator",
+    "slug": "storyloft-ai-writing-publishing-platform-for-authors",
+    "created_at": "04:16:30 04/13/2026"
   },
   {
     "title": "TarotAI",
@@ -28123,6 +28186,15 @@
     "created_at": "14:14:17 12/23/2025"
   },
   {
+    "title": "Miguo AI",
+    "name": "Miguo AI",
+    "description": "Reject black-box generation. Providing layer-level output to truly integrate AI into your creative workflow. Empowering artists instead of replacing.",
+    "website": "https://miguo.ai",
+    "categories": "AI Image Generator, AI Colorize, AI Inpainting, AI Style Transfer",
+    "slug": "miguo-ai",
+    "created_at": "04:16:30 04/13/2026"
+  },
+  {
     "title": "AuditTrail AI",
     "name": "AuditTrail AI",
     "description": "AI-powered financial reconciliation platform for automated transaction matching and audit-ready documentation.",
@@ -30499,6 +30571,15 @@
     "created_at": "14:12:35 04/09/2025"
   },
   {
+    "title": "Frameloop AI",
+    "name": "Frameloop AI",
+    "description": "Generate AI videos fast without losing creative control.",
+    "website": "https://frameloop.ai",
+    "categories": "AI Video Generator, AI UGC Video Generator, AI Ad Generator, AI Ad Creative, Text to Video, Script To Video AI Generator, Image to Video, AI Youtube Video Maker, AI Video Editor, AI Stock Video Generator, AI Animated Video, AI Short Video Generator, AI Reel Generator, AI Music Video Generator, AI Movie Generator, AI Commercial Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, AI Productivity Tools",
+    "slug": "frameloop-ai",
+    "created_at": "04:16:30 04/13/2026"
+  },
+  {
     "title": "Nana Banana 2",
     "name": "Nana Banana 2",
     "description": "Advanced AI image generator and editor delivering 4K photorealistic results at lightning-fast speeds.",
@@ -30659,6 +30740,15 @@
     "categories": "AI Poker, AI Robot",
     "slug": "wpt-global-bot-ai-poker-assistant-strategy-trainer-for-wpt-global",
     "created_at": "14:13:52 11/12/2025"
+  },
+  {
+    "title": "Sexiness AI",
+    "name": "Sexiness AI",
+    "description": "AI platform for chatting with hyper-realistic virtual characters and interactive digital companions.",
+    "website": "https://sexiness.ai",
+    "categories": "AI Character, AI Chatbot, AI Roleplay, AI Girlfriend",
+    "slug": "sexiness-ai",
+    "created_at": "04:16:30 04/13/2026"
   },
   {
     "title": "ImageFx",
