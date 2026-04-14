@@ -29167,6 +29167,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ManyTools",
+    "name": "ManyTools",
+    "description": "Tool discovery platform for marketers, developers, and entrepreneurs to find and compare the right software, including 1,300+ AI tools across key categories.",
+    "website": "https://manytools.com",
+    "categories": "AI Tools Directory, AI Marketing, AI SEO Tools, AI Search Engine",
+    "slug": "manytools",
+    "created_at": "03:57:41 04/14/2026"
+  },
+  {
     "title": "MCP Playground",
     "name": "MCP Playground",
     "description": "Web-based developer tool to inspect, test, debug, and develop MCP server integrations.",
@@ -33161,6 +33170,15 @@
     "categories": "AI Chatbot, AI Advertising Assistant",
     "slug": "hypewize",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Coda One",
+    "name": "Coda One",
+    "description": "Everyone uses AI to write in 2026. The problem isn't writing — it's that AI text is now detectable by professors, Google, and your readers in seconds. Coda One humanizes AI-generated text so it sounds like you actually wrote it — average detection score drops from 56% to 12%. Plus 100+ free browser tools (PDF, image, code, video) — no signup, no upload, everything runs in your browser.",
+    "website": "https://codaone.ai",
+    "categories": "AI Writing, AI Email Writer, AI Essay Writer, AI Rewriter, AI Detector",
+    "slug": "coda-one",
+    "created_at": "03:57:41 04/14/2026"
   },
   {
     "title": "Snoika",
