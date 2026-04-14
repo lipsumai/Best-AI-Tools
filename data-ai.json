@@ -10089,6 +10089,15 @@
     "created_at": "02:22:19 04/10/2025"
   },
   {
+    "title": "RoomFlip",
+    "name": "roomflip",
+    "description": "AI room designer for photorealistic interior redesigns and virtual staging.",
+    "website": "https://roomflip.pro",
+    "categories": "AI Interior Design, AI Room Planner, AI Floor Plan Generator, AI Design Generator",
+    "slug": "roomflip",
+    "created_at": "15:07:00 04/14/2026"
+  },
+  {
     "title": "Law Insider",
     "name": "Law Insider",
     "description": "AI tools for contract drafting, review, and redlining.",
@@ -15984,6 +15993,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "Readio",
+    "name": "Readio - 1",
+    "description": "AI reader that turns PDFs, ebooks, and webpages into natural-sounding speech.",
+    "website": "https://readiolabs.org",
+    "categories": "AI Reader, AI Text-to-Speech, AI PDF, AI Audio Enhancer",
+    "slug": "readio-1",
+    "created_at": "15:07:00 04/14/2026"
+  },
+  {
     "title": "Imagine Tales",
     "name": "Imagine Tales",
     "description": "A creative storytelling app for children with parental controls.",
@@ -20437,6 +20455,15 @@
     "categories": "Prompt, AI Video Recording, Image to Video, Text to Video, AI Video Generator",
     "slug": "magi-1",
     "created_at": "02:26:03 04/24/2025"
+  },
+  {
+    "title": "ProdShort",
+    "name": "ProdShort",
+    "description": "Converts online meeting recordings into branded, short-form video clips automatically.",
+    "website": "https://prodshort.com",
+    "categories": "AI Short Video Generator, AI Meeting Assistant, AI Video Editor, AI Caption Generator, AI Transcription, AI Repurpose",
+    "slug": "prodshort",
+    "created_at": "15:07:00 04/14/2026"
   },
   {
     "title": "Hunyuan 3D",
@@ -25432,6 +25459,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Leadbay",
+    "name": "Leadbay",
+    "description": "AI platform predicting high-intent B2B leads using market signals and predictive scoring.",
+    "website": "https://leadbay.ai",
+    "categories": "AI Lead Generation, AI Sales Assistant, AI Bypasser, AI Agent",
+    "slug": "leadbay",
+    "created_at": "15:07:00 04/14/2026"
+  },
+  {
     "title": "Retime AI",
     "name": "Retime AI",
     "description": "AI-driven lead detection from Reddit conversations.",
@@ -26258,6 +26294,15 @@
     "categories": "AI Summarizer, AI Assistant, AI Productivity Tools, AI Email Assistant, AI Meeting Assistant",
     "slug": "dailystack",
     "created_at": "14:39:47 03/05/2026"
+  },
+  {
+    "title": "Panofy",
+    "name": "Panofy",
+    "description": "The world's first agent training platform",
+    "website": "https://panofy.ai",
+    "categories": "AI Developer Tools, AI Agent",
+    "slug": "panofy",
+    "created_at": "15:07:00 04/14/2026"
   },
   {
     "title": "Mangaka.app",
@@ -27700,6 +27745,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Onform",
+    "name": "Onform.work",
+    "description": "MCP-native platform for building conversational forms using natural language and AI tools.",
+    "website": "https://onform.work",
+    "categories": "AI Forms, AI Assistant, No-Code&Low-Code, AI Productivity Tools",
+    "slug": "onform-work",
+    "created_at": "15:07:00 04/14/2026"
+  },
+  {
     "title": "Cheetu AI",
     "name": "Cheetu AI",
     "description": "Your Lightweight Interpreter & AI Notetaker",
@@ -28220,6 +28274,15 @@
     "categories": "AI Image Generator, AI Colorize, AI Inpainting, AI Style Transfer",
     "slug": "miguo-ai",
     "created_at": "04:16:30 04/13/2026"
+  },
+  {
+    "title": "Brila",
+    "name": "Brila",
+    "description": "AI website builder that turns Google Maps reviews into high-converting local business sites.",
+    "website": "https://brila.ai",
+    "categories": "AI Website Builder, AI Website Designer, No-Code&Low-Code, AI Copywriting, AI Business Ideas Generator",
+    "slug": "brila",
+    "created_at": "15:07:00 04/14/2026"
   },
   {
     "title": "AuditTrail AI",
@@ -33784,6 +33847,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Startups.RIP",
+    "name": "Startups.RIP",
+    "description": "AI-powered wiki of failed YC startups providing post-mortems and technical rebuild playbooks.",
+    "website": "https://startups.rip",
+    "categories": "AI Tools Directory, AI Research Tool, AI Developer Tools",
+    "slug": "startups-rip",
+    "created_at": "15:07:00 04/14/2026"
+  },
+  {
     "title": "Sora2 Pro",
     "name": "Sora2 Pro",
     "description": "AI video generator for stunning cinematic videos with UltraThink optimization.",
@@ -37796,6 +37868,15 @@
     "categories": "AI SEO Assistant, AI Reviews Assistant, AI Tutorial, AI Course, AI Education Assistant, AI Twitter Assistant, AI YouTube Assistant, AI Code Assistant, AI Code Generator, Code Explanation, AI Code Refactoring, AI Developer Tools, AI Website Builder, Copywriting, General Writing, Writing Assistants",
     "slug": "codefast",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Motn.ai",
+    "name": "Motn AI",
+    "description": "AI motion graphics canvas generating production-ready React code and video from text prompts.",
+    "website": "https://motn.ai",
+    "categories": "AI Animation Generator, AI Video Generator, AI Code Generator, AI Design Generator, Storyboard AI",
+    "slug": "motn-ai",
+    "created_at": "15:07:00 04/14/2026"
   },
   {
     "title": "QuickCount",
