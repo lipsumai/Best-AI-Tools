@@ -1098,6 +1098,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Aippy",
+    "name": "Aippy",
+    "description": "AI-powered interactive platform for creating games and digital art without coding.",
+    "website": "https://aippy.ai",
+    "categories": "AI Game Generator, AI Games, AI Art Generator, No-Code&Low-Code",
+    "slug": "aippy",
+    "created_at": "15:00:09 04/15/2026"
+  },
+  {
     "title": "MuseGen | AI Music Generator",
     "name": "MuseGen | AI Music Generator",
     "description": "All-in-one AI music generator creating full, rights-safe songs instantly with lyrics and vocals.",
@@ -3661,6 +3670,15 @@
     "categories": "AI Advertising Assistant, AI Banner Generator, AI Bio Generator, AI Hashtag Assistant, AI Instagram Assistant, AI Social Media Assistant, AI Tiktok Assistant, AI Content Generator",
     "slug": "caption-hashtag-generator",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AfterSession",
+    "name": "AfterSession",
+    "description": "AfterSession is an AI-powered documentation assistant designed specifically for therapists. It helps clinicians turn brief session summaries into structured therapy notes in seconds — without recording sessions or changing how they practice.",
+    "website": "https://aftersession.ai",
+    "categories": "AI Mental Health, AI Transcriber, AI Transcription, AI Healthcare, AI Notes Generator",
+    "slug": "aftersession",
+    "created_at": "15:00:09 04/15/2026"
   },
   {
     "title": "NanoBananaAPI.ai",
@@ -11547,6 +11565,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image3D",
+    "name": "Image3D",
+    "description": "AI-powered image-to-3D and text-to-3D model generator. Upload any photo or type a prompt to create production-ready 3D models with PBR textures in seconds.",
+    "website": "https://image3d.io",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D",
+    "slug": "image3d",
+    "created_at": "15:00:09 04/15/2026"
+  },
+  {
     "title": "PinMe",
     "name": "PinMe",
     "description": "Publish Sites in Seconds.",
@@ -14920,6 +14947,15 @@
     "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Instrumental Generator, AI Vocal Remover, AI Rap Generator, AI Midi Generator",
     "slug": "musikalis-ai",
     "created_at": "03:39:18 04/02/2026"
+  },
+  {
+    "title": "Himedia",
+    "name": "Himedia",
+    "description": "An all-in-one AI Video, Image, and Music Generator - 100% Free to Try",
+    "website": "https://himedia.ai",
+    "categories": "AI Image Generator, AI Short Video Generator, Text to Video, Script To Video AI Generator, Image to Video, AI Video Generator, AI Video Enhancer, AI Video Editor, AI UGC Video Generator, AI Tiktok Video Generator, AI Music Video Generator, AI Avatar Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, AI Animated Video, AI Text-to-Music, AI Music Generator, Text to Image, Image to Image, AI Image Enhancer, Video to Video",
+    "slug": "himedia",
+    "created_at": "15:00:09 04/15/2026"
   },
   {
     "title": "IntervuPro AI",
@@ -19404,6 +19440,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "OmniGenie",
+    "name": "OmniGenie",
+    "description": "All-in-one AI assistant for image generation, math solving, and expert writing.",
+    "website": "https://play.google.com/store/apps/details",
+    "categories": "AI Assistant, AI Image Generator, AI Chatbot, AI Math, AI Writing Assistants, AI Image Recognition, AI Translate",
+    "slug": "omnigenie",
+    "created_at": "15:00:09 04/15/2026"
+  },
+  {
     "title": "Vita",
     "name": "Vita",
     "description": "Make healthier choices with Vita's detailed food scanning and nutritional breakdowns.",
@@ -22237,6 +22282,15 @@
     "categories": "AI Meeting Assistant, Writing Assistants",
     "slug": "speakhints",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "BeMusic AI",
+    "name": "BeMusic AI",
+    "description": "AI music generator creating royalty-free, studio-quality songs from text descriptions in seconds.",
+    "website": "https://bemusic.ai",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Voice Changer, AI Vocal Remover, AI Instrumental Generator, AI Cover Generator",
+    "slug": "bemusic-ai-ai-music-generator",
+    "created_at": "15:00:09 04/15/2026"
   },
   {
     "title": "Hyresynth",
@@ -32461,6 +32515,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SYNTX.AI",
+    "name": "SYNTX.AI",
+    "description": "SYNTX.AI - 90+ best AI tools with one subscription ⚡️",
+    "website": "https://syntx.ai",
+    "categories": "AI Productivity Tools, AI Image Generator, AI Video Generator, Image to Video, AI Models",
+    "slug": "syntx-ai",
+    "created_at": "15:00:09 04/15/2026"
+  },
+  {
     "title": "Selects",
     "name": "Selects",
     "description": "The go-to AI video prep tool for creators, editors, and marketers who want to save time for more creativity.",
@@ -36520,6 +36583,15 @@
     "created_at": "14:11:07 11/15/2025"
   },
   {
+    "title": "Shiplight AI",
+    "name": "Shiplight AI",
+    "description": "Shiplight is an AI-powered QA platform that automatically creates tests and keeps them up to date, with near-zero maintenance.",
+    "website": "https://www.shiplight.ai",
+    "categories": "AI Testing, AI Developer Tools",
+    "slug": "shiplight-ai",
+    "created_at": "15:00:09 04/15/2026"
+  },
+  {
     "title": "APIPASS API Marketplace",
     "name": "APIPASS API Marketplace",
     "description": "AI API marketplace for discovering and integrating powerful AI tools.",
@@ -38921,6 +38993,15 @@
     "categories": "AI Outfit Generator, AI Clothing Removal, AI Person Generator",
     "slug": "ai-clothes-changer-1",
     "created_at": "14:13:11 10/27/2025"
+  },
+  {
+    "title": "NottoAI",
+    "name": "Notto AI",
+    "description": "Unified AI chat platform accessing 16+ premium models like GPT-5.4 and Claude under one subscription.",
+    "website": "https://nottoai.com",
+    "categories": "AI Chatbot, AI Assistant, Large Language Models (LLMs), AI Search Engine, AI API, Open Source AI Models, AI PDF Summarizer",
+    "slug": "notto-ai",
+    "created_at": "15:00:09 04/15/2026"
   },
   {
     "title": "Ray 3",
