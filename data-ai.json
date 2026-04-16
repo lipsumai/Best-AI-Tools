@@ -6606,6 +6606,15 @@
     "created_at": "14:14:02 07/14/2025"
   },
   {
+    "title": "Editaimg",
+    "name": "Editaimg",
+    "description": "AI image editor for background removal, object replacement, and high-resolution upscaling.",
+    "website": "https://editaimg.com",
+    "categories": "AI Photo Editor, AI Background Remover, AI Image Upscaler, AI Watermark Remover, AI Image Translator, AI Inpainting, AI Image Enhancer, AI Product Photography",
+    "slug": "editaimg",
+    "created_at": "04:11:12 04/16/2026"
+  },
+  {
     "title": "Lumii",
     "name": "Lumii",
     "description": "AI gaming companion offering game tips and emotional support.",
@@ -24845,6 +24854,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Movie Generator",
     "slug": "grok-imagine-1",
     "created_at": "14:17:21 08/06/2025"
+  },
+  {
+    "title": "MiroFish",
+    "name": "MiroFish",
+    "description": "MiroFish is an AI-powered prediction and simulation tool that helps you forecast how different stakeholders will react to your decisions. Ask any what-if question — about a product launch, pricing change, policy rollout, or strategic pivot — and get a structured prediction report with multi-stakeholder perspectives, risk warnings, and confidence scores in minutes.",
+    "website": "https://mirofishai.org",
+    "categories": "AI Digital Marketing",
+    "slug": "mirofish",
+    "created_at": "04:11:12 04/16/2026"
   },
   {
     "title": "Tila",
