@@ -873,6 +873,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "allibee",
+    "name": "앨리비(allibee)",
+    "description": "An all-in-one legal AI platform for contract management and professional legal research.",
+    "website": "https://allibee.ai",
+    "categories": "AI Legal Assistant, AI Contract Review, AI Contract Management, AI Agent, AI Search Engine, Large Language Models (LLMs), AI OCR",
+    "slug": "allibee",
+    "created_at": "14:48:40 04/17/2026"
+  },
+  {
     "title": "Thentic",
     "name": "Thentic",
     "description": "Automate Web3 tasks easily with Thentic, no coding required.",
@@ -3472,6 +3481,15 @@
     "categories": "AI Video Generator, AI Animation Generator, AI Movie Generator, AI Short Video Generator, AI Music Video Generator, AI Lip Sync Generator, Text to Video, Image to Video, AI Commercial Generator, AI Social Media, AI Character",
     "slug": "seedance-ai-2",
     "created_at": "03:41:24 04/03/2026"
+  },
+  {
+    "title": "Mumble AI",
+    "name": "Mumble AI",
+    "description": "Mumble AI is a voice-first productivity app for Mac that combines meeting recording, dictation, agent and voice notes in one place.",
+    "website": "https://heymumble.com",
+    "categories": "AI Productivity Tools, AI Meeting Assistant, AI Note Taker",
+    "slug": "mumble-ai",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "Genie 3-Al-Powered 3D WorldGenerator",
@@ -9090,6 +9108,15 @@
     "created_at": "14:11:07 04/21/2025"
   },
   {
+    "title": "Vimi",
+    "name": "Vimi",
+    "description": "All-in-one AI tool for turning photos into animated videos and stylized images.",
+    "website": "https://vimi.art",
+    "categories": "AI Video Generator, AI Image Generator, Image to Video, AI Avatar Video Generator",
+    "slug": "vimi",
+    "created_at": "14:48:40 04/17/2026"
+  },
+  {
     "title": "S02AI",
     "name": "S02AI",
     "description": "AI video generator powered by Sora2 for high-quality videos with audio.",
@@ -9241,6 +9268,15 @@
     "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Animated Video, AI Avatar Video Generator, AI Face Swap Video, AI Video Editor, Image to Video, Text to Video, Video to Video, AI Models",
     "slug": "monet-ai",
     "created_at": "03:02:17 12/29/2025"
+  },
+  {
+    "title": "Consistent Character AI",
+    "name": "Consistent Character AI",
+    "description": "Consistent Character AI is a powerful AI character generator that creates the same character in multiple poses, expressions, and scenes from just one photo — perfect for children's picture books, comics, game art, and storyboarding. Upload a single reference image, and generate unlimited consistent character illustrations in seconds.",
+    "website": "https://www.consistentcharacterai.com",
+    "categories": "AI Image Generator, AI Image Enhancer, AI Image Upscaler, Image to Image, Text to Image, AI Video Generator, Image to Video",
+    "slug": "consistent-character-ai",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "nano banana pro studio",
@@ -9799,6 +9835,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator, AI Lip Sync Generator, AI Video Enhancer, AI API",
     "slug": "happy-horse-ai-video",
     "created_at": "15:14:14 04/09/2026"
+  },
+  {
+    "title": "Meoo (秒悟)",
+    "name": "Meoo (秒悟)",
+    "description": "AI platform converting files and ideas into interactive web applications and visualizations.",
+    "website": "https://meoo.com",
+    "categories": "AI App Builder, AI Website Builder, AI PPT Maker, No-Code&Low-Code, AI Design Generator",
+    "slug": "meoo-秒悟",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "FlowLens",
@@ -14868,6 +14913,15 @@
     "created_at": "14:12:33 07/08/2025"
   },
   {
+    "title": "FlipTip AI",
+    "name": "FlipTip Ai",
+    "description": "AI-powered reseller scanner for instant price estimates, sell speed, and authenticity checks.",
+    "website": "https://fliptip.ai",
+    "categories": "AI Scanner, AI Image Recognition, AI Product Manager, AI Shopping Assistant",
+    "slug": "fliptip-ai",
+    "created_at": "14:48:40 04/17/2026"
+  },
+  {
     "title": "Veo 3.1",
     "name": "Veo 3.1",
     "description": "AI video generator for professional one-minute videos from text/images.",
@@ -16243,6 +16297,15 @@
     "categories": "AI Trading Bot Assistant, Investing Assistant, AI Analytics Assistant",
     "slug": "quantum-trading-research",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Happy Horse AI",
+    "name": "Happy Horse - 9",
+    "description": "Multimodal AI video generator with native audio and lifelike motion.",
+    "website": "https://happyhorseai.ai",
+    "categories": "AI Video Generator, AI Animation Generator, Text to Video, Image to Video, AI Music Video Generator, AI Movie Generator, AI Ad Generator, AI Short Video Generator, AI Video Editor, AI Image Generator",
+    "slug": "happy-horse-9",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "Sniff Job",
@@ -17845,6 +17908,15 @@
     "categories": "AI Voice Assistants, AI Customer Service, AI Sales Assistant, AI Voice Generator",
     "slug": "kea-ai-24-7-voice-ai-for-restaurants",
     "created_at": "14:12:35 10/09/2025"
+  },
+  {
+    "title": "iGenflow",
+    "name": "iGenflow",
+    "description": "Capture web workflows to instantly generate step-by-step SOPs and walkthrough videos.",
+    "website": "https://www.igenflow.ai",
+    "categories": "AI SOP, AI Workflow, AI Writing Assistants, AI Video Generator, AI Productivity Tools",
+    "slug": "igenflow",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "PageWise AI",
@@ -26503,6 +26575,15 @@
     "created_at": "02:23:05 04/09/2025"
   },
   {
+    "title": "Seedance2",
+    "name": "Seedance2 - 1",
+    "description": "ByteDance's advanced multimodal AI for cinematic 2K video and native audio generation.",
+    "website": "https://imaginex.video",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor",
+    "slug": "seedance2-1",
+    "created_at": "14:48:40 04/17/2026"
+  },
+  {
     "title": "AutoBTC",
     "name": "AutoBTC.ai",
     "description": "AutoBTC is an AI-powered platform for easy Bitcoin and Lightning network usage.",
@@ -28501,6 +28582,15 @@
     "created_at": "14:42:50 02/25/2026"
   },
   {
+    "title": "Triverse AI",
+    "name": "Triverse AI",
+    "description": "Triverse AI is an AI 3D model generator that turns text and images into clean-topology 3D assets for games, 3D printing, product design, or 3D hobbists.",
+    "website": "https://triverse.ai",
+    "categories": "AI 3D Model Generator, AI Art Generator, Image to 3D Model, Text to 3D",
+    "slug": "triverse-ai",
+    "created_at": "14:48:40 04/17/2026"
+  },
+  {
     "title": "Clodo",
     "name": "Clodo",
     "description": "AI platform for hyper-targeted B2B prospecting and personalized outbound automation.",
@@ -28796,6 +28886,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Lip Sync Generator, AI Video Editor",
     "slug": "seedance2-love",
     "created_at": "14:34:54 02/20/2026"
+  },
+  {
+    "title": "Astrocartography AI",
+    "name": "Astrocartography",
+    "description": "AI-powered tool for generating and interpreting personal astrocartography maps for relocation and travel.",
+    "website": "https://astrocarto.net",
+    "categories": "AI Map Generator, AI Assistant, AI Life, AI Travel",
+    "slug": "astrocartography",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "Anirole",
@@ -29129,6 +29228,15 @@
     "categories": "AI Agent, AI Developer Tools, AI Workflow, AI Chatbot",
     "slug": "ai-sdk-agents",
     "created_at": "14:13:57 10/22/2025"
+  },
+  {
+    "title": "MiaDance",
+    "name": "MiaDance",
+    "description": "MiaDance is an AI tool that turns text and images into high-quality videos and images in seconds",
+    "website": "https://miadancevideo.com",
+    "categories": "AI Image Generator, AI Inpainting, AI Photo Filter, AI Profile Picture Generator, AI Video Enhancer, AI Video Generator, Image to Video, Text to Video, Video to Video",
+    "slug": "miadance",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "Regrow AI",
@@ -38374,6 +38482,15 @@
     "created_at": "14:15:16 02/28/2026"
   },
   {
+    "title": "GPT Image 2",
+    "name": "GPT-Image-2 - co",
+    "description": "OpenAI's next-gen AI image generator with native text rendering and photo-realism.",
+    "website": "https://gptimage-2.co",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Photo Editor, AI Poster Generator, AI Art Generator, AI Realistic Image Generator",
+    "slug": "gpt-image-2-co",
+    "created_at": "14:48:40 04/17/2026"
+  },
+  {
     "title": "Disertus Labs (Milo AI Speech Therapist)",
     "name": "Disertus Labs",
     "description": "24/7 AI speech therapist providing real-time feedback, personalized exercises, and fluency tracking.",
@@ -42188,6 +42305,15 @@
     "categories": "AI SEO Tools, AI Report Generator, SEO Writing AI",
     "slug": "seo-mega-report",
     "created_at": "14:11:34 09/10/2025"
+  },
+  {
+    "title": "Human Insight Path",
+    "name": "Human Insight Path",
+    "description": "All-in-one AI platform for Human Design, BaZi, Tarot, and emotional self-discovery.",
+    "website": "https://humaninsightpath.com",
+    "categories": "AI Tools Directory, AI Assistant, AI Therapist, AI Life",
+    "slug": "human-insight-path",
+    "created_at": "14:48:40 04/17/2026"
   },
   {
     "title": "AI Song Maker",
