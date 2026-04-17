@@ -3726,6 +3726,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GETGPT Pro",
+    "name": "GETGPT Pro",
+    "description": "Professional AI recharge service for ChatGPT Plus and Pro using domestic payments.",
+    "website": "https://getgpt.pro",
+    "categories": "AI Tools Directory, AI Assistant, Large Language Models (LLMs)",
+    "slug": "getgpt-pro",
+    "created_at": "03:59:31 04/17/2026"
+  },
+  {
     "title": "MotionControlAI",
     "name": "MotionControlAI",
     "description": "Advanced AI framework for precise character motion control and professional cinematic video generation.",
@@ -19836,6 +19845,15 @@
     "created_at": "02:58:42 01/28/2026"
   },
   {
+    "title": "HumanTone",
+    "name": "HumanTone",
+    "description": "Free AI text humanizer that converts AI drafts into natural, human-sounding writing.",
+    "website": "https://humantone.ai",
+    "categories": "Humanizer AI, AI Bypasser, Undetectable AI, AI Rewriter, AI Writing Assistants, AI Checker",
+    "slug": "humantone",
+    "created_at": "03:59:31 04/17/2026"
+  },
+  {
     "title": "Sim Studio",
     "name": "Sim Studio",
     "description": "Visual platform for building and deploying AI agents and workflows.",
@@ -28400,6 +28418,15 @@
     "categories": "AI Photo Editor, AI Image Generator, Text to Image, AI Graphic Design, AI Photography",
     "slug": "try-nano-banana-ai-free-online",
     "created_at": "14:11:52 09/01/2025"
+  },
+  {
+    "title": "C2Story",
+    "name": "C2Story",
+    "description": "AI platform for creating, continuing, and remixing illustrated stories and characters.",
+    "website": "https://c2story.com",
+    "categories": "AI Story Generator, AI Comic Generator, AI Character, AI Writing, AI Illustration Generator",
+    "slug": "c2story",
+    "created_at": "03:59:31 04/17/2026"
   },
   {
     "title": "Ezswap",
