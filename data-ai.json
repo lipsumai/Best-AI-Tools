@@ -6120,6 +6120,15 @@
     "created_at": "14:42:50 02/25/2026"
   },
   {
+    "title": "GPT Image 2",
+    "name": "GPT Image 2 Free online ai image editor",
+    "description": "AI platform for generating, editing, upscaling, and transforming high-quality images from text or references.",
+    "website": "https://gptimage2.dev",
+    "categories": "AI Image Generator, AI Photo Editor, AI Image Upscaler, Image to Image, AI Background Generator, AI Poster Generator, Text to Image, AI Product Photography, AI Age Progression, AI Image Enhancer, AI Headshot Generator, AI Tools Directory",
+    "slug": "gpt-image-2-free-online-ai-image-editor",
+    "created_at": "14:35:45 04/18/2026"
+  },
+  {
     "title": "Xagio",
     "name": "Xagio",
     "description": "AI SEO tool for optimizing websites easily and effectively.",
@@ -16171,6 +16180,15 @@
     "categories": "Summarizer, AI Productivity Tools, Research Tool, AI Reviews Assistant, Newsletter",
     "slug": "snipit-digital",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Skyreels-v4 api",
+    "name": "Skyreels-v4 api",
+    "description": "Unified API marketplace for advanced video, image, and audio AI models.",
+    "website": "https://apimart.ai",
+    "categories": "AI API, AI Video Generator, Text to Video, AI Voice Generator, AI Ad Generator, AI Movie Generator",
+    "slug": "skyreels-v4-api",
+    "created_at": "14:35:45 04/18/2026"
   },
   {
     "title": "Lucid Engine",
@@ -32182,6 +32200,15 @@
     "created_at": "14:19:04 02/14/2026"
   },
   {
+    "title": "Hostinger 1-Click OpenClaw",
+    "name": "Hostinger | 1-Click OpenClaw",
+    "description": "1-click managed hosting for 24/7 private AI agents and automations.",
+    "website": "https://www.hostinger.com",
+    "categories": "AI Agent, AI Assistant, AI Workflow, AI Chatbot",
+    "slug": "hostinger-1-click-openclaw",
+    "created_at": "14:35:45 04/18/2026"
+  },
+  {
     "title": "SocialEcho",
     "name": "SocialEcho",
     "description": "AI-powered platform for social media marketing automation, management, and analytics.",
@@ -35366,6 +35393,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Image Enhancer, AI Style Transfer",
     "slug": "nanobananaproai-com-free-nano-banana-ai-image-editor",
     "created_at": "02:22:15 11/22/2025"
+  },
+  {
+    "title": "Dedalus Labs",
+    "name": "Dedalus Labs",
+    "description": "Dedalus Machines are the fastest persistent sandboxes for AI agents. Spin up long-running, stateful agents that never sleep in <50ms.",
+    "website": "https://www.dedaluslabs.ai",
+    "categories": "AI Developer Tools, AI App Builder, AI Code Generator, AI Testing, AI Website Builder",
+    "slug": "dedalus-labs",
+    "created_at": "14:35:45 04/18/2026"
   },
   {
     "title": "Flux 2 AI",
