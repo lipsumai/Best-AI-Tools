@@ -8046,6 +8046,15 @@
     "created_at": "14:37:53 03/02/2026"
   },
   {
+    "title": "fridgesnap.AI",
+    "name": "FridgeSnap.AI",
+    "description": "AI tool turning fridge photos into chef-crafted recipes to save money and reduce waste.",
+    "website": "https://eat.fridgesnapai.recipes",
+    "categories": "AI Recipe, AI Cooking Assistant, AI Image Recognition",
+    "slug": "fridgesnap-ai",
+    "created_at": "04:11:13 04/19/2026"
+  },
+  {
     "title": "FaceSeek - AI Face Search",
     "name": "FaceSeek - AI Face Search",
     "description": "AI-powered platform for reverse face search, identity verification, and creative AI tools.",
@@ -17775,6 +17784,15 @@
     "created_at": "02:41:34 06/12/2025"
   },
   {
+    "title": "LinkedGrow",
+    "name": "LinkedGrow",
+    "description": "Grow your LinkedIn presence with AI-powered tools",
+    "website": "https://linkedgrow.ai",
+    "categories": "AI Social Media Post Generator, AI Copywriting, AI Creative Writing, AI Writing, AI Writing Assistants, AI Image Generator",
+    "slug": "linkedgrow",
+    "created_at": "04:11:13 04/19/2026"
+  },
+  {
     "title": "Nano Banana Pro",
     "name": "Nano Banana Pro - Next-Gen AI Image Editor with 4K Quality",
     "description": "Next-Gen AI Image Editor for stunning 4K quality images with smart AI.",
@@ -22023,6 +22041,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "HappyHorse 1.0 AI",
+    "name": "Happyhorse 1.0 AI",
+    "description": "Free AI video generator creating 1080p cinematic videos from text and images.",
+    "website": "https://happyhorse-ai.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Movie Generator",
+    "slug": "happyhorse-1-0-ai",
+    "created_at": "04:11:13 04/19/2026"
+  },
+  {
     "title": "Drezily",
     "name": "Drezily",
     "description": "Ai powered personal shopping assistant",
@@ -25907,6 +25934,15 @@
     "categories": "AI Workflow, AI Design Assistant, AI Graphic Design, AI Image Generator, AI Video Generator",
     "slug": "weavy",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "SoulFuse AI",
+    "name": "SoulfuseAI",
+    "description": "AI platform transforming photos into cinematic videos with professional effects and multiple styles.",
+    "website": "https://soulfuse.org",
+    "categories": "AI Video Generator, Image to Video, AI Video Editor",
+    "slug": "soulfuseai",
+    "created_at": "04:11:13 04/19/2026"
   },
   {
     "title": "VoiSpark",
@@ -37535,6 +37571,15 @@
     "categories": "AI Crypto, AI Knowledge Base, AI Assistant, AI For Data Analytics, AI Research Tool",
     "slug": "ascn",
     "created_at": "14:12:01 09/17/2025"
+  },
+  {
+    "title": "CryptoRank",
+    "name": "cryptorank.cc",
+    "description": "Real-time cryptocurrency market data, price tracking, and professional analytics platform.",
+    "website": "https://cryptorank.cc",
+    "categories": "AI Crypto, Blockchain, AI For Finance, AI Investing",
+    "slug": "cryptorank-cc",
+    "created_at": "04:11:13 04/19/2026"
   },
   {
     "title": "OpenDream AI",
