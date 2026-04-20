@@ -6957,6 +6957,15 @@
     "created_at": "02:56:06 12/22/2025"
   },
   {
+    "title": "FontVibe",
+    "name": "FontVibe",
+    "description": "AI text effect generator — create stunning glass, neon, 3D, cyberpunk & 100+ visual text styles in seconds. Free to try.",
+    "website": "https://fontvibe.ai",
+    "categories": "AI Image Generator, AI Style Transfer, Text to Image, AI Poster Generator, AI Sticker Generator",
+    "slug": "fontvibe",
+    "created_at": "15:10:48 04/20/2026"
+  },
+  {
     "title": "CLI Manager",
     "name": "CLI Manager",
     "description": "Unified dashboard for managing AI CLI agents.",
@@ -10879,6 +10888,15 @@
     "categories": "AI Image Generator, AI Art Generator, Text to Image, AI Realistic Image Generator",
     "slug": "seedream-3",
     "created_at": "14:11:58 08/02/2025"
+  },
+  {
+    "title": "Old English Translator",
+    "name": "Old English Translator",
+    "description": "Old English Translator by AI offers free, no sign-up translation from modern to authentic Old English. Explore diverse historical translators like Shakespearean, Old Norse.",
+    "website": "https://oldenglishtranslator.app",
+    "categories": "AI Translate, AI Writing, AI Writing Assistants, AI Image Translator, AI Language Learning",
+    "slug": "old-english-translator",
+    "created_at": "15:10:48 04/20/2026"
   },
   {
     "title": "BestStock",
@@ -19555,6 +19573,15 @@
     "categories": "AI Advertising Assistant, AI Ad Generator",
     "slug": "memeswift",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Relumi",
+    "name": "Relumi",
+    "description": "AI photo retake, restoration, and animation app for fixing imperfect moments and reviving old memories.",
+    "website": "https://repairit.wondershare.com",
+    "categories": "AI Photo Restoration, AI Photo Editor, AI Photo Enhancer, AI Photo Filter, AI Product Photography",
+    "slug": "relumi",
+    "created_at": "15:10:48 04/20/2026"
   },
   {
     "title": "Velin",
@@ -33964,6 +33991,15 @@
     "created_at": "14:18:36 01/08/2026"
   },
   {
+    "title": "Inkfluence AI",
+    "name": "Inkfluence AI",
+    "description": "Free AI book writer that generates ebooks, PDF guides, and audiobooks in minutes. Write, design, narrate, and export - no writing or design skills required.",
+    "website": "https://www.inkfluenceai.com",
+    "categories": "AI Book Writing, AI Copywriting, AI Ebook Generator, AI Fanfic Generator, AI Short Story Generator, AI Story Generator, AI Writing, AI Writing Assistants",
+    "slug": "inkfluence-ai",
+    "created_at": "15:10:48 04/20/2026"
+  },
+  {
     "title": "Syft | Podcast Clip Generator",
     "name": "Syft",
     "description": "Syft automates the process of creating short videos from long videos, saving time for content creators.",
@@ -36140,6 +36176,15 @@
     "categories": "AI Productivity Tools, AI Document Extraction, AI Accounting Assistant, Tax Assistant, AI Email Writer",
     "slug": "getinvoice",
     "created_at": "14:12:57 05/15/2025"
+  },
+  {
+    "title": "EasyScribe",
+    "name": "EasyScribe",
+    "description": "EasyScribe is an AI transcription and localization platform that turns audio and video into accurate transcripts, multilingual translations, subtitles, and summaries in minutes.",
+    "website": "https://easyscribe.ai",
+    "categories": "AI Transcription",
+    "slug": "easyscribe",
+    "created_at": "15:10:48 04/20/2026"
   },
   {
     "title": "Link AI",
@@ -41918,6 +41963,15 @@
     "categories": "AI Coaching, AI Course, AI Lesson Plan Generator, AI Math, AI Question Generator, AI Quizzes, AI Teachers, AI Papers, Other",
     "slug": "gradingpal",
     "created_at": "03:37:17 02/15/2026"
+  },
+  {
+    "title": "Seedance 2 Cloud",
+    "name": "Seedance 2 Cloud",
+    "description": "AI video generator creating cinematic clips with real faces and multi-modal control.",
+    "website": "https://seedance2.cloud",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Face Swap Video, AI Character",
+    "slug": "seedance-2-cloud",
+    "created_at": "15:10:48 04/20/2026"
   },
   {
     "title": "HousesDecorate",
