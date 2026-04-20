@@ -4635,6 +4635,15 @@
     "created_at": "14:13:50 12/05/2025"
   },
   {
+    "title": "MkAnime AI",
+    "name": "MkAnime",
+    "description": "All-in-one AI anime studio for scripts, storyboards, and dubbed videos.",
+    "website": "https://mkanime.ai",
+    "categories": "AI Anime Generator, AI Animation Generator, AI Script Writing, AI Dubbing, AI Lip Sync Generator, AI Character, AI Short Video Generator",
+    "slug": "mkanime",
+    "created_at": "04:16:18 04/20/2026"
+  },
+  {
     "title": "ChatVIA",
     "name": "ChatVia.ai",
     "description": "AI platform for custom AI agents trained on user data.",
@@ -8953,6 +8962,15 @@
     "categories": "AI Outfit Generator, AI Hairstyle, AI Clothing Generator, Fashion AI",
     "slug": "virtual-try-on",
     "created_at": "14:13:27 11/17/2025"
+  },
+  {
+    "title": "Paper Banana",
+    "name": "paper banana",
+    "description": "AI generator for professional, publication-ready academic illustrations and scientific diagrams.",
+    "website": "https://paperbanana.me",
+    "categories": "AI Illustration Generator, AI Diagram Generator, AI Image Generator, AI Infographic Generator",
+    "slug": "paper-banana",
+    "created_at": "04:16:18 04/20/2026"
   },
   {
     "title": "AltPage.ai",
@@ -21159,6 +21177,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "KINETK",
+    "name": "KINETK",
+    "description": "AI resume checker and expert human rewrite service to beat ATS filters.",
+    "website": "https://kinetk.io",
+    "categories": "AI Resume Checker, AI Resume Builder, Resume AI, AI Interview Assistant, AI Writing Assistants",
+    "slug": "kinetk",
+    "created_at": "04:16:18 04/20/2026"
+  },
+  {
     "title": "Career Automate",
     "name": "Career Automate",
     "description": "AI-generated Resume scores and letters",
@@ -22228,6 +22255,15 @@
     "categories": "AI Short Clips Generator, Summarizer, AI Tutorial",
     "slug": "video-summary-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "VibeReady",
+    "name": "VibeReady",
+    "description": "The #1 SaaS Starter Kit Built for AI-Powered Development",
+    "website": "https://vibeready.sh",
+    "categories": "AI Developer Tools, AI Website Builder",
+    "slug": "vibeready",
+    "created_at": "04:16:18 04/20/2026"
   },
   {
     "title": "Openclaw",
@@ -25511,6 +25547,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Animation Generator",
     "slug": "seedance-ai-1",
     "created_at": "14:11:46 06/21/2025"
+  },
+  {
+    "title": "AI Jewelry Model",
+    "name": "AI Jewelry Model",
+    "description": "AI tool generating realistic jewelry model photos and videos from product images.",
+    "website": "https://aijewelrymodel.app",
+    "categories": "AI Image Generator, AI Video Generator, AI Product Photography",
+    "slug": "ai-jewelry-model",
+    "created_at": "04:16:18 04/20/2026"
   },
   {
     "title": "万兴天幕创作广场",
@@ -37483,6 +37528,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ZenOp Ai Receptionist",
+    "name": "ZenOp Ai Receptionist",
+    "description": "ZenOp is an AI receptionist for small businesses. It answers calls 24/7 in a natural voice, books appointments on your calendar, captures leads, and follows up by text. Works with your existing business number. No new hardware, no switching. Setup in 5 minutes. Plans from $97/mo.",
+    "website": "https://thezenop.com",
+    "categories": "AI Call Center, AI Customer Service, AI Workflow",
+    "slug": "zenop-ai-receptionist",
+    "created_at": "04:16:18 04/20/2026"
+  },
+  {
     "title": "Sayfone",
     "name": "Sayfone",
     "description": "Sayfone is the ultimate Skype replacement - cheap, fast, and reliable calls worldwide.",
@@ -38743,6 +38797,15 @@
     "created_at": "14:17:38 08/07/2025"
   },
   {
+    "title": "Formy 3D",
+    "name": "Formy 3D",
+    "description": "AI generator transforming text and images into production-ready 3D models.",
+    "website": "https://formy3d.com",
+    "categories": "AI 3D Model Generator, Text to 3D, Image to 3D Model",
+    "slug": "formy-3d",
+    "created_at": "04:16:18 04/20/2026"
+  },
+  {
     "title": "soro2",
     "name": "soro2",
     "description": "AI video generator powered by OpenAI Sora 2 for cinematic content.",
@@ -38831,6 +38894,15 @@
     "categories": "AI Photo & Image Generator",
     "slug": "grably",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Egaku AI",
+    "name": "Egaku AI",
+    "description": "The all-in-one AI creative suite. 30+ image & video models, Photo Booth, Logo Maker, Prompt Battle, Storyboard Studio, and more — at a fraction of Midjourney's price. Regional pricing worldwide.",
+    "website": "https://egaku-ai.com",
+    "categories": "AI Short Video Generator, AI Clothing Removal, AI Face Swap Generator, AI Headshot Generator, AI Image Generator, AI Image Upscaler, AI Inpainting, Image to Image, Text to Image, AI Video Generator, Image to Video",
+    "slug": "egaku-ai",
+    "created_at": "04:16:18 04/20/2026"
   },
   {
     "title": "Blai",
@@ -43187,6 +43259,15 @@
     "categories": "AI Interview Assistant",
     "slug": "upsend",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "FrameTrace | Reverse Video Search",
+    "name": "FrameTrace | Reverse Video Search",
+    "description": "AI-powered reverse video search for original sources, duplicates, and authenticity checks.",
+    "website": "https://reversevideosearch.org",
+    "categories": "AI Video Search",
+    "slug": "frametrace-reverse-video-search",
+    "created_at": "04:16:18 04/20/2026"
   },
   {
     "title": "Gempix 2",
