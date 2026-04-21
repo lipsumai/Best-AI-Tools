@@ -3042,6 +3042,15 @@
     "created_at": "14:37:18 03/13/2026"
   },
   {
+    "title": "Avoko",
+    "name": "Avoko",
+    "description": "Monetize your AI Agent on Avoko. Developers interview real AI Agents like yours to understand their decisions, tool use & failures. Your agent auto-joins studies, answers questions, and earns $2.5–3 per interview. One-click connect. Fully automated, private, hands-free passive income.",
+    "website": "https://avoko.ai",
+    "categories": "AI Research Tool",
+    "slug": "avoko",
+    "created_at": "04:00:07 04/21/2026"
+  },
+  {
     "title": "Kling 3.0 AI",
     "name": "Kling 3.0 AI-",
     "description": "Built around Kling 3.0, our API-powered platform helps you generate cinematic AI videos with multi-shot storyboarding, optional native audio, and stronger subject consistency — plus a full image suite with 10 frontier image models (Flux 2 family, Nano Banana, Seedream, GPT-4o, Z-Image). Generate multiple outputs per prompt, use up to 8 reference images on supported models, and pay with a transparent fixed credit system for images (2–6 credits per generation).",
@@ -5488,6 +5497,15 @@
     "categories": "Marketing Plan Generator, AI Business Ideas Generator, AI Consulting Assistant, AI Content Generator, AI Knowledge Base",
     "slug": "vizologi",
     "created_at": "02:28:54 04/21/2025"
+  },
+  {
+    "title": "Chattitude",
+    "name": "Chattitude",
+    "description": "AI agents for 24/7 customer support, lead qualification, and automated business workflows.",
+    "website": "https://www.chattitude.ai",
+    "categories": "AI Agent, AI Chatbot, AI Customer Service, AI Lead Generation, AI Sales Assistant, AI Assistant",
+    "slug": "chattitude",
+    "created_at": "04:00:07 04/21/2026"
   },
   {
     "title": "TypeBoost",
@@ -15937,6 +15955,15 @@
     "categories": "AI Web Scraping, AI Data Mining, AI Research Tool, No-Code&Low-Code, AI Lead Generation, AI For Data Analytics",
     "slug": "vurge",
     "created_at": "14:13:25 12/25/2025"
+  },
+  {
+    "title": "LiveSwap",
+    "name": "Live Swap",
+    "description": "Real-time AI face swap engine for live streaming and webcams with low latency.",
+    "website": "https://www.liveswap.io",
+    "categories": "AI Face Swap Video, AI Face Swap Generator, AI Vtuber, AI Video Generator",
+    "slug": "live-swap",
+    "created_at": "04:00:07 04/21/2026"
   },
   {
     "title": "Crosspost",
@@ -28879,6 +28906,15 @@
     "created_at": "03:24:54 03/13/2026"
   },
   {
+    "title": "DKnownAI Guard",
+    "name": "DKnownAI Guard",
+    "description": "DKnownAI Guard is a security API for AI agents. It detects prompt injection, jailbreak attempts, deceptive instructions, and high-risk operational intent before execution.",
+    "website": "https://www.dknownai.com",
+    "categories": "AI Developer Tools, AI API",
+    "slug": "dknownai-guard",
+    "created_at": "04:00:07 04/21/2026"
+  },
+  {
     "title": "Codlixe",
     "name": "Codlixe",
     "description": "AI-driven goal-setting and journaling platform for balanced life.",
@@ -33703,6 +33739,15 @@
     "created_at": "14:23:04 01/27/2026"
   },
   {
+    "title": "LokiProxy",
+    "name": "LokiProxy",
+    "description": "Premium global residential proxy network for secure data access and web scraping.",
+    "website": "https://lokiproxy.com",
+    "categories": "Other",
+    "slug": "lokiproxy",
+    "created_at": "04:00:07 04/21/2026"
+  },
+  {
     "title": "HappyHorse",
     "name": "HappyHorse - cv",
     "description": "HappyHorse.cv is a premier AI video generator featuring a 15B-parameter model. It delivers 1080p cinematic visuals with native audio-sync and precise multi-language lip-syncing. Transform text or images into professional-grade videos in seconds. The ultimate tool for creators to redefine video production with cutting-edge AI.",
@@ -36194,6 +36239,15 @@
     "categories": "AI Agent, AI Chatbot, AI Customer Service, AI Scheduling, AI Assistant, No-Code&Low-Code",
     "slug": "link-ai",
     "created_at": "03:30:34 03/24/2026"
+  },
+  {
+    "title": "Wondershare Recoverit",
+    "name": "Wondershare Recoverit",
+    "description": "Wondershare Recoverit is an AI-driven data restoration engine designed to solve complex digital loss scenarios. It utilizes AI-powered deep scanning and fragmented file reconstruction to achieve industry-leading recovery rates for over 1,000 file formats.",
+    "website": "https://recoverit.wondershare.com",
+    "categories": "AI Photo Restoration, AI Image Scanning, AI Video Search",
+    "slug": "wondershare-recoverit-ai-powered-data-recovery-reconstruction",
+    "created_at": "04:00:07 04/21/2026"
   },
   {
     "title": "Floot",
