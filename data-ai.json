@@ -31876,6 +31876,15 @@
     "created_at": "02:20:48 10/17/2025"
   },
   {
+    "title": "GPT Image 2",
+    "name": "GPT Image 2 - 1",
+    "description": "Professional AI generator transforming text into high-quality images and commercial designs.",
+    "website": "https://gpt-image-2.io",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, Image to Image, Text to Video, Image to Video",
+    "slug": "gpt-image-2-1-1",
+    "created_at": "03:56:41 04/22/2026"
+  },
+  {
     "title": "SafeWrite AI",
     "name": "SafeWrite AI",
     "description": "AI rewriting tool for human-like text and detector bypassing.",
@@ -32351,6 +32360,15 @@
     "categories": "AI Agent, AI Assistant, AI Workflow, AI Chatbot",
     "slug": "hostinger-1-click-openclaw",
     "created_at": "14:35:45 04/18/2026"
+  },
+  {
+    "title": "GPT Image 2",
+    "name": "GPT Image 2 - 2",
+    "description": "AI platform for high-precision image generation, text rendering, and video creation.",
+    "website": "https://bananai.io",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Ad Generator, AI Photo Editor, AI Graphic Design, AI Poster Generator",
+    "slug": "gpt-image-2-2",
+    "created_at": "03:56:41 04/22/2026"
   },
   {
     "title": "SocialEcho",
