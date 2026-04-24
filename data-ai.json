@@ -7902,6 +7902,15 @@
     "created_at": "02:44:05 12/09/2025"
   },
   {
+    "title": "Free TTS",
+    "name": "Free TTS",
+    "description": "Comprehensive AI-powered online toolkit for text-to-speech, transcription, and audio editing.",
+    "website": "https://freetts.com",
+    "categories": "AI Text-to-Speech, AI Speech-to-Text, AI Vocal Remover, AI Voice Enhancer, AI Audio Editing, AI Audio Enhancer",
+    "slug": "free-tts",
+    "created_at": "15:02:01 04/24/2026"
+  },
+  {
     "title": "SCARY STORIES LIVE",
     "name": "ScaryStories Live",
     "description": "Real-time AI horror video generator with adaptive jump scares for interactive storytelling.",
@@ -19125,6 +19134,15 @@
     "created_at": "14:24:02 01/22/2026"
   },
   {
+    "title": "conversaic",
+    "name": "conversaic",
+    "description": "Affiliate monetization platform for conversational AI apps and high-intent AI interactions.",
+    "website": "https://conversaic.io",
+    "categories": "AI Advertising, AI Affiliate Marketing, AI Marketing, AI Ad Generator",
+    "slug": "conversaic",
+    "created_at": "15:02:01 04/24/2026"
+  },
+  {
     "title": "MAI-Image-2",
     "name": "MAI Image 2",
     "description": "Frontier AI image generator specializing in photorealism, legible text, and professional marketing layouts.",
@@ -22419,6 +22437,15 @@
     "created_at": "02:52:25 11/30/2025"
   },
   {
+    "title": "Image 2",
+    "name": "Image 2",
+    "description": "AI generator for production-ready 2K visuals with precise text and multilingual support.",
+    "website": "https://images2.co",
+    "categories": "AI Image Generator, AI Video Generator, AI Ad Generator, AI Infographic Generator, AI Poster Generator, AI Photo Editor",
+    "slug": "image-2",
+    "created_at": "15:02:01 04/24/2026"
+  },
+  {
     "title": "Molku Ai - Autofill PDFs in Seconds by Transferring Data from Another Docs",
     "name": "Molku Ai - Autofill PDFs in Seconds by Transferring Data from Another Docs",
     "description": "Stop wasting hours manually copying data from one document and pasting it into another. Let AI handle it for you in seconds",
@@ -22786,6 +22813,15 @@
     "categories": "AI Customer Service Assistant, AI Content Generator, E-commerce Assistant, AI Chatbot, AI CRM Assistant, AI Product Description Generator, Marketing Plan Generator, AI Lead Generation, Digital Marketing Generator, AI Advertising Assistant, AI Analytics Assistant, AI Ad Creative Assistant, Writing Assistants, AI Facebook Assistant, AI Instagram Assistant, Copywriting, AI Social Media Assistant",
     "slug": "limechat",
     "created_at": "03:40:18 04/13/2025"
+  },
+  {
+    "title": "Epochal",
+    "name": "Epochal",
+    "description": "Unified AI video workspace for text-to-video and image-to-video creation using multiple leading models.",
+    "website": "https://epochal.app",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Animation Generator, AI Commercial Generator",
+    "slug": "epochal",
+    "created_at": "15:02:01 04/24/2026"
   },
   {
     "title": "Webhookify",
@@ -25520,6 +25556,15 @@
     "categories": "Other",
     "slug": "creativesai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Kollab",
+    "name": "Kollab",
+    "description": "An AI-powered knowledge management and collaboration platform.",
+    "website": "https://kollab.im",
+    "categories": "AI Knowledge Management, AI Knowledge Base, AI Assistant",
+    "slug": "kollab",
+    "created_at": "15:02:01 04/24/2026"
   },
   {
     "title": "Runrly",
