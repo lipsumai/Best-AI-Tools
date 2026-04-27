@@ -5715,6 +5715,15 @@
     "created_at": "14:13:05 09/22/2025"
   },
   {
+    "title": "GPT Image 2",
+    "name": "GPT Image 2 - 14",
+    "description": "AI image generator with 99% text accuracy and 4K upscaling.",
+    "website": "https://gptimager.com",
+    "categories": "AI Image Generator, AI Product Photography, AI Image Upscaler, AI Logo Generator, AI Photo Editor, Image to Image, Text to Image",
+    "slug": "gpt-image-2-14",
+    "created_at": "04:26:56 04/27/2026"
+  },
+  {
     "title": "Kreativespace™",
     "name": "Kreativespace",
     "description": "AI writing tools suite for productivity and authenticity.",
@@ -6046,6 +6055,15 @@
     "categories": "AI Face Swap Video, AI Face Swap Generator, AI GIF Generator, AI Photo Editor",
     "slug": "faceswapvideo",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Zero, your trustworthy AI teammate for real work. Zero connects to 100+ tools and does the work. Reports, triage, outreach, research. In Slack or on the web.",
+    "name": "Zero, your trustworthy AI teammate for real work. Zero connects to 100+ tools and does the work. Reports, triage, outreach, research. In Slack or on the web.",
+    "description": "An AI teammate that automates reports, triage, and workflows within team communication tools.",
+    "website": "https://www.vm0.ai",
+    "categories": "AI Agent, AI Assistant, AI Workflow, AI Productivity Tools, Large Language Models (LLMs)",
+    "slug": "zero-your-trustworthy-ai-teammate-for-real-work-zero-connects-to-100-tools-and-does-the-work-reports-triage-outreach-research-in-slack-or-on-the-web",
+    "created_at": "04:26:56 04/27/2026"
   },
   {
     "title": "Head",
@@ -29014,6 +29032,15 @@
     "created_at": "14:12:46 10/08/2025"
   },
   {
+    "title": "PlusGO",
+    "name": "PlusGO",
+    "description": "Fast, card-free ChatGPT Plus top-up service for Chinese users.",
+    "website": "https://plusgo.pro",
+    "categories": "Other",
+    "slug": "plusgo",
+    "created_at": "04:26:56 04/27/2026"
+  },
+  {
     "title": "Blaze",
     "name": "Blaze.baby",
     "description": "Web development tool for fast website creation using HTML.",
@@ -41414,6 +41441,15 @@
     "categories": "AI Content Generator, Writing Assistants, General Writing, Copywriting, Transcription, Transcriber, Speech-to-Text, AI Advertising Assistant, AI Creative Writing, AI Rewriter, Paraphraser",
     "slug": "aipakistani",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Ahoy AI",
+    "name": "Ahoy AI",
+    "description": "An AI-native CRM platform designed for intelligent motion and streamlined business workflows.",
+    "website": "https://ahoy.ai",
+    "categories": "AI CRM, AI Assistant, AI Sales Assistant",
+    "slug": "ahoy-ai",
+    "created_at": "04:26:56 04/27/2026"
   },
   {
     "title": "Mixboard",
