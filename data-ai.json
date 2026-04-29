@@ -15867,6 +15867,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "HousePlan",
+    "name": "HousePlan",
+    "description": "HousePlan is an AI-powered home design tool that lets users generate 2D, 2.5D, and 3D floor plans by selecting room types, uploading images, or entering prompts—making custom house design fast and effortless.",
+    "website": "https://houseplan.io",
+    "categories": "AI Floor Plan Generator, AI Interior Design, AI Room Planner",
+    "slug": "houseplan",
+    "created_at": "15:52:18 04/29/2026"
+  },
+  {
     "title": "groas",
     "name": "groas",
     "description": "AI platform for optimizing Google Search Ads and funnels.",
@@ -17431,6 +17440,15 @@
     "categories": "AI Chatbot, Large Language Models (LLMs)",
     "slug": "offline-chat-private-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "HouseDesign",
+    "name": "HouseDesign",
+    "description": "HouseDesign.ai is an AI-powered interior and exterior design tool that generates building exterior, interior, and outdoor designs from a single photo, simple to use with no experience required.",
+    "website": "https://housedesign.ai",
+    "categories": "AI Landscape Generator, AI Backyard Design, AI Interior Design, AI Kitchen Design",
+    "slug": "housedesign",
+    "created_at": "15:52:18 04/29/2026"
   },
   {
     "title": "AISeedance2",
@@ -27914,6 +27932,15 @@
     "categories": "AI SEO Assistant, AI YouTube Assistant, AI Repurpose Assistant, AI Blog Writer, Copywriting, AI Content Generator, Writing Assistants, AI Social Media Assistant, AI Instagram Assistant",
     "slug": "yt2post-ai",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "chatgpt image 2.0",
+    "name": "chatgpt image 2.0",
+    "description": "Next-gen 4K AI image generator with 99% text accuracy and character consistency.",
+    "website": "https://gptimage2.tools",
+    "categories": "AI Image Generator, Image to Image, AI Logo Generator, AI Poster Generator, AI Character",
+    "slug": "chatgpt-image-2-0",
+    "created_at": "15:52:18 04/29/2026"
   },
   {
     "title": "Tablextract",
