@@ -18225,6 +18225,15 @@
     "created_at": "03:55:50 04/10/2026"
   },
   {
+    "title": "WhatToWear",
+    "name": "WhatToWear",
+    "description": "AI stylist generating personalized outfit ideas and virtual try-ons from a single clothing item.",
+    "website": "https://WhatToWear.ai",
+    "categories": "AI Outfit Generator, AI Image Generator, AI Design Assistant",
+    "slug": "whattowear",
+    "created_at": "15:43:55 04/30/2026"
+  },
+  {
     "title": "Seedance Pro",
     "name": "Seedance Pro",
     "description": "AI video generator transforming text and images into professional videos.",
@@ -18979,6 +18988,15 @@
     "categories": "AI Poem Generator, AI Creative Writing, AI Writing Assistants, AI Writing, AI Prompt Generator",
     "slug": "poemfolio",
     "created_at": "14:09:12 09/28/2025"
+  },
+  {
+    "title": "ProRemover",
+    "name": "ProRemover",
+    "description": "AI tool to remove unwanted objects, people, and text from photos online.",
+    "website": "https://proremover.io",
+    "categories": "Object Remover AI, AI Watermark Remover, AI Background Remover, AI Photo Editor, AI Eraser, AI Image Enhancer",
+    "slug": "proremover",
+    "created_at": "15:43:55 04/30/2026"
   },
   {
     "title": "Oh My Images",
@@ -21175,6 +21193,15 @@
     "categories": "AI Image Generator, AI Image Combiner, AI Realistic Image Generator, AI Product Photography, AI Person Generator, AI Inpainting, AI Image Upscaler, AI Image Sharpening, AI Image Enhancer, AI Background Remover, AI Copywriting, AI Background Generator, AI Writing, AI Text Generator, AI Text Classifier, AI Prompt Generator, AI Grammar Checker, AI Description Generator, Ad Copy",
     "slug": "mujo-ai",
     "created_at": "14:09:29 10/05/2025"
+  },
+  {
+    "title": "Shortodella",
+    "name": "Shortodella",
+    "description": "AI studio for generating and editing high-quality marketing videos and images via simple conversation.",
+    "website": "https://shortodella.com",
+    "categories": "AI Video Generator, AI Image Generator, AI Influencer, Text to Image, Image to Video",
+    "slug": "shortodella",
+    "created_at": "15:43:55 04/30/2026"
   },
   {
     "title": "ChatIMG",
