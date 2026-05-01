@@ -351,6 +351,15 @@
     "created_at": "03:43:43 02/11/2026"
   },
   {
+    "title": "GPT Image 2",
+    "name": "GPT Image 2 app io",
+    "description": "All-in-one AI image and video generator with advanced editing tools.",
+    "website": "https://gptimage2app.io",
+    "categories": "AI Image Generator, AI Art Generator, AI Photo Editor, Text to Image, Image to Image, AI Video Generator, AI Background Remover, AI Image Enhancer, Object Remover AI",
+    "slug": "gpt-image-2-app-io",
+    "created_at": "04:44:05 05/01/2026"
+  },
+  {
     "title": "Lovart",
     "name": "Lovart",
     "description": "AI design agent turning prompts into creative masterpieces.",
@@ -2493,6 +2502,15 @@
     "created_at": "02:26:46 09/28/2025"
   },
   {
+    "title": "AI Avatar Generator",
+    "name": "AI Avatar Generator - ai",
+    "description": "AI tool that transforms photos into unique artistic avatars for social media platforms.",
+    "website": "https://www.squarefacegenerator.ai",
+    "categories": "AI Avatar Generator, AI Profile Picture Generator, AI Cartoon Generator, AI Anime Generator",
+    "slug": "ai-avatar-generator-ai",
+    "created_at": "04:44:05 05/01/2026"
+  },
+  {
     "title": "WhatsApp wa.me with Prefilled Text",
     "name": "WhatsApp wa.me with Prefilled Text",
     "description": "Free generator for wa.me links with prefilled, URL-encoded text and automatic encoding.",
@@ -3330,6 +3348,15 @@
     "created_at": "03:28:06 03/12/2026"
   },
   {
+    "title": "GPT Image Prompt",
+    "name": "GPT Image Prompt",
+    "description": "Free library and generator with 100+ high-quality prompts for stunning AI image creation.",
+    "website": "https://gptimageprompt.io",
+    "categories": "AI Prompt Generator, AI Image Generator, Prompt Engineering, Text to Image",
+    "slug": "gpt-image-prompt",
+    "created_at": "04:44:05 05/01/2026"
+  },
+  {
     "title": "Supamail",
     "name": "Supamail",
     "description": "AI email assistant for Gmail",
@@ -3661,6 +3688,15 @@
     "categories": "AI Product Description Generator, AI SEO Assistant, E-commerce Assistant",
     "slug": "csv2ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "GoAISong",
+    "name": "GoAISong",
+    "description": "An AI workspace that turns ideas into complete, studio-quality songs in minutes.",
+    "website": "https://goaisong.com",
+    "categories": "AI Song Generator, AI Music Generator, AI Lyrics Generator, AI Cover Generator, AI Beat Generator, AI Vocal Remover, AI Rap Generator",
+    "slug": "goaisong",
+    "created_at": "04:44:05 05/01/2026"
   },
   {
     "title": "Cheaprr",
@@ -4273,6 +4309,15 @@
     "categories": "AI Art Generator, AI Photo Enhancer, AI Photo & Image Generator, Image to Image",
     "slug": "ai-image-fusion-tool",
     "created_at": "14:12:11 05/16/2025"
+  },
+  {
+    "title": "MoClaw AI",
+    "name": "MoClaw AI",
+    "description": "MoClaw is your personal AI assistant that actually gets things done — research, automate tasks, and manage your day. No setup, no deployment needed.",
+    "website": "https://moclaw.ai",
+    "categories": "AI Agent, AI Productivity Tools",
+    "slug": "moclaw-ai",
+    "created_at": "04:44:05 05/01/2026"
   },
   {
     "title": "ToS Expert",
@@ -8028,6 +8073,15 @@
     "created_at": "02:20:22 11/08/2025"
   },
   {
+    "title": "ArchyBase",
+    "name": "ArchyBase",
+    "description": "All-in-one AI platform for architectural, interior, and landscape rendering from photos or sketches.",
+    "website": "https://www.archybase.com",
+    "categories": "AI Interior Design, AI Design Generator, AI Landscape Generator, AI Sketch Generator, AI Floor Plan Generator, AI Room Planner, AI Backyard Design",
+    "slug": "archybase",
+    "created_at": "04:44:05 05/01/2026"
+  },
+  {
     "title": "Polymer",
     "name": "Polymer",
     "description": "A platform for preventing data breaches with real-time monitoring",
@@ -10276,6 +10330,15 @@
     "categories": "AI Website Designer, AI Design Assistant, AI Graphic Design",
     "slug": "retro-camera",
     "created_at": "14:12:58 11/20/2025"
+  },
+  {
+    "title": "GPT Image 2 AI Image Generator",
+    "name": "GPT Image 2 AI Image Generator",
+    "description": "Say goodbye to blurry AI brushstrokes and garbled text rendering.  Using newest GPT Image 2 model to get more controllable image results, support batch mode ,free to try",
+    "website": "https://nanobananapro.pics",
+    "categories": "AI Product Photography, AI Image Enhancer, AI Image Generator, AI Inpainting, AI Photo Editor, AI Photo Enhancer, AI Photo Restoration, AI Style Transfer, AI Yearbook, Image to Image, Object Remover AI, Text to Image",
+    "slug": "gpt-image-2-ai-image-generator",
+    "created_at": "04:44:05 05/01/2026"
   },
   {
     "title": "GPT Image 2",
@@ -12895,6 +12958,15 @@
     "categories": "AI Video Generator, AI Voice Cloning, AI Celebrity Voice Generator, Text to Video, AI Voice Generator, AI Text-to-Speech",
     "slug": "celebrity-ai",
     "created_at": "02:27:46 08/31/2025"
+  },
+  {
+    "title": "SeedVideo AI",
+    "name": "SeedVideo AI",
+    "description": "Advanced multi-modal AI video generator for cinematic content with precise reference and consistency control.",
+    "website": "https://seedvideo.io",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor, AI Image Generator",
+    "slug": "seedvideo-ai",
+    "created_at": "04:44:05 05/01/2026"
   },
   {
     "title": "GPT Image 2 — Online AI Image Generator by OpenAI’s GPT",
@@ -31642,6 +31714,15 @@
     "created_at": "14:28:33 01/30/2026"
   },
   {
+    "title": "Lalals",
+    "name": "Lalals",
+    "description": "Professional AI audio suite for voice cloning, music generation, and vocal processing.",
+    "website": "https://lalals.com",
+    "categories": "AI Voice Generator, AI Music Generator, AI Voice Changer, AI Voice Cloning, AI Song Generator, AI Lyrics Generator, AI Stems Splitter, AI Sound Effect Generator, AI Cover Generator",
+    "slug": "lalals",
+    "created_at": "04:44:05 05/01/2026"
+  },
+  {
     "title": "LinkBird",
     "name": "Linkbird",
     "description": "AI-powered LinkedIn automation for safe outreach and lead generation.",
@@ -31928,6 +32009,15 @@
     "categories": "AI Image Generator, Text to Image, AI Poster Generator, AI Ad Generator, AI Marketing, AI Graphic Design",
     "slug": "nano-banana-2-4k-ai-image-generator",
     "created_at": "03:28:06 03/12/2026"
+  },
+  {
+    "title": "Magnific",
+    "name": "Magnific (formerly Freepik)",
+    "description": "Unified AI creative suite for professional video, image, and audio production.",
+    "website": "https://www.magnific.com",
+    "categories": "AI Image Generator, AI Video Generator, AI Voice Generator, AI Image Upscaler, AI Advertising, AI Workflow, AI API, AI 3D Model Generator, AI Design Generator",
+    "slug": "magnific-formerly-freepik",
+    "created_at": "04:44:05 05/01/2026"
   },
   {
     "title": "Bookeeping.ai",
