@@ -486,6 +486,15 @@
     "created_at": "14:09:40 04/13/2025"
   },
   {
+    "title": "FacePrivacy",
+    "name": "FacePrivacy",
+    "description": "Service to remove your face from global facial recognition databases and provide continuous monitoring.",
+    "website": "https://faceprivacy.ai",
+    "categories": "AI Face Recognition, AI Image Recognition, AI Legal Assistant",
+    "slug": "faceprivacy",
+    "created_at": "04:15:14 05/02/2026"
+  },
+  {
     "title": "YouMind",
     "name": "YouMind",
     "description": "AI Creation Studio for turning ideas into diverse content.",
@@ -17433,6 +17442,15 @@
     "created_at": "02:48:39 12/19/2025"
   },
   {
+    "title": "VibeKnow Studio",
+    "name": "VibeKnow Studio",
+    "description": "AI platform converting documents and URLs into structured knowledge videos for training and onboarding.",
+    "website": "https://vibeknow.ai",
+    "categories": "AI Video Generator, Text to Video, Script To Video AI Generator, AI Presentation Generator",
+    "slug": "vibeknow-studio",
+    "created_at": "04:15:14 05/02/2026"
+  },
+  {
     "title": "Minddex.ai",
     "name": "Minddex.ai",
     "description": "Minddex is the first platform dedicated to GEO – Generative Engine Optimization.  As millions of users now rely on AI tools like ChatGPT, Gemini, and Perplexity to find information, Minddex helps brands measure and improve their visibility in AI-generated answers.",
@@ -32207,6 +32225,15 @@
     "categories": "AI Video Generator, AI Short Video Generator, Script To Video AI Generator, AI Youtube Video Maker, AI Vtuber, AI Video Search, AI UGC Video Generator, AI Tiktok Video Generator, AI Stock Video Generator, AI Reel Generator, AI Animated Video, AI Music Video Generator, AI Movie Generator, AI Lip Sync Generator, AI Face Swap Video, AI Commercial Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, Text to Video",
     "slug": "veo3-json-prompt",
     "created_at": "14:18:04 08/04/2025"
+  },
+  {
+    "title": "PollenTracker",
+    "name": "PollenTracker",
+    "description": "A simple pollen tracker that helps you check daily pollen levels and trends, so you can plan outdoor activities and avoid bad allergy days.",
+    "website": "https://pollentracker.app",
+    "categories": "AI Healthcare, AI Fitness, AI Parenting",
+    "slug": "pollentracker",
+    "created_at": "04:15:14 05/02/2026"
   },
   {
     "title": "Nevar",
