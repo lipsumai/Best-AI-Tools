@@ -26674,6 +26674,15 @@
     "created_at": "14:12:11 05/29/2025"
   },
   {
+    "title": "Spark Robin",
+    "name": "Spark Robin",
+    "description": "AI video generator for turning text and images into creative video clips.",
+    "website": "https://sparkrobin.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "spark-robin",
+    "created_at": "14:42:03 05/03/2026"
+  },
+  {
     "title": "FaceAI",
     "name": "FACE AI",
     "description": "AI tool for generating realistic human faces and photos.",
@@ -32155,6 +32164,15 @@
     "created_at": "14:48:06 04/01/2025"
   },
   {
+    "title": "Meridian Realms",
+    "name": "Meridian Realms",
+    "description": "A high quality narrative focused AI Roleplay platform",
+    "website": "https://www.meridianrealmsai.com",
+    "categories": "AI Roleplay, AI Image Generator, AI Realistic Image Generator, AI Waifu Generator, Text to Image, AI Character",
+    "slug": "meridian-realms",
+    "created_at": "14:42:03 05/03/2026"
+  },
+  {
     "title": "FileSpeech",
     "name": "FileSpeech",
     "description": "Convert files into speech with personalized language and voice options.",
@@ -36808,6 +36826,15 @@
     "created_at": "14:12:11 07/04/2025"
   },
   {
+    "title": "Travel Sane",
+    "name": "Travel Sane",
+    "description": "Turns travel booking confirmations into a chronological itinerary with automatic gap detection.",
+    "website": "https://travel-sane.com",
+    "categories": "AI Trip Planner, AI Travel, AI Schedule Maker",
+    "slug": "travel-sane",
+    "created_at": "14:42:03 05/03/2026"
+  },
+  {
     "title": "HAND",
     "name": "HAND",
     "description": "HAND is an online platform that offers affordable babysitting services to parents using earned points.",
@@ -39427,6 +39454,15 @@
     "created_at": "15:06:01 04/22/2026"
   },
   {
+    "title": "JustVibe",
+    "name": "JustVibe",
+    "description": "JustVibe is an AI search alternative that builds dynamic and interactive UI to answer your questions instead of static text or links.",
+    "website": "https://justvibe.com",
+    "categories": "AI App Builder, AI Recipe, AI Trip Planner",
+    "slug": "justvibe",
+    "created_at": "14:42:03 05/03/2026"
+  },
+  {
     "title": "Playstrict",
     "name": "Playstrict",
     "description": "Playstrict helps game developers promote and monetize their games through marketing and promotion services.",
@@ -40858,6 +40894,15 @@
     "created_at": "02:26:46 09/28/2025"
   },
   {
+    "title": "Cliptrend.ai",
+    "name": "Cliptrend.ai",
+    "description": "ClipTrend.ai is a one-click AI video template tool that turns viral TikTok and YouTube effects into ready-to-use templates — no prompt, no model picking.",
+    "website": "https://cliptrend.ai",
+    "categories": "AI Tiktok Video Generator, AI Animated Video, AI Face Swap Video, AI Short Video Generator, AI UGC Video Generator, AI Video Editor, AI Video Generator, AI Video Search, AI Youtube Video Maker, Text to Video",
+    "slug": "cliptrend-ai",
+    "created_at": "14:42:03 05/03/2026"
+  },
+  {
     "title": "Agen",
     "name": "Agen",
     "description": "Fully Autonomous AI Coding Agents",
@@ -41270,6 +41315,15 @@
     "categories": "AI Video Generator, Text to Video, AI Lip Sync Generator, AI Commercial Generator, AI Marketing, AI Music Video Generator",
     "slug": "matrix-game-2",
     "created_at": "14:14:05 08/13/2025"
+  },
+  {
+    "title": "Toucan Ai",
+    "name": "Toucan Ai",
+    "description": "AI generator turning text prompts into structured video storyboards and drafts in seconds.",
+    "website": "https://toucanai.ai",
+    "categories": "AI Video Generator, Text to Video, Storyboard AI",
+    "slug": "toucan-ai",
+    "created_at": "14:42:03 05/03/2026"
   },
   {
     "title": "Clawdbot AI",
@@ -44762,6 +44816,15 @@
     "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Image, AI API",
     "slug": "grok-imagine",
     "created_at": "14:18:04 08/04/2025"
+  },
+  {
+    "title": "Wan 3",
+    "name": "Wan 3",
+    "description": "Next-gen AI platform transforming text prompts into cinematic, professional videos with synchronized audio.",
+    "website": "https://wan3.video",
+    "categories": "AI Video Generator, Text to Video, AI Commercial Generator, AI Short Video Generator, AI API",
+    "slug": "wan-3",
+    "created_at": "14:42:03 05/03/2026"
   },
   {
     "title": "Hermes 3000",
