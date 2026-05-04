@@ -17532,6 +17532,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "AI Studio for Video",
+    "name": "AI Studio for Video",
+    "description": "AI Studio for Video is an all-in-one AI creative workspace for AI video generation and AI image generation. Create Text-to-Video, Image-to-Video, Text-to-Image, Image-to-Image, plus reference-driven shot control.",
+    "website": "https://ai-studio.video",
+    "categories": "AI Video Generator, AI Wallpaper Generator, Text to Video, Image to Video, AI Video Editor, AI UGC Video Generator, AI Short Video Generator, Text to Image, Text to Handwriting, Object Remover AI, Image to Image, AI Watermark Remover, AI Photo Enhancer, AI Avatar Generator, AI Photo Editor, AI Passport Photo, AI Inpainting, AI Image Upscaler, AI Image Generator, AI Image Enhancer, AI Image Combiner, AI Headshot Generator, AI Cosplay Generator, AI Background Remover, AI Background Generator, Video to Video",
+    "slug": "ai-studio-for-video",
+    "created_at": "15:54:45 05/04/2026"
+  },
+  {
     "title": "HouseDesign",
     "name": "HouseDesign",
     "description": "HouseDesign.ai is an AI-powered interior and exterior design tool that generates building exterior, interior, and outdoor designs from a single photo, simple to use with no experience required.",
@@ -25313,6 +25322,15 @@
     "categories": "AI CRM, AI Sales, AI Sales Assistant, AI Customer Service, AI Voice Cloning",
     "slug": "blooio",
     "created_at": "14:19:12 01/14/2026"
+  },
+  {
+    "title": "Imagesv2  Ai",
+    "name": "Imagesv2  Ai",
+    "description": "This time, I don’t want to recommend just another website that can “generate images.” I want to recommend imagesv2.ai.  I prefer to think of it as an AI visual toolbox. When you want to generate transparent PNGs, create SVG icons, export posters as PSD files, illustrate articles, generate WeChat chat screenshots, create tweet screenshots, simulate Douyin/TikTok livestream rooms, make LinkedIn business portraits, generate personal style cards, or even create 360° panoramic images, it has already prepared dedicated entry points for all of these tasks.  This matters a lot for everyday users. Most of the time, we don’t open an AI tool just to “play with AI art.” We open it because we need to complete a specific task",
+    "website": "https://imagesv2.ai",
+    "categories": "AI Image Generator",
+    "slug": "imagesv2-ai",
+    "created_at": "15:54:45 05/04/2026"
   },
   {
     "title": "Pixelfox AI",
