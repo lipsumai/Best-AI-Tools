@@ -9135,6 +9135,15 @@
     "created_at": "14:12:11 07/04/2025"
   },
   {
+    "title": "SeekShop",
+    "name": "SeekShop",
+    "description": "SeekShop is a free AI-powered Chrome extension that analyzes thousands of real reviews from Reddit, YouTube, and across the web to generate an honest SmartScore - right on the product page while you shop.",
+    "website": "https://seekshop.co",
+    "categories": "AI Shopping Assistant, AI Assistant, AI Copilot, AI Productivity Tools, AI Research Tool",
+    "slug": "seekshop",
+    "created_at": "04:30:05 05/06/2026"
+  },
+  {
     "title": "Agent 37",
     "name": "Agent 37",
     "description": "Monetize Claude AI skills, hosted platform, Stripe payments.",
@@ -15307,6 +15316,15 @@
     "categories": "AI Agent, AI Developer Tools, AI API, AI Workflow",
     "slug": "fastn-ucl",
     "created_at": "14:12:54 06/25/2025"
+  },
+  {
+    "title": "Agentcadia",
+    "name": "Agentcadia",
+    "description": "Discover, evaluate, adopt, and publish ready-to-use OpenClaw AI Agents.",
+    "website": "https://agentcadia.ai",
+    "categories": "AI Agent, AI Developer Tools, AI Testing, AI Marketing",
+    "slug": "agentcadia",
+    "created_at": "04:30:05 05/06/2026"
   },
   {
     "title": "Zenth AI",
@@ -27394,6 +27412,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "Kairval",
+    "name": "Kairval",
+    "description": "AI multimedia platform generating professional images and videos from text.",
+    "website": "https://kairval.com",
+    "categories": "AI Image Generator, AI Video Generator, AI API, AI Photo Editor",
+    "slug": "kairval",
+    "created_at": "04:30:05 05/06/2026"
+  },
+  {
     "title": "Runway Aleph",
     "name": "Runway Aleph",
     "description": "AI-powered video editor for multi-task video manipulation using natural language.",
@@ -28420,6 +28447,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Intellemo AI video generation platform",
+    "name": "Intellemo AI video generation platform",
+    "description": "Intellemo AI is a powerful cinematic AI video generator designed to transform simple text prompts into high-quality, story-driven videos. Built for marketers, brands, and agencies, it enables scalable AI video creation, helping users produce engaging video content for ads, campaigns, and storytelling without complex production processes.",
+    "website": "https://intellemo.ai",
+    "categories": "AI Video Generator, AI Animated Video, AI Animation Generator, AI Commercial Generator, AI GIF Generator, AI Movie Generator, AI Music Video Generator, AI Reel Generator, AI Short Video Generator, AI Stock Video Generator, AI UGC Video Generator, AI Video Upscaler, AI Youtube Video Maker, Text to Video",
+    "slug": "intellemo-ai-video-generation-platform",
+    "created_at": "04:30:05 05/06/2026"
+  },
+  {
     "title": "Footage",
     "name": "Footage",
     "description": "Footage is an AI-powered video platform that lets you create, edit, and share professional-quality video",
@@ -29129,6 +29165,15 @@
     "categories": "AI Productivity Tools, AI Assistant, AI Writing Assistants, AI Response Generator",
     "slug": "start-up-typerdex",
     "created_at": "14:12:54 06/25/2025"
+  },
+  {
+    "title": "Columns AI",
+    "name": "Columns AI",
+    "description": "AI-powered platform for automated data cleaning, visualization, and storytelling.",
+    "website": "https://columns.ai",
+    "categories": "AI Charting, AI For Data Analytics, AI Spreadsheet, AI Infographic Generator, AI Document Extraction",
+    "slug": "columns-ai",
+    "created_at": "04:30:05 05/06/2026"
   },
   {
     "title": "picture to drawing",
@@ -30011,6 +30056,15 @@
     "categories": "AI Copywriting",
     "slug": "muset",
     "created_at": "02:15:29 09/10/2025"
+  },
+  {
+    "title": "PopcornAI",
+    "name": "PopcornAI",
+    "description": "PopcornAI is an all-in-one AI creative platform giving creators and marketers access to 14+ top AI models — including Seedance, GPT Image 2, and more — for video and image generation in a single Freemium subscription.",
+    "website": "https://popcornai.art",
+    "categories": "AI Video Generator, AI Avatar Generator, AI Background Generator, AI Background Remover, AI Face Swap Generator, AI Image Combiner, AI Image Generator, AI Person Generator, Image to Image, AI Short Video Generator, AI Stock Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, AI Video Editor, Image to Video, Text to Video",
+    "slug": "popcornai",
+    "created_at": "04:30:05 05/06/2026"
   },
   {
     "title": "Nano Banana AI | Nano Banana the Best AI Image Generator",
@@ -34171,6 +34225,15 @@
     "created_at": "02:44:40 10/27/2025"
   },
   {
+    "title": "UpscalePro",
+    "name": "UpscalePro",
+    "description": "AI image upscaler and enhancer providing 4K resolution and background removal tools.",
+    "website": "https://upscalepro.ai",
+    "categories": "AI Image Upscaler, AI Image Enhancer, AI Background Remover, AI Photo Restoration, AI Anime Generator",
+    "slug": "upscalepro",
+    "created_at": "04:30:05 05/06/2026"
+  },
+  {
     "title": "MaxClaw",
     "name": "maxclaw",
     "description": "Official cloud-hosted AI agent by MiniMax with instant deployment and long-term memory.",
@@ -36961,6 +37024,15 @@
     "created_at": "14:11:17 06/11/2025"
   },
   {
+    "title": "Veo 4",
+    "name": "Veo 4 - 1",
+    "description": "Multi-modal AI video generator with native audio, character consistency, and precise motion control.",
+    "website": "https://aiveo4.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Video Editor, AI Commercial Generator, AI Music Video Generator, AI Short Video Generator",
+    "slug": "veo-4-1",
+    "created_at": "04:30:05 05/06/2026"
+  },
+  {
     "title": "Convi",
     "name": "Convi",
     "description": "AI-powered commerce suite for Shopify merchants.",
@@ -37319,6 +37391,15 @@
     "categories": "AI Image Generator, AI Avatar Generator, AI Background Generator, AI Headshot Generator, AI Image Combiner, AI Inpainting, AI Photo Editor, AI Photo Restoration, AI Product Photography, AI Profile Picture Generator, AI Style Transfer, Image to Image, Object Remover AI, Text to Image",
     "slug": "nano-banana-pro-free-ai-image-generator-online",
     "created_at": "14:10:55 11/23/2025"
+  },
+  {
+    "title": "PropsBot.AI",
+    "name": "PropsBot.AI",
+    "description": "PropsBot.AI is a free AI player prop generator that scores every NFL, NBA, MLB, and NHL prop on tonight's slate against predictive models, sorts them by edge, and shows you where the sportsbooks have it wrong. 31.7% verified ROI on 101,881 MLB props. Available on iOS, Android, and web.",
+    "website": "https://propsbot.ai",
+    "categories": "AI Sports Betting, AI For Data Analytics, AI Sports Predictions",
+    "slug": "propsbot-ai",
+    "created_at": "04:30:05 05/06/2026"
   },
   {
     "title": "AI Humanizer",
@@ -38327,6 +38408,15 @@
     "categories": "AI Animation Generator, AI Video Generator, AI Face Swap Video, AI Character, AI Animated Video",
     "slug": "wan-animate",
     "created_at": "14:13:57 10/22/2025"
+  },
+  {
+    "title": "Fluenta",
+    "name": "Fluenta",
+    "description": "Score any startup idea on a 0-100 Launch Readiness Score across 6 live market signals — sourced data, daily refresh, no LLM hallucinations.",
+    "website": "https://fluenta.space",
+    "categories": "AI Research Tool, AI Business Ideas Generator, AI For Data Analytics",
+    "slug": "fluenta",
+    "created_at": "04:30:05 05/06/2026"
   },
   {
     "title": "Video Cutter",
@@ -40001,6 +40091,15 @@
     "categories": "AI Lip Sync Generator, AI Animation Generator, AI Dubbing, AI Video Translator, Video to Video",
     "slug": "lip-sync-ai",
     "created_at": "02:27:01 11/27/2025"
+  },
+  {
+    "title": "Imggpt - GPT Image AI",
+    "name": "Imggpt - GPT Image AI",
+    "description": "All-in-one AI image generator and editor for professional, production-ready creative assets.",
+    "website": "https://imggpt.io",
+    "categories": "AI Image Generator, AI Photo Editor, Text to Image, Image to Image, AI Background Remover, AI Product Photography, AI Prompt Generator",
+    "slug": "imggpt-gpt-image-ai",
+    "created_at": "04:30:05 05/06/2026"
   },
   {
     "title": "Vadu AI",
@@ -43378,6 +43477,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Demi AI",
+    "name": "Demi AI",
+    "description": "Proactive AI assistant for sales professionals to automate emails, scheduling, and deal prioritization.",
+    "website": "https://www.demi.ai",
+    "categories": "AI Assistant, AI Sales Assistant, AI Email Assistant, AI Meeting Assistant, AI Transcription, AI Scheduling",
+    "slug": "demi-ai",
+    "created_at": "04:30:05 05/06/2026"
+  },
+  {
     "title": "Nim",
     "name": "nim video",
     "description": "All-in-one app for AI video production and generation.",
@@ -44006,6 +44114,15 @@
     "categories": "AI Search Engine, AI Image Recognition, AI Video Search, AI Photo Editor, AI API",
     "slug": "coreviz",
     "created_at": "14:12:12 08/22/2025"
+  },
+  {
+    "title": "Free AI Generator",
+    "name": "Free AI Generator",
+    "description": "Free AI image generator with continuous editing. Generate from text or photo, then edit, swap backgrounds, change outfits or hairstyles, and upscale — all in the same studio without re-uploading.",
+    "website": "https://free-ai-generator.com",
+    "categories": "AI Image Generator, AI Background Remover, AI Headshot Generator, AI Image Upscaler, AI Person Generator, AI Photo Editor, AI Photo Restoration, AI Profile Picture Generator, Image to Image, Text to Image, AI Art Generator",
+    "slug": "free-ai-generator",
+    "created_at": "04:30:05 05/06/2026"
   },
   {
     "title": "Sparkco AI Spreadsheet Agent",
