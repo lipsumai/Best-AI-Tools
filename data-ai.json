@@ -32695,6 +32695,15 @@
     "created_at": "14:12:52 07/16/2025"
   },
   {
+    "title": "ImageToVideoAI",
+    "name": "ImageToVideoAI - 1",
+    "description": "Multi-model AI platform transforming photos into cinematic videos, hugs, and product ads.",
+    "website": "https://imagetovideoai.net",
+    "categories": "Image to Video, AI Video Generator, AI Animation Generator, AI Ad Generator",
+    "slug": "imagetovideoai-1",
+    "created_at": "15:57:43 05/06/2026"
+  },
+  {
     "title": "Flowpost.io",
     "name": "Flowpost.io",
     "description": "Generate Linkedin Carousels and Posts in seconds",
@@ -36086,6 +36095,15 @@
     "categories": "Research Tool, Report Writing, AI Interview Assistant, AI Recruiting, AI Advertising Assistant, AI Ad Creative Assistant, AI Lead Generation, Marketing Plan Generator",
     "slug": "listen-labs",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "GeniLoop",
+    "name": "GeniLoop",
+    "description": "An all-in-one AI studio for generating professional cinematic videos and artistic images.",
+    "website": "https://geniloop.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Animation Generator",
+    "slug": "geniloop-all-in-one-ai-image-video-generator",
+    "created_at": "15:57:43 05/06/2026"
   },
   {
     "title": "Koodi AI",
