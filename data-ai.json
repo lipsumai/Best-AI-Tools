@@ -1908,6 +1908,15 @@
     "created_at": "14:13:21 11/06/2025"
   },
   {
+    "title": "ElevenMusic",
+    "name": "ElevenMusic",
+    "description": "AI-powered music platform for discovering, remixing, creating original tracks, and earning royalties.",
+    "website": "https://elevenmusic.io",
+    "categories": "AI Music Generator, AI Song Generator, AI Song Remixer",
+    "slug": "elevenmusic",
+    "created_at": "16:00:23 05/07/2026"
+  },
+  {
     "title": "MixHub AI",
     "name": "MixHub AI",
     "description": "Mixhub AI is a free all-in-one platform for AI Chat, Image, and Video generation.For AI Chat, the platform offers unlimited free access to the latest and most comprehensive chat models such as GPT, Gemini, Claude, and more. For AI Image generation, it supports both text-to-image and image-to-image workflows, integrated with cutting-edge models including Nano Banana, Flux, WAN, and GPT-Image-1, empowering users to create diverse, high-quality visuals with ease. For AI Video creation, Mixhub AI enables text-to-video and image-to-video generation through leading models like Hailuo, Kling, and Seedance, making video production faster and more accessible than ever.With Mixhub AI, you can seamlessly explore the latest AI technologies and transform your ideas into engaging conversations, stunning images, and dynamic videos—all in one place, all for free.",
@@ -3724,6 +3733,15 @@
     "categories": "AI Product Description Generator, AI SEO Assistant, E-commerce Assistant",
     "slug": "csv2ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Aura.build",
+    "name": "Aura.build",
+    "description": "AI website builder generating responsive landing pages with HTML and Figma export capabilities.",
+    "website": "https://www.aura.build",
+    "categories": "AI Landing Page Builder, AI Website Builder, AI Design Generator, AI Website Designer",
+    "slug": "aura-build",
+    "created_at": "16:00:23 05/07/2026"
   },
   {
     "title": "GoAISong",
@@ -29509,6 +29527,15 @@
     "created_at": "02:37:41 05/23/2025"
   },
   {
+    "title": "MakeAIVideo",
+    "name": "MakeAIVideo",
+    "description": "A multi-model AI video and image generator for creating professional-quality cinematic content.",
+    "website": "https://makeaivideo.app",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, AI Ad Generator, Text to Image",
+    "slug": "makeaivideo",
+    "created_at": "16:00:23 05/07/2026"
+  },
+  {
     "title": "Balbee",
     "name": "Balbee",
     "description": "AI-powered journaling app for mood tracking and personalization.",
@@ -31649,6 +31676,15 @@
     "categories": "AI SEO Tools, AI Search Engine, AI Monitor, Large Language Models (LLMs), AI Marketing",
     "slug": "llm-pulse",
     "created_at": "02:25:05 09/15/2025"
+  },
+  {
+    "title": "SweetTalk Ai",
+    "name": "SweetTalk Ai",
+    "description": "AI companion platform with photorealistic characters and persistent memory for realistic, personal conversations.",
+    "website": "https://www.sweettalk.ai",
+    "categories": "AI Girlfriend, AI Boyfriend, AI Character, AI Chatbot, AI Roleplay",
+    "slug": "sweettalk-ai",
+    "created_at": "16:00:23 05/07/2026"
   },
   {
     "title": "WriteSmith",
@@ -40075,6 +40111,15 @@
     "created_at": "14:17:38 08/07/2025"
   },
   {
+    "title": "Vidnix.ai-The most cheapest of AI Video Generator",
+    "name": "Vidnix.ai-The most cheapest of AI Video Generator",
+    "description": "The most cheapest of AI video generator platform.Veo3.1 Fast   As low as  $0.29  per video Nano Banana 2  As low as  $0.01  per image.Explore top models including Seedance 1.5, Seedance 2.0, HappyHorse 1.0, Veo 3.1, Kling 3.0, Skyreels V4, and other mainstream AI video creation platforms.",
+    "website": "https://vidnix.ai",
+    "categories": "AI Image Generator, AI Drawing, AI Anime Art, AI Anime Generator, AI Bikini, AI Brochure Maker, AI Cat, AI Clothing Generator, AI Color Palette Generator, AI Coloring Book Generator, AI Comic, AI Comic Factory, AI Comic Generator, AI Cover Generator, AI Design Assistant, AI Graphic Design, AI Audio Enhancer, AI Hair Color Changer, AI Hairstyle, AI Icon Generator, AI Illustration Generator, AI Infographic Generator, AI Logo Generator, AI Manga Generator, AI Movie Poster, AI Painting Generator, AI Pattern Generator, AI Photography, AI Pixel Art, AI Influencer, AI Instagram, AI Music Generator, Text to Image, AI Blog Generator, AI Inpainting, AI Background Remover, AI Clothing Removal, AI Colorize, AI Cosplay Generator, AI Crop Image, AI Eraser, AI Expand Image, AI Face Swap Generator, AI Headshot Generator, AI Image Combiner, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler, AI Outpainting, Object Remover AI, AI Person Generator, AI Photo Editor, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration, AI Product Photography, AI Profile Picture Generator, AI Unblur Image, AI Waifu Generator, AI Wallpaper Generator, AI Watermark Remover, AI Yearbook, Gender Swap AI, Image to Image, AI Model Instagram",
+    "slug": "vidnix-ai-the-most-cheapest-of-ai-video-generator",
+    "created_at": "16:00:23 05/07/2026"
+  },
+  {
     "title": "Formy 3D",
     "name": "Formy 3D",
     "description": "AI generator transforming text and images into production-ready 3D models.",
@@ -41387,6 +41432,15 @@
     "categories": "AI Advertising Assistant, AI Social Media Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Ad Creative Assistant, AI Ad Generator, AI Design Generator, AI Graphic Design, Design Assistant, AI Banner Generator, AI Content Generator, AI Photo & Image Generator, Copywriting, Writing Assistants",
     "slug": "creatopy",
     "created_at": "14:10:15 04/19/2025"
+  },
+  {
+    "title": "AirMusic",
+    "name": "AirMusic",
+    "description": "AI music and video generator for creating unique, royalty-free tracks and viral content.",
+    "website": "https://airmusic.ai",
+    "categories": "AI Music Generator, AI Music Video Generator, AI Song Generator, AI Cover Generator, AI Lyrics Generator, AI Rap Generator, AI Beat Generator, AI Vocal Remover, AI Voice Cloning, AI Instrumental Generator, AI Singing Generator",
+    "slug": "airmusic",
+    "created_at": "16:00:23 05/07/2026"
   },
   {
     "title": "MEJ Sales AI",
@@ -43585,6 +43639,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Astero",
+    "name": "Astero - AI Website Builder V1",
+    "description": "AI-driven website builder and CMS for designing, launching, and scaling high-performing websites.",
+    "website": "https://astero.in",
+    "categories": "AI Website Builder, AI Website Designer, AI Writing, AI SEO Tools, AI Copywriting, AI Blog Generator",
+    "slug": "astero-ai-website-builder-v1",
+    "created_at": "16:00:23 05/07/2026"
+  },
+  {
     "title": "Demi AI",
     "name": "Demi AI",
     "description": "Proactive AI assistant for sales professionals to automate emails, scheduling, and deal prioritization.",
@@ -43610,6 +43673,15 @@
     "categories": "AI Content Generator, AI Email Generator, AI Email Writer, AI Reply Assistant, AI Response Generator, AI Productivity Tools, AI Chatbot, AI Email Assistant",
     "slug": "genieeai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Adoptly",
+    "name": "Adoptly",
+    "description": "No-code platform for SaaS in-app announcements, targeting, and feature adoption analytics.",
+    "website": "https://useadoptly.com",
+    "categories": "AI Assistant, AI Marketing, AI Copilot, AI Lead Generation, No-Code&Low-Code",
+    "slug": "adoptly",
+    "created_at": "16:00:23 05/07/2026"
   },
   {
     "title": "AI Homework Helper",
