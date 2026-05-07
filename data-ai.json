@@ -1611,6 +1611,15 @@
     "created_at": "03:35:55 03/19/2026"
   },
   {
+    "title": "AI Summarizer",
+    "name": "AI Summarizer - 1",
+    "description": "A free tool that condenses long texts into clear, customizable summaries without requiring registration.",
+    "website": "https://www.wps.com",
+    "categories": "AI Summarizer, AI Article Summarizer, AI Writing Assistants, AI Productivity Tools",
+    "slug": "ai-summarizer-1",
+    "created_at": "04:30:35 05/07/2026"
+  },
+  {
     "title": "Weavely.ai",
     "name": "Weavely.ai",
     "description": "AI Forms and Surveys",
@@ -2086,6 +2095,15 @@
     "categories": "AI Image Generator, Text to Image, Image to Image, AI Graphic Design, AI Poster Generator, AI Photo Editor, AI Infographic Generator",
     "slug": "gpt-image-2-7",
     "created_at": "04:09:45 04/23/2026"
+  },
+  {
+    "title": "Petdex",
+    "name": "Petdex",
+    "description": "A public gallery of 1,000+ animated open-source companions for Codex environments.",
+    "website": "https://petdex.crafter.run",
+    "categories": "AI Developer Tools, AI Character, AI Pixel Art",
+    "slug": "petdex",
+    "created_at": "04:30:35 05/07/2026"
   },
   {
     "title": "BeC",
@@ -2599,6 +2617,15 @@
     "categories": "AI Coaching, AI Life, AI Assistant, AI Productivity Tools, AI Mental Health",
     "slug": "hemleion",
     "created_at": "03:03:45 12/01/2025"
+  },
+  {
+    "title": "HyperFrames",
+    "name": "Hyperframes",
+    "description": "Open-source tool for composing videos using HTML, CSS, and JavaScript.",
+    "website": "https://hyperframes.heygen.com",
+    "categories": "AI Video Editor, AI Developer Tools, AI Video Generator, Open Source AI Models, AI Agent",
+    "slug": "hyperframes",
+    "created_at": "04:30:35 05/07/2026"
   },
   {
     "title": "Seedance 2",
@@ -4912,6 +4939,15 @@
     "categories": "AI Selfie & Portrait, AI Background Remover, AI Reviews Assistant",
     "slug": "photogov",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "MusicWave",
+    "name": "MusicWave",
+    "description": "AI music suite to generate, remix, and master royalty-free songs from text or images.",
+    "website": "https://www.musicwave.ai",
+    "categories": "AI Music Generator, AI Text-to-Music, AI Lyrics Generator, AI Audio Editing, AI Voice Generator, AI Video Generator",
+    "slug": "musicwave",
+    "created_at": "04:30:35 05/07/2026"
   },
   {
     "title": "TarotQA",
@@ -7666,6 +7702,15 @@
     "categories": "AI Assistant, AI Productivity Tools, AI Task Management, AI Mental Health, AI Voice Assistants",
     "slug": "neuro-adhd",
     "created_at": "14:12:11 08/22/2025"
+  },
+  {
+    "title": "Tely AI",
+    "name": "Tely AI",
+    "description": "Autonomous AI engine for SEO/GEO content, lead qualification, and CRM pipeline management.",
+    "website": "https://tely.ai",
+    "categories": "AI SEO Tools, AI Lead Generation, AI Marketing, AI Chatbot, AI Content Detector",
+    "slug": "tely-ai",
+    "created_at": "04:30:35 05/07/2026"
   },
   {
     "title": "AI Cover Letter Generator",
@@ -12231,6 +12276,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "Lacuna",
+    "name": "Lacuna",
+    "description": "AI music studio for creating complete songs with vocals, professional lyrics, and MIDI tools.",
+    "website": "https://www.lacuna.fm",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Midi Generator, AI Voice Generator",
+    "slug": "lacuna",
+    "created_at": "04:30:35 05/07/2026"
+  },
+  {
     "title": "V2Sota",
     "name": "V2Sota",
     "description": "AI video generator for cinematic HD videos with sound.",
@@ -16542,6 +16596,15 @@
     "created_at": "02:27:46 08/31/2025"
   },
   {
+    "title": "Dina",
+    "name": "Dina",
+    "description": "An all-in-one AI-powered screen recorder and video editor designed exclusively for macOS.",
+    "website": "https://dina.so",
+    "categories": "AI Video Editor, AI Video Recording, AI Transcriber, AI Text-to-Speech, AI Voice Over",
+    "slug": "dina",
+    "created_at": "04:30:35 05/07/2026"
+  },
+  {
     "title": "Pylon",
     "name": "Pylon",
     "description": "Modern B2B support platform unifying ticketing, AI, knowledge base, and customer portal.",
@@ -16774,6 +16837,15 @@
     "categories": "AI SEO Tools, AI Digital Marketing, AI Marketing Plan Generator, AI For Data Analytics",
     "slug": "lucid-engine",
     "created_at": "14:38:20 02/03/2026"
+  },
+  {
+    "title": "GPT Image Generator",
+    "name": "GPT Image Generator",
+    "description": "AI tool for fast text-to-image generation and professional image editing using GPT and Nano models.",
+    "website": "https://www.gptimagegenerator.com",
+    "categories": "AI Image Generator, Text to Image, AI Art Generator, AI Photo Editor, AI Poster Generator",
+    "slug": "gpt-image-generator",
+    "created_at": "04:30:35 05/07/2026"
   },
   {
     "title": "LeadFlux AI",
@@ -19411,6 +19483,15 @@
     "categories": "AI Chatbot, AI Marketing, AI Customer Service, AI CRM, No-Code&Low-Code, AI Lead Generation, AI Workflow, AI Sales Assistant, AI Email Marketing, AI Response Generator, AI Message Generator",
     "slug": "wabo-ai",
     "created_at": "14:12:11 05/29/2025"
+  },
+  {
+    "title": "Formzz",
+    "name": "Formzz",
+    "description": "An all-in-one platform for lead capture forms, AI chatbots, and automated meeting scheduling.",
+    "website": "https://formzz.com",
+    "categories": "AI Forms, AI Chatbot, AI Scheduling, AI Lead Generation, No-Code&Low-Code",
+    "slug": "formzz",
+    "created_at": "04:30:35 05/07/2026"
   },
   {
     "title": "AI Make Song",
@@ -22822,6 +22903,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Movie Generator",
     "slug": "happyhorse-1-0-ai",
     "created_at": "04:11:13 04/19/2026"
+  },
+  {
+    "title": "Iridea.ai",
+    "name": "Iridea.ai",
+    "description": "Iridea turns any website URL into a complete creative campaign. The AI extracts your brand identity, then generates Meta ads, Instagram Stories, carousels, website heroes, and 15-second video spots — all brand-consistent, all editable with natural language, all delivered in minutes.",
+    "website": "https://iridea.ai",
+    "categories": "AI Advertising, AI Image Generator, AI Social Media Post Generator, AI UGC Video Generator, AI Video Generator, Script To Video AI Generator",
+    "slug": "iridea-ai",
+    "created_at": "04:30:35 05/07/2026"
   },
   {
     "title": "Drezily",
