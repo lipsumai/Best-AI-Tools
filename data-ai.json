@@ -5310,6 +5310,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "awaBerry - The AI-Native Device Platform",
+    "name": "awaBerry - The AI-Native Device Platform",
+    "description": "Turn any device into an AI-controllable endpoint. MCP Server · Agentic API · Smart Automation — connect, control, and automate from anywhere, online in minutes.",
+    "website": "https://www.awaberry.com",
+    "categories": "AI Agent, AI Developer Tools",
+    "slug": "awaberry-the-ai-native-device-platform",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "Make Song AI",
     "name": "Make Song AI",
     "description": "AI music generator for professional songs with vocals and instrumentals.",
@@ -6723,6 +6732,15 @@
     "created_at": "14:13:05 10/14/2025"
   },
   {
+    "title": "Draper",
+    "name": "Draper",
+    "description": "Real-time AI marketing intelligence for defensible data and audience insights.",
+    "website": "https://draper.chat",
+    "categories": "AI Marketing, AI Social Media, AI Research Tool, AI Search Engine",
+    "slug": "draper",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "AISong.org",
     "name": "AISong.org",
     "description": "AI platform for generating royalty-free, studio-quality music and lyrics.",
@@ -6802,6 +6820,15 @@
     "categories": "AI Charting, AI For Data Analytics",
     "slug": "chartgen-ai",
     "created_at": "14:15:03 12/17/2025"
+  },
+  {
+    "title": "Git Pitcher",
+    "name": "Git Pitcher",
+    "description": "Reverse engineers GitHub repos into actionable build plans and AI agent prompts.",
+    "website": "https://gitpitcher.com",
+    "categories": "AI Agent, AI Developer Tools, AI Code Assistant, AI Github, AI Project Management",
+    "slug": "git-pitcher",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "Findataquest",
@@ -9043,6 +9070,15 @@
     "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Anime Generator, AI Cartoon Generator, AI Inpainting",
     "slug": "imgart-ai",
     "created_at": "03:03:45 12/01/2025"
+  },
+  {
+    "title": "ShopOS",
+    "name": "ShopOS",
+    "description": "AI operating system for ecommerce brands combining AI agents and experts for marketing and operations.",
+    "website": "https://shopos.ai",
+    "categories": "AI Marketing, AI Agent, AI Ad Generator, AI Product Photography, AI Video Generator, AI Shopify Store Builder",
+    "slug": "shopos",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "VibeKit",
@@ -19341,6 +19377,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "FuseAI",
+    "name": "FuseAI",
+    "description": "All-in-one AI platform for automated outbound sales, lead discovery, and pipeline management.",
+    "website": "https://tryfuse.ai",
+    "categories": "AI Sales, AI Agent, AI Lead Generation, AI CRM, AI Email Assistant",
+    "slug": "fuseai",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "CoGuide",
     "name": "CoGuide",
     "description": "AI platform for generating lesson plans and activities.",
@@ -19789,6 +19834,15 @@
     "categories": "AI Video Generator, AI Tiktok Video Generator, AI Video Editor, AI Video Enhancer, AI Video Upscaler, Image to Video, Text to Video, Video to Video",
     "slug": "mindvideo-ai",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Highlight Studio",
+    "name": "Highlight Studio",
+    "description": "Native macOS screen recorder and editor with AI smart zoom and multi-track editing.",
+    "website": "https://highlightstudio.app",
+    "categories": "AI Video Editor, AI Video Generator, AI Subtitle Generator, AI Transcription, AI Agent",
+    "slug": "highlight-studio",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "TinyMusic",
@@ -20968,6 +21022,15 @@
     "categories": "AI Chatbot, Life Assistant, AI Productivity Tools, Writing Assistants, AI Content Generator, General Writing, Copywriting",
     "slug": "manus-ai-app",
     "created_at": "14:48:06 04/01/2025"
+  },
+  {
+    "title": "SciFig",
+    "name": "SciFig",
+    "description": "SciFig is a free AI scientific figure generator built for researchers. Turn text, sketches, references, PDFs, or lab photos into publication-ready scientific figures in minutes — with every label, layout, and color fully editable.",
+    "website": "https://scifig.ai",
+    "categories": "AI Image Generator, AI Background Remover, AI Image Enhancer, AI Image Upscaler, AI Inpainting, Image to Image, Text to Handwriting, Text to Image, AI OCR, AI Drawing",
+    "slug": "scifig",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "Social Intents",
@@ -24748,6 +24811,15 @@
     "created_at": "14:09:23 04/05/2025"
   },
   {
+    "title": "NovaVoice",
+    "name": "NovaVoice",
+    "description": "An AI voice assistant and dictation tool for high-speed cross-app productivity on desktop.",
+    "website": "https://novavoice.app",
+    "categories": "AI Voice Assistants, AI Speech-to-Text, AI Assistant, AI Productivity Tools, AI Agent",
+    "slug": "novavoice",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "Stackie.AI",
     "name": "Stackie.AI Your Life Logger",
     "description": "Personal logging and tracking app for organized life management.",
@@ -24755,6 +24827,15 @@
     "categories": "AI Log Management, Mental Health, AI Notes Assistant, Life Assistant, AI Productivity Tools, Fitness",
     "slug": "stackie-ai-your-life-logger",
     "created_at": "14:12:02 04/30/2025"
+  },
+  {
+    "title": "Atech",
+    "name": "Atech",
+    "description": "AI-powered platform for building hardware devices via chat and modular electronics.",
+    "website": "https://atech.dev",
+    "categories": "AI Code Generator, AI Developer Tools, No-Code&Low-Code",
+    "slug": "atech",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "AI Baby Video",
@@ -27536,6 +27617,15 @@
     "categories": "AI Project Management, AI Assistant, AI Productivity Tools, AI Predictions",
     "slug": "buildots",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "nRev AI",
+    "name": "nRev",
+    "description": "Autonomous AI GTM engineer that builds and deploys sales and marketing automations through conversation.",
+    "website": "https://nrev.ai",
+    "categories": "AI Agent, AI Sales Assistant, AI Marketing, AI CRM",
+    "slug": "nrev",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "Gemini 3 AI",
@@ -33910,6 +34000,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Keupera",
+    "name": "Keupera",
+    "description": "AI-native SEO platform for research, automated content generation, and AI visibility monitoring.",
+    "website": "https://keupera.com",
+    "categories": "AI SEO Tools, SEO Writing AI, AI Blog Generator, AI Content Detector",
+    "slug": "keupera",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "GoMim Math AI",
     "name": "GoMim Math AI",
     "description": "AI math solver providing step-by-step solutions for various math problems.",
@@ -35141,6 +35240,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI API",
     "slug": "wan-2-2-1",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "Kanwas",
+    "name": "Kanwas",
+    "description": "Shared context workspace for product teams and AI agents to collaborate using specific company data.",
+    "website": "https://kanwas.ai",
+    "categories": "AI Agent, AI Knowledge Management, AI Productivity Tools, AI Product Manager, AI Workflow",
+    "slug": "kanwas",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "Karumi",
@@ -37195,6 +37303,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "VIDEOAI.ME",
+    "name": "VIDEO AI ME",
+    "description": "AI video generator creating hyper-realistic ads and viral content from a single selfie.",
+    "website": "https://videoai.me",
+    "categories": "AI Video Generator, AI Avatar Video Generator, AI Ad Generator, AI UGC Video Generator, AI Voice Generator",
+    "slug": "video-ai-me",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "Brewed - Building the Web with AI",
     "name": "Brewed",
     "description": "Build web components with AI. Revolutionize UI design.",
@@ -39238,6 +39355,15 @@
     "created_at": "02:27:19 11/19/2025"
   },
   {
+    "title": "WUPHF",
+    "name": "WUPHF by Nex.ai",
+    "description": "Open-source local AI employee office with a shared autonomous knowledge base.",
+    "website": "https://wuphf.team",
+    "categories": "AI Agent, AI Project Management, AI Workflow, AI Task Management, Open Source AI Models, AI Productivity Tools",
+    "slug": "wuphf-by-nex-ai",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "Seedance 2",
     "name": "Seedance 2-9",
     "description": "Professional AI video generator with native audio, 1080p output, and multi-shot storytelling.",
@@ -39965,6 +40091,15 @@
     "categories": "AI Code Assistant, Code Explanation, AI Code Generator, AI Code Refactoring, AI Developer Tools",
     "slug": "code-utilities-powered-by-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Orange Slice",
+    "name": "Orange Slice",
+    "description": "Build AI-powered GTM workflows to find, enrich, and automate leads via natural language.",
+    "website": "https://orangeslice.ai",
+    "categories": "AI Lead Generation, AI Agent, AI Sales, AI Workflow",
+    "slug": "orange-slice",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "Creen AI",
@@ -42073,6 +42208,15 @@
     "created_at": "02:51:30 06/23/2025"
   },
   {
+    "title": "Trismik",
+    "name": "QuickCompare by Trismik",
+    "description": "Compare 50+ LLMs on your own data for quality, cost, and speed.",
+    "website": "https://trismik.com",
+    "categories": "Large Language Models (LLMs), AI Developer Tools, AI Agent, AI Copilot",
+    "slug": "quickcompare-by-trismik",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "BookScribi",
     "name": "BookScribi",
     "description": "Create a complete book in less than 1 minute in any language!",
@@ -44125,6 +44269,15 @@
     "created_at": "03:22:51 03/14/2026"
   },
   {
+    "title": "Ovren",
+    "name": "Ovren",
+    "description": "AI engineering platform providing autonomous developers to execute codebase tasks and deliver code updates.",
+    "website": "https://www.ovren.ai",
+    "categories": "AI Agent, AI Developer Tools, AI Code Generator, AI Assistant, AI Code Assistant",
+    "slug": "ovren",
+    "created_at": "15:14:35 05/08/2026"
+  },
+  {
     "title": "Metabees AI Labs",
     "name": "Redstone AI – Ship What Customers Want",
     "description": "Enterprise AI solutions for business transformation and digital innovation.",
@@ -44465,6 +44618,15 @@
     "categories": "Mental Health",
     "slug": "the-garden-journal",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Karma AI Factory | KarmaBox",
+    "name": "KarmaBox",
+    "description": "Sovereign AI foundry for running private, autonomous AI agent teams on your own devices.",
+    "website": "https://karmaboxai.com",
+    "categories": "AI Agent, AI Avatar Generator, AI Productivity Tools, AI Assistant",
+    "slug": "karmabox",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "BeautyPlus",
@@ -45140,6 +45302,15 @@
     "categories": "AI Interview Assistant, AI Recruiting, Resume Builder, Cover Letter Generator, Letter Writer, AI Email Writer",
     "slug": "useresume-ai",
     "created_at": "02:38:30 05/21/2025"
+  },
+  {
+    "title": "GPT Image 2.0",
+    "name": "GPT Image 2.0",
+    "description": "AI image generator for 4K visuals, precise text, and brand-consistent reference edits.",
+    "website": "https://gptimage20.online",
+    "categories": "AI Image Generator, Text to Image, AI Design Generator, AI Ad Generator",
+    "slug": "gpt-image-2-0",
+    "created_at": "15:14:35 05/08/2026"
   },
   {
     "title": "Pocket Hansei",
