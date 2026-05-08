@@ -6345,6 +6345,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "PIQAPART",
+    "name": "PIQAPART",
+    "description": "AI platform transforming videos into professional manuals, SOPs, and industrial procedures in seconds.",
+    "website": "https://documentation.piqapart.com",
+    "categories": "AI SOP, AI Documents Generator, AI Copilot, AI Workflow, AI Recipe",
+    "slug": "piqapart",
+    "created_at": "04:12:53 05/08/2026"
+  },
+  {
     "title": "ReadyToRelease",
     "name": "ReadyToRelease",
     "description": "AI market research reports for SaaS idea validation delivered in 5 minutes.",
@@ -11860,6 +11869,15 @@
     "categories": "AI Chatbot, AI Team Collaboration",
     "slug": "coot-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Loreform",
+    "name": "Loreform",
+    "description": "AI generator for custom, print-ready 3D tabletop miniatures from text or images.",
+    "website": "https://www.loreform.ai",
+    "categories": "AI 3D Model Generator, Text to 3D, Image to 3D Model, AI Games",
+    "slug": "loreform",
+    "created_at": "04:12:53 05/08/2026"
   },
   {
     "title": "Tuneonmusic",
@@ -22050,6 +22068,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "GPT Realtime 2",
+    "name": "GPT Realtime 2",
+    "description": "Instant, natural-sounding AI text-to-speech API and no-registration playground.",
+    "website": "https://gptrealtime2.ai",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI API, AI Speech Synthesis, AI Voice Over",
+    "slug": "gpt-realtime-2",
+    "created_at": "04:12:53 05/08/2026"
+  },
+  {
     "title": "sora 2",
     "name": "sora 2-",
     "description": "Worldwide Sora 2 AI video generation with complete toolkit for watermark-free content.",
@@ -24991,6 +25018,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Dzeny",
+    "name": "Dzeny",
+    "description": "24/7 AI-powered therapist providing CBT-based support for anxiety, stress, and burnout.",
+    "website": "https://dzeny.com",
+    "categories": "AI Therapist, AI Mental Health, AI Chatbot",
+    "slug": "dzeny",
+    "created_at": "04:12:53 05/08/2026"
+  },
+  {
     "title": "Nereo",
     "name": "Nereo",
     "description": "AI anime generator creating complete 60-second shorts from a single prompt.",
@@ -27311,6 +27347,15 @@
     "categories": "AI Chatbot",
     "slug": "xoul-ai",
     "created_at": "14:11:16 04/04/2025"
+  },
+  {
+    "title": "Pixivo AI",
+    "name": "Pixivo AI",
+    "description": "All-in-one AI platform to generate, edit, and enhance images using advanced models.",
+    "website": "https://pixivo.ai",
+    "categories": "AI Image Generator, AI Photo Editor, AI Image Enhancer, Text to Image, AI Background Remover, AI Image Upscaler, AI Outpainting, AI Watermark Remover, Object Remover AI, AI Hairstyle, AI Hair Color Changer",
+    "slug": "pixivo-ai",
+    "created_at": "04:12:53 05/08/2026"
   },
   {
     "title": "Chalet",
@@ -44366,6 +44411,15 @@
     "categories": "AI Social Media, AI Social Media Post Generator, AI Schedule Maker, AI UGC Video Generator, AI Assistant",
     "slug": "postploy",
     "created_at": "14:14:02 07/14/2025"
+  },
+  {
+    "title": "Deepundress Ai",
+    "name": "Deepundress Ai",
+    "description": "AI-powered platform for generating adult images, videos, and face swaps.",
+    "website": "https://deepundress.app",
+    "categories": "NSFW, AI Image Generator, AI Clothing Removal, AI Video Generator, AI Face Swap Generator, Text to Image",
+    "slug": "deepundress-ai",
+    "created_at": "04:12:53 05/08/2026"
   },
   {
     "title": "Reelit",
