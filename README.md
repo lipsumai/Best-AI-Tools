@@ -10,6 +10,10 @@ Welcome to **The Best AI Tools** repository! This project aims to share a compre
 - **Community Contributions**: We encourage contributions from the community. If you know of an AI tool that should be included, feel free to submit a pull request!
 - **Free Access**: All data and content in this repository are freely available for everyone to use and share.
 
+### AI Design and Image Tools
+
+- **[LandscapioAI](https://www.landscapioai.com/)** – AI landscape design tool that transforms yard photos into outdoor redesign concepts, cost estimates, and material ideas.
+
 ### Getting Started
 
 To get started, simply browse through the list of tools in the repository. Each entry includes a brief description, features, and links to official documentation or websites.
