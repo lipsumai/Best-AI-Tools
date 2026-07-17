@@ -2610,6 +2610,15 @@
     "created_at": "15:14:35 05/08/2026"
   },
   {
+    "title": "CollegeVine",
+    "name": "CollegeVine",
+    "description": "AI operating system for university operations",
+    "website": "https://www.collegevine.com",
+    "categories": "AI Agent, AI Workflow, AI For Data Analytics, AI Knowledge Management, AI CRM",
+    "slug": "collegevine",
+    "created_at": "15:07:01 07/17/2026"
+  },
+  {
     "title": "AI Takeaway",
     "name": "AI Takeaway",
     "description": "Curated AI & investing video summaries for faster learning.",
@@ -7056,6 +7065,15 @@
     "created_at": "14:12:54 06/25/2025"
   },
   {
+    "title": "Clumi AI",
+    "name": "Clumi AI",
+    "description": "Clumi is an AI-powered online audio editing platform that helps you edit, clean, and transform audio with ease. Whether you want to remove vocals, split stems, reduce background noise, convert audio to MIDI, or isolate instruments, Clumi delivers fast, high-quality results directly in your browser.",
+    "website": "https://clumi.ai",
+    "categories": "AI Vocal Remover, AI Audio Editing, AI Audio Enhancer, AI Audio Splitter, AI Midi Generator, AI Splitter, AI Stems Splitter",
+    "slug": "clumi-ai",
+    "created_at": "15:07:01 07/17/2026"
+  },
+  {
     "title": "Power to the Creator",
     "name": "Power to the Creators:",
     "description": "AI-powered platform, Power to the Creator, helps content creators generate ideas, scripts, and tags.",
@@ -9213,6 +9231,15 @@
     "categories": "AI Realistic Image Generator, AI Colorize, AI Eraser, AI Image Generator, AI Image Upscaler, AI Photo Editor, AI Photo Filter, AI Photo Restoration, Image to Image, AI Face Recognition",
     "slug": "pixreunion",
     "created_at": "14:23:04 01/27/2026"
+  },
+  {
+    "title": "TapVid",
+    "name": "TapVid",
+    "description": "TapVid is an AI motion graphics video generator that turns prompts, PDFs, and links into structured explainer videos with visuals, AI voiceover, and subtitles — no editing skills required.",
+    "website": "https://tapvid.ai",
+    "categories": "Text to Video, AI Animated Video, Script To Video AI Generator",
+    "slug": "tapvid",
+    "created_at": "15:07:01 07/17/2026"
   },
   {
     "title": "Micro Saas Ideas",
@@ -15605,6 +15632,15 @@
     "created_at": "14:13:31 11/25/2025"
   },
   {
+    "title": "Zawa",
+    "name": "Zawa",
+    "description": "AI brand kit generator and design tool for small businesses",
+    "website": "https://zawa.ai",
+    "categories": "AI Graphic Design, AI Logo Generator, AI Poster Generator, AI Mockup Generator, AI Agent",
+    "slug": "zawa",
+    "created_at": "15:07:01 07/17/2026"
+  },
+  {
     "title": "Free TTS",
     "name": "Free TTS",
     "description": "Comprehensive AI-powered online toolkit for text-to-speech, transcription, and audio editing.",
@@ -19194,6 +19230,15 @@
     "categories": "AI Avatar Generator, AI Image Generator, AI Character, Text to Image, AI Robot",
     "slug": "androidify",
     "created_at": "14:13:05 10/14/2025"
+  },
+  {
+    "title": "Infinite Worlds",
+    "name": "Infinite Worlds",
+    "description": "AI adventure game for interactive stories and world building",
+    "website": "https://infiniteworlds.app",
+    "categories": "AI Games, AI Story Generator, AI Roleplay, AI Game Generator",
+    "slug": "infinite-worlds",
+    "created_at": "15:07:01 07/17/2026"
   },
   {
     "title": "Soshi",
@@ -27701,6 +27746,15 @@
     "created_at": "14:26:52 04/04/2026"
   },
   {
+    "title": "Botmaker",
+    "name": "Botmaker",
+    "description": "Conversational AI platform for multi-channel sales, support, and automation.",
+    "website": "https://botmaker.com",
+    "categories": "AI Agent, AI Chatbot, AI Customer Service, AI Sales Assistant, AI Voice Assistants, AI Email Assistant, AI Call Center, AI Workflow",
+    "slug": "botmaker",
+    "created_at": "15:07:01 07/17/2026"
+  },
+  {
     "title": "Nano Banana AI Online",
     "name": "Nano Banana AI Online",
     "description": "AI image generation and editing studio powered by Google Gemini 2.5 Flash Image.",
@@ -31506,6 +31560,15 @@
     "categories": "AI Travel, AI Trip Planner, AI Assistant, AI API",
     "slug": "navoy",
     "created_at": "14:15:50 08/01/2025"
+  },
+  {
+    "title": "Gazouya (がぞうや)",
+    "name": "Gazouya (がぞうや)",
+    "description": "Gazouya is a Japanese AI image creation platform designed for creators who want to generate high-quality images quickly and easily.",
+    "website": "https://gazouya.com",
+    "categories": "AI Image Generator, AI Creative Writing, AI Background Remover, AI Image Upscaler, AI Photo Editor, AI Anime Generator, AI Cartoon Generator, AI Cover Generator, AI Design Assistant, AI Illustration Generator, AI Manga Generator, AI Photography",
+    "slug": "gazouya",
+    "created_at": "15:07:01 07/17/2026"
   },
   {
     "title": "GrapixAi",
@@ -42665,6 +42728,15 @@
     "categories": "AI Photo Editor, AI Image Enhancer, Image to Image, AI Style Transfer, AI Background Remover, AI Image Upscaler, AI Image Generator",
     "slug": "ai-image-editor-1",
     "created_at": "14:12:36 08/19/2025"
+  },
+  {
+    "title": "Open WebUI",
+    "name": "Open WebUI",
+    "description": "Self-hosted AI platform for local and cloud LLMs",
+    "website": "https://openwebui.com",
+    "categories": "Large Language Models (LLMs), AI Chatbot, Open Source AI Models, AI Developer Tools, AI Workflow, AI Assistant",
+    "slug": "open-webui",
+    "created_at": "15:07:01 07/17/2026"
   },
   {
     "title": "Patsnap Eureka",
