@@ -4032,6 +4032,15 @@
     "created_at": "03:05:08 07/29/2025"
   },
   {
+    "title": "AI Hairstyle Changer",
+    "name": "AI Hairstyle Changer - 1",
+    "description": "Virtually try on 100+ AI hairstyles and hair colors from your photo — results in seconds, no sign-up needed.",
+    "website": "https://www.aihairstylechanger.ai",
+    "categories": "AI Hairstyle, AI Photo Editor, AI Photo Filter, AI Style Transfer, AI Hair Color Changer",
+    "slug": "ai-hairstyle-changer-1-1",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Disertus Labs (Milo AI Speech Therapist)",
     "name": "Disertus Labs",
     "description": "24/7 AI speech therapist providing real-time feedback, personalized exercises, and fluency tracking.",
@@ -4822,6 +4831,15 @@
     "categories": "AI Customer Service, AI Agent, AI Chatbot, AI Assistant",
     "slug": "neoagent",
     "created_at": "14:12:58 11/20/2025"
+  },
+  {
+    "title": "soink",
+    "name": "soink",
+    "description": "Mac AI voice keyboard for live hands-free dictation",
+    "website": "https://soink.ai",
+    "categories": "AI Speech-to-Text, AI Transcription, AI Transcriber, Audio To Text AI, AI Writing Assistants, AI Voice Assistants",
+    "slug": "soink",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "Avatar 2",
@@ -6867,6 +6885,15 @@
     "created_at": "14:12:23 04/22/2025"
   },
   {
+    "title": "Questner",
+    "name": "Questner",
+    "description": "AI dungeon escape game with interactive storytelling",
+    "website": "https://questner.ai",
+    "categories": "AI Games, AI Roleplay, AI Story Generator",
+    "slug": "questner",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Day.ai",
     "name": "Day.ai",
     "description": "Integrated CRM and meeting assistant for enhanced customer relationships.",
@@ -7540,6 +7567,15 @@
     "categories": "AI Advertising Assistant",
     "slug": "sommel-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ForgeGUI",
+    "name": "ForgeGUI",
+    "description": "AI design platform for game developers",
+    "website": "https://forgegui.com",
+    "categories": "AI Developer Tools, AI Design Generator, AI 3D Model Generator, AI Thumbnail Maker, AI Icon Generator, AI Texture Generator, AI Character, AI Animation Generator, AI Music Generator, AI Code Generator, AI Translate",
+    "slug": "forgegui",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "Prometora",
@@ -9944,6 +9980,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "Dream 5 Pro",
+    "name": "Dream 5 Pro",
+    "description": "Online AI image generator for infographics, portraits, and text-rich designs.",
+    "website": "https://dream5.pro",
+    "categories": "AI Image Generator, Text to Image, AI Infographic Generator, AI Photo Editor, AI Poster Generator",
+    "slug": "dream-5-pro",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "HousePlan",
     "name": "HousePlan",
     "description": "HousePlan is an AI-powered home design tool that lets users generate 2D, 2.5D, and 3D floor plans by selecting room types, uploading images, or entering prompts—making custom house design fast and effortless.",
@@ -10959,6 +11004,15 @@
     "categories": "AI Mental Health, AI Therapist, AI Assistant, AI Voice Assistants",
     "slug": "rocket-journal",
     "created_at": "14:12:58 09/15/2025"
+  },
+  {
+    "title": "Command Code",
+    "name": "Command Code",
+    "description": "AI coding agent that learns your coding taste",
+    "website": "https://commandcode.ai",
+    "categories": "AI Code Assistant, AI Agent, AI Developer Tools, AI Code Generator, AI Code Review, AI Copilot",
+    "slug": "command-code",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "CleverAI",
@@ -13130,6 +13184,15 @@
     "created_at": "14:14:16 12/19/2025"
   },
   {
+    "title": "TalkPix AI",
+    "name": "TalkPix AI",
+    "description": "AI tool that turns photos into talking videos and product ads.",
+    "website": "https://www.talkpix.ai",
+    "categories": "AI Avatar Video Generator, AI Lip Sync Generator, Image to Video, AI Video Generator, Text to Video, AI Product Photography, AI UGC Video Generator, AI Ad Generator, AI Voice Generator",
+    "slug": "talkpix-ai",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Nano Banana Pro",
     "name": "Nano Banana - AI Image Editor | Edit Photos with Text",
     "description": "AI image editor using natural language for consistent photo transformations.",
@@ -13209,6 +13272,15 @@
     "categories": "Healthcare, Legal Assistant, AI PDF, AI Productivity Tools, AI Workflow Management, AI Document Extraction, Large Language Models (LLMs), No-Code&Low-Code, Report Writing, AI Monitor & Report Builder",
     "slug": "v7-lab",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Viblo",
+    "name": "Viblo",
+    "description": "AI editor for creating short-form videos fast",
+    "website": "https://viblo.ai",
+    "categories": "AI Video Editor, AI Short Video Generator, AI Video Generator, AI Voice Over, AI Subtitle Generator, AI Tiktok Video Generator, AI Reel Generator, Text to Video, AI Thumbnail Maker, AI Transcriber",
+    "slug": "viblo",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "PinMe",
@@ -16073,6 +16145,15 @@
     "created_at": "02:26:12 04/30/2025"
   },
   {
+    "title": "TeaChecker",
+    "name": "TeaChecker",
+    "description": "Get a discreet Tea app profile lookup with reviewed results in 24 hours.",
+    "website": "https://teaaboutme.com",
+    "categories": "AI Dating Assistant",
+    "slug": "teachecker",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Schematic",
     "name": "Schematic",
     "description": "Flexible billing & pricing engine for SaaS/AI.",
@@ -17754,6 +17835,15 @@
     "categories": "AI Clothing Removal, AI Background Generator, AI Background Remover, AI Image Enhancer, AI Image Generator, AI Image Sharpening, AI Image Upscaler, AI Photo Enhancer, Image to Image, Object Remover AI, Text to Image",
     "slug": "visboom",
     "created_at": "14:15:03 12/17/2025"
+  },
+  {
+    "title": "AIDesignHouse",
+    "name": "AIDesignHouse",
+    "description": "AI tool for visual home concepts, floor plans, and renovation planning.",
+    "website": "https://www.aidesignhouse.io",
+    "categories": "AI Interior Design, AI Floor Plan Generator, AI Room Planner, AI Design Assistant, AI Landscape Generator, AI Kitchen Design",
+    "slug": "aidesignhouse",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "WebNovel AI",
@@ -22814,6 +22904,15 @@
     "created_at": "14:35:44 02/06/2026"
   },
   {
+    "title": "Ip2up Proxy",
+    "name": "Ip2up Proxy",
+    "description": "Global residential proxy service for scraping, automation, and geo-targeted data access",
+    "website": "https://ip2up.com",
+    "categories": "AI Web Scraping, AI Data Mining, AI SEO Tools, AI Advertising",
+    "slug": "ip2up-proxy",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Preso Budget",
     "name": "Preso Budget",
     "description": "AI-powered budgeting platform for financial overview and control.",
@@ -23271,6 +23370,15 @@
     "categories": "AI Legal Assistant, AI Documents Generator, AI Contract Generator, AI Contract Review",
     "slug": "skala",
     "created_at": "14:12:11 07/04/2025"
+  },
+  {
+    "title": "Codex Dream Skin",
+    "name": "Codex Dream Skin",
+    "description": "Open-source reversible theming for Codex Desktop",
+    "website": "https://codex-dream-skin.org",
+    "categories": "Other",
+    "slug": "codex-dream-skin",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "Radiant",
@@ -25361,6 +25469,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "BelinDoc",
+    "name": "BelinDoc",
+    "description": "Free AI document translator with layout preservation",
+    "website": "https://belindoc.com",
+    "categories": "AI Translate, AI PDF, AI OCR, AI Video Translator",
+    "slug": "belindoc",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "WriteMyEssay.ai",
     "name": "WriteMyEssay.ai",
     "description": "The undetectable AI essay writer that generates high-quality papers with properly cited sources in just a few clicks.",
@@ -25802,6 +25919,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TryMyCut",
+    "name": "TryMyCut",
+    "description": "AI hairstyle try-on for previewing haircuts from a selfie",
+    "website": "https://trymycut.com",
+    "categories": "AI Hairstyle, AI Beauty, AI Photo Editor",
+    "slug": "trymycut",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Flux Kontext",
     "name": "Flux Kontext",
     "description": "AI image editing tool for professional, context-aware transformations.",
@@ -25944,6 +26070,15 @@
     "categories": "AI Photo & Image Generator",
     "slug": "grably",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "EMix.ai",
+    "name": "EMix.ai",
+    "description": "Unified lower-cost AI API platform",
+    "website": "https://emix.ai",
+    "categories": "AI API, AI Developer Tools, AI Models, Large Language Models (LLMs), AI Video Generator, AI Image Generator",
+    "slug": "emix-ai-lower-cost-ai-apis-for-multimodal-development",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "GoCrazyAI",
@@ -28727,6 +28862,15 @@
     "created_at": "14:09:14 10/11/2025"
   },
   {
+    "title": "imagerework",
+    "name": "imagerework",
+    "description": "Prompt-based AI photo editor with comparison and refinements",
+    "website": "https://imagerework.com",
+    "categories": "AI Photo Editor, Image to Image, Object Remover AI, AI Background Generator, AI Inpainting, AI Image Generator",
+    "slug": "imagerework",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Eat Planner",
     "name": "Eat Planner",
     "description": "AI meal planner for personalized plans, smart shopping, and healthy eating.",
@@ -29058,6 +29202,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Animation Generator",
     "slug": "geniloop-all-in-one-ai-image-video-generator",
     "created_at": "15:57:43 05/06/2026"
+  },
+  {
+    "title": "Sakana Chat",
+    "name": "Sakana Chat",
+    "description": "AI chat app with translation features",
+    "website": "https://sakana.ai",
+    "categories": "AI Models, AI Chatbot, AI Translate, AI For Finance, AI Research Tool",
+    "slug": "sakana-chat",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "TasteBuddy",
@@ -33020,6 +33173,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "VARCO 3D",
+    "name": "VARCO 3D",
+    "description": "VARCO 3D is the 3D module of VARCO — NC AI's multimodal AI production suite for game studios spanning 3D, Sound, Voice, and Translation. Generate 3D models from text or reference images, then refine, texture, rig, and export them — or chain the steps into custom node-based workflows that automate your studio's own 3D pipeline.",
+    "website": "https://3d.varco.ai",
+    "categories": "AI 3D Model Generator, Image to 3D Model, AI Workflow",
+    "slug": "varco-3d",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Magic Animator",
     "name": "Lottielab (Magic Animator - now live)",
     "description": "AI-powered animation generator for designs, exporting to Lottie, GIF, MP4.",
@@ -33027,6 +33189,15 @@
     "categories": "AI Animation Generator, AI Animated Video, Image to Video, AI Video Generator, AI Social Media Post Generator",
     "slug": "lottielab-magic-animator-now-live",
     "created_at": "14:13:11 07/11/2025"
+  },
+  {
+    "title": "Collart AI",
+    "name": "Collart AI",
+    "description": "AI platform for generating and editing photos and videos",
+    "website": "https://collart.ai",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI Headshot Generator, AI Video Enhancer, AI Photo Enhancer, AI Face Swap Generator, Object Remover AI, AI Watermark Remover",
+    "slug": "collart-ai",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "4 Fashion AI",
@@ -36359,6 +36530,15 @@
     "created_at": "14:17:21 08/06/2025"
   },
   {
+    "title": "Revise",
+    "name": "Revise - 1",
+    "description": "Free document editor with a powerful AI agent.",
+    "website": "https://revise.io",
+    "categories": "AI Proofreading, AI Essay Writer, AI Report Writing, AI Rewriter, AI Script Writing, AI Writing, Resume AI",
+    "slug": "revise-1",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Hooked",
     "name": "Hooked",
     "description": "AI video generator for viral UGC content with AI avatars.",
@@ -38267,6 +38447,15 @@
     "created_at": "14:19:12 01/14/2026"
   },
   {
+    "title": "Kira",
+    "name": "Kira",
+    "description": "AI platform for generating and editing creative images and videos",
+    "website": "https://kira.art",
+    "categories": "AI Image Generator, AI Video Generator, AI Photo Editor",
+    "slug": "kira",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Seedance 1.5",
     "name": "Seedance 1.5",
     "description": "AI video generator with synchronized audio, visuals, and cinematic quality.",
@@ -38490,6 +38679,15 @@
     "categories": "AI Search Engine, AI Answer, AI Copilot, Large Language Models (LLMs), AI Research Tool",
     "slug": "perplexity-ai",
     "created_at": "02:21:14 10/25/2025"
+  },
+  {
+    "title": "Workforce AI",
+    "name": "Workforce AI",
+    "description": "Human-looking conversational AI employees for small businesses with built-in approvals, client memory, and human control across email, follow-up, scheduling, and recurring work.",
+    "website": "https://hireworkforce.ai",
+    "categories": "AI Assistant, AI Email Writer, AI Writing Assistants, AI Voice Assistants, AI Legal Assistant, AI Tax Assistant, AI Customer Service, AI Interview Assistant, AI Sales Assistant, AI Email Assistant, AI Meeting Assistant",
+    "slug": "workforce-ai",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "Encouragebot",
@@ -38985,6 +39183,15 @@
     "categories": "AI Youtube Summary, AI Video Summarizer",
     "slug": "zeno",
     "created_at": "14:12:59 06/09/2025"
+  },
+  {
+    "title": "Alphio.AI",
+    "name": "Alphio.AI",
+    "description": "AI trading agent for natural-language automation, alerts, and market analysis",
+    "website": "https://alphio.ai",
+    "categories": "AI Trading Bot, AI Agent, AI Stock Trading, AI Investing, AI Assistant, AI Crypto, AI For Finance, Web3, AI Predictions",
+    "slug": "alphio-ai",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "Linux Helper",
@@ -41434,6 +41641,15 @@
     "created_at": "14:39:47 03/05/2026"
   },
   {
+    "title": "Vait",
+    "name": "Vait",
+    "description": "Vait is a Mexican AI-powered real estate marketplace. Buyers chat on WhatsApp with Vait, a 24/7 AI assistant, and get real listings with price, location, developer and payment plan. Curated, no phantom listings, free for buyers.",
+    "website": "https://vait.ai",
+    "categories": "AI Real Estate",
+    "slug": "vait",
+    "created_at": "03:55:34 07/17/2026"
+  },
+  {
     "title": "Query Fan-Out Optimizer",
     "name": "Query Fan-Out Optimizer",
     "description": "Uncovers the hidden sub-queries LLMs use to find and cite web sources.",
@@ -42422,6 +42638,15 @@
     "categories": "AI Spreadsheet, AI PPT Maker, AI Presentation Generator, AI Document Extraction, AI Productivity Tools",
     "slug": "hidata",
     "created_at": "15:19:31 04/16/2026"
+  },
+  {
+    "title": "PoYo.AI",
+    "name": "PoYo.AI",
+    "description": "High concurrency. Stable AI API. Better pricing.",
+    "website": "https://poyo.ai",
+    "categories": "AI API, AI Developer Tools, AI Models, AI Image Generator, AI Video Generator, AI Music Generator, AI 3D Model Generator, AI Chatbot",
+    "slug": "poyo-ai",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "Media.io Halloween AI Generator",
@@ -43790,6 +44015,15 @@
     "categories": "AI Code Generator",
     "slug": "trae",
     "created_at": "14:11:41 04/17/2025"
+  },
+  {
+    "title": "Chutes",
+    "name": "Chutes",
+    "description": "Serverless decentralized AI compute for deploying and scaling models",
+    "website": "https://chutes.ai",
+    "categories": "AI API, Open Source AI Models, Large Language Models (LLMs), AI Developer Tools, AI Models",
+    "slug": "chutes",
+    "created_at": "03:55:34 07/17/2026"
   },
   {
     "title": "Pacdora AI Background Generator",
