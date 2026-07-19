@@ -2511,6 +2511,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "CellCog",
+    "name": "CellCog",
+    "description": "CellCog is an AI employee platform",
+    "website": "https://cellcog.ai",
+    "categories": "AI Agent",
+    "slug": "cellcog",
+    "created_at": "14:48:14 07/19/2026"
+  },
+  {
     "title": "ChatGPT Pulse",
     "name": "ChatGPT Pulse",
     "description": "Proactive AI briefing engine curating daily personalized updates.",
@@ -6586,6 +6595,15 @@
     "categories": "AI Agent, AI Developer Tools, No-Code&Low-Code, AI Assistant, AI Chatbot",
     "slug": "xpander-ai",
     "created_at": "14:15:59 08/08/2025"
+  },
+  {
+    "title": "Neura Market",
+    "name": "Neura Market",
+    "description": "AI marketplace for workflows, prompts, agents, and directories",
+    "website": "https://neura.market",
+    "categories": "AI Workflow, AI Tools Directory, AI Agent, Prompt Engineering",
+    "slug": "neura-market",
+    "created_at": "14:48:14 07/19/2026"
   },
   {
     "title": "SoundWise.ai",
@@ -20681,6 +20699,15 @@
     "created_at": "14:13:23 07/07/2025"
   },
   {
+    "title": "TheCartoonist.Studio",
+    "name": "TheCartoonist.Studio",
+    "description": "AI photo-to-cartoon maker with free preview and paid high-res downloads",
+    "website": "https://thecartoonist.studio",
+    "categories": "AI Cartoon Generator, AI Avatar Generator, AI Portrait Generator, AI Profile Picture Generator, Image to Image, AI Photo Editor",
+    "slug": "thecartoonist-studio",
+    "created_at": "14:48:14 07/19/2026"
+  },
+  {
     "title": "Cencurity",
     "name": "Cencurity",
     "description": "Security gateway for LLMs that detects and masks sensitive data and risky code.",
@@ -31499,6 +31526,15 @@
     "created_at": "03:11:15 03/07/2026"
   },
   {
+    "title": "AI GAZOU",
+    "name": "AI GAZOU",
+    "description": "Free Japanese prompt AI image generator",
+    "website": "https://aigazou.jp",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Illustration Generator, AI Poster Generator, AI Product Photography, AI Social Media Post Generator",
+    "slug": "ai-gazou",
+    "created_at": "14:48:14 07/19/2026"
+  },
+  {
     "title": "Fluenta",
     "name": "Fluenta",
     "description": "Score any startup idea on a 0-100 Launch Readiness Score across 6 live market signals — sourced data, daily refresh, no LLM hallucinations.",
@@ -36051,6 +36087,15 @@
     "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Code Assistant, AI Summarizer, AI Email Assistant, AI Meeting Assistant",
     "slug": "keepclaw",
     "created_at": "03:57:58 04/01/2026"
+  },
+  {
+    "title": "Vmake AI",
+    "name": "Vmake AI",
+    "description": "AI Social Video Studio",
+    "website": "https://vmake.ai",
+    "categories": "AI Video Generator, AI Video Enhancer, AI Background Remover, AI Watermark Remover, AI Social Media, AI UGC Video Generator, AI Video Editor, AI Subtitle Generator, AI Avatar Video Generator, AI Noise Cancellation, Text to Video, AI Speech-to-Text",
+    "slug": "vmake-ai",
+    "created_at": "14:48:14 07/19/2026"
   },
   {
     "title": "ZeroClaw",
@@ -40911,6 +40956,15 @@
     "categories": "AI CRM Assistant, AI Productivity Tools, AI Task Management, AI Meeting Assistant, AI Notes Assistant, Transcription, AI Email Writer, Speech-to-Text",
     "slug": "jump-ai",
     "created_at": "02:25:05 04/16/2025"
+  },
+  {
+    "title": "aiOS",
+    "name": "aiOS",
+    "description": "Unified AI operating system for business automation",
+    "website": "https://myaios.app",
+    "categories": "AI Agent, AI Assistant, AI Workflow, AI Marketing, AI Productivity Tools, AI Customer Service, AI Sales Assistant, AI Advertising",
+    "slug": "aios",
+    "created_at": "14:48:14 07/19/2026"
   },
   {
     "title": "Messenger Genie",
