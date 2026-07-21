@@ -1944,6 +1944,15 @@
     "created_at": "15:14:35 05/08/2026"
   },
   {
+    "title": "DealDraft AI",
+    "name": "DealDraft AI",
+    "description": "Generate. Negotiate. Sign. AI contracts for independent pros and small firms.",
+    "website": "https://dealdraft.ai",
+    "categories": "AI Contract Generator, AI Contract Management, AI Legal Assistant",
+    "slug": "dealdraft-ai",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "TaoPrompt",
     "name": "TaoPrompt.com",
     "description": "AI prompt generator for efficient and professional prompt creation",
@@ -3877,6 +3886,15 @@
     "categories": "AI Art Generator, Text to Image, AI Photo & Image Generator, AI Illustration Generator, Prompt",
     "slug": "raphael-ai",
     "created_at": "14:09:34 04/12/2025"
+  },
+  {
+    "title": "ReelyArt",
+    "name": "ReelyArt",
+    "description": "AI design platform for NFT and Web3 visuals",
+    "website": "https://reely.art",
+    "categories": "AI Graphic Design, AI Design Generator, Web3, NFTs, AI Image Generator, Image to Image, AI Art Generator, AI Banner Generator, AI Meme Generator, AI Sticker Generator, AI GIF Generator, AI Social Media Post Generator",
+    "slug": "reelyart",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "SwapStory",
@@ -7146,6 +7164,15 @@
     "created_at": "14:56:45 03/26/2026"
   },
   {
+    "title": "ShortMind",
+    "name": "ShortMind",
+    "description": "Turn long videos into viral short clips at scale.",
+    "website": "https://shortmind.ai",
+    "categories": "Long Video To Short Video AI, AI Short Video Generator, AI Video Editor, AI Video Summarizer",
+    "slug": "shortmind",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "AI OC Maker",
     "name": "AI OC Maker",
     "description": "AI-powered platform to generate unique original characters.",
@@ -8170,6 +8197,15 @@
     "categories": "AI Assistant, AI Documents Generator, AI Writing Assistants, AI Knowledge Base, AI Productivity Tools, AI Recruiting",
     "slug": "cezanne-hr",
     "created_at": "02:47:04 07/10/2025"
+  },
+  {
+    "title": "T-Shirt Design AI",
+    "name": "T-Shirt Design AI",
+    "description": "AI t-shirt generator for print-ready custom tee graphics.",
+    "website": "https://tshirtdesignai.com",
+    "categories": "AI T Shirt Design, AI Design Generator, AI Graphic Design, Text to Image, Image to Image, AI Image Generator",
+    "slug": "t-shirt-design-ai",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Flux Context AI",
@@ -9645,6 +9681,15 @@
     "categories": "AI Legal Assistant, AI Documents Generator, AI Contract Generator, AI Letter Writer, AI Contract Review",
     "slug": "yanna-pro",
     "created_at": "14:12:35 10/09/2025"
+  },
+  {
+    "title": "Pixalice",
+    "name": "Pixalice",
+    "description": "AI image and video generator for fast online visual creation.",
+    "website": "https://pixalice.com",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, Image to Image, AI Art Generator, AI Photo Enhancer, AI Photo Editor",
+    "slug": "pixalice",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Travlo",
@@ -14237,6 +14282,15 @@
     "created_at": "14:37:03 04/03/2026"
   },
   {
+    "title": "you.bot",
+    "name": "you.bot",
+    "description": "you.bot is a multi-model AI API gateway that runs the same top AI models for up to 46% less than the official APIs — from just $0.005 per call. Integrate once and call any of 70+ models — LLMs (Claude, GPT, Gemini), image (GPT Image 2, Nano Banana Pro, Flux), video (Kling, Seedance, Veo, Gemini Omni) and music (Suno) — by changing a single model id, all billed from one prepaid credit wallet. Your real cost drops even further because you only pay for successful generations (failed, errored or empty results are auto-refunded) and credits never expire. Every model has an in-browser playground so you can test before writing code, and a multi-provider backend with fallback routing targets 99.9% uptime. Start free — free credits on signup, no card required.",
+    "website": "https://you.bot",
+    "categories": "AI API",
+    "slug": "you-bot",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "mention.click",
     "name": "mention.click",
     "description": "AI tool to find relevant Reddit conversations for business growth.",
@@ -14595,6 +14649,15 @@
     "categories": "Other",
     "slug": "daetama",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "AI Yard Design Studio",
+    "name": "AI Yard Design Studio",
+    "description": "AI platform for yard and patio landscape design",
+    "website": "https://www.ai-yard-design.com",
+    "categories": "AI Landscape Generator, AI Backyard Design, AI Design Generator, AI Image Generator",
+    "slug": "ai-yard-design-studio",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Atera IT Autopilot",
@@ -17358,6 +17421,15 @@
     "categories": "Image to Video, AI Video Generator, AI Animation Generator, AI Avatar Generator",
     "slug": "ai-image-to-video-1",
     "created_at": "04:30:13 04/28/2026"
+  },
+  {
+    "title": "Booklet AI",
+    "name": "Booklet AI",
+    "description": "AI booklet maker that researches, writes, and illustrates pages in one chat",
+    "website": "https://bookletai.org",
+    "categories": "AI Documents Generator, AI Ebook Generator, AI Report Generator, AI Writing, AI Design Generator",
+    "slug": "booklet-ai",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Chat Agents",
@@ -22463,6 +22535,15 @@
     "created_at": "14:12:22 04/10/2025"
   },
   {
+    "title": "V2Fun",
+    "name": "V2Fun",
+    "description": "AI platform for text, image, and video to 3D creation",
+    "website": "https://v2fun.ai",
+    "categories": "AI 3D Model Generator, Text to 3D, Image to 3D Model, AI Animation Generator, AI Texture Generator, AI Image Generator",
+    "slug": "v2fun",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "SEOZilla",
     "name": "SEOZilla",
     "description": "SEOZilla.ai is an AI SEO and GEO content automation platform that writes quality articles ranking on Google and found on ChatGPT. Specialised AI agents produce human-verified, AI-detection-resistant content 24/7, then syndicate it across social channels to build EEAT and brand authority. Built for agencies and SaaS teams scaling organic search without scaling headcount.",
@@ -22704,6 +22785,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Commercial Generator",
     "slug": "seedancy-2",
     "created_at": "14:45:22 02/09/2026"
+  },
+  {
+    "title": "HairstylesPro",
+    "name": "HairstylesPro",
+    "description": "AI hairstyle try-on for previewing haircuts before the salon.",
+    "website": "https://hairstylespro.com",
+    "categories": "AI Hairstyle, AI Hair Color Changer, AI Beauty",
+    "slug": "hairstylespro",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Nano Banana Video",
@@ -25352,6 +25442,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ColoringDaily",
+    "name": "ColoringDaily",
+    "description": "Create printable coloring pages from text prompts or photos, with editable name designs and a free ready-to-print library.",
+    "website": "https://coloringdaily.com",
+    "categories": "AI Coloring Book Generator, AI Colorize, AI Image Generator, Image to Image, Text to Image",
+    "slug": "coloringdaily",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "Postel",
     "name": "Postel",
     "description": "AI-powered assistant for X content ideation, creation, and scheduling.",
@@ -25692,6 +25791,15 @@
     "categories": "AI Writing Assistants, AI Productivity Tools, AI Assistant, AI Workflow, AI Text Generator",
     "slug": "slashit-app",
     "created_at": "14:13:09 06/23/2025"
+  },
+  {
+    "title": "VlogMe",
+    "name": "VlogMe",
+    "description": "VlogMe is an AI video creation platform that turns ideas, scripts, photos, audio and existing clips into complete, editable videos with AI avatars, voice, effects and publishing tools.",
+    "website": "https://vlogme.ai",
+    "categories": "AI Avatar Generator, AI Avatar Video Generator, AI Course, Video to Video, Text to Video, Script To Video AI Generator, Image to Video, AI Video Upscaler, AI Video Generator, AI Video Editor, AI Lip Sync Generator, AI YouTube, AI Audio Editing, AI Tiktok, AI Social Media Post Generator, AI Social Media, Storyboard AI, AI Art Generator, AI Voice Over, AI Voice Generator, AI Text-to-Speech, AI Speech Synthesis, AI Sound Effect Generator, AI Tutorial",
+    "slug": "vlogme",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Frame0",
@@ -27069,6 +27177,15 @@
     "categories": "AI Image Generator, AI Art Generator, AI Portrait Generator, Text to Image",
     "slug": "ai-ghostface",
     "created_at": "14:12:42 09/29/2025"
+  },
+  {
+    "title": "SoulVid",
+    "name": "SoulVid",
+    "description": "All-in-one AI studio for short dramas and music videos",
+    "website": "https://www.soulvid.ai",
+    "categories": "AI Video Generator, Text to Video, AI Music Video Generator, Storyboard AI, AI Short Video Generator, AI Lip Sync Generator, AI Voice Generator, AI Video Editor, Script To Video AI Generator",
+    "slug": "soulvid",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Promptizy",
@@ -30950,6 +31067,15 @@
     "created_at": "14:45:27 03/19/2026"
   },
   {
+    "title": "Corrath",
+    "name": "Corrath",
+    "description": "AI gateway that secures requests, spending, and uptime.",
+    "website": "https://www.corrath.io",
+    "categories": "AI API, AI Developer Tools, Large Language Models (LLMs), AI Monitor",
+    "slug": "corrath",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "SCARY STORIES LIVE",
     "name": "ScaryStories Live",
     "description": "Real-time AI horror video generator with adaptive jump scares for interactive storytelling.",
@@ -33146,6 +33272,15 @@
     "created_at": "14:12:27 04/08/2025"
   },
   {
+    "title": "Seedance 2.0",
+    "name": "Seedance 2.0 - so",
+    "description": "AI video generator for text, images, and native-audio clips",
+    "website": "https://seedance2.so",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor, AI Animation Generator, AI Lip Sync Generator, AI Music Video Generator, AI Short Video Generator",
+    "slug": "seedance-2-0-so",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "ai image editor",
     "name": "ai image editor-1",
     "description": "AI-powered online photo editor for enhancement and transformation.",
@@ -34116,6 +34251,15 @@
     "categories": "AI SEO Assistant, AI Content Generator",
     "slug": "content-canvas",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Luddi",
+    "name": "Luddi",
+    "description": "AI game generator for playable, remixable HTML5 games",
+    "website": "https://luddi.ai",
+    "categories": "AI Game Generator, AI Games, AI App Builder",
+    "slug": "luddi",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Ampere",
@@ -40382,6 +40526,15 @@
     "created_at": "14:10:50 04/18/2025"
   },
   {
+    "title": "OpenTypeless",
+    "name": "OpenTypeless",
+    "description": "OpenTypeless is a free, open-source AI voice typing app for macOS, Windows, and Linux that turns speech into polished text in any desktop app.",
+    "website": "https://www.opentypeless.com",
+    "categories": "AI Transcription",
+    "slug": "opentypeless",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "Egaku AI",
     "name": "Egaku AI",
     "description": "The all-in-one AI creative suite. 30+ image & video models, Photo Booth, Logo Maker, Prompt Battle, Storyboard Studio, and more — at a fraction of Midjourney's price. Regional pricing worldwide.",
@@ -43243,6 +43396,15 @@
     "created_at": "02:44:05 12/09/2025"
   },
   {
+    "title": "Brainrot Shorts",
+    "name": "Brainrot Shorts",
+    "description": "AI studio for viral faceless short videos",
+    "website": "https://www.brainrotshorts.com",
+    "categories": "AI Video Generator, AI Short Video Generator, Script To Video AI Generator, Text to Video, AI Voice Over, AI Subtitle Generator, AI Avatar Video Generator",
+    "slug": "brainrot-shorts",
+    "created_at": "15:29:30 07/21/2026"
+  },
+  {
     "title": "MeetAssist",
     "name": "MeetAssist",
     "description": "Real-time AI interview assistant with phone sync for discrete suggestions and coding help.",
@@ -43430,6 +43592,15 @@
     "categories": "NSFW, AI Image Generator, AI Clothing Removal, AI Video Generator, AI Face Swap Generator, Text to Image",
     "slug": "deepundress-ai",
     "created_at": "04:12:53 05/08/2026"
+  },
+  {
+    "title": "Shunshi AI",
+    "name": "Shunshi AI",
+    "description": "AI-powered Chinese metaphysics platform — BaZi charts, compatibility readings, daily fortune and almanac, all grounded in a real calculation engine.",
+    "website": "https://shunshi.ai",
+    "categories": "AI Religion, AI Chatbot",
+    "slug": "shunshi-ai",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "Doclific",
@@ -45617,6 +45788,15 @@
     "categories": "AI Chatbot, AI Customer Service Assistant",
     "slug": "supportchat",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Snappyit — AI Product Photography Platform for Apparel",
+    "name": "Snappyit — AI Product Photography Platform for Apparel",
+    "description": "Snappyit is an AI-powered product photography platform for fashion ecommerce. Transform flat lays into ghost mannequin images, generate AI fashion models, change garment colors, create try-on photos, and produce engaging product videos—all directly in your browser without expensive photoshoots.",
+    "website": "https://snappyit.ai",
+    "categories": "AI Product Photography, AI Background Remover, AI Clothing Removal, AI Colorize, AI Face Swap Generator, AI Image Generator, AI Image Upscaler, AI Photo Editor",
+    "slug": "snappyit-ai-product-photography-platform-for-apparel",
+    "created_at": "15:29:30 07/21/2026"
   },
   {
     "title": "SignalScouter",
