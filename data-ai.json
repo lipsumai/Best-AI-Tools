@@ -1764,6 +1764,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "KidVoice",
+    "name": "KidVoice",
+    "description": "AI kid voice generator for natural child and teen speech",
+    "website": "https://kid-voices-ai.com",
+    "categories": "AI Voice Generator, AI Text-to-Speech, AI Voice Cloning, AI Speech Synthesis",
+    "slug": "kidvoice",
+    "created_at": "04:12:20 07/22/2026"
+  },
+  {
     "title": "SkillCoach.io",
     "name": "Skillcoach",
     "description": "AI-powered career guidance platform identifying skill gaps and recommending personalized courses.",
@@ -2023,6 +2032,15 @@
     "categories": "AI Art Generator, Prompt, AI Video Recording, AI Script Writing, AI Story Writing, Text to Video, AI Personalized Video Generator, AI Video Generator, AI Lip Sync Generator, AI Creative Writing",
     "slug": "skyreels",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Mantlecore AI",
+    "name": "Mantlecore AI",
+    "description": "Managed cloud for open-source AI agents",
+    "website": "https://mantlecore.ai",
+    "categories": "AI Agent, AI API, AI App Builder, AI Browsers, AI Code Assistant, AI Code Generator, AI Code Review, AI Developer Tools, AI Github, AI Landing Page Builder, AI Web Scraping, AI Website Builder",
+    "slug": "mantlecore-ai",
+    "created_at": "04:12:20 07/22/2026"
   },
   {
     "title": "Janus",
@@ -3949,6 +3967,15 @@
     "categories": "AI Accounting, AI API, Log Management, AI Project Management",
     "slug": "aicosts-ai",
     "created_at": "14:10:23 06/14/2025"
+  },
+  {
+    "title": "AI Pet Video Generator Powered by Seedance",
+    "name": "AI Pet Video Generator Powered by Seedance",
+    "description": "Pet Video Generator Powered by Seedance AI is the easiest pet video maker for cat and dog owners — turn a single photo into a fun, cinematic short video in seconds. Free weekly generation & download, no editing skills required.",
+    "website": "https://petvideogenerator.com",
+    "categories": "Image to Video, AI Animated Video, AI Video Generator, Text to Video",
+    "slug": "ai-pet-video-generator-powered-by-seedance",
+    "created_at": "04:12:20 07/22/2026"
   },
   {
     "title": "BuildQL",
@@ -10599,6 +10626,15 @@
     "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, Image to Video, Video to Video, Image to Image",
     "slug": "yolly-ai",
     "created_at": "02:27:01 11/27/2025"
+  },
+  {
+    "title": "13F.Chat",
+    "name": "13F.Chat",
+    "description": "AI platform for 13F hedge fund holdings research",
+    "website": "https://13f.chat",
+    "categories": "AI Investing, AI For Finance, AI Research Tool, AI Copilot, AI Stock Trading",
+    "slug": "13f-chat",
+    "created_at": "04:12:20 07/22/2026"
   },
   {
     "title": "LanguaTalk",
@@ -30779,6 +30815,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Crop.photo - Bulk Image Resizer",
+    "name": "Crop.photo - Bulk Image Resizer",
+    "description": "AI bulk image editing for cropping, resizing, and background removal.",
+    "website": "https://crop.photo",
+    "categories": "AI Crop Image, AI Photo Editor, AI Background Remover, AI Image Enhancer, AI Product Photography, AI API, AI Banner Generator, AI Product Description Generator",
+    "slug": "crop-photo-bulk-image-resizer",
+    "created_at": "04:12:20 07/22/2026"
+  },
+  {
     "title": "Vermile",
     "name": "Vermile",
     "description": "AI platform for automating SEO content and backlinks.",
@@ -43126,6 +43171,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "TTSFree",
+    "name": "TTSFree",
+    "description": "Free AI text-to-speech for 140+ languages and MP3 downloads",
+    "website": "https://ttsfree.com",
+    "categories": "AI Text-to-Speech, AI Speech Synthesis, AI Voice Generator, AI Voice Over, AI API",
+    "slug": "ttsfree",
+    "created_at": "04:12:20 07/22/2026"
+  },
+  {
     "title": "Prompt Masters",
     "name": "Prompt Masters",
     "description": "Discover, store, and share AI prompts effortlessly.",
@@ -44249,6 +44303,15 @@
     "categories": "Web3, Blockchain, AI Workflow Management, No-Code&Low-Code, AI Developer Tools",
     "slug": "thentic",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Naimi",
+    "name": "Naimi",
+    "description": "Interactive AI-powered web proposals with tracked client links.",
+    "website": "https://naimi.ai",
+    "categories": "AI Presentation Generator, AI Pitch Deck Generator, AI Sales, AI Agent, AI API",
+    "slug": "naimi",
+    "created_at": "04:12:20 07/22/2026"
   },
   {
     "title": "HiMusic",
