@@ -2340,6 +2340,15 @@
     "created_at": "14:13:11 07/11/2025"
   },
   {
+    "title": "animeGen",
+    "name": "animeGen - 1",
+    "description": "AI tool that turns photos into downloadable anime art.",
+    "website": "https://animegen.ai",
+    "categories": "AI Anime Generator, AI Anime Art, Image to Image, AI Avatar Generator, AI Image Generator, AI Cartoon Generator",
+    "slug": "animegen-1",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "PortfolioGPT",
     "name": "PortfolioGPT",
     "description": "AI-powered tool for generating personalized investment portfolios quickly.",
@@ -2808,6 +2817,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Car Background AI",
+    "name": "Car Background AI",
+    "description": "Car Background AI removes and replaces car photo backgrounds with AI trained on vehicles. Studio-quality dealership images in seconds, pay-per-credit from $0.20 per image, and a free trial.",
+    "website": "https://carbackground.ai",
+    "categories": "AI Background Generator, AI Background Remover, AI Image Enhancer, AI Image Generator, AI Image Sharpening, AI Image Upscaler, AI Photo Editor, AI Photo Enhancer, Image to Image",
+    "slug": "car-background-ai",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "Mew Design",
     "name": "Mew Design",
     "description": "Your AI Design Agent for Flawless Text & Visuals",
@@ -3229,6 +3247,15 @@
     "categories": "AI Chatbot, AI Art Generator",
     "slug": "imyfone",
     "created_at": "02:22:19 04/10/2025"
+  },
+  {
+    "title": "Flux 3",
+    "name": "Flux 3",
+    "description": "AI studio for generating, editing, and animating images with synchronized audio.",
+    "website": "https://flux3.studio",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, Image to Image",
+    "slug": "flux-3",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "Studia AI",
@@ -5362,6 +5389,15 @@
     "categories": "AI Chatbot, AI Assistant, Large Language Models (LLMs), AI Search Engine, AI API, Open Source AI Models, AI PDF Summarizer",
     "slug": "notto-ai",
     "created_at": "15:00:09 04/15/2026"
+  },
+  {
+    "title": "Stat Sniper",
+    "name": "Stat Sniper",
+    "description": "AI-powered sports betting analytics with real-time stats, player props, predictive insights, and a community built for bettors.",
+    "website": "https://statsniper.com",
+    "categories": "AI Sports Betting, AI Sports, AI Assistant, AI For Data Analytics, AI Sports Predictions",
+    "slug": "stat-sniper",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "AI Resume builder for Recruiters",
@@ -11241,6 +11277,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Kit for AI",
+    "name": "Kit For AI",
+    "description": "AI platform for document conversion and persistent agent memory",
+    "website": "https://kitforai.com",
+    "categories": "AI Knowledge Base, AI Agent, AI API, AI Document Extraction, AI OCR, AI Web Scraping",
+    "slug": "kit-for-ai",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "B2Proxy",
     "name": "B2Proxy",
     "description": "Fast, reliable residential proxy service for global data access and scraping.",
@@ -12879,6 +12924,15 @@
     "created_at": "03:38:04 02/12/2026"
   },
   {
+    "title": "Unibase Memory",
+    "name": "Unibase Memory",
+    "description": "Unibase Memory — one AI memory across ChatGPT, Claude, Gemini and the Web.  Your conversations with ChatGPT, Claude, and Gemini are scattered across tabs and lost to history. Unibase Memory captures them into a single, private, searchable memory that you own — encrypted end-to-end to your own wallet and optionally synced to decentralized storage, so your memory follows you, not a platform.",
+    "website": "https://www.unibase.com",
+    "categories": "AI Tools Directory, Prompt Engineering, Large Language Models (LLMs)",
+    "slug": "unibase-memory",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "Gen Music IM",
     "name": "GenMusic Immediately",
     "description": "Free AI music generator transforming text into professional music.",
@@ -12922,6 +12976,15 @@
     "categories": "AI Grammar Checker, Writing Assistants",
     "slug": "grammar-gpt",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Beamtrace",
+    "name": "Beamtrace",
+    "description": "AI tool for tracking brand visibility in AI search.",
+    "website": "https://beamtrace.com",
+    "categories": "AI SEO Tools, AI Marketing, AI Digital Marketing, AI Monitor",
+    "slug": "beamtrace",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "BetweenQuiz",
@@ -14508,6 +14571,15 @@
     "created_at": "14:12:52 07/16/2025"
   },
   {
+    "title": "FLUX 3 Video",
+    "name": "FLUX 3 Video",
+    "description": "Browser-based AI video generator from text and images.",
+    "website": "https://flux3video.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "flux-3-video",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "Fotol AI",
     "name": "Fotol AI",
     "description": "All-in-one AI image & video processing and editing platform.",
@@ -14632,6 +14704,15 @@
     "categories": "AI Product Description Generator, AI Speech Synthesis, Text-to-Speech, AI Voice Assistants, AI Productivity Tools, Translate",
     "slug": "clipboard-tts",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Meta Image",
+    "name": "Meta Image",
+    "description": "Independent AI studio for images, edits, and short videos",
+    "website": "https://www.metaimage.dev",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, AI Photo Editor, AI Background Remover, Object Remover AI, AI Image Enhancer, AI Photo Restoration, AI Image Combiner",
+    "slug": "meta-image",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "Image 2",
@@ -15001,6 +15082,15 @@
     "categories": "AI Prompt Generator, Prompt Engineering, AI Image Generator, AI Video Generator",
     "slug": "banana-prompts-ai",
     "created_at": "03:29:01 03/17/2026"
+  },
+  {
+    "title": "Whisper Web",
+    "name": "Whisper Web",
+    "description": "Browser-based private AI speech-to-text transcription",
+    "website": "https://whisperweb.dev",
+    "categories": "AI Speech Recognition, AI Transcription, AI Speech-to-Text, Audio To Text AI, AI Transcriber",
+    "slug": "whisper-web",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "StreamGen",
@@ -15516,6 +15606,15 @@
     "created_at": "02:24:31 09/08/2025"
   },
   {
+    "title": "RemoveFrom.Video",
+    "name": "RemoveFrom.Video",
+    "description": "AI tool to remove watermarks, text, and subtitles from videos",
+    "website": "https://removefrom.video",
+    "categories": "AI Watermark Remover, Object Remover AI, AI Video Editor, AI Inpainting, AI Eraser, AI Background Remover",
+    "slug": "removefrom-video",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "Uni-1 AI Image Generator",
     "name": "Uni-1 AI - one",
     "description": "A reasoning-powered AI generator for high-resolution images with legible text and spatial accuracy.",
@@ -15766,6 +15865,15 @@
     "categories": "AI Writing, AI Writing Assistants, AI Copywriting, AI Blog Generator, AI Outline Generator, AI Content Detector, AI Social Media Post Generator, AI Email Writer",
     "slug": "draft-co",
     "created_at": "14:12:23 06/27/2025"
+  },
+  {
+    "title": "Headshot.ltd",
+    "name": "Headshot.ltd",
+    "description": "Headshot.ltd turns phone selfies into professional headshots. One time pricing starting from $8. No subscription.",
+    "website": "https://headshot.ltd",
+    "categories": "AI Headshot Generator, AI Background Generator, AI Photo Editor, AI Linkedin Headshot, AI Linkedin Photo Generator",
+    "slug": "headshot-ltd",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "13F Insight",
@@ -16243,6 +16351,15 @@
     "categories": "AI Song Generator, AI Music Generator, AI Gift Ideas",
     "slug": "beatjar",
     "created_at": "02:51:30 06/23/2025"
+  },
+  {
+    "title": "Sherlock Search",
+    "name": "Sherlock Search",
+    "description": "One-time reverse face search for public web sources",
+    "website": "https://sherlocksearch.net",
+    "categories": "AI Face Recognition, AI Image Recognition, AI Search Engine",
+    "slug": "sherlock-search",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "Sayfone",
@@ -17998,6 +18115,15 @@
     "categories": "AI Image Generator, Text to Image, AI Realistic Image Generator, AI Style Transfer, AI Poster Generator",
     "slug": "seedream-4-0-next-generation-multi-modal-ai-image-generator",
     "created_at": "14:13:05 09/22/2025"
+  },
+  {
+    "title": "LongTerMemory AI Study tool",
+    "name": "LongTerMemory AI Study tool",
+    "description": "AI study app for quizzes, OCR, and spaced repetition",
+    "website": "https://longtermemory.com",
+    "categories": "AI Flashcard Maker, AI Question Generator, AI Quiz Generator, AI OCR, AI Chatbot, AI Homework Helper",
+    "slug": "longtermemory-ai-study-tool",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "ConceptViz",
@@ -22365,6 +22491,15 @@
     "created_at": "14:17:50 01/05/2026"
   },
   {
+    "title": "AI Funeral Program Maker",
+    "name": "AI Funeral Program Maker",
+    "description": "AI-powered funeral program maker with a free AI obituary writer. Turn confirmed family facts, photos, and service details into an editable program proof, then download a print-ready PDF.",
+    "website": "https://funeralprogrammaker.com",
+    "categories": "AI Writing, AI Writing Assistants, AI Productivity Tools",
+    "slug": "ai-funeral-program-maker",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "FindHackers",
     "name": "FindHackers",
     "description": "Platform for builders to showcase projects, get hired, and discover opportunities with AI assistance.",
@@ -25441,6 +25576,15 @@
     "categories": "AI Advertising Assistant, AI Ad Creative Assistant, AI Ad Generator",
     "slug": "adspawn",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Artlist",
+    "name": "Artlist",
+    "description": "All-in-one AI toolkit for creating images, videos, music, and voiceovers.",
+    "website": "https://artlist.io",
+    "categories": "AI Video Generator, AI Image Generator, AI Music Generator, AI Voice Generator, AI Avatar Video Generator, AI Dubbing, AI Lip Sync Generator, Text to Video, Image to Video, AI Voice Cloning, AI Text-to-Speech",
+    "slug": "artlist",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "Bridgely",
@@ -31751,6 +31895,15 @@
     "created_at": "02:27:01 11/27/2025"
   },
   {
+    "title": "Lev8",
+    "name": "Lev8",
+    "description": "Find the right people faster. Reach out across multiple channels. Get replies in your inbox the same day.",
+    "website": "https://lev8.com",
+    "categories": "AI Lead Generation, AI Email Generator, AI Marketing, AI Sales, AI Monitor, AI Productivity Tools",
+    "slug": "lev8",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "Rewind",
     "name": "Rewind for iPhone",
     "description": "Personalized AI for your phone.",
@@ -32883,6 +33036,15 @@
     "categories": "AI Video Generator, Image to Video, AI Short Video Generator, AI Animation Generator",
     "slug": "hoter-ai",
     "created_at": "14:56:45 03/26/2026"
+  },
+  {
+    "title": "EvalCore",
+    "name": "EvalCore",
+    "description": "Offline snapshot testing for AI behavior",
+    "website": "https://evalcore.cc",
+    "categories": "AI Testing, AI Developer Tools, Large Language Models (LLMs), AI Agent",
+    "slug": "evalcore",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "PDF Converter",
@@ -36853,6 +37015,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ContentIQ",
+    "name": "ContentIQ",
+    "description": "AI writer that verifies facts before writing articles with cited sources.",
+    "website": "https://app.contentiq.net",
+    "categories": "AI Writing, AI Blog Generator, AI Writing Assistants, AI Copywriting, AI Text Generator, AI Research Tool",
+    "slug": "contentiq",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "Seedance 2.0 AI",
     "name": "Seedance 2.0 -8",
     "description": "Advanced AI platform for cinematic multimodal video generation and multi-shot storytelling.",
@@ -38770,6 +38941,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Flint AI",
+    "name": "Flint AI",
+    "description": "Community platform for building, sharing, and chatting with custom AI agents.",
+    "website": "https://flintapp.ai",
+    "categories": "AI Agent, AI Chatbot, AI Assistant, No-Code&Low-Code, AI Roleplay",
+    "slug": "flint-ai",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
     "title": "AI Logo Maker",
     "name": "AI Logo Maker IO",
     "description": "Create custom logos using AI algorithms instantly.",
@@ -39146,6 +39326,15 @@
     "categories": "AI Marketing, AI Marketing Plan Generator, AI Assistant, AI Workflow",
     "slug": "wonderflow-app",
     "created_at": "14:18:34 01/12/2026"
+  },
+  {
+    "title": "Neato Prompt",
+    "name": "Neato Prompt",
+    "description": "Turn vague prompts into expert-level prompts",
+    "website": "https://www.neatoprompt.com",
+    "categories": "AI Prompt Generator, AI Writing Assistants, Prompt Engineering, AI Productivity Tools",
+    "slug": "neato-prompt",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "SkillKit",
@@ -41315,6 +41504,15 @@
     "categories": "AI Social Media Assistant, AI Bio Generator, AI SEO Assistant",
     "slug": "plano-ly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "kimik3 ai",
+    "name": "kimik3 ai",
+    "description": "Unofficial Kimi K3 guide with free chat, API examples, and pricing",
+    "website": "https://www.kimik3.net",
+    "categories": "AI Chatbot, AI API, Large Language Models (LLMs), AI Code Assistant, AI Summarizer, AI Assistant",
+    "slug": "kimik3-ai",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "DailyStack",
@@ -45320,6 +45518,24 @@
     "categories": "AI Email Assistant, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Workflow Management, AI Project Management, Writing Assistants, AI Content Generator, AI Email Writer, AI Customer Service Assistant, AI Reply Assistant, AI Email Marketing, AI Meeting Assistant, AI Response Generator",
     "slug": "spike",
     "created_at": "02:23:05 04/09/2025"
+  },
+  {
+    "title": "Ariaflow AI",
+    "name": "Ariaflow AI",
+    "description": "AI platform for automated faceless videos and podcasts",
+    "website": "https://ariaflow.ai",
+    "categories": "AI Video Generator, AI Workflow, AI Short Video Generator, AI Social Media, AI Tiktok Video Generator, AI Youtube Video Maker, AI Podcast, AI Voice Cloning, AI Subtitle Generator",
+    "slug": "ariaflow-ai",
+    "created_at": "14:55:43 07/25/2026"
+  },
+  {
+    "title": "SFX Generator - Generate Any Sound Effect From Text",
+    "name": "SFX Generator - Generate Any Sound Effect From Text",
+    "description": "Need a specific sound effect? Describe it, and AI will create it for you. Generate custom sound effect for music, videos, games, podcasts, and other projects.",
+    "website": "https://slooply.com",
+    "categories": "AI Sound Effect Generator, AI Music Generator",
+    "slug": "sfx-generator-generate-any-sound-effect-from-text",
+    "created_at": "14:55:43 07/25/2026"
   },
   {
     "title": "Donely",
