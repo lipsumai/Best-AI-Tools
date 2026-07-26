@@ -378,6 +378,15 @@
     "created_at": "14:12:46 10/13/2025"
   },
   {
+    "title": "Grengin",
+    "name": "Grengin",
+    "description": "Open-source, self-hosted AI workspace with built-in governance for your team.",
+    "website": "https://grengin.com",
+    "categories": "AI Assistant, AI Chatbot, AI Productivity Tools",
+    "slug": "grengin",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "Tech Tool Decode",
     "name": "Tech Tool Decode",
     "description": "AI tools evaluation for startups & developers",
@@ -5607,6 +5616,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Scora",
+    "name": "Scora",
+    "description": "AI background music synced to video moods and moments",
+    "website": "https://scora.fm",
+    "categories": "AI Music Generator, AI Audio Editing, AI Video Editor",
+    "slug": "scora",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "6figr.com",
     "name": "6figr.com",
     "description": "A career platform for salary search and compensation insights.",
@@ -6973,6 +6991,15 @@
     "categories": "AI Music Generator, AI Lyrics Generator",
     "slug": "melodisco-ai-music-player",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Google Maps Scraper",
+    "name": "Google Maps Scraper",
+    "description": "Google Maps scraping tool for business data extraction",
+    "website": "https://gmapsextractor.com",
+    "categories": "AI Web Scraping, AI Lead Generation, AI API, AI Data Mining",
+    "slug": "google-maps-scraper",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "Permito",
@@ -9990,6 +10017,15 @@
     "created_at": "14:13:09 06/23/2025"
   },
   {
+    "title": "CrunchJunkie",
+    "name": "CrunchJunkie",
+    "description": "CrunchJunkie is AI visibility tracking and marketing reporting software in one platform. It tracks how nine AI engines — ChatGPT, Gemini, Perplexity, Claude, Google AI Overviews, Google AI Mode, Microsoft Copilot, Grok and DeepSeek — describe your brand, ties that visibility to real sessions and conversions from GA4, and builds white-label client reports across every ad channel. All nine engines are included on every plan, from €14/month.",
+    "website": "https://crunchjunkie.io",
+    "categories": "AI SEO Tools, AI Report Writing, AI Marketing, AI For Data Analytics",
+    "slug": "crunchjunkie",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "AppLaunchFlow",
     "name": "AppLaunchFlow",
     "description": "Automates App Store screenshots, ASO copy, and localization without design tools.",
@@ -10222,6 +10258,15 @@
     "categories": "AI Image Generator, Text to Image, Image to Image, AI Art Generator, AI Marketing, AI API",
     "slug": "gpt-image-1-5-generator",
     "created_at": "14:16:05 12/18/2025"
+  },
+  {
+    "title": "AI Wallpaper",
+    "name": "AI Wallpaper - 1",
+    "description": "AI Wallpaper is a live and static wallpaper platform for iPhone, Android, and desktop, with an AI generator that turns text or images into short MP4/WebM wallpaper loops.",
+    "website": "https://aiwallpaper.me",
+    "categories": "AI Wallpaper Generator",
+    "slug": "ai-wallpaper-1",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "PollenTracker",
@@ -11680,6 +11725,15 @@
     "categories": "SEO Writing AI, AI SEO Tools",
     "slug": "seozilla",
     "created_at": "14:48:34 04/02/2026"
+  },
+  {
+    "title": "TickClip",
+    "name": "TickClip",
+    "description": "AI shopping verdict tool for price, reviews, and sellers",
+    "website": "https://www.tickclip.ai",
+    "categories": "AI Shopping Assistant, AI Reviews, AI Checker, AI Detector",
+    "slug": "tickclip-the-fiduciary-layer-of-e-commerce",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "Superinbox",
@@ -16459,6 +16513,15 @@
     "categories": "AI Photo Editor, AI Inpainting, AI Clothing Generator, AI Background Generator, AI Bikini",
     "slug": "hifun",
     "created_at": "14:13:14 10/29/2025"
+  },
+  {
+    "title": "Flux 3",
+    "name": "Flux 3 - im",
+    "description": "AI video generator for prompt, image, and reference-based clips",
+    "website": "https://flux-3.im",
+    "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Short Video Generator, AI Ad Creative",
+    "slug": "flux-3-im",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "Tattoomind AI",
@@ -23031,6 +23094,15 @@
     "created_at": "14:12:59 11/13/2025"
   },
   {
+    "title": "StaffingLeads",
+    "name": "StaffingLeads",
+    "description": "Real-time hiring leads for recruiters",
+    "website": "https://staffingleads.com",
+    "categories": "AI Lead Generation, AI Recruiting, AI Sales Assistant, AI Web Scraping",
+    "slug": "staffingleads",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "LokiProxy",
     "name": "LokiProxy",
     "description": "Premium global residential proxy network for secure data access and web scraping.",
@@ -23344,6 +23416,15 @@
     "categories": "AI Photo & Image Generator, AI Illustration Generator, Photo & Image Editor, Image to Image, AI Landscape Generator, AI Interior & Room Design",
     "slug": "ogrovision",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Flux3 AI",
+    "name": "Flux3 AI - org",
+    "description": "AI studio for generating and editing images and videos with FLUX.3",
+    "website": "https://www.flux3.org",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Image to Image, AI API, AI Video Editor",
+    "slug": "flux3-ai-org",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "Termo",
@@ -26721,6 +26802,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Flux 3 AI",
+    "name": "Flux 3 AI",
+    "description": "Browser-based AI image and video generator with multiple models",
+    "website": "https://flux-3.co",
+    "categories": "AI Image Generator, AI Video Generator, Text to Image, Image to Image, Text to Video, Image to Video",
+    "slug": "flux-3-ai",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "Jazzberry",
     "name": "Jazzberry",
     "description": "AI agent for finding bugs via real code execution on pull requests.",
@@ -27376,6 +27466,15 @@
     "categories": "AI Meeting Assistant, AI Productivity Tools, AI Task Management",
     "slug": "kolva",
     "created_at": "03:49:54 02/08/2026"
+  },
+  {
+    "title": "Humanizer - PaperBleach",
+    "name": "Humanizer - PaperBleach",
+    "description": "AI humanizer and detector for natural-sounding writing",
+    "website": "https://paperbleach.ai",
+    "categories": "Humanizer AI, AI Detector, AI Writing Assistants, AI Rewriter, AI Transcription, Undetectable AI",
+    "slug": "humanizer-paperbleach",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "Talents.Kids",
@@ -28098,6 +28197,15 @@
     "created_at": "14:12:04 07/17/2025"
   },
   {
+    "title": "FLUX 3",
+    "name": "FLUX 3 - dev",
+    "description": "Multimodal AI platform for image, video, and audio generation",
+    "website": "https://flux3.dev",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Image to Video, Text to Image, Video to Video, AI Video Editor, AI Models, Open Source AI Models",
+    "slug": "flux-3-dev",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "TeaChecker",
     "name": "TeaChecker",
     "description": "Get a discreet Tea app profile lookup with reviewed results in 24 hours.",
@@ -28600,6 +28708,15 @@
     "categories": "AI Voice Cloning, Large Language Models (LLMs), AI Response Generator, AI Customer Service Assistant",
     "slug": "eadlyn",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Photo to Video",
+    "name": "Photo to Video",
+    "description": "Turn any photo into an AI video with Seedance 2.0, Kling, Wan, Veo, and Sora — up to 4K with audio. Free credits to start, no sign-up required.",
+    "website": "https://photo2video.ai",
+    "categories": "Image to Video, Text to Video",
+    "slug": "photo-to-video",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "PaprDeck",
@@ -32073,6 +32190,15 @@
     "categories": "AI Agent, AI Crypto, Blockchain, AI API",
     "slug": "p402-io",
     "created_at": "14:18:34 01/12/2026"
+  },
+  {
+    "title": "SJolt",
+    "name": "SJolt",
+    "description": "Unified API for AI image and video generation",
+    "website": "https://sjolt.ai",
+    "categories": "AI API, AI Image Generator, AI Video Generator, Text to Video, Image to Video, AI Models",
+    "slug": "sjolt",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "memU",
@@ -41839,6 +41965,15 @@
     "created_at": "14:09:34 04/12/2025"
   },
   {
+    "title": "BastionGPT",
+    "name": "BastionGPT",
+    "description": "BastionGPT is the HIPAA-compliant AI assistant for healthcare",
+    "website": "https://bastiongpt.com",
+    "categories": "AI Healthcare, AI Chat Generator, AI Writing Assistants, AI Transcription, AI Mental Health",
+    "slug": "bastiongpt",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "History Sleep",
     "name": "History Sleep",
     "description": "AI-generated boring history lectures for natural sleep.",
@@ -43045,6 +43180,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "Musóna",
+    "name": "Musóna",
+    "description": "Musóna is an AI companion app built around memory and presence. Your companion remembers your conversations, has a life and routine of their own, and reaches out on their own — so the relationship carries on between sessions instead of resetting every time you close the app.",
+    "website": "https://musona.app",
+    "categories": "AI Character, AI Anime Girlfriend, AI Boyfriend, AI Chatbot, AI Girlfriend, AI Roleplay",
+    "slug": "mus-na-ai-companion",
+    "created_at": "14:57:13 07/26/2026"
+  },
+  {
     "title": "Deal Protectors",
     "name": "Deal Protectors",
     "description": "AI service for transparent car deal evaluations.",
@@ -43133,6 +43277,15 @@
     "categories": "AI Code Generator, No-Code&Low-Code, AI Landing Page Builder, AI Website Builder, AI DevOps Assistant",
     "slug": "launchpad-stack",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Foreverse",
+    "name": "Foreverse",
+    "description": "AI reader and roleplay app for branching fiction",
+    "website": "https://foreverse.app",
+    "categories": "AI Reader, AI Roleplay, AI Creative Writing, AI Story Generator, AI Character, AI Agent, AI Chatbot, AI Writing Assistants, AI Text-to-Speech",
+    "slug": "foreverse",
+    "created_at": "14:57:13 07/26/2026"
   },
   {
     "title": "Adsturbo",
