@@ -1674,6 +1674,15 @@
     "created_at": "14:38:07 03/03/2026"
   },
   {
+    "title": "NxCode",
+    "name": "NxCode",
+    "description": "AI app builder for production-ready apps without coding",
+    "website": "https://www.nxcode.io",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Developer Tools, AI Code Generator",
+    "slug": "nxcode",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "KlydaAI",
     "name": "Product hunt Pilot",
     "description": "AI tools for simplified personal branding and content creation.",
@@ -2680,6 +2689,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, Open Source AI Models, NSFW",
     "slug": "ltx-2-ai-1",
     "created_at": "14:17:22 01/09/2026"
+  },
+  {
+    "title": "Scriptly AI",
+    "name": "Scriptly AI",
+    "description": "Turn your photos into finished AI movies — consistent characters, storyboards, voiceover, and music.",
+    "website": "https://beta.scriptlyai.app",
+    "categories": "AI Video Generator, AI Video Editor, Image to Video, Script To Video AI Generator, Text to Video",
+    "slug": "scriptly-ai",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Platvix",
@@ -5137,6 +5155,15 @@
     "categories": "AI Agent, AI Avatar Generator, AI Productivity Tools, AI Assistant",
     "slug": "karmabox",
     "created_at": "15:14:35 05/08/2026"
+  },
+  {
+    "title": "PopVid AI",
+    "name": "PopVid",
+    "description": "Interactive AI video platform for real-time roleplay and branching stories.",
+    "website": "https://popvid.ai",
+    "categories": "AI Roleplay, AI Video Generator, Image to Video, AI Character, AI Story Generator",
+    "slug": "popvid",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Deep Nostalgia AI",
@@ -8856,6 +8883,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Sleep Calculator",
+    "name": "SleepCalculator",
+    "description": "Free sleep cycle planner for bedtime and wake-up times",
+    "website": "https://www.sleepcalculator.io",
+    "categories": "Other",
+    "slug": "sleepcalculator",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "ΛVΛTΛRS ΛI",
     "name": "Avatars AI",
     "description": "ΛVΛTΛRS ΛI is an AI chat companion that helps users with various tasks and provides information.",
@@ -9421,6 +9457,15 @@
     "categories": "AI Photo Editor, AI Image Generator, AI Background Remover, Text to Image, Image to Image",
     "slug": "nano-banana-ai-image-editor-edit-photos-with-text",
     "created_at": "02:41:36 11/26/2025"
+  },
+  {
+    "title": "Cantina",
+    "name": "Cantina AI",
+    "description": "Social AI platform for creating characters and videos",
+    "website": "https://cantina.com",
+    "categories": "AI Character, AI Chatbot, AI Video Generator, AI Roleplay",
+    "slug": "cantina-ai",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Most Affordable Sora2 API",
@@ -11392,6 +11437,15 @@
     "categories": "AI Video Recording, AI Video Editor, AI Video Enhancer, Video to Video, AI Video Generator",
     "slug": "sieve",
     "created_at": "14:11:07 04/21/2025"
+  },
+  {
+    "title": "ImageWhisperer",
+    "name": "ImageWhisperer",
+    "description": "AI image detector and forensic verification tool",
+    "website": "https://imagewhisperer.org",
+    "categories": "AI Image Detector, AI Detector, AI Content Detector, AI Checker, AI API",
+    "slug": "imagewhisperer",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Simplify",
@@ -15372,6 +15426,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "ModelScope",
+    "name": "ModelScope Community",
+    "description": "Open-source AI model community and one-stop model service platform.",
+    "website": "https://www.modelscope.cn",
+    "categories": "Open Source AI Models, AI Models, AI Developer Tools, Large Language Models (LLMs), AI API",
+    "slug": "modelscope-community",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "MealForMe",
     "name": "MealForMe",
     "description": "Meals and food matching in less than a minute.",
@@ -15775,6 +15838,15 @@
     "categories": "AI Content Generator, Summarizer",
     "slug": "gimme-summary-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ChatCut",
+    "name": "ChatCut",
+    "description": "AI video editor for prompt-based transcript editing",
+    "website": "https://chatcut.io",
+    "categories": "AI Video Editor, AI Video Generator, AI Assistant, AI Image Generator, AI Music Generator, AI Subtitle Generator",
+    "slug": "chatcut",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Mooonshot.io",
@@ -20223,6 +20295,15 @@
     "created_at": "14:11:46 05/02/2025"
   },
   {
+    "title": "Khroma",
+    "name": "Khroma",
+    "description": "AI color tool for personalized palettes",
+    "website": "https://www.khroma.co",
+    "categories": "AI Color Palette Generator, AI Design Assistant, AI Graphic Design",
+    "slug": "khroma",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "Nano Banana AI | Nano Banana the Best AI Image Generator",
     "name": "Nano Banana AI | Nano Banana the Best AI Image Generator",
     "description": "Get stunning images in seconds",
@@ -22165,6 +22246,15 @@
     "categories": "AI SEO Tools, AI Report Writing, AI Advertising, AI Marketing, AI Marketing Plan Generator, Google Ads AI",
     "slug": "userbird",
     "created_at": "14:12:33 07/08/2025"
+  },
+  {
+    "title": "Pixel Cake (PixCake)",
+    "name": "Pixel Cake",
+    "description": "AI retouching software for commercial photography",
+    "website": "https://www.pixcakeai.com",
+    "categories": "AI Photo Editor, AI Photo Enhancer, AI Beauty, AI Photography, AI Background Remover",
+    "slug": "pixel-cake",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Hocha AI",
@@ -27333,6 +27423,15 @@
     "created_at": "14:09:34 10/04/2025"
   },
   {
+    "title": "Lemonade",
+    "name": "Lemonade AI",
+    "description": "Self-hosted local AI platform for text, images, and speech",
+    "website": "https://lemonade-server.ai",
+    "categories": "AI Developer Tools, AI API, Open Source AI Models, Large Language Models (LLMs), AI Agent, AI Chatbot, AI Image Generator, AI Transcription",
+    "slug": "lemonade-ai",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "HappyHorse AI",
     "name": "HappyHorse - 9",
     "description": "Premium AI video generator for cinematic brand films, product motion, and social media clips.",
@@ -27898,6 +27997,15 @@
     "categories": "AI Image Generator",
     "slug": "imagesv2-ai",
     "created_at": "15:54:45 05/04/2026"
+  },
+  {
+    "title": "Tencent Hunyuan Large Model",
+    "name": "Tencent Hunyuan Large Model",
+    "description": "Tencent AI model for multimodal Q&A and content retrieval",
+    "website": "https://hunyuan.tencent.com",
+    "categories": "AI Models, Open Source AI Models, Large Language Models (LLMs)",
+    "slug": "tencent-hunyuan-large-model",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Writegenic AI",
@@ -28546,6 +28654,15 @@
     "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D, AI Texture Generator",
     "slug": "fast3d",
     "created_at": "02:54:14 07/18/2025"
+  },
+  {
+    "title": "Fotello",
+    "name": "Fotello AI",
+    "description": "AI platform for real estate media booking, editing, staging, delivery, and payments",
+    "website": "https://fotello.co",
+    "categories": "AI Real Estate, AI Photo Editor, AI Photography, AI Scheduling, AI Workflow, AI Video Editor",
+    "slug": "fotello-ai",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "AIResumeBuilder.me",
@@ -29743,6 +29860,15 @@
     "categories": "Translate, Papers, Captions or Subtitle, Summarizer",
     "slug": "translatebase-web-page-pdf-and-subtitle-tranlation-chat-with-pdf",
     "created_at": "14:09:58 05/04/2025"
+  },
+  {
+    "title": "Sponge Music",
+    "name": "Sponge Music",
+    "description": "Free AI platform for lyrics, composition, and music generation.",
+    "website": "https://www.haimian.com",
+    "categories": "AI Music Generator, AI Song Generator, AI Lyrics Generator, AI Text-to-Music",
+    "slug": "sponge-music",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "TryScribe",
@@ -31041,6 +31167,15 @@
     "created_at": "14:15:50 08/01/2025"
   },
   {
+    "title": "Playabl",
+    "name": "Playabl",
+    "description": "AI platform for creating and sharing web games without coding",
+    "website": "https://playabl.ai",
+    "categories": "AI Game Generator, AI Games, No-Code&Low-Code, AI Chatbot",
+    "slug": "playabl",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "FalcoCut",
     "name": "FalcoCut",
     "description": "AI video generator for social media in multiple languages.",
@@ -31866,6 +32001,15 @@
     "categories": "AI Translate, AI Video Translator, AI Subtitle Generator, AI Writing",
     "slug": "ai-subtitle-translator",
     "created_at": "14:12:44 01/17/2026"
+  },
+  {
+    "title": "Qiantu.com (58pic.com)",
+    "name": "Qiantu.com",
+    "description": "Chinese stock design platform with commercial assets and AI tools.",
+    "website": "https://www.58pic.com",
+    "categories": "AI Design Generator, AI Graphic Design, AI Image Generator, AI Poster Generator, AI Video Generator, AI PPT Maker, AI Background Remover",
+    "slug": "qiantu-com",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Chat-fu",
@@ -33270,6 +33414,15 @@
     "categories": "AI Knowledge Base, AI Knowledge Management, AI Presentation Generator, AI PDF, AI Productivity Tools, AI Team Collaboration, AI Notes Assistant, AI Project Management, AI Mind Mapping, Research Tool",
     "slug": "heptabase",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "Eketu",
+    "name": "Eketu",
+    "description": "AI design platform for e-commerce product visuals",
+    "website": "https://www.yiketu.com",
+    "categories": "AI Photo Editor, AI Background Remover, AI Product Photography, AI Poster Generator, AI Graphic Design",
+    "slug": "eketu",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Artedge AI",
@@ -35755,6 +35908,15 @@
     "created_at": "14:41:41 02/19/2026"
   },
   {
+    "title": "Blotato",
+    "name": "Blotato",
+    "description": "AI social media automation tool with API, MCP, and cross-posting.",
+    "website": "https://www.blotato.com",
+    "categories": "AI Social Media, AI API, AI Social Media Post Generator, AI Scheduling, AI Agent, AI Marketing",
+    "slug": "blotato",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "Citely",
     "name": "Citely",
     "description": "Citely is your AI-powered citation tool for tracing sources and validating references — no fake papers, no hallucinations, just real research you can trust.",
@@ -35762,6 +35924,15 @@
     "categories": "AI Essay Writer, AI Paragraph Generator, AI Report Writing, AI Review Generator, AI Summarizer, AI Text Generator, AI Thesis Generator, AI Writing, AI Writing Assistants",
     "slug": "citely",
     "created_at": "14:12:09 10/21/2025"
+  },
+  {
+    "title": "Tencent MiaoSi",
+    "name": "MiaoSi",
+    "description": "AIGC platform for marketing content creation",
+    "website": "https://admuse.qq.com",
+    "categories": "AI Ad Creative, AI Marketing, AI Advertising, AI Ad Generator, AI Image Generator, AI Video Generator, AI Avatar Video Generator",
+    "slug": "miaosi",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "AIUpscaler - Image Enhangcer",
@@ -35807,6 +35978,15 @@
     "categories": "AI Image Generator, AI Video Generator, Text to Image, Text to Video, Image to Video, AI Music Generator",
     "slug": "muse-art-ai",
     "created_at": "03:39:18 04/02/2026"
+  },
+  {
+    "title": "Meetily AI",
+    "name": "Meetily AI",
+    "description": "Local AI meeting assistant for private transcription and summaries",
+    "website": "https://meetily.ai",
+    "categories": "AI Meeting Assistant, AI Note Taker, AI Transcription, AI Transcriber, Audio To Text AI, AI Summarizer, AI Speech-to-Text",
+    "slug": "meetily-ai",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "AI Baby Generator",
@@ -39157,6 +39337,15 @@
     "created_at": "14:11:44 12/20/2025"
   },
   {
+    "title": "Grammar Checker",
+    "name": "GrammarChecker",
+    "description": "Free online tool for grammar, spelling, punctuation, and style checks",
+    "website": "https://www.grammarchecker.ai",
+    "categories": "AI Grammar Checker, AI Spell Check, AI Proofreading, AI Writing Assistants, AI Detector",
+    "slug": "grammarchecker",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "ace.me",
     "name": "ace.me",
     "description": "Your new website, email address & cloud storage. Simple. Fast. Secure.",
@@ -41218,6 +41407,15 @@
     "created_at": "14:42:03 05/03/2026"
   },
   {
+    "title": "UpscaleAI",
+    "name": "UpscaleAI",
+    "description": "AI photo and video upscaler for sharper images, 8K photos, and 4K videos",
+    "website": "https://www.upscaleai.ai",
+    "categories": "AI Image Upscaler, AI Video Upscaler, AI Image Enhancer, AI Video Enhancer, AI Photo Enhancer, AI Photo Restoration, AI Image Sharpening, AI Unblur Image, AI Background Remover",
+    "slug": "upscaleai",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "Fusion Clips AI",
     "name": "FusionClips",
     "description": "Convert long live streams to engaging clips.",
@@ -43135,6 +43333,15 @@
     "created_at": "02:39:22 05/05/2025"
   },
   {
+    "title": "Renderforest",
+    "name": "Renderforest",
+    "description": "AI platform for videos, logos, websites, and branding assets.",
+    "website": "https://www.renderforest.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Website Builder, AI Animation Generator, AI Video Editor, AI Logo Generator, AI Avatar Video Generator, AI Commercial Generator, AI Music Video Generator",
+    "slug": "renderforest",
+    "created_at": "15:46:00 07/30/2026"
+  },
+  {
     "title": "MarketMint",
     "name": "MarketMint",
     "description": "SaaS discovery platform for tools, startups, and news.",
@@ -44348,6 +44555,15 @@
     "categories": "AI Story Generator, AI Comic Generator, AI Character, AI Writing, AI Illustration Generator",
     "slug": "c2story",
     "created_at": "03:59:31 04/17/2026"
+  },
+  {
+    "title": "Headspace",
+    "name": "Headspace",
+    "description": "Mental health app for meditation, sleep, mindfulness, and therapy support",
+    "website": "https://www.headspace.com",
+    "categories": "AI Mental Health, AI Chatbot, AI Assistant",
+    "slug": "headspace",
+    "created_at": "15:46:00 07/30/2026"
   },
   {
     "title": "Digen AI",
