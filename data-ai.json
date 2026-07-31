@@ -14058,6 +14058,15 @@
     "created_at": "02:49:49 06/30/2025"
   },
   {
+    "title": "Visro AI",
+    "name": "Visro AI",
+    "description": "Free AI face swap and video creation platform",
+    "website": "https://visro.ai",
+    "categories": "AI Face Swap Generator, AI Face Swap Video, AI Image Generator, AI Video Generator, AI Image Upscaler, AI Photo Editor, Image to Video",
+    "slug": "visro-ai",
+    "created_at": "15:55:54 07/31/2026"
+  },
+  {
     "title": "Groopub",
     "name": "Groopub",
     "description": "\"Groopub provides AI shopping assistants for global merchants, improving B2B transactions.\"",
@@ -19287,6 +19296,15 @@
     "created_at": "14:12:01 09/17/2025"
   },
   {
+    "title": "Minimax H3",
+    "name": "Minimax H3",
+    "description": "Multimodal AI video generator with sound and editing",
+    "website": "https://minimaxh3.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Video Editor, AI Voice Cloning, AI Image Generator",
+    "slug": "minimax-h3",
+    "created_at": "15:55:54 07/31/2026"
+  },
+  {
     "title": "Cover Letter Tools",
     "name": "Cover Letter Generator",
     "description": "A platform providing tools for creating personalized cover letters based on resumes and job applications.",
@@ -24118,6 +24136,15 @@
     "categories": "AI Image Generator, Text to Image, AI Headshot Generator, AI Thumbnail Maker, Image to Image, AI Meme Generator, AI Baby Generator, AI Pixel Art, AI Sticker Generator",
     "slug": "nano-banana-2-love",
     "created_at": "14:16:44 03/07/2026"
+  },
+  {
+    "title": "SocQ",
+    "name": "SocQ",
+    "description": "AI-Agent-Ready Social API. Simple. Reliable. Scalable.",
+    "website": "https://socq.ai",
+    "categories": "AI Social Media, AI Facebook, AI Instagram, AI Social Link, AI Tiktok, AI Twitter, AI API, AI Web Scraping, AI For Data Analytics",
+    "slug": "socq",
+    "created_at": "15:55:54 07/31/2026"
   },
   {
     "title": "Hermes Agent",
