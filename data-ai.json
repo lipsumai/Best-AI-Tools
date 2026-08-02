@@ -5076,6 +5076,15 @@
     "created_at": "14:11:41 04/17/2025"
   },
   {
+    "title": "kavel ai",
+    "name": "kavel ai",
+    "description": "AI image and video studio with free tools",
+    "website": "https://kavel.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Photo Editor, Image to Video, Text to Image, AI Outfit Generator, AI Hairstyle, Gender Swap AI, AI Photo Restoration, AI Sticker Generator, AI Baby Generator, AI Tattoo Generator, AI Movie Poster, AI Sketch Generator, AI Selfie Generator, AI Product Photography",
+    "slug": "kavel-ai",
+    "created_at": "04:19:31 08/02/2026"
+  },
+  {
     "title": "Sora Watermark Remover by Fineshare",
     "name": "Sora Watermark Remover by Fineshare",
     "description": "Easily remove watermarks from Sora videos with Al and get clean, high-quality results in one click.",
@@ -7074,6 +7083,15 @@
     "created_at": "03:25:00 03/05/2026"
   },
   {
+    "title": "Seedance 2.5 AI Video Generator",
+    "name": "Seedance 2.5 AI Video Generator",
+    "description": "AI video generator for native 30-second 4K clips",
+    "website": "https://seedance25.tools",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Video Editor",
+    "slug": "seedance-2-5-ai-video-generator",
+    "created_at": "04:19:31 08/02/2026"
+  },
+  {
     "title": "Skripsita AI",
     "name": "Skripsita Ai",
     "description": "AI copilot for Indonesian students, automating thesis formatting, citation, and editing.",
@@ -7288,6 +7306,15 @@
     "categories": "AI Agent, AI Tools Directory, AI Video Generator, AI Meme Generator, AI 3D Model Generator",
     "slug": "mulerun",
     "created_at": "02:47:30 08/15/2025"
+  },
+  {
+    "title": "Seevio",
+    "name": "Seevio",
+    "description": "Seedance 2.0 AI Video Generator",
+    "website": "https://seevio.ai",
+    "categories": "AI Video Generator, AI Video Upscaler, Image to Video, Text to Video, Video to Video",
+    "slug": "seevio",
+    "created_at": "04:19:31 08/02/2026"
   },
   {
     "title": "Zavimo",
@@ -9727,6 +9754,15 @@
     "categories": "AI Dating Assistant, AI Bio Generator",
     "slug": "date-ai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Spatius.ai",
+    "name": "Spatius.ai",
+    "description": "Real-time AI avatar infrastructure with low-bandwidth edge rendering",
+    "website": "https://www.spatius.ai",
+    "categories": "AI Avatar Generator, AI Avatar Video Generator, AI Lip Sync Generator, AI Developer Tools, AI API",
+    "slug": "spatius-ai",
+    "created_at": "04:19:31 08/02/2026"
   },
   {
     "title": "Liznr",
@@ -12582,6 +12618,15 @@
     "created_at": "02:42:51 11/03/2025"
   },
   {
+    "title": "MiniMaxH3.app",
+    "name": "MiniMaxH3.app",
+    "description": "MiniMax H3 video generator online for text-to-video, first/last frame, and omni reference workflows with native 2K and stereo audio. Independent third-party studio; not affiliated with MiniMax or Hailuo AI.",
+    "website": "https://minimaxh3.app",
+    "categories": "AI Video Generator, AI Short Video Generator, Image to Video, Text to Video",
+    "slug": "minimaxh3-app",
+    "created_at": "04:19:31 08/02/2026"
+  },
+  {
     "title": "Free video face swap - NovaImg AI",
     "name": "Free video face swap - NovaImg AI",
     "description": "Free online AI tool for realistic video face swaps.",
@@ -13336,6 +13381,15 @@
     "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Background Remover, AI Inpainting, AI Image Upscaler, AI Design Generator",
     "slug": "nano-ai",
     "created_at": "02:49:08 12/16/2025"
+  },
+  {
+    "title": "Website Auditor",
+    "name": "Website Auditor",
+    "description": "Discover exactly how AI search engines view your brand. Website Auditor runs parallel visibility audits across top LLMs (Claude, ChatGPT, Gemini, and Perplexity) to map your brand's AI search presence.",
+    "website": "https://website-auditor.io",
+    "categories": "AI Developer Tools, AI SEO Tools",
+    "slug": "website-auditor",
+    "created_at": "04:19:31 08/02/2026"
   },
   {
     "title": "Free AI PDF Reader",
@@ -15730,6 +15784,15 @@
     "categories": "AI Lip Sync Generator, AI Avatar Video Generator, AI Avatar Generator, AI Video Generator",
     "slug": "lipsync-ai",
     "created_at": "02:24:31 09/08/2025"
+  },
+  {
+    "title": "Trushot AI",
+    "name": "Trushot AI",
+    "description": "AI dating photo generator for realistic profile pictures",
+    "website": "https://trushot.app",
+    "categories": "AI Profile Picture Generator, AI Image Generator, AI Dating Assistant, AI Portrait Generator",
+    "slug": "trushot-ai",
+    "created_at": "04:19:31 08/02/2026"
   },
   {
     "title": "RemoveFrom.Video",
@@ -24993,6 +25056,15 @@
     "created_at": "14:36:33 02/16/2026"
   },
   {
+    "title": "MakeAD",
+    "name": "MakeAD",
+    "description": "MakeAD is an AI product photography workspace that turns existing product images into ecommerce photos, lifestyle scenes, product ads, and brand visuals.",
+    "website": "https://make-ad.com",
+    "categories": "AI Ad Generator, AI Image Generator, AI Product Photography, AI Photography, AI Ad Creative, AI Advertising",
+    "slug": "makead",
+    "created_at": "04:19:31 08/02/2026"
+  },
+  {
     "title": "Opusense",
     "name": "Opusense",
     "description": "AI tool for generating formatted site inspection reports.",
@@ -31705,6 +31777,15 @@
     "categories": "AI Ebook Generator",
     "slug": "fliphtml5-ai-ebook-generator",
     "created_at": "14:38:09 03/20/2026"
+  },
+  {
+    "title": "AppIconKitchen",
+    "name": "AppIconKitchen",
+    "description": "AI App Icon Generator — describe your app in any language and get a polished, production-ready icon in seconds. One-click export for iOS, Android, and Web with all sizes included.",
+    "website": "https://www.appiconkitchen.com",
+    "categories": "AI Icon Generator, Text to Image, AI Design Generator, AI Developer Tools",
+    "slug": "appiconkitchen",
+    "created_at": "04:19:31 08/02/2026"
   },
   {
     "title": "get@tldr.ltd",
@@ -44557,6 +44638,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "mocktomer",
+    "name": "mocktomer",
+    "description": "Human and AI shoppers experience your website and tell you why they'd leave. AI persona shoppers browse your real site like customers and narrate the friction in their own words; AI shoppers reveal how ChatGPT, Claude & Gemini see and recommend you. Experience report + AI Readiness Score in ~10 minutes. Free tier, no card.",
+    "website": "https://mocktomer.ai",
+    "categories": "AI Shopping Assistant, AI Design Assistant, AI Code Assistant, AI SEO Tools, SEO Writing AI, AI Assistant, AI For Data Analytics",
+    "slug": "mocktomer",
+    "created_at": "04:19:31 08/02/2026"
+  },
+  {
     "title": "Unblur Image",
     "name": "Unblur Image - io",
     "description": "AI tool to automatically unblur, sharpen, and restore clarity to photos in seconds.",
@@ -45005,6 +45095,15 @@
     "categories": "AI Analytics Assistant, AI Productivity Tools, AI Task Management, AI Team Collaboration, AI Meeting Assistant, AI Workflow Management, AI Scheduling",
     "slug": "recaploop",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Flux 3 AI - Image and Video Generator",
+    "name": "Flux 3 AI - Image and Video Generator",
+    "description": "Unified AI tool for image and video generation with native audio.",
+    "website": "https://flux3-ai.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Image, Text to Video, Image to Video, Image to Image, Video to Video, AI Photo Editor, AI Animated Video",
+    "slug": "flux-3-ai-image-and-video-generator",
+    "created_at": "04:19:31 08/02/2026"
   },
   {
     "title": "RoleGuides",
