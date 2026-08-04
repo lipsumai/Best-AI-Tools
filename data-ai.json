@@ -1314,6 +1314,15 @@
     "created_at": "14:14:16 12/19/2025"
   },
   {
+    "title": "Koji",
+    "name": "Koji AI-Native Research Platform",
+    "description": "AI-powered customer interviews and research insights at scale",
+    "website": "https://www.koji.so",
+    "categories": "AI Research Tool, AI Agent, AI Chatbot, AI Voice Assistants, AI For Data Analytics",
+    "slug": "koji-ai-native-research-platform",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "Lovart",
     "name": "Lovart",
     "description": "AI design agent turning prompts into creative masterpieces.",
@@ -1458,6 +1467,15 @@
     "created_at": "15:57:43 05/06/2026"
   },
   {
+    "title": "Lemonaide AI",
+    "name": "Lemonaid",
+    "description": "AI tool for generating customizable melodies and chords in MIDI and audio",
+    "website": "https://www.lemonaide.ai",
+    "categories": "AI Melody Generator, AI Music Generator, AI Midi Generator, Chord AI",
+    "slug": "lemonaid",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "Scriptbee",
     "name": "Scriptbee",
     "description": "AI automation SEO and marketing tool for scaling content and growth.",
@@ -1546,6 +1564,15 @@
     "categories": "AI Dubbing, AI Lip Sync Generator, AI Voice Cloning, AI Video Translator, AI Video Generator, AI Avatar Generator",
     "slug": "perso-ai",
     "created_at": "14:12:33 07/08/2025"
+  },
+  {
+    "title": "Bosi AIPPT (PPTGO)",
+    "name": "Bosi AIPPT",
+    "description": "AI tool for generating and designing editable PowerPoint presentations",
+    "website": "https://pptgo.cn",
+    "categories": "AI PPT Maker, AI Presentation Generator, AI Design Assistant, AI Productivity Tools",
+    "slug": "bosi-aippt",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Planby Now",
@@ -5859,6 +5886,15 @@
     "created_at": "14:10:50 04/18/2025"
   },
   {
+    "title": "iDox.ai Guardrail",
+    "name": "iDox.ai Guardrail",
+    "description": "Real-time AI guardrails that prevent sensitive data exposure in AI tools, copilots, and autonomous AI agents.",
+    "website": "https://www.idox.ai",
+    "categories": "AI Agent, AI Workflow, AI Assistant, AI Copilot",
+    "slug": "idox-ai-guardrail",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "KOOX AI",
     "name": "KOOX AI",
     "description": "AI Image to Video Generator powered by VEO3, SORA2.",
@@ -7225,6 +7261,15 @@
     "categories": "AI Agent, AI Code Generator, AI Developer Tools, AI Copilot, AI Workflow",
     "slug": "stackgen",
     "created_at": "14:15:43 07/31/2025"
+  },
+  {
+    "title": "ChatPPT",
+    "name": "ChatPPT",
+    "description": "AI tool for automatically creating, designing, and formatting PowerPoint presentations",
+    "website": "https://www.chat-ppt.com",
+    "categories": "AI PPT Maker, AI Presentation Generator, AI Design Assistant",
+    "slug": "chatppt",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Wisdom Gate | AI API",
@@ -17856,6 +17901,15 @@
     "created_at": "02:56:28 07/14/2025"
   },
   {
+    "title": "CatPaw",
+    "name": "CatPaw",
+    "description": "AI Agent workbench and development platform for creating, managing, and running AI-powered tasks.",
+    "website": "https://catpaw.meituan.com",
+    "categories": "AI Agent, AI Code Assistant, AI Developer Tools, AI Code Generator, No-Code&Low-Code",
+    "slug": "catpaw",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "StickerIt.AI",
     "name": "Stickerit",
     "description": "AI-powered sticker design and sales solution",
@@ -18196,6 +18250,15 @@
     "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Music Generator, AI Text-to-Music, AI Text-to-Speech, AI Animation Generator, AI Movie Generator, AI Short Video Generator, Image to Video, Text to Video",
     "slug": "crano-ai",
     "created_at": "14:12:45 11/11/2025"
+  },
+  {
+    "title": "BullGPT",
+    "name": "Bull GPT",
+    "description": "AI chart analysis tool for crypto, forex, and commodities trading",
+    "website": "https://bullgpt.io",
+    "categories": "AI Trading Bot, AI Charting, AI Crypto, AI Predictions, AI For Finance, AI Investing",
+    "slug": "bull-gpt",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Dailyreach",
@@ -18709,6 +18772,15 @@
     "categories": "AI Education Assistant",
     "slug": "yourwai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Laihua",
+    "name": "Laihua",
+    "description": "AI platform for creating animations, digital humans, videos, and presentations",
+    "website": "https://www.laihua.com",
+    "categories": "AI Animation Generator, AI Video Generator, AI Animated Video, AI Avatar Video Generator, Script To Video AI Generator",
+    "slug": "laihua",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Ushur",
@@ -19339,6 +19411,15 @@
     "categories": "AI Transcription, AI Speech-to-Text, AI Summarizer, AI Productivity Tools",
     "slug": "emra-always-on-transcription-and-ptt",
     "created_at": "14:36:15 02/02/2026"
+  },
+  {
+    "title": "INFINIT",
+    "name": "AI-Managed Trading Vault Marketplace",
+    "description": "Marketplace for AI-managed crypto trading vaults",
+    "website": "https://infinit.tech",
+    "categories": "AI Trading Bot, AI Crypto, AI Investing, Web3, Blockchain, AI For Finance",
+    "slug": "ai-managed-trading-vault-marketplace",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "openclaw",
@@ -20779,6 +20860,15 @@
     "categories": "Resume Builder",
     "slug": "cvwizard",
     "created_at": "02:22:49 04/11/2025"
+  },
+  {
+    "title": "iFlytek Painting Mirror",
+    "name": "iFlytek Painting Mirror",
+    "description": "AI platform for turning creative ideas into complete short videos",
+    "website": "https://typemovie.art",
+    "categories": "AI Short Video Generator, AI Video Generator, Text to Video, Script To Video AI Generator, Storyboard AI, AI Image Generator",
+    "slug": "iflytek-painting-mirror",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "supermemory™",
@@ -24714,6 +24804,15 @@
     "created_at": "03:00:12 07/21/2025"
   },
   {
+    "title": "VEME",
+    "name": "VEME AI",
+    "description": "AI platform for generating and editing videos and images from text, photos, and prompts",
+    "website": "https://www.veme.ai",
+    "categories": "AI Video Generator, Image to Video, Text to Video, AI Image Generator, AI Video Editor, AI Avatar Video Generator",
+    "slug": "veme-ai",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "WUI.AI",
     "name": "WUI.AI",
     "description": "AI tool for turning long videos into short clips.",
@@ -25551,6 +25650,15 @@
     "created_at": "03:30:52 02/17/2026"
   },
   {
+    "title": "Nanomi Work",
+    "name": "纳米Work",
+    "description": "AI office platform with collaborative agents and automated task execution",
+    "website": "https://work.n.cn",
+    "categories": "AI Agent, AI Workflow, AI Productivity Tools, AI Assistant, AI Task Management, Large Language Models (LLMs), AI Knowledge Management",
+    "slug": "纳米work",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "Aladin AI",
     "name": "Aladin",
     "description": "AI-powered browser extension for productivity and quick actions.",
@@ -25576,6 +25684,15 @@
     "categories": "Religion, AI Customer Service Assistant, AI Chatbot, AI Knowledge Base",
     "slug": "faith",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Yueyin AI Dubbing",
+    "name": "Yueyin Dubbing",
+    "description": "AI dubbing platform for expressive text-to-speech and professional voice-over production",
+    "website": "https://yueyin.zhipianbang.com",
+    "categories": "AI Text-to-Speech, AI Voice Generator, AI Voice Over, AI Dubbing, AI Speech Synthesis, AI Voice Cloning, AI Subtitle Generator",
+    "slug": "yueyin-dubbing",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "LearnThisRepo",
@@ -26197,6 +26314,15 @@
     "categories": "AI Mockup Generator, AI Product Photography, AI Image Generator, AI Image Upscaler",
     "slug": "stageflow",
     "created_at": "03:47:30 04/08/2026"
+  },
+  {
+    "title": "Vaquill AI",
+    "name": "Vaquill AI",
+    "description": "AI platform for cited legal research, contract review, compliance, and document management",
+    "website": "https://vaquill.ai",
+    "categories": "AI Legal Assistant, AI Contract Review, AI Contract Management, AI API, AI Research Tool",
+    "slug": "vaquill-ai",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Docyt",
@@ -27232,6 +27358,15 @@
     "categories": "AI Analytics Assistant",
     "slug": "flowtestai",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Chatzy AI",
+    "name": "Chatzy AI",
+    "description": "Omnichannel AI agents for automating customer conversations, support, sales, and operations.",
+    "website": "https://chatzy.ai",
+    "categories": "AI Agent, AI Chatbot, AI Customer Service, AI Sales Assistant, AI Voice Assistants, AI Lead Generation",
+    "slug": "chatzy-ai",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Macaron AI",
@@ -28863,6 +28998,15 @@
     "created_at": "02:20:22 11/08/2025"
   },
   {
+    "title": "Sprite Flow",
+    "name": "Sprite Flow",
+    "description": "AI generator for consistent, game-ready sprite animations",
+    "website": "https://spriteflow.io",
+    "categories": "AI Animation Generator, AI Games, AI Pixel Art, AI Image Generator, AI Character",
+    "slug": "sprite-flow",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "Flask",
     "name": "Flask",
     "description": "Video collaboration platform for creative teams.",
@@ -28942,6 +29086,15 @@
     "categories": "Image to Video, Text to Video",
     "slug": "photo-to-video",
     "created_at": "14:57:13 07/26/2026"
+  },
+  {
+    "title": "FlashCut AI",
+    "name": "FlashCut",
+    "description": "AI digital human and short-video creation platform",
+    "website": "https://shanjian.tv",
+    "categories": "AI Video Generator, AI Avatar Video Generator, AI Short Video Generator, AI Video Editor, AI Agent, AI API, AI Avatar Generator, AI Digital Marketing, AI Voice Cloning",
+    "slug": "flashcut",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "PaprDeck",
@@ -30634,6 +30787,15 @@
     "categories": "AI Video Generator, Image to Video, Text to Video, AI Short Video Generator, AI Animation Generator",
     "slug": "veo3-ai-1",
     "created_at": "02:50:01 07/12/2025"
+  },
+  {
+    "title": "Pikes",
+    "name": "Pikes AI",
+    "description": "AI content creation platform for consistent consumer brand visuals",
+    "website": "https://pikes.ai",
+    "categories": "AI Product Photography, AI Ad Creative, AI Video Generator, AI Image Generator, AI Advertising, AI Agent",
+    "slug": "pikes-ai",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Seedance AI",
@@ -32678,6 +32840,15 @@
     "created_at": "14:12:48 07/09/2025"
   },
   {
+    "title": "Kapi PPT",
+    "name": "Kapi PPT",
+    "description": "AI-powered tool for quickly creating, editing, and designing PPT presentations",
+    "website": "https://www.cappt.cc",
+    "categories": "AI PPT Maker, AI Presentation Generator, AI Design Assistant, AI Writing Assistants",
+    "slug": "kapi-ppt",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "Resonance Studio",
     "name": "Resonance Studio",
     "description": "Studio for startups creating resonant brands and products with AI expertise.",
@@ -33623,6 +33794,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "GetMint",
+    "name": "GetMint",
+    "description": "AI search visibility platform for monitoring, improving, and growing brand recommendations.",
+    "website": "https://www.getmint.ai",
+    "categories": "AI SEO Tools, AI Marketing, AI Digital Marketing, AI Monitor, AI Agent",
+    "slug": "getmint",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "AITextTune",
     "name": "AITextTune",
     "description": "Improve your text with AI in just one click! Correct any errors, improve clarity and flow… change the style! Generate summaries, explanations and translate texts in 25+ different languages. Revolutionize your writing in an instant!",
@@ -33909,6 +34089,15 @@
     "categories": "AI Analytics Assistant, AI SEO Assistant, AI Course, AI Video Recording, Captions or Subtitle, AI API Design, AI Script Writing, AI Video Editor",
     "slug": "gumlet",
     "created_at": "14:09:40 04/13/2025"
+  },
+  {
+    "title": "PromptQL",
+    "name": "PromptQL",
+    "description": "Collaborative AI workspace with shared team context and an automatically maintained knowledge base",
+    "website": "https://promptql.io",
+    "categories": "AI Agent, AI Knowledge Management, AI Knowledge Base, AI Assistant, AI Workflow",
+    "slug": "promptql",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "VEO 3 Video Generator",
@@ -36673,6 +36862,15 @@
     "created_at": "04:09:45 04/23/2026"
   },
   {
+    "title": "Tuya.ai",
+    "name": "TUYAAI",
+    "description": "AIoT platform for smart living, intelligent hardware, and connected-device services",
+    "website": "https://tuya.ai",
+    "categories": "AI Assistant, AI Agent, AI Voice Assistants, AI Fitness, AI Productivity Tools, AI Translate, AI Transcription, AI Summarizer, AI Chatbot",
+    "slug": "tuyaai",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "GPT Image 2",
     "name": "GPT Image 2 - 1",
     "description": "Professional AI generator transforming text into high-quality images and commercial designs.",
@@ -38797,6 +38995,15 @@
     "created_at": "14:22:15 01/28/2026"
   },
   {
+    "title": "ViiTor Live Translator",
+    "name": "ViiTor Translate",
+    "description": "Real-time subtitles and voice translation for videos, meetings, and conversations",
+    "website": "https://viitor.info",
+    "categories": "AI Language Learning, AI Roleplay",
+    "slug": "viitor-translate",
+    "created_at": "03:59:46 08/04/2026"
+  },
+  {
     "title": "Chatmate.dev",
     "name": "Chatmate",
     "description": "Create gpt4 based chatbots by combining different chat completions and document retrievals.",
@@ -39938,6 +40145,15 @@
     "categories": "Mental Health, AI Chatbot, Healthcare",
     "slug": "tudle",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "WeShop Visionary",
+    "name": "WeShop Visionary",
+    "description": "AI platform for generating and editing e-commerce product images and marketing content",
+    "website": "https://www.weshop.com",
+    "categories": "AI Product Photography, AI Image Generator, AI Photo Editor, AI Video Generator, Image to Video, AI Background Remover, AI Video Enhancer",
+    "slug": "weshop-visionary",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "AI Clothes Changer",
@@ -44402,6 +44618,15 @@
     "categories": "AI Chatbot, AI Background Generator, AI Cosplay Generator, AI Image Combiner, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Anime Girlfriend, AI Boyfriend, AI Character, AI Dating Assistant, AI Girlfriend, AI Roleplay",
     "slug": "miocai",
     "created_at": "03:22:18 03/11/2026"
+  },
+  {
+    "title": "Youchuan",
+    "name": "Youchuan",
+    "description": "Enterprise AI tool for generating, editing, and animating creative images.",
+    "website": "https://www.youchuan.cn",
+    "categories": "AI Image Generator, AI Art Generator, Text to Image, Image to Image, AI Drawing, Image to Video, AI Video Generator, AI Photo Editor",
+    "slug": "youchuan",
+    "created_at": "03:59:46 08/04/2026"
   },
   {
     "title": "Intryc",
