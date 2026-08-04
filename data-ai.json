@@ -2106,6 +2106,15 @@
     "created_at": "14:18:34 01/12/2026"
   },
   {
+    "title": "Archivarix Tube Search",
+    "name": "Archivarix Tube Search",
+    "description": "Search archived YouTube videos and recover deleted video information.",
+    "website": "https://tube.archivarix.net",
+    "categories": "AI Video Search, AI YouTube, AI Search Engine, AI Video Summarizer",
+    "slug": "archivarix-tube-search",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "Avoko",
     "name": "Avoko",
     "description": "Monetize your AI Agent on Avoko. Developers interview real AI Agents like yours to understand their decisions, tool use & failures. Your agent auto-joins studies, answers questions, and earns $2.5–3 per interview. One-click connect. Fully automated, private, hands-free passive income.",
@@ -5119,6 +5128,15 @@
     "categories": "AI Video Enhancer, AI Video Editor",
     "slug": "sora-watermark-remover-by-fineshare",
     "created_at": "14:13:00 11/05/2025"
+  },
+  {
+    "title": "Ankon AI",
+    "name": "Ankon AI",
+    "description": "Turn prompts, PDFs, documents, blogs, scripts, and images into AI whiteboard videos in minutes.",
+    "website": "https://ankonai.com",
+    "categories": "AI Video Generator, AI Animated Video, AI Short Video Generator, AI Youtube Video Maker, Image to Video, Script To Video AI Generator, Text to Video",
+    "slug": "ankon-ai",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "OCMaker AI",
@@ -10782,6 +10800,15 @@
     "created_at": "14:14:17 12/23/2025"
   },
   {
+    "title": "VideoTranscript",
+    "name": "VideoTranscript",
+    "description": "Turns videos and audio into searchable, reusable transcripts",
+    "website": "https://www.videotranscript.ai",
+    "categories": "AI Transcription, Audio To Text AI, AI Speech-to-Text, AI Video Summarizer",
+    "slug": "videotranscript",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "Hyring",
     "name": "Hyring",
     "description": "AI platform automating hiring with intelligent agents.",
@@ -11761,6 +11788,15 @@
     "categories": "AI Code Assistant, AI Developer Tools",
     "slug": "linux-helper",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Nadou Pro",
+    "name": "纳逗Pro",
+    "description": "AI platform for end-to-end film and television production",
+    "website": "https://nadoupro.iqiyi.com",
+    "categories": "AI Video Generator, AI Image Generator, Text to Video, Text to Image, AI Music Generator, AI Script Writing",
+    "slug": "纳逗pro",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "Snoika",
@@ -17568,6 +17604,15 @@
     "created_at": "14:12:35 05/06/2025"
   },
   {
+    "title": "Face Search",
+    "name": "Face Search",
+    "description": "Reverse face search for finding public online appearances",
+    "website": "https://www.facesearch.id",
+    "categories": "AI Face Recognition, AI Image Recognition, AI Image Scanning",
+    "slug": "face-search",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "Discover Script Pro",
     "name": "Script Pro",
     "description": "Ultimate content companion with TikTok script generation, intelligent summaries, and Tweets Generator.",
@@ -20097,6 +20142,15 @@
     "created_at": "14:12:18 04/14/2025"
   },
   {
+    "title": "Labrynth AI",
+    "name": "Labrynth AI",
+    "description": "AI regulatory intelligence platform that turns complex requirements into cited, audit-ready outputs.",
+    "website": "https://www.labrynth.ai",
+    "categories": "AI Contract Review, AI Project Management, AI For Data Analytics, AI Models",
+    "slug": "labrynth-ai",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "AI Image Upscaler Pro",
     "name": "AI Image Upscaler Pro",
     "description": "AI tool to fix blurry, ragged, low-resolution images and upscale to 4K.",
@@ -20473,6 +20527,15 @@
     "categories": "AI Image Generator, AI Book Cover Generator, Text to Image, AI Describe Image, AI 3D Model Generator, AI Album Cover Generator, AI Art Generator, AI Beauty, AI Brochure Maker, Image to Image, AI Cartoon Generator, AI Comic, AI Cover Generator, AI Design Assistant, AI Drawing, AI Emoji Generator, Text to Handwriting, AI Wallpaper Generator, AI Avatar Generator, AI Passport Photo, AI Colorize, AI Image Combiner, AI Image Enhancer, AI Image Sharpening, AI Image Upscaler, AI Outpainting, AI Person Generator, AI Signature Generator, AI Photo Editor, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration, AI Product Photography, AI Realistic Image Generator, AI Linkedin Headshot",
     "slug": "nano-banana-ai-nano-banana-the-best-ai-image-generator",
     "created_at": "14:12:49 09/18/2025"
+  },
+  {
+    "title": "GEO Wiki",
+    "name": "GEO Wiki",
+    "description": "Open encyclopedia for optimizing content visibility in AI-generated answers",
+    "website": "https://geo.wiki",
+    "categories": "AI SEO Tools, AI Search Engine, AI Knowledge Base, AI Research Tool",
+    "slug": "geo-wiki",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "DeepSwapFace",
@@ -23085,6 +23148,15 @@
     "created_at": "14:12:00 09/12/2025"
   },
   {
+    "title": "Where Is This Place",
+    "name": "Where Is This Place",
+    "description": "AI tool for finding where photos were taken using EXIF and visual analysis",
+    "website": "https://www.whereisthis.place",
+    "categories": "AI Image Recognition, AI Image Scanning, AI OCR",
+    "slug": "where-is-this-place",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "Duplicatus",
     "name": "Duplicatus",
     "description": "Remove duplicate photos effortlessly.",
@@ -23092,6 +23164,15 @@
     "categories": "Other",
     "slug": "duplicatus",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Num Lookup",
+    "name": "Num Lookup",
+    "description": "Reverse phone and name lookup for identifying unknown callers",
+    "website": "https://www.numlookup.io",
+    "categories": "Other",
+    "slug": "num-lookup",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "Max Studio AI",
@@ -25533,6 +25614,15 @@
     "created_at": "02:26:46 09/28/2025"
   },
   {
+    "title": "emailverifier.ai",
+    "name": "Email Verifier",
+    "description": "Online tool for verifying and cleaning email addresses",
+    "website": "https://www.emailverifier.ai",
+    "categories": "Other",
+    "slug": "email-verifier",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "DocuClipper",
     "name": "DocuClipper",
     "description": "Automated extraction of financial data from various documents.",
@@ -25603,6 +25693,15 @@
     "categories": "AI Video Generator, AI Image Generator, AI Music Generator, Text to Video, Text to Image, AI Animation Generator, AI Voice Over",
     "slug": "yestool-ai",
     "created_at": "14:12:00 09/12/2025"
+  },
+  {
+    "title": "Ballet",
+    "name": "Ballet",
+    "description": "Ballet learns how your business works, then runs it. Like AI, with the reliability of code.",
+    "website": "https://www.ballet.dev",
+    "categories": "AI Workflow",
+    "slug": "ballet",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "Deckary",
@@ -26845,6 +26944,15 @@
     "categories": "AI Image Generator, AI Meme Generator, Text to Image, AI Character, AI Name Generator",
     "slug": "italian-brainrot-generator",
     "created_at": "14:11:21 08/10/2025"
+  },
+  {
+    "title": "YouCam Online Editor",
+    "name": "YouCam Online Editor",
+    "description": "Browser-based AI photo and video editor for enhancing, generating, and transforming media",
+    "website": "https://yce.perfectcorp.com",
+    "categories": "AI Photo Editor, AI Image Enhancer, AI Video Generator, AI Headshot Generator, AI Face Swap Generator, AI Video Enhancer, AI Image Generator, AI Avatar Generator, AI Background Remover, AI Photo Restoration",
+    "slug": "youcam-online-editor",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "OpenSynaps AI - Your safe place, never feel alone anymore",
@@ -31005,6 +31113,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "Tencent PalmAI PayMax",
+    "name": "Tencent Cloud PalmAI",
+    "description": "Contactless palm recognition platform for secure large-scale payments",
+    "website": "https://palm.tencent.com",
+    "categories": "AI API, AI Developer Tools, AI Face Recognition",
+    "slug": "tencent-cloud-palmai",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "AI Image Fusion Tool",
     "name": "AI Image Fusion Tool",
     "description": "Combine images into enhanced visuals using AI technology.",
@@ -32379,6 +32496,15 @@
     "categories": "AI Image Enhancer, Photo & Image Editor, AI Photo Enhancer",
     "slug": "dioptify",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Decagon",
+    "name": "Decagon AI",
+    "description": "Enterprise AI agents for autonomous omnichannel customer support",
+    "website": "https://decagon.ai",
+    "categories": "AI Customer Service, AI Agent, AI Chatbot",
+    "slug": "decagon-ai",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "EHVA.ai",
@@ -34683,6 +34809,15 @@
     "categories": "AI Speech-to-Text, AI Transcription, AI Transcriber, AI Speech Recognition, AI Translate, AI Grammar Checker",
     "slug": "spoke",
     "created_at": "14:41:58 03/10/2026"
+  },
+  {
+    "title": "KouKouTu",
+    "name": "抠抠图",
+    "description": "Free AI background removal and image editing platform",
+    "website": "https://www.koukoutu.com",
+    "categories": "AI Background Remover, Object Remover AI, AI Watermark Remover, AI Image Generator, AI Image Upscaler",
+    "slug": "抠抠图",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "KIVA by Wellows",
@@ -37087,6 +37222,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "图改改 (PhoText)",
+    "name": "图改改",
+    "description": "AI tool for editing, adding, and removing text in images",
+    "website": "https://tugaigai.com",
+    "categories": "AI Photo Editor, AI OCR, AI Eraser, AI Inpainting",
+    "slug": "图改改",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "HR Convo AI",
     "name": "HR Convo",
     "description": "AI platform for HR professionals",
@@ -37319,6 +37463,15 @@
     "categories": "AI Agent, AI Chatbot, No-Code&Low-Code, AI Assistant, AI Knowledge Base, Large Language Models (LLMs)",
     "slug": "chatvia-ai",
     "created_at": "14:13:23 08/12/2025"
+  },
+  {
+    "title": "Underleaf",
+    "name": "Underleaf",
+    "description": "AI-powered LaTeX conversion and academic writing assistant",
+    "website": "https://underleaf.ai",
+    "categories": "AI Writing, AI OCR, AI Thesis Generator, AI PDF, AI Summarizer",
+    "slug": "underleaf",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "AsoLift",
@@ -37978,6 +38131,15 @@
     "created_at": "14:41:41 02/19/2026"
   },
   {
+    "title": "Crowded",
+    "name": "Crowded",
+    "description": "Unified banking, fundraising, expense, and compliance platform for nonprofits",
+    "website": "https://bankingcrowded.com",
+    "categories": "AI For Finance, AI Accounting, AI API, AI Assistant, AI Report Generator",
+    "slug": "crowded",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "CreativesAI",
     "name": "creativesai",
     "description": "Empower everyone to create with our premium entrepreneurial team",
@@ -38257,6 +38419,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "NewsBang",
+    "name": "NewsBang",
+    "description": "AI-powered news platform providing summaries, insights, and interactive podcasts.",
+    "website": "https://l.newsbang.com",
+    "categories": "AI News, AI Podcast, AI Summarizer, AI Answer, AI Newsletter",
+    "slug": "newsbang",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "RightHair",
     "name": "RightHair",
     "description": "Free AI hairstyle changer to virtually try on haircuts and colors.",
@@ -38525,6 +38696,15 @@
     "categories": "AI For Finance",
     "slug": "parallel-1",
     "created_at": "02:56:19 07/01/2025"
+  },
+  {
+    "title": "RemovePhotos",
+    "name": "Remove Background From Photos",
+    "description": "Free AI tool for removing and replacing image backgrounds",
+    "website": "https://remove.photos",
+    "categories": "AI Background Remover, AI Photo Editor, AI Background Generator, Object Remover AI, AI Image Upscaler, AI Crop Image, AI Colorize, AI Expand Image, AI OCR",
+    "slug": "remove-background-from-photos",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "ImgToVid AI",
@@ -39058,6 +39238,15 @@
     "created_at": "02:27:19 11/19/2025"
   },
   {
+    "title": "Stanley for X",
+    "name": "Stanley For 𝕏",
+    "description": "AI content strategist for planning, writing, and executing X content",
+    "website": "https://x.getstanley.ai",
+    "categories": "AI Headshot Generator, AI Twitter, AI Social Media Post Generator, AI Assistant",
+    "slug": "stanley-for",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "Genie 3 - Interactive AI World Model",
     "name": "Genie 3 - Interactive AI World Model",
     "description": "DeepMind's AI world model generates real-time, interactive, physically consistent 3D environments from text prompts.",
@@ -39065,6 +39254,15 @@
     "categories": "AI Video Generator, Text to Video",
     "slug": "genie-3-interactive-ai-world-model",
     "created_at": "03:23:07 01/30/2026"
+  },
+  {
+    "title": "ielts writing checker",
+    "name": "ielts writing checker",
+    "description": "AI IELTS writing checker with scores, corrections, and criterion feedback",
+    "website": "https://ieltswritingchecker.org",
+    "categories": "AI Checker Essay, AI Grammar Checker, AI Proofreading, AI Writing",
+    "slug": "ielts-writing-checker",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "Vooka",
@@ -42125,6 +42323,15 @@
     "categories": "AI Assistant, AI Chatbot, AI Developer Tools, No-Code&Low-Code",
     "slug": "clawship",
     "created_at": "14:35:44 02/06/2026"
+  },
+  {
+    "title": "Deep Search Name",
+    "name": "Deep Search Name",
+    "description": "Public-web people search with sourced profiles and verification links",
+    "website": "https://www.deepsearch.name",
+    "categories": "AI Search Engine, AI Research Tool",
+    "slug": "deep-search-name",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "Resume Yay",
@@ -45295,6 +45502,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Copycat Cafe",
+    "name": "Copycat Cafe",
+    "description": "AI-powered French and Spanish speaking practice through copying and conversation",
+    "website": "https://copycatcafe.com",
+    "categories": "AI Language Learning, AI Assistant, AI Chatbot",
+    "slug": "copycat-cafe",
+    "created_at": "16:07:55 08/04/2026"
+  },
+  {
     "title": "Xian Chou - AI Video Open Source Community",
     "name": "Xian Chou - AI Video Open Source Community",
     "description": "Open-source community for AI video creation, sharing, learning, and replicating popular videos.",
@@ -45815,6 +46031,15 @@
     "categories": "AI Photo Editor, AI Coloring Book Generator, AI Poster Generator, AI Logo Generator, AI Icon Generator, AI Emoji Generator, AI Design Generator, AI Cover Generator, AI Clothing Generator, AI Headshot Generator, AI Cartoon Generator, AI Business Card Generator, Text to Image, Image to Image, AI Profile Picture Generator, AI Image Generator, AI Sketch Generator",
     "slug": "free-ai-image-editor-generator-powered-by-nano-banana-ai",
     "created_at": "14:13:31 11/25/2025"
+  },
+  {
+    "title": "Baklib",
+    "name": "Baklib",
+    "description": "AI-powered enterprise content platform for knowledge, assets, and digital experiences",
+    "website": "https://www.baklib.com",
+    "categories": "AI Knowledge Management, AI Knowledge Base, AI Website Builder, AI Search Engine, AI Writing Assistants, AI Chatbot",
+    "slug": "baklib",
+    "created_at": "16:07:55 08/04/2026"
   },
   {
     "title": "T3 Chat",
