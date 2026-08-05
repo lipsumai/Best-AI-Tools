@@ -2529,6 +2529,15 @@
     "created_at": "03:55:20 03/30/2026"
   },
   {
+    "title": "Panzoe Technolgies Inc",
+    "name": "Panzoe Technolgies Inc",
+    "description": "A unified AI operating system for managing work, home, health, and everyday life.",
+    "website": "https://panzoe.ai",
+    "categories": "AI Assistant, AI Productivity Tools, AI Calendar, AI Email Assistant, AI Task Management, AI Meeting Assistant, AI Project Management, AI Summarizer, AI Voice Assistants",
+    "slug": "panzoe-technolgies-inc",
+    "created_at": "03:54:04 08/05/2026"
+  },
+  {
     "title": "Bitchat",
     "name": "Bitchat",
     "description": "Decentralized offline messaging app by Jack Dorsey using Bluetooth mesh.",
@@ -8046,6 +8055,15 @@
     "created_at": "14:12:15 04/07/2025"
   },
   {
+    "title": "VideoInPrompt",
+    "name": "VideoInPrompt",
+    "description": "VideoInPrompt is an all-in-one AI creative platform that transforms videos and images into high-quality prompts, generates stunning AI images and videos from text or images, and supports the latest leading AI models with professional presets for every creative workflow.",
+    "website": "https://videoinprompt.com",
+    "categories": "AI Video Generator, AI Image Description Generator, AI Image Generator, AI Realistic Image Generator, AI Animated Video, AI Avatar Video Generator, AI Cartoon Video Generator, AI Short Video Generator, AI Tiktok Video Generator, AI UGC Video Generator",
+    "slug": "videoinprompt",
+    "created_at": "03:54:04 08/05/2026"
+  },
+  {
     "title": "TruVerifAI",
     "name": "TruVerifAI",
     "description": "TruVerifAI is a multi-model intelligence platform that queries four AI models simultaneously—one each from OpenAI, Anthropic, Google, and xAI—to deliver complete, verified responses from multiple model perspectives. The platform directly addresses the persistent problems of model blind spots and hallucinations by aggregating responses across models, surfacing areas of agreement and divergence, and verifying claims through web search and cross-model analysis.",
@@ -8260,6 +8278,15 @@
     "categories": "AI Project Management, AI Assistant, AI Productivity Tools, AI Predictions",
     "slug": "buildots",
     "created_at": "14:10:54 06/22/2025"
+  },
+  {
+    "title": "markitdown",
+    "name": "markitdown",
+    "description": "Convert files into structured Markdown for AI workflows",
+    "website": "https://markitdown.tech",
+    "categories": "AI Document Extraction, AI OCR, AI PDF, AI Files",
+    "slug": "markitdown",
+    "created_at": "03:54:04 08/05/2026"
   },
   {
     "title": "Korgi",
@@ -9376,6 +9403,15 @@
     "categories": "AI Assistant, AI Trip Planner, AI Calendar, AI Games",
     "slug": "art-flaneur",
     "created_at": "14:12:38 05/30/2025"
+  },
+  {
+    "title": "SVG Converter",
+    "name": "SVG Converter",
+    "description": "AI-powered online tool for converting images and generating editable SVG artwork",
+    "website": "https://www.svgconverter.ai",
+    "categories": "AI SVG Generator, AI Vector Graphics, Image to Image",
+    "slug": "svg-converter",
+    "created_at": "03:54:04 08/05/2026"
   },
   {
     "title": "Vancit",
@@ -20259,6 +20295,15 @@
     "created_at": "14:12:54 06/25/2025"
   },
   {
+    "title": "Ari by Ariso",
+    "name": "Ari by Ariso",
+    "description": "AI management system for projects, people, priorities, and company alignment",
+    "website": "https://ariso.ai",
+    "categories": "AI Assistant, AI Agent, AI Meeting Assistant, AI Coaching, AI Workflow, AI Project Management",
+    "slug": "ari-by-ariso",
+    "created_at": "03:54:04 08/05/2026"
+  },
+  {
     "title": "Line Art Generator",
     "name": "Line Art Generator",
     "description": "AI tool for converting images to line art and generating line art from text.",
@@ -20590,6 +20635,15 @@
     "categories": "Healthcare, Legal Assistant, AI Productivity Tools, AI Meeting Assistant, AI Video Recording, Research Tool, AI Education Assistant, Captions or Subtitle, Summarizer, Transcription, Transcriber, Recording, Speech-to-Text, AI Speech Recognition",
     "slug": "rev",
     "created_at": "14:12:22 04/10/2025"
+  },
+  {
+    "title": "MyBestResume.ai",
+    "name": "MyBestResume.ai",
+    "description": "MyBestResume is an evidence-first AI career platform covering career discovery, resume creation, job-search support, and interview preparation. Its Career Direction Assessment helps users understand their strengths and work preferences through 65 structured questions. Users receive a free combined snapshot, while the optional full report provides all 18 dimension scores, eight ranked career direction hypotheses, interpretation watch-outs, and practical next-step experiments. MyBestResume can then analyze the user’s existing resume, distinguish verified facts from AI inferences and missing context, map authentic experience to a target role, and generate a tailored, ATS-friendly resume without inventing achievements. Interview Prep Studio uses the user’s resume, target job, interview stage, and current company research to produce likely-question hypotheses, evidence-grounded STAR story prompts, critical-answer preparation, questions to ask, and a 24-hour interview plan. Model-aware workflows also help users prepare better professional context for ChatGPT, Claude, Gemini, and DeepSeek.",
+    "website": "https://mybestresume.ai",
+    "categories": "AI Jobs, AI Cover Letter Generator, AI Job Description Generator, AI Interview Assistant",
+    "slug": "mybestresume-ai",
+    "created_at": "03:54:04 08/05/2026"
   },
   {
     "title": "Instance",
@@ -43621,6 +43675,15 @@
     "created_at": "14:12:40 04/15/2025"
   },
   {
+    "title": "Home Design AI",
+    "name": "Home Design AI - 1",
+    "description": "AI tool for visualizing room, exterior, and garden redesigns",
+    "website": "https://homedesignai.ai",
+    "categories": "AI Interior Design, AI Backyard Design, AI Landscape Generator, AI Kitchen Design, AI Design Generator",
+    "slug": "home-design-ai-1",
+    "created_at": "03:54:04 08/05/2026"
+  },
+  {
     "title": "Giststack",
     "name": "Giststack",
     "description": "AI tool for curating content and generating on-brand social media posts.",
@@ -45977,6 +46040,15 @@
     "categories": "AI Clothing Generator, AI Outfit Generator, AI Photo Editor, Fashion AI",
     "slug": "pixaryai",
     "created_at": "14:18:15 01/15/2026"
+  },
+  {
+    "title": "ai influencer generator",
+    "name": "ai influencer generator",
+    "description": "AI platform for creating consistent virtual influencers",
+    "website": "https://www.aiinfluencergenerator.ai",
+    "categories": "AI Influencer, AI Video Generator, Image to Video, AI UGC Video Generator, AI Avatar Video Generator, AI Marketing, AI Social Media",
+    "slug": "ai-influencer-generator",
+    "created_at": "03:54:04 08/05/2026"
   },
   {
     "title": "mangaavatar",
