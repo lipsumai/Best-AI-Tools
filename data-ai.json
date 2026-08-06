@@ -5742,6 +5742,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "HowToDraw",
+    "name": "How to draw",
+    "description": "Free step-by-step drawing tutorials for beginners and kids",
+    "website": "https://www.howtodraw.ai",
+    "categories": "Other",
+    "slug": "how-to-draw",
+    "created_at": "03:59:04 08/06/2026"
+  },
+  {
     "title": "NoFilterGPT",
     "name": "NoFilterGpt.com",
     "description": "Unfiltered, uncensored, anonymous AI chat service with absolute privacy.",
@@ -6325,6 +6334,15 @@
     "categories": "AI Video Generator, AI Avatar Video Generator, AI Ad Generator, AI UGC Video Generator, AI Voice Generator",
     "slug": "video-ai-me",
     "created_at": "15:14:35 05/08/2026"
+  },
+  {
+    "title": "ColaOS",
+    "name": "ColaOS",
+    "description": "AI desktop sidekick for personalized task automation and productivity",
+    "website": "https://colaos.ai",
+    "categories": "AI Agent, AI Assistant, AI Productivity Tools, AI Workflow",
+    "slug": "colaos",
+    "created_at": "03:59:04 08/06/2026"
   },
   {
     "title": "WorkProcedures",
@@ -9765,6 +9783,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Motiofy",
+    "name": "Motiofy",
+    "description": "AI tool that turns images into videos with motion prompts",
+    "website": "https://motiofy.ai",
+    "categories": "Image to Video, AI Video Generator, AI Short Video Generator",
+    "slug": "motiofy",
+    "created_at": "03:59:04 08/06/2026"
+  },
+  {
     "title": "Aseto",
     "name": "Voice AI Agents",
     "description": "Custom AI Voice Agents for complex business communication.",
@@ -10584,6 +10611,15 @@
     "created_at": "02:47:29 12/10/2025"
   },
   {
+    "title": "Image Color Picker",
+    "name": "Imagecolorpicker",
+    "description": "Free browser tool for extracting color codes and palettes from images",
+    "website": "https://www.imagecolorpicker.io",
+    "categories": "Other",
+    "slug": "imagecolorpicker",
+    "created_at": "03:59:04 08/06/2026"
+  },
+  {
     "title": "Prompt Overflow",
     "name": "Prompt Overflow",
     "description": "Get expert prompts for AI images every week.",
@@ -11383,6 +11419,15 @@
     "categories": "AI SEO Tools, AI Monitor, AI Search Engine, AI Marketing",
     "slug": "llm-seo-trends",
     "created_at": "14:14:02 07/14/2025"
+  },
+  {
+    "title": "AI Garden Design",
+    "name": "AIgardendesign",
+    "description": "AI tool for creating realistic garden designs from yard photos",
+    "website": "https://www.aigardendesign.io",
+    "categories": "AI Landscape Generator, AI Backyard Design, Image to Image",
+    "slug": "aigardendesign",
+    "created_at": "03:59:04 08/06/2026"
   },
   {
     "title": "Prismer.AI",
@@ -14416,6 +14461,15 @@
     "categories": "AI Video Generator, Text to Video, Image to Video, Video to Video, AI Video Editor, AI Commercial Generator, AI Music Video Generator, AI Short Video Generator",
     "slug": "veo-4-1",
     "created_at": "04:30:05 05/06/2026"
+  },
+  {
+    "title": "AI Baby Generator",
+    "name": "BabyGenerator",
+    "description": "AI tool for generating future baby portraits from two parent photos",
+    "website": "https://www.babygenerator.ai",
+    "categories": "AI Baby Generator",
+    "slug": "babygenerator",
+    "created_at": "03:59:04 08/06/2026"
   },
   {
     "title": "imgProof",
@@ -24912,6 +24966,15 @@
     "created_at": "14:12:59 11/13/2025"
   },
   {
+    "title": "T3 Code",
+    "name": "T3 Code",
+    "description": "Open-source workspace for managing multiple coding agents",
+    "website": "https://t3.codes",
+    "categories": "AI Agent, AI Developer Tools, AI Code Assistant",
+    "slug": "t3-code",
+    "created_at": "03:59:04 08/06/2026"
+  },
+  {
     "title": "ZapForm",
     "name": "ZapForm",
     "description": "AI-powered forms for lead capture, qualification, and conversion.",
@@ -30015,6 +30078,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Media.io Viral Studio",
+    "name": "Media.io Viral Studio",
+    "description": "null",
+    "website": "https://www.media.io",
+    "categories": "AI Twitter, AI Crop Image, AI Image Generator, AI Tiktok",
+    "slug": "media-io-viral-studio",
+    "created_at": "03:59:04 08/06/2026"
+  },
+  {
     "title": "aivideoapi",
     "name": "AI Video API - 1",
     "description": "Unified API for top AI video models with 50% lower costs.",
@@ -31039,6 +31111,15 @@
     "categories": "AI Advertising, AI Affiliate Marketing, AI Marketing, AI Ad Generator",
     "slug": "conversaic",
     "created_at": "15:02:01 04/24/2026"
+  },
+  {
+    "title": "Rankly Tier List Maker",
+    "name": "Rankly",
+    "description": "Free tool for creating and downloading custom image tier lists",
+    "website": "https://tierlistmaker.pro",
+    "categories": "Other",
+    "slug": "rankly",
+    "created_at": "03:59:04 08/06/2026"
   },
   {
     "title": "DisVideoAI",
@@ -35807,6 +35888,15 @@
     "categories": "AI 3D Model Generator, Text to 3D, Image to 3D Model, AI Texture Generator",
     "slug": "to3d-ai",
     "created_at": "02:52:25 11/30/2025"
+  },
+  {
+    "title": "ApiModels",
+    "name": "ApiModels",
+    "description": "APIMODELS is a unified AI model API that puts 100+ image, video, music, speech and LLM models behind one endpoint, one API key and one balance. Instead of opening an account with OpenAI, Google, Anthropic, ByteDance, Suno, ElevenLabs, MiniMax, xAI, DeepSeek, Alibaba and Zhipu separately — each with its own SDK, billing and approval process — you sign up once and switch models by changing a single string.  Flagship image models, priced per image with no token math",
+    "website": "https://apimodels.app",
+    "categories": "AI API, AI Image Generator, AI Text-to-Speech, AI Voice Cloning, AI Voice Generator, AI Developer Tools, AI Video Editor, AI Video Generator",
+    "slug": "apimodels",
+    "created_at": "03:59:04 08/06/2026"
   },
   {
     "title": "PDFSeek",
@@ -41486,6 +41576,15 @@
     "categories": "AI CRM Assistant, AI Email Assistant, AI Email Marketing, AI Lead Generation, Sales Assistant, AI Analytics Assistant",
     "slug": "adtelligence-de",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "ClaimResolver.ai",
+    "name": "ClaimResolver.ai",
+    "description": "Self-help platform for demand letters, evidence, mailing, and small claims preparation",
+    "website": "https://claimresolver.ai",
+    "categories": "AI Legal Assistant, AI Letter Writer",
+    "slug": "claimresolver-ai",
+    "created_at": "03:59:04 08/06/2026"
   },
   {
     "title": "Gethookd",
