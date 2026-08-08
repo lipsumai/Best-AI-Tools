@@ -342,6 +342,15 @@
     "created_at": "14:15:13 12/02/2025"
   },
   {
+    "title": "Crisp3D AI",
+    "name": "Crisp3D AI",
+    "description": "Crisp3D",
+    "website": "https://www.crisp3d.ai",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D",
+    "slug": "crisp3d-ai",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Khorus",
     "name": "Khorus",
     "description": "Platform for building, deploying, and tokenizing AI applications with on-chain agents.",
@@ -2475,6 +2484,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Vunote",
+    "name": "Vunote",
+    "description": "AI workspace for turning YouTube videos into searchable study notes and research insights",
+    "website": "https://www.vunote.so",
+    "categories": "AI Note Taker, AI Youtube Summary, AI Transcription, AI Summarizer, AI Mind Mapping, AI Flashcard Maker, AI Research Tool",
+    "slug": "vunote",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Thena",
     "name": "Thena",
     "description": "AI customer support platform for B2B teams.",
@@ -3607,6 +3625,15 @@
     "categories": "AI Agent, AI Video Generator, AI Image Generator, AI 3D Model Generator, AI Ad Generator, AI Photo Restoration, AI Background Remover, AI Podcast",
     "slug": "sjinn",
     "created_at": "02:43:59 07/02/2025"
+  },
+  {
+    "title": "LineArt.AI",
+    "name": "LineArt.AI",
+    "description": "Turn your pet or kid's photos into a printable coloring book",
+    "website": "https://lineart.ai",
+    "categories": "AI Coloring Book Generator",
+    "slug": "lineart-ai",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "Scraib.app",
@@ -6246,6 +6273,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Image To Prompts",
+    "name": "Image To Prompts - io",
+    "description": "ImageToPrompts turns images into detailed, editable prompts for AI image generators. It also includes live AI image generation and AI pixel art generation tools for creating visuals from text and optional reference images.",
+    "website": "https://imagetoprompts.io",
+    "categories": "Image to Prompt, AI Image Generator, Image to Image, Text to Image, AI Pixel Art",
+    "slug": "image-to-prompts-io",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Melodiez",
     "name": "Melodiez",
     "description": "Melodiez is an AI-powered music and sound app designed to help you focus, relax, sleep, and care for your loved ones - including pets and babies.",
@@ -6865,6 +6901,15 @@
     "categories": "AI Video Generator, AI Social Media, AI Short Video Generator, Image to Video, AI Avatar Video Generator",
     "slug": "pika-social-ai-video",
     "created_at": "02:54:34 07/23/2025"
+  },
+  {
+    "title": "PixMod AI",
+    "name": "PixMod AI",
+    "description": "AI product photoshoots and fashion videos from simple product images",
+    "website": "https://pixmodai.com",
+    "categories": "AI Product Photography, Fashion AI, AI Video Generator, AI Image Generator",
+    "slug": "pixmod-ai",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "ElevinAI",
@@ -9162,6 +9207,15 @@
     "created_at": "14:10:45 07/06/2025"
   },
   {
+    "title": "Wan 3.0",
+    "name": "Wan 3.0 - art",
+    "description": "Online AI video generator for text and image-based video creation",
+    "website": "https://wan30.art",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "wan-3-0-art",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Rendera.ai",
     "name": "Rendera.ai",
     "description": "AI tool for landscape, interior, and exterior design.",
@@ -10251,6 +10305,15 @@
     "created_at": "04:16:18 04/20/2026"
   },
   {
+    "title": "Tyndall AI",
+    "name": "Tyndall AI",
+    "description": "AI toolkit for image, video, and creative content generation",
+    "website": "https://www.tyndallai.com",
+    "categories": "AI Image Generator, AI Video Generator, AI Face Swap Generator, AI Watermark Remover, AI Video Upscaler, AI Image Upscaler",
+    "slug": "tyndall-ai",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Skylight",
     "name": "Skylight",
     "description": "Virtual Windows computers for agents to automate workflows.",
@@ -10285,6 +10348,15 @@
     "categories": "AI Roleplay, AI Image Generator, AI Realistic Image Generator, AI Waifu Generator, Text to Image, AI Character",
     "slug": "meridian-realms",
     "created_at": "14:42:03 05/03/2026"
+  },
+  {
+    "title": "mini h3",
+    "name": "mini h3",
+    "description": "Task-based workspace for MiniMax H3 AI video generation",
+    "website": "https://www.mini-h3.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI API",
+    "slug": "mini-h3",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "grokipedia",
@@ -14218,6 +14290,15 @@
     "categories": "Other",
     "slug": "avif-to-png-converter",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Flux 3 Video Generator",
+    "name": "Flux 3 Video Generator",
+    "description": "Multimodal AI platform for generating videos, images, audio, and controlled scenes",
+    "website": "https://flux3.co",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Image Generator, AI Sound Effect Generator",
+    "slug": "flux-3-video-generator",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "WhatsApp wa.me with Prefilled Text",
@@ -20979,6 +21060,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Bizboard Pro",
+    "name": "Bizboard Pro",
+    "description": "BizBoard Pro is an AI-powered venture management dashboard for entrepreneurs juggling multiple business ideas. It scores your ideas, picks your weekly focus, and builds action plans automatically, so you always know what to work on next.",
+    "website": "https://app.bizboardpro.com",
+    "categories": "AI Project Management, AI Interview Assistant, AI Business Ideas Generator, AI Answer, AI Agent, AI Assistant, AI Productivity Tools, AI Task Management, AI Research Tool",
+    "slug": "bizboard-pro",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "MediaGPT AI",
     "name": "MediaGPT AI",
     "description": "Ultimate Next‑Generation Video Creation Platform：no filter, One-click generation, image-to-video, text-to-video, all mainstream models, popular effects, popular templates",
@@ -21346,6 +21436,15 @@
     "categories": "AI Productivity Tools, AI Team Collaboration, AI Meeting Assistant, AI Notes Assistant, AI Video Recording, Summarizer, Transcription, Transcriber, Recording",
     "slug": "bubbles",
     "created_at": "14:12:18 04/14/2025"
+  },
+  {
+    "title": "Readpodcast AI",
+    "name": "Readpodcast AI",
+    "description": "AI-powered searchable transcripts and insights for podcasts and YouTube videos",
+    "website": "https://readpodcast.ai",
+    "categories": "AI Transcription, Audio To Text AI, AI Speech-to-Text, AI Podcast, AI Video Summarizer, AI Youtube Summary, AI Mind Mapping, AI Chatbot",
+    "slug": "readpodcast-ai",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "Studioify",
@@ -21994,6 +22093,15 @@
     "categories": "AI Code Assistant, AI Copilot, AI Agent, AI Developer Tools, AI Code Review",
     "slug": "traycer-ai",
     "created_at": "14:13:05 10/14/2025"
+  },
+  {
+    "title": "APIARC AI",
+    "name": "APIARC AI",
+    "description": "Unified API gateway for accessing multiple leading AI models",
+    "website": "https://www.apiarc.ai",
+    "categories": "AI API, AI Models, Large Language Models (LLMs)",
+    "slug": "apiarc-ai",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "EaseUS Software",
@@ -23155,6 +23263,15 @@
     "categories": "AI Writing, AI Writing Assistants, AI Creative Writing, AI Script Writing, AI Video Generator, AI Short Story Generator, AI Novel",
     "slug": "蛙蛙写作",
     "created_at": "14:12:01 06/20/2025"
+  },
+  {
+    "title": "Seedance 2.5",
+    "name": "Seedance 2.5 -top",
+    "description": "AI video generator for cinematic text-to-video and image-to-video clips",
+    "website": "https://seedance-25.top",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "seedance-2-5-top",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "Kling 2.6 Motion Control",
@@ -24622,6 +24739,15 @@
     "categories": "AI Agent, AI Assistant, Large Language Models (LLMs), AI Productivity Tools",
     "slug": "stepclaw",
     "created_at": "03:24:54 03/13/2026"
+  },
+  {
+    "title": "Nuzza AI",
+    "name": "Nuzza AI",
+    "description": "Nuzza AI is an all-in-one workspace for creating, editing, and enhancing AI images and videos with leading generative models.",
+    "website": "https://nuzza.ai",
+    "categories": "AI Video Generator, AI Image Enhancer, AI Image Generator, AI Image Upscaler, AI Photo Editor, Text to Image, AI Video Upscaler, Image to Video, Text to Video",
+    "slug": "nuzza-ai",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "Study Space",
@@ -27016,6 +27142,15 @@
     "categories": "AI Project Management, AI Email Writer, Quotes Generator",
     "slug": "ywork-ai",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "MiniMax H3",
+    "name": "MiniMax H3 - info",
+    "description": "AI platform for generating and editing videos and images",
+    "website": "https://minimaxh3.info",
+    "categories": "Other",
+    "slug": "minimax-h3-info",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "Speakoala",
@@ -29439,6 +29574,15 @@
     "created_at": "14:12:11 05/16/2025"
   },
   {
+    "title": "Any Doc to MD",
+    "name": "Any Doc to MD",
+    "description": "Convert Any Document to Markdown for AI Workflows",
+    "website": "https://anydoc.online",
+    "categories": "AI Document Extraction, AI OCR, AI PDF",
+    "slug": "any-doc-to-md",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Obsess AI",
     "name": "Obsess AI",
     "description": "AI content marketing and SEO automation platform specifically built for Shopify stores.",
@@ -31653,6 +31797,15 @@
     "created_at": "14:19:08 02/22/2026"
   },
   {
+    "title": "nashnova",
+    "name": "nashnova",
+    "description": "AI platform for trackable investment research and market monitoring",
+    "website": "https://www.nashnova.com",
+    "categories": "AI Investing, AI For Finance, AI Research Tool, AI Agent",
+    "slug": "nashnova",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Gather",
     "name": "Gather Closed Beta",
     "description": "Gather is a secure agent that organizes and provides easy access to your digital life.",
@@ -33470,6 +33623,15 @@
     "created_at": "03:01:29 07/28/2025"
   },
   {
+    "title": "Keystroke",
+    "name": "Keystroke",
+    "description": "Platform for building and deploying internal AI agents",
+    "website": "https://keystroke.ai",
+    "categories": "AI Agent, AI Workflow, AI Developer Tools, AI App Builder, AI API",
+    "slug": "keystroke",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Cannabiva CBD Dosage Calculator",
     "name": "Cannabiva CBD Dosage Calculator",
     "description": "Personalized CBD calculator to find your ideal daily dose.",
@@ -34107,6 +34269,15 @@
     "categories": "AI Tiktok Video Generator, AI Video Editor, Script To Video AI Generator, Long Video To Short Video AI, Image to Video, AI Youtube Video Maker, AI Vtuber, AI Video Upscaler, AI Video Summarizer, AI Video Search, AI Video Recording, AI Video Generator, AI Video Enhancer, AI UGC Video Generator, AI Animated Video, AI Stock Video Generator, AI Short Video Generator, AI Reel Generator, AI Music Video Generator, AI Movie Generator, AI Lip Sync Generator, AI GIF Generator, AI Face Swap Video, AI Commercial Generator, AI Cartoon Video Generator, AI Avatar Video Generator, AI Animation Generator, Text to Video",
     "slug": "sora-2-ai-video-generator",
     "created_at": "14:09:29 10/05/2025"
+  },
+  {
+    "title": "GrowsKey",
+    "name": "GrowsKey",
+    "description": "Open-source growth and operations tools powered by GitHub repository analysis",
+    "website": "https://growskey.ai",
+    "categories": "AI Marketing, AI Agent, AI Marketing Plan Generator",
+    "slug": "growskey",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "PDF.co",
@@ -34971,6 +35142,15 @@
     "categories": "AI Browsers, AI Assistant, AI Copilot, AI Productivity Tools",
     "slug": "flakes",
     "created_at": "14:18:34 01/12/2026"
+  },
+  {
+    "title": "Botflow",
+    "name": "Botflow",
+    "description": "AI platform for building and deploying full-stack web and native iOS apps.",
+    "website": "https://botflow.io",
+    "categories": "AI App Builder, AI Website Builder, AI Code Generator, AI Developer Tools, AI Agent, No-Code&Low-Code",
+    "slug": "botflow",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "Mantlecore AI",
@@ -39157,6 +39337,15 @@
     "created_at": "03:02:29 01/27/2026"
   },
   {
+    "title": "LookSky",
+    "name": "LookSky",
+    "description": "A 24/7 AI Co-Founder Who Helps You Launch, Run & Grow Your Business Autonomously",
+    "website": "https://www.looksky.ai",
+    "categories": "AI Workflow, AI CRM, AI Customer Service, AI Roadmap",
+    "slug": "looksky",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "OutdoorBrite",
     "name": "OutdoorBrite",
     "description": "AI landscape design tool for instant photorealistic backyard and garden transformations.",
@@ -39371,6 +39560,15 @@
     "categories": "AI Trip Planner, Life Assistant, Game, Report Writing, AI Charting, AI Maps Generator, AI Code Assistant, AI Monitor & Report Builder, Writing Assistants, AI Content Generator, Code Explanation, AI Code Generator, AI Code Refactoring",
     "slug": "aipy",
     "created_at": "14:13:12 04/28/2025"
+  },
+  {
+    "title": "Media.io AI Music Video Generator",
+    "name": "Media.io AI Music Video Generator",
+    "description": "Media.io AI Music Video Generator turns an uploaded image and story prompt into a cinematic music video with AI visuals, music flow, and transitions.",
+    "website": "https://www.media.io",
+    "categories": "AI Music Video Generator",
+    "slug": "media-io-ai-music-video-generator",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "BeatViz AI",
@@ -45745,6 +45943,15 @@
     "created_at": "02:49:49 06/30/2025"
   },
   {
+    "title": "AI 3D Model",
+    "name": "AI 3D Model",
+    "description": "AI 3D Model turns text prompts, single photos, or multi-view shots into production-ready 3D models — then lets you texture, retopologize, split, and auto-rig them without ever opening Blender. Over 500,000 creators have generated more than 1,000,000 models. Free to start, no credit card.",
+    "website": "https://ai3dmodel.app",
+    "categories": "AI 3D Model Generator, Image to 3D Model, Text to 3D",
+    "slug": "ai-3d-model",
+    "created_at": "14:23:50 08/08/2026"
+  },
+  {
     "title": "Blinkist",
     "name": "Blinkist",
     "description": "Key insights from top nonfiction books & podcasts in 15 minutes.",
@@ -45941,6 +46148,15 @@
     "categories": "AI Sales Assistant, AI Sales, AI Coaching, AI Agent, AI Roleplay",
     "slug": "salestable-ai",
     "created_at": "14:12:40 09/16/2025"
+  },
+  {
+    "title": "Runlo",
+    "name": "Runlo",
+    "description": "AI marketing agents for B2B SaaS distribution, content, SEO, and lead generation",
+    "website": "https://tryrunlo.com",
+    "categories": "AI Marketing, AI Lead Generation, AI Agent, AI SEO Tools, AI Social Media",
+    "slug": "runlo",
+    "created_at": "14:23:50 08/08/2026"
   },
   {
     "title": "Veo 3.1",
