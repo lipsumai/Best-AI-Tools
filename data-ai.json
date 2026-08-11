@@ -2061,6 +2061,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "FutureSearch",
+    "name": "FutureSearch",
+    "description": "AI forecasting platform for evidence-backed probability, date, numeric, and decision predictions",
+    "website": "https://futuresearch.ai",
+    "categories": "AI Predictions, AI Research Tool, AI API, AI Investing",
+    "slug": "futuresearch",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "SiliconFlow",
     "name": "SiliconFlow",
     "description": "Lightning-fast AI platform for developers. Deploy, fine-tune, and run 200+ optimized LLMs and multimodal models with simple APIs",
@@ -5184,6 +5193,15 @@
     "created_at": "14:12:18 11/07/2025"
   },
   {
+    "title": "LeadPatrol",
+    "name": "LeadPatrol",
+    "description": "LeadPatrol is an AI missed call recovery platform that automatically texts callers when a business misses a phone call. It helps local service companies capture leads, answer common questions, qualify prospects, and notify staff so more inquiries turn into booked jobs.",
+    "website": "https://getleadpatrol.com",
+    "categories": "AI Sales Assistant, AI Customer Service, AI Assistant",
+    "slug": "leadpatrol",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "FreeAI-Image.com",
     "name": "FreeAI-Image.com",
     "description": "Create stunning images for free with FreeAI-Image.com's Stable Diffusion AI image generator.",
@@ -5965,6 +5983,15 @@
     "categories": "AI Video Generator, AI Animated Video, AI Avatar Video Generator, AI Cartoon Video Generator, AI Short Video Generator, AI Tiktok Video Generator, AI UGC Video Generator, AI Video Editor, AI Video Upscaler, AI Youtube Video Maker, Image to Video, Text to Video",
     "slug": "koox-ai",
     "created_at": "14:13:57 10/22/2025"
+  },
+  {
+    "title": "Visual Studio Code",
+    "name": "VS Code",
+    "description": "Free AI code editor for building, debugging, and managing software projects",
+    "website": "https://code.visualstudio.com",
+    "categories": "AI Code Assistant, AI Agent, AI Developer Tools, AI Copilot",
+    "slug": "vs-code",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "MonoDesk",
@@ -7812,6 +7839,15 @@
     "created_at": "03:26:24 03/20/2026"
   },
   {
+    "title": "ObjectRemover",
+    "name": "ObjectRemover",
+    "description": "AI tool for removing unwanted objects from videos and photos",
+    "website": "https://objectremover.video",
+    "categories": "Object Remover AI, AI Eraser, AI Inpainting",
+    "slug": "objectremover",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "qoop.ai",
     "name": "qoop.ai",
     "description": "AI assistant for scheduling and task management.",
@@ -8442,6 +8478,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Grok Image 2.0",
+    "name": "Grok Image 2.0",
+    "description": "AI image generator for photorealistic creation and editing",
+    "website": "https://grokimage2.com",
+    "categories": "AI Image Generator, Text to Image, Image to Image, AI Background Remover, AI Inpainting",
+    "slug": "grok-image-2-0",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "ParrotsCage",
     "name": "ParrotsCage",
     "description": "ParrotsCage uses A.I. to give feedback on journal entries for improved well-being.",
@@ -9025,6 +9070,15 @@
     "categories": "AI Video Generator, AI Image Generator, Image to Image, Text to Image, AI Song Generator, AI Voice Cloning, AI Social Media Post Generator, AI Avatar Video Generator, AI Cartoon Video Generator, AI Short Video Generator, Image to Video, Text to Video, Video to Video, AI Marketing",
     "slug": "crevid-ai",
     "created_at": "02:54:17 01/15/2026"
+  },
+  {
+    "title": "ShowIn AI",
+    "name": "ShowIn AI",
+    "description": "GEO platform for tracking and improving brand visibility in AI search",
+    "website": "https://showin.ai",
+    "categories": "AI SEO Tools, AI Marketing, AI Blog Generator, AI Writing",
+    "slug": "showin-ai",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "Voltmailer",
@@ -9846,6 +9900,15 @@
     "created_at": "03:59:04 08/06/2026"
   },
   {
+    "title": "Reez",
+    "name": "Reez",
+    "description": "Match, chat, and build real connections.",
+    "website": "https://reez.app",
+    "categories": "AI Girlfriend, AI Chatbot",
+    "slug": "reez",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "Aseto",
     "name": "Voice AI Agents",
     "description": "Custom AI Voice Agents for complex business communication.",
@@ -10582,6 +10645,15 @@
     "categories": "AI Agent, AI Sales Assistant, AI Marketing, AI CRM",
     "slug": "nrev",
     "created_at": "15:14:35 05/08/2026"
+  },
+  {
+    "title": "AI Music Video Generator",
+    "name": "AI Music Video Generator - so",
+    "description": "Turn a Suno song into a music video with beat-synced auto-editing.",
+    "website": "https://aivideogenerator.so",
+    "categories": "AI Music Video Generator",
+    "slug": "ai-music-video-generator-so",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "Hyperfeed.ai",
@@ -11824,6 +11896,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Image to Image, Text to Image",
     "slug": "gempix2-ai-free-google-gempix-2-for-ai-image-generation-photo-editor",
     "created_at": "02:20:22 11/08/2025"
+  },
+  {
+    "title": "ArchVizr",
+    "name": "ArchVizr",
+    "description": "AI tool for generating consistent photorealistic architectural renderings",
+    "website": "https://www.archvizr.com",
+    "categories": "Image to Image, AI Realistic Image Generator, AI Design Generator, AI Style Transfer, AI Interior Design",
+    "slug": "archvizr",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "AI Emoji",
@@ -14065,6 +14146,15 @@
     "categories": "AI Sports Betting, AI Sports Predictions, AI Sports, AI Predictions",
     "slug": "oddsgpt-ai-odds-analysis-tool",
     "created_at": "14:12:01 09/17/2025"
+  },
+  {
+    "title": "GPT Plus代充 / Pro订阅代充值｜30天质保｜可开发票｜批量采购",
+    "name": "GPT Plus代充 / Pro订阅代充值｜30天质保｜可开发票｜批量采购",
+    "description": "ChatGPT Plus、Pro代充值，正规渠道充值到本人账号，并提供30天质保，支持企业采购服务。充值不成功5分钟内退款。",
+    "website": "https://www.getplus.ai",
+    "categories": "AI Github, AI Chat Generator",
+    "slug": "gpt-plus代充-pro订阅代充值-30天质保-可开发票-批量采购",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "EzUGC",
@@ -16378,6 +16468,15 @@
     "categories": "AI Product Manager, AI Assistant, AI Research Tool, AI Knowledge Base, AI Productivity Tools, AI Transcriber, AI Summarizer",
     "slug": "prodely",
     "created_at": "14:13:39 12/26/2025"
+  },
+  {
+    "title": "HighGround",
+    "name": "HighGround",
+    "description": "AI WordPress plugin for automated content creation, optimization, and publishing",
+    "website": "https://highground.ai",
+    "categories": "AI Blog Generator, AI SEO Tools, AI Writing, AI Copywriting, AI Code Generator",
+    "slug": "highground",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "GPT Image 2 - AI Image Editor & Generator",
@@ -23868,6 +23967,15 @@
     "created_at": "14:12:51 06/30/2025"
   },
   {
+    "title": "Kuca AI",
+    "name": "Kuca AI",
+    "description": "Multi-model AI workspace for cinematic video and image generation",
+    "website": "https://kuca.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator, AI Movie Generator, Script To Video AI Generator",
+    "slug": "kuca-ai",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "SigmaNote",
     "name": "SigmaNote - your second brain",
     "description": "AI-powered tool turning files/links into editable, searchable notes.",
@@ -24235,6 +24343,15 @@
     "categories": "AI Image Generator, Text to Image, AI Photo Editor",
     "slug": "qwen-image",
     "created_at": "03:00:39 08/05/2025"
+  },
+  {
+    "title": "app0.ai",
+    "name": "app0.ai",
+    "description": "AI app builder for creating full-stack products from natural-language descriptions",
+    "website": "https://app0.ai",
+    "categories": "AI App Builder, No-Code&Low-Code, AI Code Generator, AI Developer Tools",
+    "slug": "app0-ai",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "Hablo.pro",
@@ -25443,6 +25560,15 @@
     "created_at": "14:12:08 05/09/2025"
   },
   {
+    "title": "Cheater Buster",
+    "name": "Cheater Buster",
+    "description": "Searches public dating profiles and online footprints for potential matches.",
+    "website": "https://www.cheaterbuster.id",
+    "categories": "Other",
+    "slug": "cheater-buster",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "Fableoo",
     "name": "Fableoo",
     "description": "AI-powered interactive storytelling for kids to develop creativity and tech literacy.",
@@ -26332,6 +26458,15 @@
     "categories": "AI Photo Editor, Image to Image, AI Image Enhancer, AI Image Upscaler, Object Remover AI, AI Background Remover, AI Inpainting",
     "slug": "gpt-image-1-5",
     "created_at": "14:15:03 12/17/2025"
+  },
+  {
+    "title": "Pixwith AI",
+    "name": "Pixwith AI",
+    "description": "AI platform for generating videos from text and images",
+    "website": "https://video-generator.ai",
+    "categories": "AI Video Generator, Text to Video, Image to Video, AI Short Video Generator",
+    "slug": "pixwith-ai",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "Leaves - Life Stories",
@@ -27853,6 +27988,15 @@
     "categories": "AI Image Generator, AI Photo Editor, Text to Image, AI Art Generator, Image to 3D Model, AI Background Remover, Storyboard AI",
     "slug": "nanobanana-ai",
     "created_at": "02:26:10 11/20/2025"
+  },
+  {
+    "title": "Try Minimax H3",
+    "name": "Try Minimax H3",
+    "description": "AI video generator for native 2K videos with synchronized audio",
+    "website": "https://tryh3.com",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "try-minimax-h3",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "MailTester.Ninja",
@@ -31230,6 +31374,15 @@
     "created_at": "14:12:47 05/26/2025"
   },
   {
+    "title": "FloorAI",
+    "name": "FloorAI",
+    "description": "AI tool for generating and editing floor plans from sketches, images, PDFs, or text.",
+    "website": "https://www.floorai.ai",
+    "categories": "AI Floor Plan Generator",
+    "slug": "floorai",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "CuriosityXR",
     "name": "CuriosityXR",
     "description": "Educational platform using mixed reality and AI for active learning.",
@@ -34323,6 +34476,15 @@
     "categories": "AI Copilot, AI Code Assistant, AI Developer Tools, No-Code&Low-Code, AI Website Builder",
     "slug": "phion-dev",
     "created_at": "14:12:51 06/30/2025"
+  },
+  {
+    "title": "Patternful AI",
+    "name": "Patternful AI",
+    "description": "AI platform for generating and editing images, videos, patterns, and marketing content",
+    "website": "https://patternful.ai",
+    "categories": "AI Image Generator, AI Video Generator, AI Image Upscaler, AI Background Remover, AI Pattern Generator, AI Mockup Generator, AI Product Photography, AI Vector Graphics",
+    "slug": "patternful-ai",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "DocMonster.ai",
@@ -37591,6 +37753,15 @@
     "created_at": "14:17:22 01/07/2026"
   },
   {
+    "title": "Formpost",
+    "name": "Formpost",
+    "description": "Contact Form to Email API",
+    "website": "https://formpost.ai",
+    "categories": "No-Code&Low-Code, AI Email Marketing, AI Workflow, AI Reply, Other",
+    "slug": "formpost",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "Better AI Code",
     "name": "Better AI Code",
     "description": "A coding tool for generating and enhancing AI prompts.",
@@ -37688,6 +37859,15 @@
     "categories": "AI App Builder, AI Website Builder, AI Agent, No-Code&Low-Code, AI Code Generator",
     "slug": "anything",
     "created_at": "14:12:36 08/19/2025"
+  },
+  {
+    "title": "AISnapEdit",
+    "name": "AISnapEdit",
+    "description": "AISnapEdit is an all-in-one AI creation platform for generating images, videos, music, and voice with curated models and one shared credit balance.",
+    "website": "https://aisnapedit.com",
+    "categories": "AI Image Generator, AI Music Generator, AI Text-to-Music, AI Voice Generator, AI Video Generator",
+    "slug": "aisnapedit",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "Seedance 2 Video Generator",
@@ -42478,6 +42658,15 @@
     "created_at": "14:13:14 05/12/2025"
   },
   {
+    "title": "Orla",
+    "name": "Orla",
+    "description": "Banks, exchanges, wallets. One budget.",
+    "website": "https://orla.finance",
+    "categories": "AI Accounting",
+    "slug": "orla",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "nano banana",
     "name": "nano-banana",
     "description": "Ultra-fast AI image editor with precise local control and multi-image fusion.",
@@ -42503,6 +42692,15 @@
     "categories": "AI Assistant, AI Agent, AI Productivity Tools, AI Developer Tools",
     "slug": "openclaw-1-1",
     "created_at": "03:43:43 02/11/2026"
+  },
+  {
+    "title": "My Marketing Studio.ai",
+    "name": "My Marketing Studio.ai",
+    "description": "Marketing command center for orchestrating tools, teams, approvals, reporting, and client delivery",
+    "website": "https://mymarketingstudio.ai",
+    "categories": "AI Marketing, AI Workflow, AI CRM, AI Project Management, AI Social Media",
+    "slug": "my-marketing-studio-ai",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "AppDeploy",
@@ -43549,6 +43747,15 @@
     "created_at": "14:36:33 02/16/2026"
   },
   {
+    "title": "CZGPT",
+    "name": "CZGPT",
+    "description": "AI subscription payment service — activate ChatGPT Plus, Claude Pro, Codex and more with Alipay or WeChat Pay in minutes.",
+    "website": "https://www.czgptai.com",
+    "categories": "Other",
+    "slug": "czgpt",
+    "created_at": "03:00:28 08/11/2026"
+  },
+  {
     "title": "Apex",
     "name": "Apex -1",
     "description": "Apex is a personal AI agent that runs 24/7 on a dedicated server — handling email, automations, and business operations without you having to ask. Not a chatbot. Infrastructure.",
@@ -44438,6 +44645,15 @@
     "categories": "AI Recruiting",
     "slug": "apply",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Graded Prompts",
+    "name": "Graded Prompts",
+    "description": "Describe what you're trying to make in plain English and Graded Prompts' AI search finds the prompt that makes it. Every prompt is run on its real model by a human reviewer before sale. 26 models, free options, paid from $2.99, perpetual commercial license, subscription plans available.",
+    "website": "https://www.gradedprompts.com",
+    "categories": "Prompt Engineering, AI Text Generator, Image to Image, Text to Image, AI Logo Generator, AI Digital Marketing, Other",
+    "slug": "graded-prompts",
+    "created_at": "03:00:28 08/11/2026"
   },
   {
     "title": "AI Newsletter Generator",
