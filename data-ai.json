@@ -657,6 +657,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "grok bot",
+    "name": "grok bot",
+    "description": "Independent guide to Grok Bot beta access, capabilities, and pricing",
+    "website": "https://grok-bot.org",
+    "categories": "AI Agent, AI Workflow, AI Assistant",
+    "slug": "grok-bot",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "AptiBuild AI",
     "name": "AptiBuild AI",
     "description": "Turn your hidden talents into profitable app ideas. I'm a nonprofit CEO (26 years) who taught herself to code last month to work on real life problems. I kept seeing people (fantastic volunteers) undervalue their unique skills, so I built AptiBuild AI to help.  You fill out a quick questionnaire about your professional background, hobbies, volunteer work, languages, and even your \"oddball\" skills. The AI finds unexpected connections between them and generates personalized app/business ideas with market analysis.",
@@ -916,6 +925,15 @@
     "categories": "AI Product Description Generator, AI Chatbot, AI Customer Service Assistant, Large Language Models (LLMs)",
     "slug": "quezzies",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Aldena",
+    "name": "aldena",
+    "description": "AI workforce platform for managing teams of specialized agents",
+    "website": "https://aldena.ai",
+    "categories": "AI Agent, AI Workflow, AI Project Management, AI Productivity Tools",
+    "slug": "aldena",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Demi AI",
@@ -1627,6 +1645,15 @@
     "categories": "Research Tool, AI Advertising Assistant, AI Interview Assistant, Large Language Models (LLMs)",
     "slug": "ask-by-validly",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Renoise AI",
+    "name": "Renoise",
+    "description": "All-in-one AI platform for creating, editing, and enhancing videos, images, and audio",
+    "website": "https://renoise.ai",
+    "categories": "AI Video Generator, AI Image Generator, AI Ad Creative, AI Video Upscaler, AI Agent, AI Image Enhancer",
+    "slug": "renoise",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "DAIVIO",
@@ -2736,6 +2763,15 @@
     "created_at": "14:13:07 11/14/2025"
   },
   {
+    "title": "Tracetify",
+    "name": "Tracetify",
+    "description": "Competitor research platform for tracing startup origins, growth, and repeatable strategies",
+    "website": "https://tracetify.com",
+    "categories": "AI Research Tool, AI Marketing, AI Data Mining, AI SEO Tools",
+    "slug": "tracetify",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "Hailo",
     "name": "Hailo AI",
     "description": "Breakthrough AI processors for high-performance deep learning on edge devices.",
@@ -2959,6 +2995,15 @@
     "categories": "AI Landing Page Builder, AI Website Builder, AI Video Editor, Photo & Image Editor, No-Code&Low-Code, AI Social Media Assistant, AI Chatbot, AI Website Designer, AI Project Management, AI CRM Assistant, AI Team Collaboration, AI Task Management, AI Workflow Management, AI Customer Service Assistant, AI Instagram Assistant, AI Twitter Assistant, AI Facebook Assistant, AI Productivity Tools, AI Lead Generation",
     "slug": "smaas",
     "created_at": "14:11:45 04/02/2025"
+  },
+  {
+    "title": "Skaftor",
+    "name": "skaftor",
+    "description": "AI-native platform for orchestrating governed software delivery",
+    "website": "https://skaftor.com",
+    "categories": "AI Workflow, AI Agent, AI Developer Tools, AI Project Management, AI Knowledge Graph, AI Code Generator",
+    "slug": "skaftor",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Relumi",
@@ -3267,6 +3312,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "VideoAny Poland",
+    "name": "VideoAny Poland",
+    "description": "AI studio for generating videos, images, audio, avatars, and creative content",
+    "website": "https://videoany.pl",
+    "categories": "AI Video Generator, Image to Video, Text to Video, AI Image Generator, AI Music Generator, AI Face Swap Video, AI Voice Cloning",
+    "slug": "videoany-poland",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "Radal",
     "name": "Radal",
     "description": "No-code platform for fine-tuning small language models.",
@@ -3454,6 +3508,15 @@
     "categories": "AI Course, AI Code Assistant, AI Code Generator",
     "slug": "codefriends-learning-platform",
     "created_at": "14:12:51 06/30/2025"
+  },
+  {
+    "title": "BetterClaw",
+    "name": "BetterClaw",
+    "description": "No-code platform for deploying scheduled AI agents without infrastructure management",
+    "website": "https://www.betterclaw.io",
+    "categories": "AI Agent, No-Code&Low-Code, AI Workflow",
+    "slug": "betterclaw",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "NanoBananaAPI.ai",
@@ -6669,6 +6732,15 @@
     "created_at": "02:49:46 12/26/2025"
   },
   {
+    "title": "Scape",
+    "name": "Scape",
+    "description": "A macOS workspace for orchestrating parallel AI coding agents and automating development workflows.",
+    "website": "https://www.scape.work",
+    "categories": "AI Agent, AI Workflow, AI Developer Tools, AI Code Assistant, AI Productivity Tools",
+    "slug": "scape",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "Binko Chat",
     "name": "Binko Chat",
     "description": "Break language barriers with AI-powered translation.",
@@ -8575,6 +8647,15 @@
     "categories": "AI Jobs, AI Recruiting, AI Assistant",
     "slug": "skyworker",
     "created_at": "14:12:33 07/08/2025"
+  },
+  {
+    "title": "Synapse",
+    "name": "Synapse Social",
+    "description": "All-in-one social media cross-posting, scheduling, and design platform",
+    "website": "https://withsynapse.app",
+    "categories": "AI Social Media, AI Scheduling, AI Caption Generator, AI Social Media Post Generator",
+    "slug": "synapse-social",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "China University Admission Assistant",
@@ -10834,6 +10915,15 @@
     "categories": "AI Agent, AI Workflow, AI Knowledge Base, No-Code&Low-Code",
     "slug": "leapility",
     "created_at": "02:49:08 12/16/2025"
+  },
+  {
+    "title": "ProjectDiscovery Neo",
+    "name": "ProjectDiscovery | Neo",
+    "description": "AI security platform for continuous testing, attack surface management, and vulnerability validation",
+    "website": "https://projectdiscovery.io",
+    "categories": "AI Testing, AI Agent, AI Developer Tools",
+    "slug": "projectdiscovery-neo",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Nano Banana Pro",
@@ -13131,6 +13221,15 @@
     "created_at": "02:44:24 08/09/2025"
   },
   {
+    "title": "LiveFaceSwap AI",
+    "name": "LiveFaceSwap AI",
+    "description": "LiveFaceSwap AI is a real-time AI face swap platform for webcams, live streaming, and video calls. Try Live Face Swap, Live Try-On, and Live Restyle directly in your browser with no installation, or use the Desktop app as a virtual camera for OBS and compatible meeting and streaming software. AI processing runs in the cloud, so no powerful local GPU or model download is required, with real-time output at under 500 ms latency. LiveFaceSwap Desktop supports Windows, with macOS in Early Access; iOS and Android apps are in development.",
+    "website": "https://livefaceswap.ai",
+    "categories": "AI Face Swap Generator, AI Avatar Video Generator, AI Face Swap Video, AI Vtuber",
+    "slug": "livefaceswap-ai",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "WayinVideo",
     "name": "WayinVideo",
     "description": "All-in-one AI video platform for create viral video clips.",
@@ -14596,6 +14695,15 @@
     "categories": "AI Customer Service Assistant, AI Lead Generation, AI Chatbot, AI Forms & Surveys, Sales Assistant, E-commerce Assistant, AI Product Description Generator, AI Instagram Assistant, AI Facebook Assistant",
     "slug": "chatblu",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "DeskFerry",
+    "name": "DeskFerry",
+    "description": "No-code platform for building AI employees and automating business workflows",
+    "website": "https://deskferry.com",
+    "categories": "AI Agent, AI Workflow, No-Code&Low-Code, AI Productivity Tools",
+    "slug": "deskferry",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Jungle",
@@ -16218,6 +16326,15 @@
     "created_at": "03:45:46 03/27/2026"
   },
   {
+    "title": "YinsoAI",
+    "name": "YinsoAI",
+    "description": "Yinshu AI is the world’s first AI music community, turning ideas, stories, and emotions into music made to be heard, shared, and used.",
+    "website": "https://yinso.ai",
+    "categories": "AI Music Generator, AI Beat Generator, AI Instrumental Generator, AI Lyrics Generator, AI Melody Generator, AI Midi Generator, AI Rap Generator, AI Rap Lyrics Generator, AI Singing Generator, AI Song Cover, AI Song Generator, AI Song Remixer, AI Sound Effect Generator, AI Splitter, AI Stems Splitter, AI Text-to-Music",
+    "slug": "yinsoai",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "SnapVault",
     "name": "Snapvault",
     "description": "Build knowledge base with snapshots",
@@ -16891,6 +17008,15 @@
     "categories": "AI Music Generator, AI Voice Changer, Text-to-Music, AI Singing Generator",
     "slug": "singify",
     "created_at": "14:12:27 04/08/2025"
+  },
+  {
+    "title": "Gandr",
+    "name": "Gandr",
+    "description": "Unlimited text-to-speech and voice cloning priced per concurrent stream.",
+    "website": "https://gandr.ai",
+    "categories": "AI Text-to-Speech, AI Voice Cloning, AI Voice Generator, AI Voice Over",
+    "slug": "gandr",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Overlap-",
@@ -20412,6 +20538,15 @@
     "created_at": "14:13:00 11/05/2025"
   },
   {
+    "title": "Cactal",
+    "name": "Cactal",
+    "description": "Agent-native platform for building, hosting, and operating websites",
+    "website": "https://cactal.ai",
+    "categories": "AI Website Builder, AI API, AI Agent, AI Website Designer",
+    "slug": "cactal",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "Social Intents",
     "name": "Social Intents",
     "description": "Meet the #1 AI-Powered Live Chat and Website Chatbot backed by your Team in Slack, Microsoft Teams, and Google Chat.",
@@ -20950,6 +21085,15 @@
     "categories": "AI App Builder, AI Website Builder, No-Code&Low-Code, AI Game Generator",
     "slug": "instance",
     "created_at": "14:11:17 06/11/2025"
+  },
+  {
+    "title": "Mascofast",
+    "name": "Mascofast — AI Mascot Generator",
+    "description": "AI platform for creating and animating custom mascots",
+    "website": "https://mascofast.com",
+    "categories": "AI Character, AI Animation Generator, AI Animated Video",
+    "slug": "mascofast-ai-mascot-generator",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Velin",
@@ -22795,6 +22939,15 @@
     "categories": "AI Image Generator, Image to Image, AI Logo Generator, AI Poster Generator, AI Character",
     "slug": "chatgpt-image-2-0",
     "created_at": "15:52:18 04/29/2026"
+  },
+  {
+    "title": "image mcp server",
+    "name": "image mcp server",
+    "description": "Unified MCP server for AI image generation, editing, and enhancement",
+    "website": "https://www.imagemcpserver.com",
+    "categories": "AI Image Generator, AI API, AI Agent, AI Inpainting, AI Background Remover, AI Image Upscaler, AI Photo Editor",
+    "slug": "image-mcp-server",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "AI Flowchart Generator",
@@ -27970,6 +28123,15 @@
     "categories": "AI Analytics Assistant, AI Productivity Tools, E-commerce Assistant",
     "slug": "nifty-ai",
     "created_at": "14:12:23 04/22/2025"
+  },
+  {
+    "title": "Checkie-AI",
+    "name": "Checkie-AI",
+    "description": "AI-powered risk checker for contracts, freelance gigs, dating profiles and screenshots, highlighting red flags and suspicious details in seconds.",
+    "website": "https://checkie-ai.com",
+    "categories": "AI Contract Review, AI Image Scanning, AI Checker, AI Image Detector, AI Legal Assistant, AI Scanner",
+    "slug": "checkie-ai",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Podmob",
@@ -33470,6 +33632,15 @@
     "created_at": "14:12:53 09/03/2025"
   },
   {
+    "title": "Qrmkr.io",
+    "name": "Qrmkr.io",
+    "description": "Create permanent or editable QR codes with analytics, branding, AI art, and animation.",
+    "website": "https://qrmkr.io",
+    "categories": "AI QR Code Generator, AI Art Generator",
+    "slug": "qrmkr-io",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "DetectMy",
     "name": "DetectMy",
     "description": "Free AI detector with sentence-level checks, explanations, and no sign-up needed.",
@@ -34341,6 +34512,15 @@
     "categories": "AI Photo Editor, AI Image Upscaler, AI Photo Enhancer, AI Photo Filter, AI Photo Restoration",
     "slug": "nano-banana",
     "created_at": "14:12:44 08/15/2025"
+  },
+  {
+    "title": "Lab Laps",
+    "name": "Lab Laps",
+    "description": "All-in-one lab app for protocols, timers, calculators, and AI counting",
+    "website": "https://www.lablaps.com",
+    "categories": "AI Image Recognition, AI Image Scanning",
+    "slug": "lab-laps",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "WriteSmith",
@@ -43117,6 +43297,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "Shyne",
+    "name": "Shyne",
+    "description": "Collaborative AI canvas for creating and publishing branded content",
+    "website": "https://www.shyne.ai",
+    "categories": "AI Design Assistant, AI Design Generator, AI Presentation Generator, AI Video Generator, AI Website Designer, AI Social Media Post Generator",
+    "slug": "shyne",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "Wraith Docs",
     "name": "Wraith Docs",
     "description": "Wraith Docs is an AI assistant for Google Docs, providing AI tools for faster and more effective document writing and editing.",
@@ -43556,6 +43745,15 @@
     "categories": "AI Productivity Tools",
     "slug": "backlsh-time-tracking",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Project Vike",
+    "name": "Project Vike",
+    "description": "Free AI coding platform funded by optional rewarded ads",
+    "website": "https://project.vike.in",
+    "categories": "AI Code Assistant, AI Models, Open Source AI Models, AI Developer Tools",
+    "slug": "project-vike",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Omakase Voice AI",
@@ -45889,6 +46087,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "SiftQ",
+    "name": "SiftQ",
+    "description": "SiftQ is an AI video generation platform powered by MiniMax H3, offering high-quality 2K and 768p video generation at up to 81% lower pricing than MiniMax's official rates.",
+    "website": "https://siftq.com",
+    "categories": "AI Video Generator, AI Video Editor, Image to Video, Text to Video",
+    "slug": "siftq",
+    "created_at": "14:50:55 08/12/2026"
+  },
+  {
     "title": "Finned-tech",
     "name": "Finned",
     "description": "Finned-tech collects and analyzes industry data to empower informed decisions in finance and sports betting.",
@@ -46607,6 +46814,15 @@
     "categories": "AI Tattoo Generator, AI Caption Generator, AI Avatar Generator, AI Expand Image, AI Headshot Generator, Image to Image, Text to Image, AI Anime Art, Fashion AI",
     "slug": "aitattoo-art",
     "created_at": "14:11:21 12/06/2025"
+  },
+  {
+    "title": "Boson AI",
+    "name": "Boson AI",
+    "description": "Voice AI agents and audio models for business workflows",
+    "website": "https://www.boson.ai",
+    "categories": "AI Voice Assistants, AI Text-to-Speech, AI API, AI Avatar Video Generator",
+    "slug": "boson-ai",
+    "created_at": "14:50:55 08/12/2026"
   },
   {
     "title": "Jorpex",
