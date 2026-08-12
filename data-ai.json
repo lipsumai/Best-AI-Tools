@@ -1611,6 +1611,15 @@
     "created_at": "14:12:02 04/30/2025"
   },
   {
+    "title": "gamedai",
+    "name": "gamedai",
+    "description": "Fantasy football app combining live NFL audio, AI roster advice, news, podcasts, and sports radio.",
+    "website": "https://gamedai.app",
+    "categories": "AI Sports, AI Agent, AI Assistant, AI Podcast, AI Sports Predictions",
+    "slug": "gamedai",
+    "created_at": "03:18:47 08/12/2026"
+  },
+  {
     "title": "Validly",
     "name": "Ask by Validly",
     "description": "Validly is an AI-powered research assistant that conducts user interviews, delivers insights, and ensures data security.",
@@ -4941,6 +4950,15 @@
     "created_at": "19:52:20 04/01/2025"
   },
   {
+    "title": "나노바나나 (Nano Banana) 무료 AI 이미지 생성·편집 | WavePix AI",
+    "name": "나노바나나 (Nano Banana) 무료 AI 이미지 생성·편집 | WavePix AI",
+    "description": "AI platform for generating, editing, enhancing, and animating images",
+    "website": "https://wavepix.ai",
+    "categories": "AI Image Generator, Image to Image, AI Video Generator, AI Image Enhancer",
+    "slug": "nano-banana-ai-wavepix-ai",
+    "created_at": "03:18:47 08/12/2026"
+  },
+  {
     "title": "NTRVSTA",
     "name": "NTRVSTA",
     "description": "AI-powered platform for automated, adaptive, and fair live interviews.",
@@ -7209,6 +7227,15 @@
     "created_at": "14:10:45 07/06/2025"
   },
   {
+    "title": "cuzir",
+    "name": "cuzir",
+    "description": "AI workspace for ads, reviews, SEO monitoring, and marketing reports",
+    "website": "https://cuzir.com",
+    "categories": "AI Marketing, AI Advertising, AI SEO Tools, AI Agent, AI Report Generator",
+    "slug": "cuzir",
+    "created_at": "03:18:47 08/12/2026"
+  },
+  {
     "title": "SVGMaker",
     "name": "SVGMaker",
     "description": "SVGMaker is an AI-powered tool that makes creating professional vector graphics fast, simple, and accessible. Whether you’re a designer, developer, crafter, or marketer, it helps you transform ideas into clean, scalable SVGs in just seconds—without installs, steep learning curves, or expensive software.",
@@ -7945,6 +7972,15 @@
     "categories": "AI Chatbot, Legal Assistant",
     "slug": "asklegal-bot",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "SEELE TV",
+    "name": "SEELE TV",
+    "description": "Controllable AI video studio for cinematic, consistent sequences",
+    "website": "https://seele.tv",
+    "categories": "AI Video Generator, Text to Video, Image to Video",
+    "slug": "seele-tv",
+    "created_at": "03:18:47 08/12/2026"
   },
   {
     "title": "cubic",
@@ -10366,6 +10402,15 @@
     "categories": "AI Image Generator, AI Video Generator, AI Product Photography",
     "slug": "ai-jewelry-model",
     "created_at": "04:16:18 04/20/2026"
+  },
+  {
+    "title": "Hiddle",
+    "name": "Hiddle",
+    "description": "AI editor for creating editable motion-graphic videos through chat",
+    "website": "https://heyhiddle.com",
+    "categories": "AI Video Generator, AI Video Editor, Text to Video, AI Animated Video",
+    "slug": "hiddle",
+    "created_at": "03:18:47 08/12/2026"
   },
   {
     "title": "Tyndall AI",
@@ -13896,6 +13941,15 @@
     "created_at": "14:12:59 08/20/2025"
   },
   {
+    "title": "VisualCraft.ai",
+    "name": "Visualcraft.ai",
+    "description": "AI video platform for lawyers and doctors to educate clients and patients",
+    "website": "https://visualcraft.ai",
+    "categories": "AI Video Generator, AI Marketing, AI Advertising",
+    "slug": "visualcraft-ai",
+    "created_at": "03:18:47 08/12/2026"
+  },
+  {
     "title": "Musicful",
     "name": "Musicful",
     "description": "Leaders in Free Royalty Music AI, crafting innovative generative songs that are copyright-free.",
@@ -15037,6 +15091,15 @@
     "categories": "AI Story Writing, AI Creative Writing",
     "slug": "dreamland-create-kids-stories",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Hezo",
+    "name": "Hezo",
+    "description": "Your own team of AI agents. Built to deliver.",
+    "website": "https://hezo.ai",
+    "categories": "AI Workflow, AI Writing Assistants, AI Tweet Generator, AI Website Builder, No-Code&Low-Code, AI Trip Planner, AI Contract Review",
+    "slug": "hezo",
+    "created_at": "03:18:47 08/12/2026"
   },
   {
     "title": "Casc",
@@ -23868,6 +23931,15 @@
     "created_at": "14:12:59 11/13/2025"
   },
   {
+    "title": "Viralkey",
+    "name": "Viralkey",
+    "description": "Viralkey turns a song, a photo, or both into a multi-shot music video in about three minutes. Pick a motion mode, keep the same face across every cut, and publish to every platform in one click.",
+    "website": "https://viralkey.ai",
+    "categories": "AI Music Video Generator, AI Face Swap Video, AI Reel Generator, AI Short Video Generator, AI Tiktok Video Generator",
+    "slug": "viralkey",
+    "created_at": "03:18:47 08/12/2026"
+  },
+  {
     "title": "InfiniteTalk AI",
     "name": "InfiniteTalk AI",
     "description": "AI-powered audio-driven full-body video dubbing and generation.",
@@ -24388,6 +24460,15 @@
     "categories": "AI Code Assistant, AI Code Generator, Large Language Models (LLMs), Open Source AI Models, AI Developer Tools",
     "slug": "kat-dev",
     "created_at": "14:09:39 10/12/2025"
+  },
+  {
+    "title": "FetchrLy",
+    "name": "FetchrLy 2.0",
+    "description": "AI-powered job search and personalized recruiter outreach automation",
+    "website": "https://fetchrly.co.in",
+    "categories": "AI Email Generator, AI Recruiting, AI Jobs, AI Email Marketing, AI Lead Generation",
+    "slug": "fetchrly-2-0",
+    "created_at": "03:18:47 08/12/2026"
   },
   {
     "title": "ImageCombiner AI",
@@ -41542,6 +41623,15 @@
     "created_at": "14:12:59 06/09/2025"
   },
   {
+    "title": "Kamero",
+    "name": "Kamero - AI Photo Sharing Platform for Events",
+    "description": "AI-powered event photo sharing with face recognition and instant guest access",
+    "website": "https://kamero.ai",
+    "categories": "AI Face Recognition, AI Image Enhancer, AI Background Remover, AI Lead Generation",
+    "slug": "kamero-ai-photo-sharing-platform-for-events",
+    "created_at": "03:18:47 08/12/2026"
+  },
+  {
     "title": "Viyou AI",
     "name": "Viyou AI",
     "description": "Easy-to-use AI video and image generator",
@@ -44375,6 +44465,15 @@
     "categories": "AI Website Builder, Domain Name Generator, AI Search Engine, AI Advertising Assistant",
     "slug": "domainwoohoo",
     "created_at": "19:52:20 04/01/2025"
+  },
+  {
+    "title": "Looops",
+    "name": "Looops",
+    "description": "AI website builder for businesses and portfolios",
+    "website": "https://looops.ai",
+    "categories": "AI Website Builder, AI Website Designer, No-Code&Low-Code, AI Landing Page Builder, AI Code Generator",
+    "slug": "looops",
+    "created_at": "03:18:47 08/12/2026"
   },
   {
     "title": "Topfreeprompts.com",
